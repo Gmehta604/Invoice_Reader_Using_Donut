@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore checkpoints
+checkpoints/
+*.ckpt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore large datasets
+data/
+invoice_data/
