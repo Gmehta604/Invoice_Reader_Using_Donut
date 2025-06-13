@@ -1,0 +1,522 @@
+[
+  {
+    "image": "Template31_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tracy Garcia\n05785 Richard Estates\nNorth Kathy, VI 24546 US\nTel:+(191)531-0873\nEmail:annelopez@example.net\nSite:http://www.clark-gardner.info/",
+      "DATE": "Date: 27-Apr-1993",
+      "NUMBER": "INVOICE # INV29812073",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 411.19  EUR",
+      "TAX": "TAX:VAT (6.63%):  27.27 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 424.07 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dorothy Schmidt\n0961 Phillip Via Apt. 188\nNguyenview, NM 31952 US\nTel:+(484)637-0417\nEmail:michael98@example.org\nSite:https://www.clarke.net/",
+      "DATE": "Invoice Date: 06-Aug-2014",
+      "NUMBER": "INVOICE ID 6123-809",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 462.21  EUR",
+      "TAX": "TAX:VAT (4.01%):  18.52 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 470.56 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Foster\n64256 Miller Ranch Suite 307\nNorth Johnland, DE 14450 US\nTel:+(195)747-7085\nEmail:oscar38@example.com\nSite:http://hughes.info/",
+      "DATE": "Date: 21-Dec-1993",
+      "NUMBER": "INVOICE # 8730-797",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 227.17  USD",
+      "TAX": "TAX:VAT (3.88%):  8.82 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 225.56 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Martin Meyer\n88951 Christensen Crescent\nPort Janeton, FL 79495 US\nTel:+(177)071-9327\nEmail:zparker@example.net\nSite:http://www.collins.info/",
+      "DATE": "Invoice Date: 06-Aug-2003",
+      "NUMBER": "Invoice number INV35854333",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 339.57  $",
+      "TAX": "TAX:VAT (6.38%):  21.65 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 347.09 $"
+    }
+  },
+  {
+    "image": "Template31_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Maureen Galloway\n7374 Alvarez Trafficway Apt. 855\nHartmantown, GU 22169 US\nTel:+(213)677-5584\nEmail:yhopkins@example.org\nSite:http://www.clayton-olson.net/",
+      "DATE": "Invoice Date: 03-Oct-2015",
+      "NUMBER": "INVOICE # INV/86-44/089",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1006.42  EUR",
+      "TAX": "TAX:VAT (4.20%):  42.26 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 998.86 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kenneth Osborne\n8354 Teresa Bypass\nNorth Johnport, ND 04192 US\nTel:+(886)791-4548\nEmail:johnparrish@example.org\nSite:http://wilcox-tran.com/",
+      "DATE": "Date: 15-Aug-1995",
+      "NUMBER": "INVOICE # 0830-615",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1119.46  USD",
+      "TAX": "TAX:VAT (5.08%):  56.92 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1162.16 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Emily Meyers\n54418 William Village Suite 929\nNew Loriland, FM 84404 US\nTel:+(325)772-9218\nEmail:justinsmith@example.org\nSite:https://www.torres.net/",
+      "DATE": "Invoice Date: 12-Oct-2011",
+      "NUMBER": "Invoice number 9Y4M3d-064",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 795.67  $",
+      "TAX": "TAX:VAT (3.82%):  30.42 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 791.64 $"
+    }
+  },
+  {
+    "image": "Template31_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Quinn\n930 Hansen Court\nWest Angelaborough, RI 96189 US\nTel:+(470)014-8129\nEmail:michaeljensen@example.net\nSite:http://www.palmer.info/",
+      "DATE": "Date: 23-Jul-2005",
+      "NUMBER": "INVOICE ID 2603-148",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1267.89  $",
+      "TAX": "TAX:VAT (5.26%):  66.68 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1290.07 $"
+    }
+  },
+  {
+    "image": "Template31_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeremiah House\n03983 Hendricks Hills Suite 685\nPamtown, NE 72861 US\nTel:+(990)927-6805\nEmail:twashington@example.com\nSite:http://www.thomas-peters.com/",
+      "DATE": "Date: 04-Sep-2004",
+      "NUMBER": "Invoice number INV/83-78/175",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1022.28  USD",
+      "TAX": "TAX:VAT (6.09%):  62.30 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1053.50 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kenneth Williams\n7603 Shields Mall Suite 935\nLake Julia, AL 02006 US\nTel:+(621)407-9416\nEmail:melissa61@example.com\nSite:https://gonzalez.info/",
+      "DATE": "Invoice Date: 06-Feb-2007",
+      "NUMBER": "INVOICE # INV35453392",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 650.89  $",
+      "TAX": "TAX:VAT (4.80%):  31.25 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 652.72 $"
+    }
+  },
+  {
+    "image": "Template31_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lori Hunter\n7728 Jones Parkways Apt. 909\nNew Patricia, WY 25899 US\nTel:+(158)386-1216\nEmail:psingh@example.net\nSite:https://clarke.com/",
+      "DATE": "Date: 15-Jun-1999",
+      "NUMBER": "INVOICE ID 2587-784",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 595.91  $",
+      "TAX": "TAX:VAT (4.00%):  23.85 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 609.99 $"
+    }
+  },
+  {
+    "image": "Template31_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Allen Johnson\n43069 Villa Falls Apt. 399\nPort Ashleyton, SC 26322 US\nTel:+(647)727-8769\nEmail:ojames@example.org\nSite:https://underwood.org/",
+      "DATE": "Invoice Date: 16-Feb-2001",
+      "NUMBER": "INVOICE ID 2Y4M6d-139",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 615.39  EUR",
+      "TAX": "TAX:VAT (6.63%):  40.80 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 639.51 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Wright\n4745 Jeffrey Inlet\nWaltersview, KS 60725 US\nTel:+(372)924-0748\nEmail:kblevins@example.net\nSite:http://hall-thomas.com/",
+      "DATE": "Date: 03-Aug-2008",
+      "NUMBER": "Invoice number 9146-179",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 738.46  $",
+      "TAX": "TAX:VAT (4.83%):  35.65 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 747.53 $"
+    }
+  },
+  {
+    "image": "Template31_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Ward\n752 Brian Plaza Apt. 007\nDuranview, CO 33991 US\nTel:+(001)057-6996\nEmail:williamsjack@example.com\nSite:http://cook-miller.com/",
+      "DATE": "Invoice Date: 29-Oct-2001",
+      "NUMBER": "INVOICE # INV78746233",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 587.88  EUR",
+      "TAX": "TAX:VAT (5.86%):  34.45 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 596.58 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Glen Green\n452 Reed Locks\nNew Deborahfurt, ME 62107 US\nTel:+(578)468-3494\nEmail:angela35@example.com\nSite:https://www.diaz.net/",
+      "DATE": "Invoice Date: 03-May-1995",
+      "NUMBER": "INVOICE ID 6662-136",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 434.85  USD",
+      "TAX": "TAX:VAT (4.61%):  20.06 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 448.82 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Hernandez\n50026 Justin Creek Suite 744\nNew Alisha, NY 63127 US\nTel:+(317)856-1008\nEmail:ericlane@example.com\nSite:https://www.schroeder-scott.net/",
+      "DATE": "Date: 05-Jul-2020",
+      "NUMBER": "Invoice number 5Y1M4d-884",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 743.67  EUR",
+      "TAX": "TAX:VAT (6.70%):  49.79 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 761.26 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Pearson\n6140 Chelsea Branch Apt. 365\nLake Katherine, WA 54320 US\nTel:+(528)555-8739\nEmail:odavis@example.com\nSite:http://www.williams.com/",
+      "DATE": "Date: 11-Feb-2011",
+      "NUMBER": "INVOICE ID 9403-962",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 451.66  $",
+      "TAX": "TAX:VAT (4.01%):  18.10 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 451.78 $"
+    }
+  },
+  {
+    "image": "Template31_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Osborne\n27315 Devin Village\nReeseland, AL 03751 US\nTel:+(737)224-0837\nEmail:robertsallen@example.com\nSite:https://berger.com/",
+      "DATE": "Date: 03-Oct-2005",
+      "NUMBER": "INVOICE # 8630-925",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 621.43  $",
+      "TAX": "TAX:VAT (4.47%):  27.80 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 632.08 $"
+    }
+  },
+  {
+    "image": "Template31_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bruce Fuentes\n792 Jessica Well Apt. 901\nDominguezhaven, SD 21546 US\nTel:+(829)525-7699\nEmail:morenojames@example.org\nSite:http://www.mcdonald.com/",
+      "DATE": "Invoice Date: 19-May-2013",
+      "NUMBER": "INVOICE ID 1Y3M8d-240",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 754.02  EUR",
+      "TAX": "TAX:VAT (6.87%):  51.78 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 783.63 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Derrick Mcintyre\n1361 Lauren Wells\nNew Christineberg, MS 32767 US\nTel:+(990)794-0785\nEmail:cannoncarlos@example.net\nSite:https://www.kim.com/",
+      "DATE": "Invoice Date: 19-Oct-2006",
+      "NUMBER": "INVOICE ID INV/69-53/427",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 732.72  EUR",
+      "TAX": "TAX:VAT (5.17%):  37.92 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 742.87 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cody Contreras Jr.\n23920 Amber Pass Suite 891\nKelseyburgh, NC 70850 US\nTel:+(941)462-3030\nEmail:daringomez@example.net\nSite:http://www.mcgee.com/",
+      "DATE": "Date: 20-Jun-1999",
+      "NUMBER": "INVOICE # INV18005149",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 235.24  USD",
+      "TAX": "TAX:VAT (4.08%):  9.59 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 242.29 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Payne\n84285 Gomez Ford\nWest Manuel, MI 68616 US\nTel:+(203)043-5753\nEmail:laurenalexander@example.org\nSite:https://www.thornton-griffith.com/",
+      "DATE": "Date: 03-Feb-2012",
+      "NUMBER": "INVOICE ID 8060-961",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 368.06  USD",
+      "TAX": "TAX:VAT (4.92%):  18.11 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 377.82 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Angela Collins\n1439 Katelyn Extension Apt. 068\nChristopherfurt, UT 41700 US\nTel:+(148)078-4310\nEmail:daniel17@example.org\nSite:http://www.rodgers.com/",
+      "DATE": "Invoice Date: 23-Oct-2005",
+      "NUMBER": "INVOICE # INV82424593",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 220.55  $",
+      "TAX": "TAX:VAT (5.88%):  12.96 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 228.77 $"
+    }
+  },
+  {
+    "image": "Template31_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Edward Mccormick\n7799 Stanley Terrace\nPort Brad, CT 76160 US\nTel:+(926)317-5833\nEmail:scott10@example.com\nSite:http://www.mitchell.com/",
+      "DATE": "Invoice Date: 22-Oct-2005",
+      "NUMBER": "INVOICE ID INV18959418",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 839.00  USD",
+      "TAX": "TAX:VAT (5.05%):  42.40 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 848.26 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Small\n30274 Sally Inlet\nNew Nicole, NY 28904 US\nTel:+(249)120-9412\nEmail:lleonard@example.org\nSite:https://www.gallagher.biz/",
+      "DATE": "Date: 20-Jan-2008",
+      "NUMBER": "Invoice number 1Y6M2d-388",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 536.61  $",
+      "TAX": "TAX:VAT (6.08%):  32.63 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 552.71 $"
+    }
+  },
+  {
+    "image": "Template31_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Olivia Smith\n27251 Haas Mountains\nScottbury, IL 83879 US\nTel:+(039)764-6072\nEmail:tracyjensen@example.org\nSite:https://dean-ross.biz/",
+      "DATE": "Date: 24-Mar-2016",
+      "NUMBER": "INVOICE # 4Y7M3d-482",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 561.68  $",
+      "TAX": "TAX:VAT (6.96%):  39.09 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 583.08 $"
+    }
+  },
+  {
+    "image": "Template31_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexandra Curry\n0763 Mary Overpass Apt. 501\nHernandezmouth, CA 98352 US\nTel:+(834)278-0046\nEmail:emilymedina@example.net\nSite:http://miller.com/",
+      "DATE": "Date: 01-Dec-2014",
+      "NUMBER": "INVOICE # INV/10-79/309",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 301.92  $",
+      "TAX": "TAX:VAT (4.43%):  13.37 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 307.14 $"
+    }
+  },
+  {
+    "image": "Template31_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Donald Horne\n272 Hernandez Corners Apt. 145\nEast April, IN 29824 US\nTel:+(048)188-8294\nEmail:kathleenellis@example.net\nSite:https://www.dean-anderson.biz/",
+      "DATE": "Invoice Date: 25-Nov-2019",
+      "NUMBER": "INVOICE # 1656-786",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 266.70  $",
+      "TAX": "TAX:VAT (3.49%):  9.31 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 262.94 $"
+    }
+  },
+  {
+    "image": "Template31_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rachel Williams\n4478 Krueger Isle\nWest Jeremiah, NJ 53759 US\nTel:+(995)803-9444\nEmail:xdillon@example.org\nSite:https://www.harris.com/",
+      "DATE": "Date: 15-Apr-2006",
+      "NUMBER": "INVOICE ID 3812-921",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 834.62  USD",
+      "TAX": "TAX:VAT (3.48%):  29.02 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 832.17 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Maurice Black\n85510 Logan Manors\nWest Brian, SD 08670 US\nTel:+(485)782-8949\nEmail:tkennedy@example.net\nSite:https://www.patel.com/",
+      "DATE": "Date: 10-Oct-2005",
+      "NUMBER": "Invoice number INV/20-67/500",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1053.72  EUR",
+      "TAX": "TAX:VAT (3.32%):  34.93 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1047.55 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Edward Brandt\n99475 Marie Estate\nLake Scott, OK 66276 US\nTel:+(374)243-7361\nEmail:johnsonphillip@example.com\nSite:http://tyler-sandoval.com/",
+      "DATE": "Invoice Date: 19-Apr-2003",
+      "NUMBER": "INVOICE # INV15261847",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 601.70  EUR",
+      "TAX": "TAX:VAT (5.97%):  35.92 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 624.44 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Peterson\n47034 Mcneil Meadow Suite 974\nMackenziechester, ME 08892 US\nTel:+(175)421-8726\nEmail:jamie39@example.net\nSite:https://lin.com/",
+      "DATE": "Date: 10-Feb-2006",
+      "NUMBER": "Invoice number 1015-395",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 594.49  $",
+      "TAX": "TAX:VAT (6.00%):  35.65 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 610.46 $"
+    }
+  },
+  {
+    "image": "Template31_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anthony Sanders\n4408 Simmons Burg Apt. 908\nKimberlyville, ME 79353 US\nTel:+(709)333-1228\nEmail:michaela47@example.net\nSite:http://hayes-walker.com/",
+      "DATE": "Date: 24-May-2014",
+      "NUMBER": "INVOICE ID 4Y1M4d-723",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 684.53  $",
+      "TAX": "TAX:VAT (4.45%):  30.43 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 681.62 $"
+    }
+  },
+  {
+    "image": "Template31_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patrick Estrada\n544 Lisa Expressway\nNorth Nicole, DE 10894 US\nTel:+(611)986-9460\nEmail:orrchad@example.org\nSite:http://trujillo.com/",
+      "DATE": "Invoice Date: 23-Sep-2000",
+      "NUMBER": "INVOICE # 9Y9M7d-137",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 435.53  $",
+      "TAX": "TAX:VAT (3.99%):  17.38 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 447.20 $"
+    }
+  },
+  {
+    "image": "Template31_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Chad Price\n53530 Randolph Islands\nMarkland, MN 39417 US\nTel:+(139)172-1074\nEmail:vshaw@example.net\nSite:https://www.lopez-marquez.com/",
+      "DATE": "Invoice Date: 06-Sep-2018",
+      "NUMBER": "Invoice number INV/72-00/104",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 99.75  USD",
+      "TAX": "TAX:VAT (4.33%):  4.31 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 102.75 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jenna Clark\n1101 Ross Green\nWest Kyle, WV 08875 US\nTel:+(846)439-4053\nEmail:davislisa@example.org\nSite:https://johnson.com/",
+      "DATE": "Invoice Date: 22-Dec-2011",
+      "NUMBER": "INVOICE ID INV/42-40/749",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 563.01  USD",
+      "TAX": "TAX:VAT (4.68%):  26.32 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 571.31 USD"
+    }
+  },
+  {
+    "image": "Template31_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tiffany Banks\n690 Jones Greens Suite 885\nNew Billy, WI 77835 US\nTel:+(972)635-7310\nEmail:james64@example.net\nSite:https://gomez.com/",
+      "DATE": "Invoice Date: 01-Apr-2009",
+      "NUMBER": "INVOICE # 3Y1M3d-402",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 345.43  EUR",
+      "TAX": "TAX:VAT (5.59%):  19.32 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 349.17 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Glenda Everett\n335 Brown Roads\nPort Robintown, MH 45046 US\nTel:+(451)884-6459\nEmail:kevinchavez@example.org\nSite:https://wilson-arnold.com/",
+      "DATE": "Invoice Date: 13-Sep-2003",
+      "NUMBER": "Invoice number INV/07-74/350",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 87.29  EUR",
+      "TAX": "TAX:VAT (3.77%):  3.29 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 86.54 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Brown\n8098 Jennifer Plains\nEast Joshua, AS 90837 US\nTel:+(358)943-0911\nEmail:dmcintosh@example.org\nSite:https://richards.com/",
+      "DATE": "Invoice Date: 03-Oct-2005",
+      "NUMBER": "INVOICE # INV57600236",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 851.91  EUR",
+      "TAX": "TAX:VAT (6.36%):  54.22 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 896.08 EUR"
+    }
+  },
+  {
+    "image": "Template31_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Cooke\n30509 Philip Trace\nShannonshire, KS 97130 US\nTel:+(182)955-6648\nEmail:georgemiranda@example.com\nSite:https://www.sandoval.com/",
+      "DATE": "Date: 04-Nov-1993",
+      "NUMBER": "INVOICE ID INV/75-14/936",
+      "SELLER_ADDRESS": "Address:785 Kaiser Circles Suite 840\nWest Johnny, KS 33272 US",
+      "SUB_TOTAL": "SUB_TOTAL : 758.74  EUR",
+      "TAX": "TAX:VAT (3.16%):  23.97 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 764.58 EUR"
+    }
+  }
+]

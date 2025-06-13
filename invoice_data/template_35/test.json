@@ -1,0 +1,602 @@
+[
+  {
+    "image": "Template35_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Lawson\n363 Wilson Mission Apt. 824\nLake Jeremyfurt, NJ 99419 US\nTel:+(345)872-8462\nEmail:leachcarol@example.com\nSite:http://turner-brooks.com/",
+      "DATE": "Invoice Date: 01-Jun-2004",
+      "NUMBER": "INVOICE ID 7Y4M7d-155",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 302.17 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and -\ntwo point one seven",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nDaniel Smith\n4475 Tyler Freeway Apt. 087\nNorth Kennethstad, MN 18004 US\nTel:+(651)469-9520\nEmail:vgomez@example.net\nSite:https://www.henry.org/"
+    }
+  },
+  {
+    "image": "Template35_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Darlene Thompson\n3650 Hamilton Inlet Apt. 708\nWest Shannonside, TX 13698 US\nTel:+(922)807-8728\nEmail:heather97@example.net\nSite:http://www.pierce.com/",
+      "DATE": "Invoice Date: 12-Nov-2012",
+      "NUMBER": "Invoice number INV/97-15/725",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 684.15 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and eight-\ny-four point one five",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nJoshua Black\n438 King Meadow Suite 373\nNew Diana, PA 58539 US\nTel:+(652)924-9282\nEmail:justinwinters@example.net\nSite:https://hernandez.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Derek Soto\n8644 Lindsey Pine Apt. 442\nPort Cindyfort, CA 81791 US\nTel:+(632)531-7236\nEmail:drosales@example.org\nSite:https://www.jones.com/",
+      "DATE": "Date: 20-Mar-2020",
+      "NUMBER": "Invoice number INV/84-36/087",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 735.09 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thir-\nty-five point zero nine",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nNatalie Cherry\n1174 Collins Trace\nAndrewchester, WY 86267 US\nTel:+(017)264-6556\nEmail:meagan51@example.com\nSite:http://terry.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Donna Krause DVM\n04405 Monica Club\nGregoryland, LA 71286 US\nTel:+(569)409-8897\nEmail:victor26@example.com\nSite:http://schmidt.com/",
+      "DATE": "Invoice Date: 07-Feb-2018",
+      "NUMBER": "Invoice number 1094-124",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1063.00 $",
+      "TOTAL_WORDS": "Total in words:  one thousand a-\nnd sixty-three",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nRiley Nguyen\n5409 Boone Overpass\nEast Michelleland, KY 24588 US\nTel:+(775)486-0900\nEmail:robertbrooks@example.com\nSite:http://callahan.net/"
+    }
+  },
+  {
+    "image": "Template35_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Sanders\n6141 Stephens Ferry\nCraigland, NC 92918 US\nTel:+(912)832-8123\nEmail:williamcummings@example.com\nSite:http://kennedy.org/",
+      "DATE": "Date: 12-May-2005",
+      "NUMBER": "INVOICE ID INV/83-89/443",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 780.31 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and ei-\nghty point three one",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nCody Brown\n026 Kelly Tunnel Apt. 248\nEllisborough, KS 90233 US\nTel:+(343)410-5113\nEmail:wendy91@example.org\nSite:http://cohen.net/"
+    }
+  },
+  {
+    "image": "Template35_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kevin Pham Jr.\n4590 Amber Roads\nEwingport, RI 31628 US\nTel:+(416)494-1801\nEmail:alee@example.com\nSite:http://www.long.com/",
+      "DATE": "Date: 15-May-2016",
+      "NUMBER": "INVOICE # INV/26-95/240",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1245.89 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd forty-five point eight nine",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nGregory Harris\n5809 Donald Prairie Apt. 382\nEast Lisamouth, WA 05681 US\nTel:+(450)288-4339\nEmail:brittanypayne@example.com\nSite:https://www.brewer-holland.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Gonzalez\n8694 Madison Street Apt. 655\nSouth Tiffany, SD 87689 US\nTel:+(956)829-1909\nEmail:jonescarol@example.net\nSite:http://martinez-george.com/",
+      "DATE": "Date: 16-May-2021",
+      "NUMBER": "INVOICE ID INV/12-79/549",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 876.98 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and seven-\nty-six point nine eight",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nMichael Graham\n57574 Coleman Crossing\nSteveburgh, WI 85859 US\nTel:+(244)461-9936\nEmail:cooksherry@example.com\nSite:https://www.richardson-haynes.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Madison Oconnell\n4007 Singh Knoll\nJenniferhaven, WY 58419 US\nTel:+(340)819-4625\nEmail:richard43@example.net\nSite:http://www.stevens-hernandez.com/",
+      "DATE": "Date: 17-Aug-1993",
+      "NUMBER": "INVOICE # INV/49-23/559",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 789.66 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eig-\nhty-nine point six six",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nJoseph Lopez\n769 Miller Canyon\nMooreberg, CA 80168 US\nTel:+(731)577-8433\nEmail:zhoward@example.com\nSite:http://price-allen.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Burke\n0092 Chase Mountain Apt. 752\nEast Tonyabury, GA 51566 US\nTel:+(279)754-6538\nEmail:zrosales@example.org\nSite:http://www.tate.org/",
+      "DATE": "Invoice Date: 14-Oct-2020",
+      "NUMBER": "Invoice number INV/57-46/071",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 764.42 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and six-\nty-four point four two",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nSophia Evans\n7418 Mcmillan Turnpike\nSalinastown, DE 07758 US\nTel:+(449)594-7852\nEmail:mcculloughpaul@example.com\nSite:https://www.obrien.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Baxter\n6004 Wilcox Burgs\nSouth Joshuastad, SD 55912 US\nTel:+(682)487-8699\nEmail:hrose@example.com\nSite:http://craig-espinoza.com/",
+      "DATE": "Date: 28-May-2018",
+      "NUMBER": "INVOICE # 9067-093",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1019.01 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and nin-\neteen point zero one",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nRonald Woods\n561 Mary Camp\nCabreraport, SD 44169 US\nTel:+(955)347-4621\nEmail:swalls@example.com\nSite:http://www.espinoza-patel.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jonathan Bauer\n84846 Burton Valley Apt. 749\nMartinberg, DC 00583 US\nTel:+(710)389-3233\nEmail:meltonthomas@example.net\nSite:http://benson.com/",
+      "DATE": "Invoice Date: 11-Sep-2017",
+      "NUMBER": "INVOICE # INV/10-71/399",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1286.45 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd eighty-six point four five",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nTara Martinez\n2203 White Forge Apt. 571\nJeannestad, WI 87054 US\nTel:+(416)006-2702\nEmail:loweryjennifer@example.com\nSite:https://carter-hernandez.net/"
+    }
+  },
+  {
+    "image": "Template35_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Quinn\n754 Weaver Key\nPort Jeremiah, NM 05189 US\nTel:+(913)759-8237\nEmail:qdennis@example.net\nSite:http://www.hodges.com/",
+      "DATE": "Invoice Date: 15-May-2006",
+      "NUMBER": "Invoice number INV77205191",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 248.59 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and forty-\n-eight point five nine",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nDorothy Anderson\n5119 Tina Tunnel\nCarlosland, IN 85471 US\nTel:+(084)453-8770\nEmail:jreyes@example.org\nSite:http://cohen.org/"
+    }
+  },
+  {
+    "image": "Template35_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rodney Jefferson\n572 Stephanie Hollow Apt. 587\nWhitehaven, WV 84738 US\nTel:+(975)079-4567\nEmail:jacksoncaitlin@example.net\nSite:http://miles-cisneros.info/",
+      "DATE": "Date: 08-Apr-2018",
+      "NUMBER": "INVOICE ID INV49310426",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 305.38 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fi-\nve point three eight",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nVeronica Harper\n95789 Lewis Wall Suite 078\nMarystad, UT 20248 US\nTel:+(988)995-8384\nEmail:bbrewer@example.net\nSite:http://www.reed.biz/"
+    }
+  },
+  {
+    "image": "Template35_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dana Mendez\n963 Lori Stravenue\nKennethburgh, ND 87296 US\nTel:+(335)405-8613\nEmail:davidaguilar@example.com\nSite:https://www.rodriguez.com/",
+      "DATE": "Date: 02-Mar-2021",
+      "NUMBER": "INVOICE ID 8063-800",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 186.95 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and eight-\ny-six point nine five",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nGeorge Stone\n18217 Dawn Row Suite 613\nAdamland, OH 70390 US\nTel:+(674)516-3127\nEmail:kdunn@example.org\nSite:https://welch-lowe.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wanda Henderson\n66351 Ryan Course\nAdamsmouth, AS 60752 US\nTel:+(140)381-6075\nEmail:allennicholas@example.com\nSite:http://shelton.com/",
+      "DATE": "Date: 12-Dec-1995",
+      "NUMBER": "Invoice number INV/54-58/625",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 238.46 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-eight point four six",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nJonathan Miller\n691 James Mountain\nSchneiderview, SC 32456 US\nTel:+(235)901-2208\nEmail:shane22@example.org\nSite:http://floyd.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Catherine Elliott\n841 Timothy Freeway Suite 139\nJustinfort, NC 62445 US\nTel:+(919)886-9915\nEmail:megan19@example.net\nSite:http://www.rivers-williamson.com/",
+      "DATE": "Invoice Date: 24-Sep-1997",
+      "NUMBER": "Invoice number INV85276676",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 394.71 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-four point seven one",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nEric Mclaughlin\n95134 Bobby Turnpike Apt. 603\nNorth Jennyshire, AZ 16122 US\nTel:+(109)028-1774\nEmail:sstafford@example.com\nSite:https://www.anderson.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sylvia Graham\n0195 John Lakes Suite 344\nWest Eddietown, NE 55489 US\nTel:+(951)143-0183\nEmail:robertpierce@example.net\nSite:http://www.anderson-norman.info/",
+      "DATE": "Invoice Date: 04-Dec-1998",
+      "NUMBER": "Invoice number INV/16-45/304",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 747.16 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and for-\nty-seven point one six",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nJasmine Willis\n77202 Brown Mill\nHaleyborough, VA 93679 US\nTel:+(429)142-6105\nEmail:richard26@example.org\nSite:http://www.hill.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Mcfarland\n1400 Anita Run Suite 832\nEast Kyle, NC 25437 US\nTel:+(506)253-9748\nEmail:marissa70@example.org\nSite:http://www.roberts.com/",
+      "DATE": "Date: 12-Jan-2018",
+      "NUMBER": "Invoice number INV11637157",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 929.24 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and twen-\nty-nine point two four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nMatthew Green\n204 Kevin Extension\nSouth Cynthiamouth, HI 41785 US\nTel:+(040)529-9210\nEmail:richardsontracy@example.org\nSite:http://www.rowe.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samuel Bradley\n079 Joshua Alley\nEnglishside, WA 47880 US\nTel:+(956)799-6568\nEmail:morenosean@example.net\nSite:http://kennedy.org/",
+      "DATE": "Invoice Date: 16-Feb-2010",
+      "NUMBER": "INVOICE # INV/91-22/111",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 536.59 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and thir-\nty-six point five nine",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nChristopher Harper\n4737 Horn Groves Suite 944\nPerryshire, IA 85404 US\nTel:+(231)236-8545\nEmail:bhobbs@example.org\nSite:http://www.summers.biz/"
+    }
+  },
+  {
+    "image": "Template35_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Randall\n82246 Noble Radial Apt. 887\nJamieberg, NJ 80707 US\nTel:+(579)646-4535\nEmail:ymontes@example.net\nSite:https://townsend-jefferson.com/",
+      "DATE": "Invoice Date: 25-Feb-2011",
+      "NUMBER": "Invoice number 6089-514",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 801.45 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and -\none point four five",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nBradley Kennedy\n480 Green Parkways Suite 121\nLake Tim, VA 21403 US\nTel:+(370)156-3597\nEmail:cameronpage@example.net\nSite:https://www.barajas.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Edward Garcia\n685 Keith Extension\nWest Maryville, MH 34557 US\nTel:+(911)889-8621\nEmail:karen01@example.org\nSite:http://www.patton-rogers.info/",
+      "DATE": "Date: 22-Dec-1997",
+      "NUMBER": "INVOICE ID INV05348262",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 957.40 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fi-\nfty-seven point four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nMaria Johnson\n950 Scott Turnpike\nShannonfurt, PR 46430 US\nTel:+(824)194-5561\nEmail:gonzalezscott@example.net\nSite:http://www.leon-reid.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paul Mccann\n84137 Alvarez Tunnel Suite 402\nMelissaview, MA 97502 US\nTel:+(722)150-7818\nEmail:michelevalenzuela@example.org\nSite:http://west-morgan.com/",
+      "DATE": "Date: 05-Nov-2010",
+      "NUMBER": "INVOICE # 2Y9M3d-616",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 144.49 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-four point four nine",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nMary Brown\n8626 Shea Mews Suite 553\nColeburgh, ND 58471 US\nTel:+(264)331-2765\nEmail:ortiztyler@example.net\nSite:https://morris-harper.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Beth Lee\n164 Joseph Radial Apt. 769\nJenkinsstad, TN 54647 US\nTel:+(642)662-4297\nEmail:elizabethcooper@example.com\nSite:https://www.robinson.biz/",
+      "DATE": "Date: 06-Apr-2011",
+      "NUMBER": "INVOICE ID 2Y9M3d-098",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 662.21 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and six-\nty-two point two one",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nAndrea Olson\n6247 Jordan Summit\nScottberg, AS 62817 US\nTel:+(743)927-5440\nEmail:kelly53@example.org\nSite:http://www.maldonado-smith.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Stanley\n22321 Alyssa Ramp\nChristopherborough, TN 36183 US\nTel:+(188)698-3225\nEmail:crystal51@example.net\nSite:https://short-cannon.com/",
+      "DATE": "Date: 18-Nov-2005",
+      "NUMBER": "INVOICE # INV83008089",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 145.74 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-five point seven four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nBrandon Li\n784 Ayers Light\nPort Lori, MH 11561 US\nTel:+(211)770-8568\nEmail:thomaswebster@example.org\nSite:http://www.howard-moore.biz/"
+    }
+  },
+  {
+    "image": "Template35_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Douglas Fox\n9767 Christopher Avenue\nPort Troy, ME 91223 US\nTel:+(396)591-2642\nEmail:cbrooks@example.org\nSite:http://stokes.com/",
+      "DATE": "Invoice Date: 03-Nov-2001",
+      "NUMBER": "Invoice number 9Y4M4d-703",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 481.13 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-one point one three",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nAndrew Green\n1228 Henry Underpass\nPort Georgeburgh, OK 06473 US\nTel:+(569)220-0584\nEmail:huffmantanya@example.com\nSite:https://www.ellis.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Holly Hanna\n14176 Lowe Greens Apt. 698\nRyanbury, WY 59692 US\nTel:+(892)542-8501\nEmail:joseph16@example.net\nSite:http://www.martinez.info/",
+      "DATE": "Date: 18-Apr-2018",
+      "NUMBER": "Invoice number INV/22-15/152",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 238.06 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-eight point zero six",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nKathy Murphy\n52318 Rodriguez Creek\nSwansonland, FM 65382 US\nTel:+(364)764-9518\nEmail:leonjenna@example.com\nSite:http://www.rodriguez.biz/"
+    }
+  },
+  {
+    "image": "Template35_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Katherine Patrick\n666 Miller Ports\nMaldonadoberg, TN 04285 US\nTel:+(084)736-5819\nEmail:cbutler@example.org\nSite:http://www.esparza-white.biz/",
+      "DATE": "Date: 18-Dec-2011",
+      "NUMBER": "INVOICE ID INV65110428",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 254.52 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fift-\ny-four point five two",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nBrandon Price\n35455 Lawson Center Apt. 672\nEast Mike, KY 05062 US\nTel:+(369)924-3305\nEmail:thomas33@example.net\nSite:https://gardner-meyer.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Darren Russo\n5908 Ashley Ranch Apt. 765\nEast Crystal, AS 54683 US\nTel:+(043)155-8932\nEmail:summersdaniel@example.org\nSite:https://www.elliott.com/",
+      "DATE": "Invoice Date: 03-Sep-1999",
+      "NUMBER": "Invoice number 3707-799",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 343.38 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and forty-\n-three point three eight",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nMelissa Russell\n6171 Holly Squares\nLynchhaven, ME 02762 US\nTel:+(415)277-3702\nEmail:ellisrebecca@example.net\nSite:https://alexander-nguyen.org/"
+    }
+  },
+  {
+    "image": "Template35_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lori Adkins\n528 Mitchell Corners Suite 710\nBrianchester, RI 22739 US\nTel:+(805)558-3286\nEmail:ashleybrown@example.com\nSite:http://www.solomon-ortiz.com/",
+      "DATE": "Invoice Date: 23-Sep-2013",
+      "NUMBER": "Invoice number INV/50-19/665",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 685.07 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and eighty-\n-five point zero seven",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nHeather Williams\n5837 Hunter Vista Suite 937\nLake Michaelhaven, NE 04300 US\nTel:+(751)499-4249\nEmail:wking@example.com\nSite:https://merritt-james.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Mercado\n14507 Robbins Loop Apt. 156\nMatthewton, WA 63333 US\nTel:+(706)982-4355\nEmail:westryan@example.net\nSite:https://www.clark.com/",
+      "DATE": "Invoice Date: 21-Dec-2002",
+      "NUMBER": "INVOICE ID 8Y6M6d-153",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 264.71 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty-\n-four point seven one",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nStephanie Fuentes\n542 Morgan Plains Suite 437\nNorth Stevenland, ME 09635 US\nTel:+(016)021-9860\nEmail:brendaphillips@example.com\nSite:http://delgado.org/"
+    }
+  },
+  {
+    "image": "Template35_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Noah Martin\n4978 Maria Pine\nNorth Williamtown, MA 83915 US\nTel:+(864)408-7129\nEmail:emily35@example.net\nSite:http://www.finley.com/",
+      "DATE": "Date: 18-Oct-1996",
+      "NUMBER": "INVOICE # INV75257970",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1622.28 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, six hundred an-\nd twenty-two point two eight",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nTyler Walker\n844 Bowen Estates Suite 940\nPort Sarah, VI 28832 US\nTel:+(721)593-2283\nEmail:jessica41@example.org\nSite:http://murphy.info/"
+    }
+  },
+  {
+    "image": "Template35_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Damon Sanchez\n70570 Diana Turnpike\nAmyberg, VT 83142 US\nTel:+(183)513-6434\nEmail:kyliemontgomery@example.org\nSite:http://williams.com/",
+      "DATE": "Invoice Date: 23-Jul-1996",
+      "NUMBER": "INVOICE # 9867-528",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 893.80 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nin-\nety-three point eight",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nSue Buck\n801 Arroyo Prairie\nAustinberg, SD 80130 US\nTel:+(931)001-9986\nEmail:youngholly@example.com\nSite:https://howard.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance89.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Louis Morris\n72558 Roberts Locks\nMoorefurt, NJ 54569 US\nTel:+(966)448-6571\nEmail:nataliejackson@example.org\nSite:https://blackburn.com/",
+      "DATE": "Date: 18-Dec-2019",
+      "NUMBER": "Invoice number INV45205714",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 433.89 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirty-\n-three point eight nine",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nCindy Charles\n2129 Alexandria Squares\nAndreaborough, DE 75386 US\nTel:+(997)483-5905\nEmail:williamhamilton@example.org\nSite:http://jones.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ronald Mejia\n1336 Short Centers Apt. 550\nWest Vanessa, IN 96075 US\nTel:+(459)797-6719\nEmail:jennataylor@example.net\nSite:https://gray-hull.info/",
+      "DATE": "Date: 19-Dec-2008",
+      "NUMBER": "INVOICE # 7Y6M4d-946",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 430.84 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and thi-\nrty point eight four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nAlicia Simpson\n3723 Krystal Motorway Suite 158\nKathrynstad, NJ 16748 US\nTel:+(089)942-4043\nEmail:beckyarias@example.com\nSite:http://www.gonzales.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Benjamin Copeland\n4298 Russell Stravenue\nNorth Christopher, OH 20263 US\nTel:+(477)556-8222\nEmail:tzuniga@example.org\nSite:https://carter.com/",
+      "DATE": "Invoice Date: 12-Jul-2004",
+      "NUMBER": "INVOICE ID INV/44-84/154",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 623.21 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-three point two one",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nDiane Sheppard\n38869 Melissa Lakes\nPort Gary, ID 54523 US\nTel:+(299)775-1105\nEmail:eodonnell@example.net\nSite:https://morgan.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandi Snyder\n92785 Bryan Island\nRobbinston, WI 59517 US\nTel:+(563)541-8061\nEmail:jordanbrittany@example.com\nSite:http://www.smith.info/",
+      "DATE": "Date: 25-May-2013",
+      "NUMBER": "Invoice number 5Y6M6d-650",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 855.24 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fif-\nty-five point two four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nJaime Ochoa\n85946 Joshua Wall\nNew Karen, VI 23764 US\nTel:+(131)102-7926\nEmail:jennifer16@example.net\nSite:http://waller.info/"
+    }
+  },
+  {
+    "image": "Template35_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jonathan Mora\n4252 Eddie Garden Apt. 600\nEast Coreyton, CA 00683 US\nTel:+(237)306-8445\nEmail:ricardogalloway@example.org\nSite:https://www.davis.org/",
+      "DATE": "Date: 09-Mar-1997",
+      "NUMBER": "INVOICE ID 4Y3M8d-036",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 705.54 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and f-\nive point five four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nChristopher Thomas\n198 Kennedy Club\nSouth Allison, CO 78015 US\nTel:+(452)807-9122\nEmail:fernandowest@example.net\nSite:http://www.boyle-waller.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bryan Lee\n753 Butler Plains\nLake Susan, NE 06665 US\nTel:+(921)201-5754\nEmail:khanlaura@example.net\nSite:https://burke-richardson.net/",
+      "DATE": "Invoice Date: 14-Feb-2015",
+      "NUMBER": "Invoice number 1697-705",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 874.84 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and seven-\nty-four point eight four",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nIan Miller\n23690 Perry Keys Suite 410\nWest Michael, CO 48513 US\nTel:+(566)870-6686\nEmail:michaelmartin@example.org\nSite:https://kelley-smith.biz/"
+    }
+  },
+  {
+    "image": "Template35_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wendy Smith\n944 Fritz Tunnel\nNorth Thomasfort, PA 17704 US\nTel:+(586)732-3023\nEmail:xlawrence@example.net\nSite:https://www.gonzalez.com/",
+      "DATE": "Invoice Date: 16-Jun-1996",
+      "NUMBER": "Invoice number INV62469765",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 638.37 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and thirty--\neight point three seven",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nCynthia Griffin\n0679 Hill Terrace\nPamchester, TN 83771 US\nTel:+(867)119-3495\nEmail:parkkimberly@example.net\nSite:https://taylor.com/"
+    }
+  },
+  {
+    "image": "Template35_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Benjamin Green\n51667 Lopez Mill Apt. 804\nJamesmouth, MD 82388 US\nTel:+(734)090-6032\nEmail:garciabradley@example.net\nSite:https://taylor.com/",
+      "DATE": "Invoice Date: 13-Mar-2020",
+      "NUMBER": "INVOICE ID 4224-085",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:61959 Fernando Island Apt. 694\nSouth Jessica, CT 86255 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 239.96 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-nine point nine six",
+      "GSTIN": "GSTIN: 20QX0C0C9424D1Z5",
+      "SEND_TO": "SHIP_TO:\nAllen Herrera\n8282 Mccullough Mission\nSandersburgh, AK 76916 US\nTel:+(339)559-7468\nEmail:scottarroyo@example.net\nSite:http://www.warren.org/"
+    }
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template22_Instance128.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Jun-2021",
+      "DISCOUNT": "DISCOUNT(4.69%): (-)  5.33",
+      "DUE_DATE": "Due Date : 03-Oct-1995",
+      "NUMBER": "INVOICE # 6Y1M9d-702",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.28%):  7.14 USD",
+      "TOTAL": "TOTAL : 115.82 USD",
+      "SEND_TO": "SHIP_TO:\nAmy Harris\n6314 Turner Underpass Suite 718\nEast Timothyton, LA 16855 US\nTel:+(194)639-4667\nEmail:sanchezolivia@example.org\nSite:https://reynolds-mayo.org/"
+    }
+  },
+  {
+    "image": "Template22_Instance136.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Apr-2009",
+      "DISCOUNT": "DISCOUNT(5.0%): (-)  31.16",
+      "DUE_DATE": "Due Date : 02-Jan-2019",
+      "NUMBER": "Invoice number 2Y5M2d-829",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.07%):  19.15 USD",
+      "TOTAL": "TOTAL : 611.50 USD",
+      "SEND_TO": "SHIP_TO:\nKathy Burke\n958 Robinson Islands\nMillerville, SD 22105 US\nTel:+(096)284-3629\nEmail:pgarcia@example.org\nSite:http://www.diaz-diaz.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance82.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Jul-1996",
+      "DISCOUNT": "DISCOUNT(1.32%): (-)  9.59",
+      "DUE_DATE": "Due Date : 24-Aug-2003",
+      "NUMBER": "INVOICE ID INV57363105",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.89%):  28.27 EUR",
+      "TOTAL": "TOTAL : 723.33 EUR",
+      "SEND_TO": "SHIP_TO:\nJames Ryan\n663 Jones Cove\nPort Dillonchester, MT 45508 US\nTel:+(996)197-5006\nEmail:chapmanmichele@example.net\nSite:http://www.mendoza.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance174.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Jan-1997",
+      "DISCOUNT": "DISCOUNT(2.06%): (-)  4.08",
+      "DUE_DATE": "Due Date : 18-Nov-1996",
+      "NUMBER": "INVOICE # INV/70-38/492",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.75%):  7.43 USD",
+      "TOTAL": "TOTAL : 196.51 USD",
+      "SEND_TO": "SHIP_TO:\nChristian Boyd\n1010 Alec Oval Suite 238\nNorth Lisa, NH 15893 US\nTel:+(804)021-4603\nEmail:maria72@example.com\nSite:http://www.willis-rodgers.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance101.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Oct-2000",
+      "DISCOUNT": "DISCOUNT(3.22%): (-)  27.57",
+      "DUE_DATE": "Due Date : 01-Nov-2013",
+      "NUMBER": "Invoice number INV/37-46/679",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.69%):  48.72 $",
+      "TOTAL": "TOTAL : 891.20 $",
+      "SEND_TO": "SHIP_TO:\nJeff Shields\n2076 Mcfarland Manor Apt. 469\nWilliamtown, UT 77480 US\nTel:+(854)926-0880\nEmail:kyle50@example.com\nSite:http://www.ponce-bush.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance190.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Feb-2013",
+      "DISCOUNT": "DISCOUNT(4.88%): (-)  33.22",
+      "DUE_DATE": "Due Date : 11-Sep-2005",
+      "NUMBER": "INVOICE ID INV/72-53/885",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.35%):  29.61 EUR",
+      "TOTAL": "TOTAL : 696.68 EUR",
+      "SEND_TO": "SHIP_TO:\nJoseph Barnes\n95081 Eric Vista Suite 239\nSouth John, VA 61035 US\nTel:+(658)199-5585\nEmail:ndaniels@example.org\nSite:https://www.sutton.info/"
+    }
+  },
+  {
+    "image": "Template22_Instance73.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Apr-2006",
+      "DISCOUNT": "DISCOUNT(3.59%): (-)  22.0",
+      "DUE_DATE": "Due Date : 01-May-2003",
+      "NUMBER": "INVOICE # 6606-168",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.17%):  37.79 $",
+      "TOTAL": "TOTAL : 634.45 $",
+      "SEND_TO": "SHIP_TO:\nSamantha Norton\n8728 Ruben Stream\nEsparzaberg, PR 17555 US\nTel:+(296)319-5454\nEmail:teresamckinney@example.org\nSite:https://www.washington.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance26.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Jan-2022",
+      "DISCOUNT": "DISCOUNT(3.17%): (-)  14.6",
+      "DUE_DATE": "Due Date : 23-Feb-1997",
+      "NUMBER": "INVOICE ID INV/78-60/005",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.63%):  30.55 EUR",
+      "TOTAL": "TOTAL : 484.69 EUR",
+      "SEND_TO": "SHIP_TO:\nJohn Ramirez\n61763 Wagner Passage Suite 617\nNorth Joseph, ND 14351 US\nTel:+(126)471-4523\nEmail:jimmy53@example.net\nSite:http://butler-lopez.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance35.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Apr-2008",
+      "DISCOUNT": "DISCOUNT(2.94%): (-)  41.98",
+      "DUE_DATE": "Due Date : 10-Dec-1993",
+      "NUMBER": "INVOICE # INV/54-86/630",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.11%):  87.21 EUR",
+      "TOTAL": "TOTAL : 1464.38 EUR",
+      "SEND_TO": "SHIP_TO:\nSamantha Conner\n93798 Pacheco Highway\nLucasstad, WV 22861 US\nTel:+(283)504-2450\nEmail:joanjordan@example.net\nSite:http://www.juarez.org/"
+    }
+  },
+  {
+    "image": "Template22_Instance7.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 31-Jan-2018",
+      "DISCOUNT": "DISCOUNT(3.16%): (-)  13.43",
+      "DUE_DATE": "Due Date : 15-Apr-2013",
+      "NUMBER": "INVOICE # 7011-270",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.18%):  13.50 $",
+      "TOTAL": "TOTAL : 421.53 $",
+      "SEND_TO": "SHIP_TO:\nChristopher Hopkins\n7785 Lewis Park Apt. 962\nPort Tiffanyhaven, GU 14849 US\nTel:+(565)016-6214\nEmail:josevasquez@example.org\nSite:http://www.gibson-jarvis.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance118.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Nov-2021",
+      "DISCOUNT": "DISCOUNT(1.22%): (-)  10.44",
+      "DUE_DATE": "Due Date : 18-Jan-2008",
+      "NUMBER": "INVOICE ID 6284-163",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.96%):  42.44 $",
+      "TOTAL": "TOTAL : 865.63 $",
+      "SEND_TO": "SHIP_TO:\nKatherine Willis\n35906 Fischer Center Suite 692\nShawfort, MI 95565 US\nTel:+(012)348-0019\nEmail:cookewilliam@example.org\nSite:https://johnson.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance95.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-May-2006",
+      "DISCOUNT": "DISCOUNT(3.17%): (-)  31.92",
+      "DUE_DATE": "Due Date : 03-Aug-2010",
+      "NUMBER": "INVOICE ID INV/67-43/626",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.68%):  47.15 EUR",
+      "TOTAL": "TOTAL : 1040.43 EUR",
+      "SEND_TO": "SHIP_TO:\nMelissa Zimmerman\n06485 Anthony Streets\nEast Marcus, KY 54779 US\nTel:+(449)540-2791\nEmail:valenciaclifford@example.com\nSite:http://www.mason-dawson.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance25.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-Dec-1997",
+      "DISCOUNT": "DISCOUNT(1.23%): (-)  7.12",
+      "DUE_DATE": "Due Date : 13-Nov-2001",
+      "NUMBER": "Invoice number 3583-127",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.09%):  35.25 USD",
+      "TOTAL": "TOTAL : 607.57 USD",
+      "SEND_TO": "SHIP_TO:\nRobin Shea\n09043 David Drive\nNorth Kaitlintown, NM 23899 US\nTel:+(337)261-5752\nEmail:kelly58@example.org\nSite:https://www.harrington-fowler.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance111.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Jun-2014",
+      "DISCOUNT": "DISCOUNT(1.98%): (-)  12.76",
+      "DUE_DATE": "Due Date : 17-Mar-2001",
+      "NUMBER": "INVOICE # 1135-933",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.13%):  39.50 $",
+      "TOTAL": "TOTAL : 667.38 $",
+      "SEND_TO": "SHIP_TO:\nJesse Lee\n29705 Jeffery Shoals\nJonesmouth, NY 17242 US\nTel:+(338)727-3874\nEmail:epierce@example.com\nSite:https://griffith.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance120.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Dec-2012",
+      "DISCOUNT": "DISCOUNT(3.86%): (-)  10.03",
+      "DUE_DATE": "Due Date : 06-Jul-2002",
+      "NUMBER": "INVOICE ID INV/52-54/260",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.10%):  15.84 EUR",
+      "TOTAL": "TOTAL : 267.90 EUR",
+      "SEND_TO": "SHIP_TO:\nJonathan Davis\n826 Melissa Lock\nBranchchester, FL 34272 US\nTel:+(513)168-3880\nEmail:vaughnmatthew@example.com\nSite:http://dominguez.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance19.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jan-2007",
+      "DISCOUNT": "DISCOUNT(3.92%): (-)  6.79",
+      "DUE_DATE": "Due Date : 07-Apr-2022",
+      "NUMBER": "INVOICE # 9Y7M7d-862",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.83%):  11.82 $",
+      "TOTAL": "TOTAL : 177.89 $",
+      "SEND_TO": "SHIP_TO:\nJill Ryan\n53611 John Spurs Apt. 154\nNew Nicoleview, CA 23001 US\nTel:+(344)338-6726\nEmail:kathy12@example.com\nSite:https://www.wright-brown.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance131.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Aug-1995",
+      "DISCOUNT": "DISCOUNT(3.89%): (-)  26.66",
+      "DUE_DATE": "Due Date : 31-May-2016",
+      "NUMBER": "INVOICE ID 5Y7M1d-880",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.14%):  42.10 USD",
+      "TOTAL": "TOTAL : 705.63 USD",
+      "SEND_TO": "SHIP_TO:\nKrista Bowen\n1916 Maldonado Path Apt. 685\nSandovalfurt, DC 41797 US\nTel:+(714)117-9113\nEmail:xdawson@example.org\nSite:https://www.ward-morton.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance74.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Mar-1997",
+      "DISCOUNT": "DISCOUNT(1.12%): (-)  3.77",
+      "DUE_DATE": "Due Date : 20-Oct-2008",
+      "NUMBER": "Invoice number 4712-153",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.05%):  17.02 EUR",
+      "TOTAL": "TOTAL : 339.75 EUR",
+      "SEND_TO": "SHIP_TO:\nDavid Garcia\n5986 Dunn Ways\nDerekbury, MN 33452 US\nTel:+(098)578-4442\nEmail:baileysarah@example.net\nSite:https://kerr.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance22.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Jan-2013",
+      "DISCOUNT": "DISCOUNT(1.81%): (-)  18.14",
+      "DUE_DATE": "Due Date : 08-Jun-2009",
+      "NUMBER": "INVOICE # INV/35-93/794",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.93%):  69.47 EUR",
+      "TOTAL": "TOTAL : 1039.69 EUR",
+      "SEND_TO": "SHIP_TO:\nEric Griffith\n60631 Payne Falls\nSouth Lauren, ND 89644 US\nTel:+(182)245-5175\nEmail:william38@example.org\nSite:https://montes-rogers.org/"
+    }
+  },
+  {
+    "image": "Template22_Instance48.jpg",
+    "ground_truth": {
+      "DATE": "Date: 05-Apr-2015",
+      "DISCOUNT": "DISCOUNT(3.27%): (-)  19.29",
+      "DUE_DATE": "Due Date : 10-Jun-2014",
+      "NUMBER": "INVOICE ID INV/11-55/134",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.76%):  39.88 USD",
+      "TOTAL": "TOTAL : 621.82 USD",
+      "SEND_TO": "SHIP_TO:\nJohn Peterson\n623 Steven Grove Apt. 525\nChristineberg, SC 66063 US\nTel:+(640)057-1919\nEmail:ttran@example.com\nSite:https://vega-bradford.net/"
+    }
+  },
+  {
+    "image": "Template22_Instance27.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Feb-2017",
+      "DISCOUNT": "DISCOUNT(2.34%): (-)  13.67",
+      "DUE_DATE": "Due Date : 08-Nov-2016",
+      "NUMBER": "Invoice number INV/88-94/837",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.56%):  26.66 EUR",
+      "TOTAL": "TOTAL : 594.19 EUR",
+      "SEND_TO": "SHIP_TO:\nCharles Blair\n22576 Rich Union Apt. 137\nSouth Matthewville, AK 25887 US\nTel:+(738)683-7149\nEmail:parker76@example.org\nSite:https://www.torres-joyce.info/"
+    }
+  },
+  {
+    "image": "Template22_Instance91.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Sep-1996",
+      "DISCOUNT": "DISCOUNT(3.87%): (-)  24.27",
+      "DUE_DATE": "Due Date : 24-Mar-2011",
+      "NUMBER": "INVOICE ID 9Y4M8d-125",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.87%):  36.81 USD",
+      "TOTAL": "TOTAL : 644.05 USD",
+      "SEND_TO": "SHIP_TO:\nTyler Russell\n845 Joe Village\nThomasville, VT 77240 US\nTel:+(755)893-5445\nEmail:matthew64@example.org\nSite:https://marsh.net/"
+    }
+  },
+  {
+    "image": "Template22_Instance36.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-May-2005",
+      "DISCOUNT": "DISCOUNT(2.19%): (-)  1.92",
+      "DUE_DATE": "Due Date : 23-May-2005",
+      "NUMBER": "INVOICE ID INV/48-93/036",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.99%):  6.13 EUR",
+      "TOTAL": "TOTAL : 92.62 EUR",
+      "SEND_TO": "SHIP_TO:\nBryan Ruiz\n610 Mcdonald Crest\nCarneyport, NJ 40544 US\nTel:+(441)219-1964\nEmail:denniscontreras@example.net\nSite:http://www.silva-gray.net/"
+    }
+  },
+  {
+    "image": "Template22_Instance51.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Feb-2008",
+      "DISCOUNT": "DISCOUNT(4.36%): (-)  9.15",
+      "DUE_DATE": "Due Date : 08-Feb-2008",
+      "NUMBER": "INVOICE # 3Y7M6d-211",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.10%):  6.52 USD",
+      "TOTAL": "TOTAL : 213.78 USD",
+      "SEND_TO": "SHIP_TO:\nBrian Valenzuela\n50981 Deborah Ways Apt. 109\nJensenville, CA 42598 US\nTel:+(506)068-7367\nEmail:wpratt@example.net\nSite:http://www.chavez.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance62.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Jul-2006",
+      "DISCOUNT": "DISCOUNT(3.13%): (-)  15.75",
+      "DUE_DATE": "Due Date : 10-Dec-2007",
+      "NUMBER": "INVOICE ID INV/08-85/256",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.56%):  22.93 $",
+      "TOTAL": "TOTAL : 509.02 $",
+      "SEND_TO": "SHIP_TO:\nEmily Mccarthy\n1153 Washington Garden\nHoffmanport, NJ 11280 US\nTel:+(174)414-8983\nEmail:melissasmith@example.com\nSite:https://www.patel-rose.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance96.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Jul-2004",
+      "DISCOUNT": "DISCOUNT(2.56%): (-)  14.66",
+      "DUE_DATE": "Due Date : 26-Nov-2014",
+      "NUMBER": "INVOICE # INV/82-63/171",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.62%):  37.90 USD",
+      "TOTAL": "TOTAL : 584.68 USD",
+      "SEND_TO": "SHIP_TO:\nShawn Mcbride\n1285 Frazier Gardens Suite 696\nRayside, MO 90093 US\nTel:+(372)471-0849\nEmail:dunnnancy@example.org\nSite:http://www.yoder-gomez.net/"
+    }
+  },
+  {
+    "image": "Template22_Instance130.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Feb-2005",
+      "DISCOUNT": "DISCOUNT(4.64%): (-)  15.29",
+      "DUE_DATE": "Due Date : 04-May-1995",
+      "NUMBER": "INVOICE # 4997-198",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.32%):  10.93 $",
+      "TOTAL": "TOTAL : 329.43 $",
+      "SEND_TO": "SHIP_TO:\nLeslie Miller\n5149 Turner Road Suite 039\nJohnstonhaven, ME 27730 US\nTel:+(659)123-9910\nEmail:tuckerronald@example.com\nSite:http://www.weber.org/"
+    }
+  },
+  {
+    "image": "Template22_Instance100.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-May-1996",
+      "DISCOUNT": "DISCOUNT(4.46%): (-)  32.91",
+      "DUE_DATE": "Due Date : 20-Dec-1995",
+      "NUMBER": "Invoice number 5143-581",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.07%):  44.78 EUR",
+      "TOTAL": "TOTAL : 755.24 EUR",
+      "SEND_TO": "SHIP_TO:\nDiana Castillo\n31109 Chase Forest Suite 619\nJeffreyview, CO 73506 US\nTel:+(270)681-4587\nEmail:asaunders@example.com\nSite:https://adams.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance97.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Nov-1993",
+      "DISCOUNT": "DISCOUNT(3.26%): (-)  9.25",
+      "DUE_DATE": "Due Date : 26-Apr-2011",
+      "NUMBER": "INVOICE ID INV94329226",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.23%):  17.69 EUR",
+      "TOTAL": "TOTAL : 295.14 EUR",
+      "SEND_TO": "SHIP_TO:\nTimothy Smith\n72861 Randall Courts Apt. 343\nJohnmouth, SC 18505 US\nTel:+(747)444-0936\nEmail:laurenharris@example.net\nSite:http://www.walton-clark.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance72.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Oct-2009",
+      "DISCOUNT": "DISCOUNT(4.53%): (-)  46.62",
+      "DUE_DATE": "Due Date : 24-Oct-2002",
+      "NUMBER": "INVOICE # INV06549115",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.03%):  41.51 USD",
+      "TOTAL": "TOTAL : 1034.01 USD",
+      "SEND_TO": "SHIP_TO:\nHeather Campbell\n621 Jared Dale Apt. 256\nEast William, GU 07227 US\nTel:+(012)236-5887\nEmail:jill47@example.com\nSite:https://www.bradley-weber.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance185.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Jun-2002",
+      "DISCOUNT": "DISCOUNT(3.19%): (-)  10.09",
+      "DUE_DATE": "Due Date : 20-Oct-2011",
+      "NUMBER": "Invoice number 5Y9M8d-394",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.42%):  17.13 USD",
+      "TOTAL": "TOTAL : 324.50 USD",
+      "SEND_TO": "SHIP_TO:\nLoretta Pierce\n2180 Jennifer Port Apt. 697\nWardberg, AK 02081 US\nTel:+(378)579-7621\nEmail:xwilson@example.net\nSite:http://stewart-sanders.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance2.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 03-Aug-2011",
+      "DISCOUNT": "DISCOUNT(2.54%): (-)  25.55",
+      "DUE_DATE": "Due Date : 30-Oct-2005",
+      "NUMBER": "Invoice number 2Y8M2d-232",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (3.24%):  32.60 EUR",
+      "TOTAL": "TOTAL : 995.83 EUR",
+      "SEND_TO": "SHIP_TO:\nCindy Clements\n616 Zhang Inlet Apt. 943\nBlackland, CT 87032 US\nTel:+(515)907-8123\nEmail:william06@example.net\nSite:https://hayes-larson.com/"
+    }
+  },
+  {
+    "image": "Template22_Instance179.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Apr-2002",
+      "DISCOUNT": "DISCOUNT(3.02%): (-)  12.54",
+      "DUE_DATE": "Due Date : 12-Apr-2008",
+      "NUMBER": "Invoice number INV/63-87/573",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.25%):  21.78 USD",
+      "TOTAL": "TOTAL : 428.90 USD",
+      "SEND_TO": "SHIP_TO:\nPhillip Walker\n1811 Thomas Port\nYvetteside, PA 17637 US\nTel:+(471)732-2655\nEmail:galvarado@example.org\nSite:http://www.cobb.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance59.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Sep-2001",
+      "DISCOUNT": "DISCOUNT(2.96%): (-)  14.75",
+      "DUE_DATE": "Due Date : 01-Nov-2015",
+      "NUMBER": "INVOICE # 3623-596",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.17%):  25.79 EUR",
+      "TOTAL": "TOTAL : 502.94 EUR",
+      "SEND_TO": "SHIP_TO:\nScott Chapman\n598 Daniel Curve\nOdommouth, LA 45548 US\nTel:+(774)835-3422\nEmail:paulobrien@example.org\nSite:http://rivera.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance60.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Jun-1994",
+      "DISCOUNT": "DISCOUNT(3.54%): (-)  19.3",
+      "DUE_DATE": "Due Date : 28-Jul-2017",
+      "NUMBER": "INVOICE ID INV/64-30/672",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (5.98%):  32.58 $",
+      "TOTAL": "TOTAL : 561.51 $",
+      "SEND_TO": "SHIP_TO:\nMark Roberts\n0936 Simpson Row\nWest Tracy, IL 21331 US\nTel:+(011)099-8940\nEmail:wfischer@example.com\nSite:https://www.wallace.info/"
+    }
+  },
+  {
+    "image": "Template22_Instance38.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Oct-1994",
+      "DISCOUNT": "DISCOUNT(4.25%): (-)  18.75",
+      "DUE_DATE": "Due Date : 29-Jul-2021",
+      "NUMBER": "INVOICE ID 3Y1M4d-342",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.82%):  30.09 USD",
+      "TOTAL": "TOTAL : 449.66 USD",
+      "SEND_TO": "SHIP_TO:\nRuben Freeman\n41000 Harris Falls Apt. 642\nLake Saraton, WY 47109 US\nTel:+(733)923-4641\nEmail:chasejoshua@example.org\nSite:http://diaz-cordova.org/"
+    }
+  },
+  {
+    "image": "Template22_Instance108.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Dec-1998",
+      "DISCOUNT": "DISCOUNT(3.05%): (-)  22.75",
+      "DUE_DATE": "Due Date : 19-Mar-1995",
+      "NUMBER": "Invoice number INV24120308",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.29%):  32.02 EUR",
+      "TOTAL": "TOTAL : 744.89 EUR",
+      "SEND_TO": "SHIP_TO:\nEmily Palmer\n87659 Jordan Land\nEast Williamchester, KS 79417 US\nTel:+(852)162-4153\nEmail:angelapatel@example.org\nSite:http://www.hanna.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance84.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Jan-2012",
+      "DISCOUNT": "DISCOUNT(4.66%): (-)  54.1",
+      "DUE_DATE": "Due Date : 26-Oct-2015",
+      "NUMBER": "INVOICE ID 8398-949",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (4.89%):  56.79 $",
+      "TOTAL": "TOTAL : 1160.18 $",
+      "SEND_TO": "SHIP_TO:\nMatthew Cuevas\n972 Ann Garden Suite 295\nThomasbury, RI 74208 US\nTel:+(206)171-1699\nEmail:qsmith@example.net\nSite:http://www.velazquez.org/"
+    }
+  },
+  {
+    "image": "Template22_Instance78.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Feb-2011",
+      "DISCOUNT": "DISCOUNT(3.92%): (-)  38.29",
+      "DUE_DATE": "Due Date : 02-Nov-2002",
+      "NUMBER": "Invoice number 8Y4M7d-545",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.24%):  60.94 EUR",
+      "TOTAL": "TOTAL : 997.46 EUR",
+      "SEND_TO": "SHIP_TO:\nAlexander Hawkins\n668 Jade Mountains\nMccormickhaven, TX 17707 US\nTel:+(449)847-2436\nEmail:austin28@example.com\nSite:http://joyce.biz/"
+    }
+  },
+  {
+    "image": "Template22_Instance32.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Dec-2014",
+      "DISCOUNT": "DISCOUNT(4.61%): (-)  22.0",
+      "DUE_DATE": "Due Date : 27-Aug-2009",
+      "NUMBER": "INVOICE # 9443-561",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:scottoconnor@example.org",
+      "TAX": "TAX:VAT (6.50%):  31.04 USD",
+      "TOTAL": "TOTAL : 501.61 USD",
+      "SEND_TO": "SHIP_TO:\nBryan Dennis\n153 Frank Landing\nEast Patricia, AK 84470 US\nTel:+(700)922-3730\nEmail:samuel07@example.com\nSite:https://richardson.com/"
+    }
+  }
+]

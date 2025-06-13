@@ -1,0 +1,802 @@
+[
+  {
+    "image": "Template50_Instance70.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCarol Strong\n7935 Anderson Track Suite 411\nMarkshire, KY 24875 US\nTel:+(661)726-0811\nEmail:kennethlevine@example.org\nSite:http://www.jackson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 15-Dec-2021",
+      "DISCOUNT": "DISCOUNT(3.8%): (-)  56.76",
+      "DUE_DATE": "Due Date : 14-Mar-2006",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10207612\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 1493.66  $",
+      "TAX": "TAX:VAT (4.48%):  66.89 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1518.28 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hundred -\nand eighteen point two eight"
+    }
+  },
+  {
+    "image": "Template50_Instance146.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Kent\n4830 Sean Knolls Apt. 399\nEricaburgh, MS 45672 US\nTel:+(639)782-4670\nEmail:fisherdesiree@example.com\nSite:https://cuevas-robles.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 26-Aug-1997",
+      "DISCOUNT": "DISCOUNT(2.96%): (-)  17.41",
+      "DUE_DATE": "Due Date : 21-Jun-2005",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14749628\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 588.14  $",
+      "TAX": "TAX:VAT (4.79%):  28.16 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 602.01 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and t-\nwo point zero one"
+    }
+  },
+  {
+    "image": "Template50_Instance26.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrandi Hernandez\n3011 Taylor Extensions\nChristineton, CA 94174 US\nTel:+(133)599-6030\nEmail:ydeleon@example.net\nSite:http://www.castro.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Sep-2001",
+      "DISCOUNT": "DISCOUNT(1.54%): (-)  5.87",
+      "DUE_DATE": "Due Date : 20-Feb-1995",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12876697\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 380.89  $",
+      "TAX": "TAX:VAT (5.76%):  21.95 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 390.80 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and -\nninety point eight"
+    }
+  },
+  {
+    "image": "Template50_Instance69.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHeather Butler\n13428 Rebecca Crest\nBrianton, AK 10398 US\nTel:+(272)009-5422\nEmail:vsimpson@example.com\nSite:http://www.anderson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 11-May-2017",
+      "DISCOUNT": "DISCOUNT(1.07%): (-)  11.68",
+      "DUE_DATE": "Due Date : 01-May-2011",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15288200\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 1091.56  $",
+      "TAX": "TAX:VAT (6.65%):  72.58 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1118.84 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd eighteen point eight four"
+    }
+  },
+  {
+    "image": "Template50_Instance106.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJulie Ingram\n47095 Lopez Wells\nNew Elizabeth, MA 98857 US\nTel:+(197)941-8586\nEmail:zhicks@example.com\nSite:https://nguyen.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 17-Oct-2012",
+      "DISCOUNT": "DISCOUNT(4.07%): (-)  24.29",
+      "DUE_DATE": "Due Date : 28-May-2022",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15421243\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 596.80  EUR",
+      "TAX": "TAX:VAT (6.63%):  39.55 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 628.29 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-eight point two nine"
+    }
+  },
+  {
+    "image": "Template50_Instance169.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBruce Harvey\n3005 Bowman Locks\nSouth Michael, MD 80958 US\nTel:+(094)244-0180\nEmail:mcdonaldanthony@example.net\nSite:https://pearson-fox.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Aug-1994",
+      "DISCOUNT": "DISCOUNT(2.15%): (-)  6.46",
+      "DUE_DATE": "Due Date : 24-Nov-1999",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10911988\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 300.59  $",
+      "TAX": "TAX:VAT (6.78%):  20.39 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 312.50 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and-\ntwelve point five"
+    }
+  },
+  {
+    "image": "Template50_Instance6.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJeffrey Strickland\n990 Shawn Parkways Apt. 487\nLake Jose, NJ 41977 US\nTel:+(895)190-8300\nEmail:hmedina@example.net\nSite:https://wolfe.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Sep-2022",
+      "DISCOUNT": "DISCOUNT(2.85%): (-)  7.86",
+      "DUE_DATE": "Due Date : 26-Jul-2001",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17462002\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 275.67  EUR",
+      "TAX": "TAX:VAT (4.27%):  11.77 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 276.58 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sevent-\ny-six point five eight"
+    }
+  },
+  {
+    "image": "Template50_Instance199.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEmma Simmons\n494 Young Skyway\nScottbury, GA 76668 US\nTel:+(557)444-2653\nEmail:parktimothy@example.net\nSite:http://www.carter.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Mar-1999",
+      "DISCOUNT": "DISCOUNT(3.89%): (-)  12.89",
+      "DUE_DATE": "Due Date : 30-May-2018",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13228070\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 331.25  $",
+      "TAX": "TAX:VAT (6.50%):  21.52 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 343.89 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and forty-\n-three point eight nine"
+    }
+  },
+  {
+    "image": "Template50_Instance34.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDebra Clark MD\n8457 Harris Bypass\nNew Heather, WI 67791 US\nTel:+(563)352-9460\nEmail:zmiller@example.com\nSite:http://www.mora-hansen.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Dec-1998",
+      "DISCOUNT": "DISCOUNT(3.76%): (-)  8.27",
+      "DUE_DATE": "Due Date : 10-Jan-2009",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13676617\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 219.95  USD",
+      "TAX": "TAX:VAT (4.82%):  10.59 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 223.41 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-three point four one"
+    }
+  },
+  {
+    "image": "Template50_Instance54.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJustin Vazquez\n01958 Nielsen Centers\nNorth Alexfort, CT 75455 US\nTel:+(153)231-0024\nEmail:george40@example.net\nSite:https://quinn-kim.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 10-Jul-2008",
+      "DISCOUNT": "DISCOUNT(2.24%): (-)  21.95",
+      "DUE_DATE": "Due Date : 18-May-2002",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17886978\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 980.08  USD",
+      "TAX": "TAX:VAT (4.53%):  44.38 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 983.98 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eighty-\n-three point nine eight"
+    }
+  },
+  {
+    "image": "Template50_Instance111.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJamie James\n28750 Cynthia Mission\nKendraside, DE 97820 US\nTel:+(942)314-4037\nEmail:wolfejoseph@example.com\nSite:https://www.cooper.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 27-Mar-2017",
+      "DISCOUNT": "DISCOUNT(4.29%): (-)  9.35",
+      "DUE_DATE": "Due Date : 15-Dec-2006",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19149182\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 217.92  $",
+      "TAX": "TAX:VAT (5.35%):  11.67 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 223.79 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and twenty-\n-three point seven nine"
+    }
+  },
+  {
+    "image": "Template50_Instance42.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMikayla Mathis\n175 Eric Union\nMedinaberg, OK 19122 US\nTel:+(419)345-0267\nEmail:brownbrandi@example.com\nSite:https://www.griffin.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 27-Apr-2007",
+      "DISCOUNT": "DISCOUNT(1.8%): (-)  8.04",
+      "DUE_DATE": "Due Date : 25-Sep-2009",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14629355\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 446.59  EUR",
+      "TAX": "TAX:VAT (4.45%):  19.86 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 460.64 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and s-\nixty point six four"
+    }
+  },
+  {
+    "image": "Template50_Instance64.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoshua Morrison\n13200 Miller Well\nDianatown, PW 22584 US\nTel:+(556)963-7654\nEmail:cperez@example.com\nSite:https://www.taylor.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-Nov-2000",
+      "DISCOUNT": "DISCOUNT(4.84%): (-)  31.86",
+      "DUE_DATE": "Due Date : 07-Feb-2021",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13608843\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 658.20  $",
+      "TAX": "TAX:VAT (3.89%):  25.63 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 667.90 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and six-\nty-seven point nine"
+    }
+  },
+  {
+    "image": "Template50_Instance187.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNicholas Petty\n793 Andrew Wall\nPort Andre, HI 28961 US\nTel:+(442)841-6722\nEmail:mmiller@example.org\nSite:http://wright.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 10-Jul-1999",
+      "DISCOUNT": "DISCOUNT(3.41%): (-)  13.77",
+      "DUE_DATE": "Due Date : 09-Sep-2013",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15489491\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 403.94  USD",
+      "TAX": "TAX:VAT (5.40%):  21.81 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 405.67 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and f-\nive point six seven"
+    }
+  },
+  {
+    "image": "Template50_Instance93.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEmily Carr\n185 Doyle Manor Suite 952\nMelissafort, SD 33705 US\nTel:+(712)485-4481\nEmail:schapman@example.net\nSite:http://www.cole-bell.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-Oct-2003",
+      "DISCOUNT": "DISCOUNT(2.47%): (-)  12.16",
+      "DUE_DATE": "Due Date : 09-Mar-2001",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16992117\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 492.14  USD",
+      "TAX": "TAX:VAT (4.53%):  22.28 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 507.28 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and se-\nven point two eight"
+    }
+  },
+  {
+    "image": "Template50_Instance122.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChase Solis\n899 Nelson Rest Suite 870\nBarrettside, NC 17084 US\nTel:+(735)017-3874\nEmail:lestephen@example.org\nSite:https://www.ramos-taylor.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 28-Aug-2014",
+      "DISCOUNT": "DISCOUNT(3.41%): (-)  18.99",
+      "DUE_DATE": "Due Date : 17-Jul-1995",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19224940\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 557.01  EUR",
+      "TAX": "TAX:VAT (3.63%):  20.21 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 564.97 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixty-\n-four point nine seven"
+    }
+  },
+  {
+    "image": "Template50_Instance143.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEric Wilson\n563 Franklin Harbor Apt. 091\nQuinnland, CA 98495 US\nTel:+(516)353-4176\nEmail:houstonkimberly@example.org\nSite:http://www.griffin.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-May-1993",
+      "DISCOUNT": "DISCOUNT(2.35%): (-)  23.37",
+      "DUE_DATE": "Due Date : 31-Mar-2020",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14474048\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 994.32  EUR",
+      "TAX": "TAX:VAT (6.70%):  66.58 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1049.76 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and fort-\ny-nine point seven six"
+    }
+  },
+  {
+    "image": "Template50_Instance157.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMatthew Thompson\n6068 Kerri Heights Suite 479\nSouth Shawnmouth, MA 38154 US\nTel:+(290)791-6825\nEmail:julie41@example.net\nSite:http://www.smith.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Sep-2006",
+      "DISCOUNT": "DISCOUNT(1.22%): (-)  11.57",
+      "DUE_DATE": "Due Date : 20-Oct-1995",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12359117\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 948.16  USD",
+      "TAX": "TAX:VAT (6.98%):  66.15 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 992.22 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and nin-\nety-two point two two"
+    }
+  },
+  {
+    "image": "Template50_Instance65.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKelly Webb\n446 Mary Circle\nEast Caitlyn, NH 32867 US\nTel:+(437)918-8712\nEmail:hesterhelen@example.net\nSite:http://www.hansen.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Nov-1999",
+      "DISCOUNT": "DISCOUNT(2.82%): (-)  15.83",
+      "DUE_DATE": "Due Date : 27-Oct-2008",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16391771\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 561.40  EUR",
+      "TAX": "TAX:VAT (6.67%):  37.46 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 576.35 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-six point three five"
+    }
+  },
+  {
+    "image": "Template50_Instance105.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCharles Johnson\n227 Cheryl Crossroad\nGrayton, VT 41289 US\nTel:+(039)380-5070\nEmail:ajones@example.com\nSite:http://anderson-banks.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 16-Oct-1994",
+      "DISCOUNT": "DISCOUNT(4.87%): (-)  21.44",
+      "DUE_DATE": "Due Date : 21-Aug-2001",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14866260\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 440.24  EUR",
+      "TAX": "TAX:VAT (3.04%):  13.40 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 432.64 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thir-\nty-two point six four"
+    }
+  },
+  {
+    "image": "Template50_Instance78.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKathleen Andrews\n5819 Hayden Forge\nFostershire, MT 57131 US\nTel:+(165)851-8491\nEmail:williamsonmaurice@example.com\nSite:https://www.williams.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 10-Aug-2002",
+      "DISCOUNT": "DISCOUNT(4.02%): (-)  23.79",
+      "DUE_DATE": "Due Date : 21-Apr-2014",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15356062\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 591.81  $",
+      "TAX": "TAX:VAT (4.48%):  26.49 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 605.10 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and-\nfive point one"
+    }
+  },
+  {
+    "image": "Template50_Instance147.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBruce Arnold\n905 Mckinney Plaza\nPort Christopher, MI 22851 US\nTel:+(215)016-7886\nEmail:brittany91@example.net\nSite:https://www.harper.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 29-Dec-2007",
+      "DISCOUNT": "DISCOUNT(2.92%): (-)  12.01",
+      "DUE_DATE": "Due Date : 16-May-2011",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14370954\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 411.42  EUR",
+      "TAX": "TAX:VAT (4.13%):  16.98 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 413.96 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thi-\nrteen point nine six"
+    }
+  },
+  {
+    "image": "Template50_Instance165.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKenneth Harris\n63499 Melissa Mill\nPort Joshua, NV 21117 US\nTel:+(468)909-7060\nEmail:rebeccakaufman@example.org\nSite:http://www.carrillo-huffman.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-Nov-2000",
+      "DISCOUNT": "DISCOUNT(1.34%): (-)  5.27",
+      "DUE_DATE": "Due Date : 24-May-1997",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18214071\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 393.50  USD",
+      "TAX": "TAX:VAT (5.12%):  20.14 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 408.01 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and e-\night point zero one"
+    }
+  },
+  {
+    "image": "Template50_Instance4.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCarlos Lopez\n142 Smith Lakes Apt. 549\nFergusonborough, TN 14807 US\nTel:+(443)653-3580\nEmail:wsimpson@example.net\nSite:http://www.rivera.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 13-Aug-2011",
+      "DISCOUNT": "DISCOUNT(3.39%): (-)  30.54",
+      "DUE_DATE": "Due Date : 24-Sep-2010",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11890351\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 900.93  EUR",
+      "TAX": "TAX:VAT (3.48%):  31.33 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 904.15 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and f-\nour point one five"
+    }
+  },
+  {
+    "image": "Template50_Instance103.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHeather Norris\n21890 Sanford Squares\nLake Christinaton, MI 40547 US\nTel:+(067)045-1348\nEmail:hlamb@example.com\nSite:https://www.monroe.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 05-Dec-2006",
+      "DISCOUNT": "DISCOUNT(4.3%): (-)  20.11",
+      "DUE_DATE": "Due Date : 07-Mar-2010",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18836109\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 467.78  EUR",
+      "TAX": "TAX:VAT (4.80%):  22.46 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 477.10 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenty-seven point one"
+    }
+  },
+  {
+    "image": "Template50_Instance95.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLisa Delgado\n0059 Peter Mount\nEast Tonya, NV 16632 US\nTel:+(882)808-9657\nEmail:tracyhamilton@example.net\nSite:http://peters.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 20-Apr-2013",
+      "DISCOUNT": "DISCOUNT(1.75%): (-)  7.4",
+      "DUE_DATE": "Due Date : 02-Apr-2006",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18940152\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 422.77  EUR",
+      "TAX": "TAX:VAT (3.76%):  15.91 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 427.98 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and twenty-\n-seven point nine eight"
+    }
+  },
+  {
+    "image": "Template50_Instance63.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKeith Ortiz\n811 Franklin Port Suite 241\nDavidbury, GU 15274 US\nTel:+(359)134-9631\nEmail:willielee@example.net\nSite:http://www.johnson.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 30-Aug-2004",
+      "DISCOUNT": "DISCOUNT(4.52%): (-)  8.69",
+      "DUE_DATE": "Due Date : 01-Feb-2000",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19350030\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 192.20  USD",
+      "TAX": "TAX:VAT (6.94%):  13.35 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 203.03 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and thr-\nee point zero three"
+    }
+  },
+  {
+    "image": "Template50_Instance75.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichelle Mendoza\n9639 Keith Field Apt. 452\nMyershaven, KY 71030 US\nTel:+(369)020-9269\nEmail:wadeoscar@example.com\nSite:http://www.anderson-franklin.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 29-Jul-2009",
+      "DISCOUNT": "DISCOUNT(1.21%): (-)  6.89",
+      "DUE_DATE": "Due Date : 04-Oct-1994",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19087950\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 569.48  EUR",
+      "TAX": "TAX:VAT (4.90%):  27.91 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 584.46 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and eigh-\nty-four point four six"
+    }
+  },
+  {
+    "image": "Template50_Instance141.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJeremy Zavala\n95071 Henderson Run Suite 034\nArielstad, NE 15273 US\nTel:+(771)683-2809\nEmail:vdavis@example.net\nSite:http://www.francis.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Feb-2012",
+      "DISCOUNT": "DISCOUNT(3.87%): (-)  7.29",
+      "DUE_DATE": "Due Date : 27-Aug-2004",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10536466\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 188.32  EUR",
+      "TAX": "TAX:VAT (6.58%):  12.40 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 197.93 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninety-\n-seven point nine three"
+    }
+  },
+  {
+    "image": "Template50_Instance68.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRuth Adams\n046 Jimenez Isle\nLake Cynthia, ND 64358 US\nTel:+(229)005-9451\nEmail:benjamin66@example.net\nSite:https://www.hester.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 25-Sep-2009",
+      "DISCOUNT": "DISCOUNT(4.71%): (-)  29.98",
+      "DUE_DATE": "Due Date : 21-Sep-2013",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15684496\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 636.48  USD",
+      "TAX": "TAX:VAT (3.20%):  20.38 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 646.74 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and forty-\n-six point seven four"
+    }
+  },
+  {
+    "image": "Template50_Instance73.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSamantha Davis\n215 David Haven\nSouth Hannahmouth, UT 66871 US\nTel:+(268)947-0375\nEmail:megan78@example.net\nSite:https://sims.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Dec-2001",
+      "DISCOUNT": "DISCOUNT(3.67%): (-)  35.81",
+      "DUE_DATE": "Due Date : 08-Jun-1999",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16793536\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 975.74  EUR",
+      "TAX": "TAX:VAT (6.15%):  59.96 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 994.91 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and nine-\nty-four point nine one"
+    }
+  },
+  {
+    "image": "Template50_Instance45.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNicholas Oconnor\n47521 Alexandra Keys\nMeganchester, WY 76087 US\nTel:+(771)101-2370\nEmail:knelson@example.net\nSite:http://osborne.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Sep-2002",
+      "DISCOUNT": "DISCOUNT(4.81%): (-)  16.08",
+      "DUE_DATE": "Due Date : 21-May-1998",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12123874\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 334.35  EUR",
+      "TAX": "TAX:VAT (6.09%):  20.35 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 349.25 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and for-\nty-nine point two five"
+    }
+  },
+  {
+    "image": "Template50_Instance117.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrenda Hardy\n4796 Sean Bridge Suite 796\nRobinchester, SC 29481 US\nTel:+(234)394-3711\nEmail:kentrice@example.net\nSite:http://jones.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Aug-2022",
+      "DISCOUNT": "DISCOUNT(3.33%): (-)  19.75",
+      "DUE_DATE": "Due Date : 02-Oct-1993",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19478533\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 592.97  EUR",
+      "TAX": "TAX:VAT (4.50%):  26.70 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 608.05 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and ei-\nght point zero five"
+    }
+  },
+  {
+    "image": "Template50_Instance10.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristine Levy\n0030 Hill Court\nSilvabury, DE 47878 US\nTel:+(217)140-8713\nEmail:brownjoel@example.net\nSite:http://johnson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Aug-2012",
+      "DISCOUNT": "DISCOUNT(3.87%): (-)  6.66",
+      "DUE_DATE": "Due Date : 01-Aug-2007",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10556198\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 172.17  $",
+      "TAX": "TAX:VAT (5.83%):  10.03 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 179.96 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and seven-\nty-nine point nine six"
+    }
+  },
+  {
+    "image": "Template50_Instance39.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMonica Velasquez\n985 Mayer Bridge Apt. 077\nNew Michellebury, NV 29412 US\nTel:+(918)588-7913\nEmail:drew65@example.org\nSite:https://www.ray.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Feb-2000",
+      "DISCOUNT": "DISCOUNT(4.34%): (-)  11.46",
+      "DUE_DATE": "Due Date : 15-Nov-2012",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17700424\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 264.07  USD",
+      "TAX": "TAX:VAT (5.94%):  15.69 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 275.93 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and sevent-\ny-five point nine three"
+    }
+  },
+  {
+    "image": "Template50_Instance123.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nZachary Moody\n482 Jon Green Apt. 883\nWest Crystal, PA 50820 US\nTel:+(116)505-3714\nEmail:dross@example.net\nSite:https://www.mooney.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 20-Feb-2016",
+      "DISCOUNT": "DISCOUNT(3.15%): (-)  11.38",
+      "DUE_DATE": "Due Date : 16-Feb-2011",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11449836\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 361.24  $",
+      "TAX": "TAX:VAT (4.88%):  17.64 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 370.50 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and -\nseventy point five"
+    }
+  },
+  {
+    "image": "Template50_Instance194.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGuy Robinson\n73851 Mary Plains\nSouth Shirleyville, ND 20743 US\nTel:+(300)173-6344\nEmail:bshaw@example.com\nSite:http://arnold.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 13-Apr-1994",
+      "DISCOUNT": "DISCOUNT(3.25%): (-)  19.63",
+      "DUE_DATE": "Due Date : 16-Feb-1999",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10956193\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 604.04  USD",
+      "TAX": "TAX:VAT (3.64%):  21.99 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 615.64 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fif-\nteen point six four"
+    }
+  },
+  {
+    "image": "Template50_Instance153.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoel Davis\n655 John Forks\nBuckhaven, MN 16982 US\nTel:+(391)024-0960\nEmail:kingtiffany@example.org\nSite:http://www.simmons.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Jul-1997",
+      "DISCOUNT": "DISCOUNT(1.53%): (-)  4.75",
+      "DUE_DATE": "Due Date : 11-Sep-2004",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19877653\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 310.34  $",
+      "TAX": "TAX:VAT (4.51%):  13.99 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 316.51 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and si-\nxteen point five one"
+    }
+  },
+  {
+    "image": "Template50_Instance132.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrandon Andersen\n277 Tapia Summit\nMichaelfort, ND 53159 US\nTel:+(005)130-0034\nEmail:loriwilliams@example.com\nSite:http://www.anthony.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 14-Jan-2004",
+      "DISCOUNT": "DISCOUNT(1.29%): (-)  9.53",
+      "DUE_DATE": "Due Date : 29-Jul-1994",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10197462\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 738.83  EUR",
+      "TAX": "TAX:VAT (4.29%):  31.72 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 757.99 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fift-\ny-seven point nine nine"
+    }
+  },
+  {
+    "image": "Template50_Instance142.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAnthony Harris\n981 William Road Apt. 110\nJoshuaborough, RI 05401 US\nTel:+(810)017-6629\nEmail:markalvarez@example.org\nSite:http://www.martin-delgado.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Aug-2018",
+      "DISCOUNT": "DISCOUNT(3.67%): (-)  21.53",
+      "DUE_DATE": "Due Date : 18-Sep-2014",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17729284\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:0344 Jonathan Club\nPort Patriciashire, PW 72063 US",
+      "SELLER_EMAIL": "Email:houstonjoyce@example.net",
+      "SELLER_NAME": "Stein-Fernandez",
+      "SUB_TOTAL": "SUB_TOTAL : 586.56  EUR",
+      "TAX": "TAX:VAT (3.54%):  20.77 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 600.17 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred p-\noint one seven"
+    }
+  }
+]

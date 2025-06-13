@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template40_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Mcclain\n39098 Elizabeth Courts Suite 407\nHodgetown, ND 32559 US\nTel:+(610)691-2605\nEmail:crystal85@example.com\nSite:http://www.page.net/",
+      "DATE": "Date: 03-Apr-2003",
+      "DUE_DATE": "Due Date : 12-Oct-2007",
+      "NUMBER": "INVOICE # 5Y7M8d-009",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11409233\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1388.77  USD",
+      "TOTAL": "TOTAL : 1436.99 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jessica Bell\n28722 Wallace Fields\nSouth Bryan, PA 45334 US\nTel:+(611)524-9765\nEmail:belljordan@example.com\nSite:http://frazier.com/",
+      "DATE": "Date: 21-Mar-2002",
+      "DUE_DATE": "Due Date : 21-Apr-2014",
+      "NUMBER": "INVOICE ID 8383-095",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12873029\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 375.19  EUR",
+      "TOTAL": "TOTAL : 387.94 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Terry Crane\n09610 Simon Walk\nLake Caroline, ND 46300 US\nTel:+(343)878-6369\nEmail:joannetaylor@example.org\nSite:https://www.rowland-rivera.com/",
+      "DATE": "Date: 10-Feb-2016",
+      "DUE_DATE": "Due Date : 04-May-2011",
+      "NUMBER": "Invoice number INV/63-52/479",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15383937\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 962.33  USD",
+      "TOTAL": "TOTAL : 988.11 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sandra Tucker\n805 Aguirre Common\nSotoville, HI 30164 US\nTel:+(816)177-3282\nEmail:anthonycynthia@example.org\nSite:https://santana.net/",
+      "DATE": "Invoice Date: 06-Jul-2011",
+      "DUE_DATE": "Due Date : 24-Sep-2015",
+      "NUMBER": "INVOICE # INV/87-27/224",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19366594\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 809.77  $",
+      "TOTAL": "TOTAL : 836.01 $"
+    }
+  },
+  {
+    "image": "Template40_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kelly Stone\n191 Vazquez Lane\nOlsonberg, GU 48273 US\nTel:+(201)163-9809\nEmail:rose87@example.org\nSite:http://silva.biz/",
+      "DATE": "Date: 17-Feb-1998",
+      "DUE_DATE": "Due Date : 16-Jan-2013",
+      "NUMBER": "INVOICE # INV/46-02/813",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15735194\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 657.82  EUR",
+      "TOTAL": "TOTAL : 669.50 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patricia Orr\n1601 Hamilton Forks\nEast Karenside, KS 25696 US\nTel:+(288)665-4795\nEmail:cynthia72@example.com\nSite:http://www.davis.biz/",
+      "DATE": "Date: 22-Jun-2008",
+      "DUE_DATE": "Due Date : 13-Sep-2012",
+      "NUMBER": "INVOICE ID 8753-367",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13359396\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1422.92  USD",
+      "TOTAL": "TOTAL : 1429.40 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Griffin MD\n631 Noah Light\nWest Deborah, AK 56212 US\nTel:+(451)143-1212\nEmail:georgewoods@example.com\nSite:http://anderson.com/",
+      "DATE": "Invoice Date: 14-Dec-1996",
+      "DUE_DATE": "Due Date : 06-Apr-2016",
+      "NUMBER": "Invoice number INV27925236",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15960108\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1255.54  $",
+      "TOTAL": "TOTAL : 1255.04 $"
+    }
+  },
+  {
+    "image": "Template40_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Frank Booth\n296 Joseph Street Suite 949\nGreenbury, IL 91032 US\nTel:+(132)998-5652\nEmail:robert52@example.net\nSite:https://zhang-chen.com/",
+      "DATE": "Date: 06-Oct-2014",
+      "DUE_DATE": "Due Date : 24-Jul-2010",
+      "NUMBER": "INVOICE ID INV90577652",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18470082\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 756.61  $",
+      "TOTAL": "TOTAL : 759.96 $"
+    }
+  },
+  {
+    "image": "Template40_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Waters\n2750 Campos Mission\nLake Amystad, MT 40198 US\nTel:+(595)179-1262\nEmail:barnesnathaniel@example.org\nSite:https://www.horn-zimmerman.org/",
+      "DATE": "Invoice Date: 11-Jul-2008",
+      "DUE_DATE": "Due Date : 23-Nov-2014",
+      "NUMBER": "INVOICE # 7244-490",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10501735\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1192.54  EUR",
+      "TOTAL": "TOTAL : 1195.10 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Fischer\n27806 Karen Causeway Suite 864\nEricborough, MH 62606 US\nTel:+(530)191-4417\nEmail:zphelps@example.org\nSite:http://williams-smith.com/",
+      "DATE": "Invoice Date: 26-Nov-2000",
+      "DUE_DATE": "Due Date : 25-Jun-1994",
+      "NUMBER": "INVOICE ID INV68359942",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16998309\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 114.12  $",
+      "TOTAL": "TOTAL : 119.66 $"
+    }
+  },
+  {
+    "image": "Template40_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Schaefer\n3649 Williams Unions\nSouth Lisa, TN 67102 US\nTel:+(275)228-8042\nEmail:iramirez@example.com\nSite:https://www.duran-ward.com/",
+      "DATE": "Invoice Date: 28-Nov-2006",
+      "DUE_DATE": "Due Date : 08-Feb-1996",
+      "NUMBER": "INVOICE ID 7Y1M9d-427",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11106874\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1262.72  USD",
+      "TOTAL": "TOTAL : 1282.07 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kristin Copeland\n612 Schwartz Loaf\nPort Jennifer, CT 48476 US\nTel:+(958)002-6312\nEmail:jennifer74@example.org\nSite:http://watkins-banks.com/",
+      "DATE": "Invoice Date: 12-Feb-1994",
+      "DUE_DATE": "Due Date : 23-May-1993",
+      "NUMBER": "INVOICE ID 7Y9M3d-087",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15699656\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 737.52  $",
+      "TOTAL": "TOTAL : 751.48 $"
+    }
+  },
+  {
+    "image": "Template40_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Isaiah Bullock\n0430 Kemp Junction Apt. 210\nVelasquezmouth, FL 81701 US\nTel:+(975)644-4984\nEmail:kdavis@example.org\nSite:https://parsons-smith.biz/",
+      "DATE": "Invoice Date: 04-Jul-2013",
+      "DUE_DATE": "Due Date : 16-Nov-2002",
+      "NUMBER": "Invoice number 6635-969",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17138529\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 196.66  EUR",
+      "TOTAL": "TOTAL : 199.91 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lynn Russell\n7706 Howard Unions\nSouth Cindy, NH 76060 US\nTel:+(092)245-0467\nEmail:ricky04@example.org\nSite:http://www.jordan-gray.net/",
+      "DATE": "Invoice Date: 25-Mar-2017",
+      "DUE_DATE": "Due Date : 23-Mar-2020",
+      "NUMBER": "INVOICE ID INV/91-26/667",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17326923\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 483.96  EUR",
+      "TOTAL": "TOTAL : 492.81 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Hunt\n921 Sarah Turnpike Suite 150\nJacquelineton, ND 24772 US\nTel:+(216)137-6268\nEmail:wellschristopher@example.net\nSite:https://marks.biz/",
+      "DATE": "Date: 06-Aug-1993",
+      "DUE_DATE": "Due Date : 28-Jun-2012",
+      "NUMBER": "INVOICE # INV/59-30/221",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15778006\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 100.97  $",
+      "TOTAL": "TOTAL : 101.40 $"
+    }
+  },
+  {
+    "image": "Template40_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Hannah Macdonald\n6425 Jones Route\nLake Justin, MS 63823 US\nTel:+(111)157-8215\nEmail:ebarron@example.org\nSite:https://www.morrison.com/",
+      "DATE": "Invoice Date: 17-Jan-1999",
+      "DUE_DATE": "Due Date : 26-Mar-2012",
+      "NUMBER": "INVOICE ID INV25777078",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17175640\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 100.14  EUR",
+      "TOTAL": "TOTAL : 103.89 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Aguirre\n0477 Moore Summit\nWest Kimberly, OH 19966 US\nTel:+(102)576-4449\nEmail:lwilliams@example.com\nSite:https://wallace.com/",
+      "DATE": "Date: 23-Jan-2011",
+      "DUE_DATE": "Due Date : 13-Dec-1996",
+      "NUMBER": "Invoice number 8599-848",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12397950\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 221.24  $",
+      "TOTAL": "TOTAL : 228.08 $"
+    }
+  },
+  {
+    "image": "Template40_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Lopez\n11368 Greer Mission\nMitchellberg, ME 66100 US\nTel:+(663)583-4260\nEmail:jasonscott@example.org\nSite:http://scott-thompson.com/",
+      "DATE": "Date: 25-Jul-1996",
+      "DUE_DATE": "Due Date : 28-Oct-2007",
+      "NUMBER": "INVOICE ID INV26447594",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16695703\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 330.71  $",
+      "TOTAL": "TOTAL : 337.46 $"
+    }
+  },
+  {
+    "image": "Template40_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paula Mitchell\n4596 Brianna Creek Suite 750\nPort Jorgeshire, DE 03845 US\nTel:+(700)885-8452\nEmail:robert08@example.net\nSite:http://www.lee-price.com/",
+      "DATE": "Date: 26-Aug-1997",
+      "DUE_DATE": "Due Date : 01-Nov-2014",
+      "NUMBER": "INVOICE # INV/19-62/218",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13841936\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 525.10  EUR",
+      "TOTAL": "TOTAL : 523.34 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Smith\n016 Gabriel Falls Apt. 653\nBriannafurt, IA 07015 US\nTel:+(948)465-4044\nEmail:richardcontreras@example.org\nSite:http://rice.com/",
+      "DATE": "Date: 09-Dec-2019",
+      "DUE_DATE": "Due Date : 25-Nov-2000",
+      "NUMBER": "Invoice number INV/95-04/368",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13567674\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1100.03  $",
+      "TOTAL": "TOTAL : 1096.33 $"
+    }
+  },
+  {
+    "image": "Template40_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lauren Thomas\n892 Perez Path Apt. 005\nSouth Richard, GA 35889 US\nTel:+(821)166-4010\nEmail:christophermiller@example.org\nSite:http://nelson-fisher.info/",
+      "DATE": "Date: 26-Sep-1993",
+      "DUE_DATE": "Due Date : 14-Oct-1995",
+      "NUMBER": "INVOICE # INV/57-53/233",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10665358\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 769.06  USD",
+      "TOTAL": "TOTAL : 802.16 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Susan Thomas\n5118 Andrew Point Apt. 758\nJeffreyfurt, ID 96389 US\nTel:+(399)032-3813\nEmail:david63@example.net\nSite:http://www.barber-garcia.info/",
+      "DATE": "Invoice Date: 29-Nov-2007",
+      "DUE_DATE": "Due Date : 19-Oct-1993",
+      "NUMBER": "Invoice number 7344-337",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10092042\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 285.82  USD",
+      "TOTAL": "TOTAL : 294.17 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Elizabeth Estes DDS\n8383 Brown Corners\nWest Vickiemouth, AR 66871 US\nTel:+(807)341-1631\nEmail:victoria49@example.org\nSite:https://www.lopez-collins.biz/",
+      "DATE": "Invoice Date: 18-Mar-2012",
+      "DUE_DATE": "Due Date : 20-Jan-2017",
+      "NUMBER": "INVOICE # 7115-631",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15260665\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1378.93  $",
+      "TOTAL": "TOTAL : 1400.97 $"
+    }
+  },
+  {
+    "image": "Template40_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lawrence Taylor\n707 Elizabeth Brook\nThomasview, DC 18500 US\nTel:+(629)033-1868\nEmail:masonronald@example.com\nSite:http://perry.com/",
+      "DATE": "Invoice Date: 18-Mar-2016",
+      "DUE_DATE": "Due Date : 14-Apr-2018",
+      "NUMBER": "INVOICE # 7Y2M5d-213",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10925836\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 827.50  $",
+      "TOTAL": "TOTAL : 832.46 $"
+    }
+  },
+  {
+    "image": "Template40_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Julia Miller\n107 Lewis Wall\nRoymouth, AR 74849 US\nTel:+(888)787-8307\nEmail:craig85@example.org\nSite:http://davis-jarvis.net/",
+      "DATE": "Invoice Date: 10-Nov-2007",
+      "DUE_DATE": "Due Date : 22-Jan-2001",
+      "NUMBER": "INVOICE ID INV47901118",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16293312\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 370.95  EUR",
+      "TOTAL": "TOTAL : 383.38 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathy Gonzalez\n40291 Aguirre Hills\nThomasfort, RI 13455 US\nTel:+(310)221-1024\nEmail:steeledaniel@example.org\nSite:https://wright.com/",
+      "DATE": "Invoice Date: 04-May-2018",
+      "DUE_DATE": "Due Date : 30-Mar-2004",
+      "NUMBER": "Invoice number INV95274900",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12754949\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 394.42  EUR",
+      "TOTAL": "TOTAL : 398.45 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Ryan\n8119 Nichole Forest Suite 031\nTurnershire, GU 82540 US\nTel:+(203)570-0445\nEmail:crystalgonzalez@example.com\nSite:http://www.henderson.com/",
+      "DATE": "Invoice Date: 21-Jan-2022",
+      "DUE_DATE": "Due Date : 31-Jul-2018",
+      "NUMBER": "INVOICE ID INV22772829",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16461345\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 569.02  EUR",
+      "TOTAL": "TOTAL : 568.00 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Mccarthy\n605 Christopher Bridge Apt. 841\nNorth Amy, AR 97543 US\nTel:+(833)175-9378\nEmail:colincooper@example.com\nSite:http://www.spencer.net/",
+      "DATE": "Date: 01-Nov-2011",
+      "DUE_DATE": "Due Date : 12-May-2004",
+      "NUMBER": "INVOICE ID INV/56-13/402",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15777644\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 186.31  EUR",
+      "TOTAL": "TOTAL : 184.04 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Catherine Garcia\n459 Christine Mountain Suite 846\nRebekahfort, MD 32429 US\nTel:+(768)750-2058\nEmail:andrew35@example.org\nSite:http://www.simpson.info/",
+      "DATE": "Date: 24-May-2015",
+      "DUE_DATE": "Due Date : 09-Dec-2021",
+      "NUMBER": "INVOICE ID 4Y4M5d-781",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18707031\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 751.86  $",
+      "TOTAL": "TOTAL : 742.56 $"
+    }
+  },
+  {
+    "image": "Template40_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lynn Padilla\n95123 Cindy Plain Suite 650\nNorth Patricia, KY 06053 US\nTel:+(968)971-9604\nEmail:madelinewilliamson@example.org\nSite:https://parks-downs.net/",
+      "DATE": "Invoice Date: 02-Feb-2000",
+      "DUE_DATE": "Due Date : 14-Jun-2002",
+      "NUMBER": "INVOICE ID 2Y8M7d-970",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17178574\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 274.90  EUR",
+      "TOTAL": "TOTAL : 284.19 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Johnson\n197 Richardson Locks Apt. 808\nEast Teresaburgh, WI 37123 US\nTel:+(560)180-4423\nEmail:phillipscindy@example.com\nSite:https://goodwin.biz/",
+      "DATE": "Date: 16-Aug-1993",
+      "DUE_DATE": "Due Date : 06-Sep-2018",
+      "NUMBER": "INVOICE # INV14737492",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16802119\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1053.89  USD",
+      "TOTAL": "TOTAL : 1073.37 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Grant\n58068 Crawford Mountains Suite 220\nWest Tracytown, GU 50064 US\nTel:+(529)423-8471\nEmail:grayjohn@example.net\nSite:https://www.bates.com/",
+      "DATE": "Invoice Date: 23-Nov-2008",
+      "DUE_DATE": "Due Date : 22-Sep-1999",
+      "NUMBER": "INVOICE # 4522-537",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12948118\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1117.68  $",
+      "TOTAL": "TOTAL : 1116.54 $"
+    }
+  },
+  {
+    "image": "Template40_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jasmine Harvey\n4855 Jocelyn Cliff Apt. 583\nCruzport, KY 08312 US\nTel:+(056)654-6644\nEmail:xmitchell@example.com\nSite:http://www.brady.com/",
+      "DATE": "Invoice Date: 01-Dec-2000",
+      "DUE_DATE": "Due Date : 02-Jan-2007",
+      "NUMBER": "INVOICE ID INV06787229",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19401871\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 591.42  $",
+      "TOTAL": "TOTAL : 606.31 $"
+    }
+  },
+  {
+    "image": "Template40_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carla Ramirez\n5945 Philip Alley Suite 988\nStevenmouth, OH 50312 US\nTel:+(275)215-4333\nEmail:joanna28@example.net\nSite:https://williams-hood.com/",
+      "DATE": "Invoice Date: 14-Dec-2014",
+      "DUE_DATE": "Due Date : 20-Jan-2014",
+      "NUMBER": "Invoice number INV/86-09/085",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12975408\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 702.22  EUR",
+      "TOTAL": "TOTAL : 720.73 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Corey Estrada\n129 Chelsea Landing\nSouth Johnton, RI 48714 US\nTel:+(758)293-2439\nEmail:marybrown@example.com\nSite:https://www.hunter.com/",
+      "DATE": "Invoice Date: 25-Mar-1999",
+      "DUE_DATE": "Due Date : 19-Sep-2005",
+      "NUMBER": "INVOICE ID INV/93-72/597",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17044588\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 703.91  USD",
+      "TOTAL": "TOTAL : 708.54 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tyler Cobb\n2730 Mckinney Locks\nKimberlyburgh, RI 44325 US\nTel:+(503)202-3123\nEmail:fieldsrodney@example.org\nSite:http://www.reynolds-campos.net/",
+      "DATE": "Date: 01-Jul-2022",
+      "DUE_DATE": "Due Date : 10-Oct-2022",
+      "NUMBER": "INVOICE # 8574-881",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18355500\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 466.31  USD",
+      "TOTAL": "TOTAL : 481.34 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lauren Roy\n7860 Tammy Station Apt. 695\nJerrybury, RI 54579 US\nTel:+(526)182-1650\nEmail:okelly@example.com\nSite:https://lee.net/",
+      "DATE": "Invoice Date: 22-Aug-2000",
+      "DUE_DATE": "Due Date : 30-Dec-2012",
+      "NUMBER": "INVOICE # INV90087059",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16585206\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 327.71  EUR",
+      "TOTAL": "TOTAL : 340.78 EUR"
+    }
+  },
+  {
+    "image": "Template40_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Mckinney\n96373 Elizabeth Isle\nMarkfort, LA 76667 US\nTel:+(542)217-9850\nEmail:toniwilliams@example.org\nSite:https://mcintyre.org/",
+      "DATE": "Date: 05-Apr-2009",
+      "DUE_DATE": "Due Date : 13-Feb-1996",
+      "NUMBER": "INVOICE ID INV02379165",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11881073\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 685.84  USD",
+      "TOTAL": "TOTAL : 692.03 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nancy Scott\n4854 Jordan Drives Apt. 490\nPort Austin, NH 14679 US\nTel:+(547)758-4668\nEmail:ywalker@example.net\nSite:https://jones-nelson.com/",
+      "DATE": "Date: 11-Dec-2021",
+      "DUE_DATE": "Due Date : 14-Oct-2006",
+      "NUMBER": "INVOICE # INV96617112",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19003024\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 301.39  USD",
+      "TOTAL": "TOTAL : 299.12 USD"
+    }
+  },
+  {
+    "image": "Template40_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alex Smith\n41515 Anthony Ranch\nSmithstad, SD 46163 US\nTel:+(711)526-3105\nEmail:monica52@example.com\nSite:https://stone.com/",
+      "DATE": "Invoice Date: 27-Jan-2017",
+      "DUE_DATE": "Due Date : 28-Oct-1999",
+      "NUMBER": "Invoice number 3657-216",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14384032\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:8508 Morgan Forge Suite 534\nNorth Michaelchester, VT 71194 US",
+      "SELLER_NAME": "Parker, Phillips and Thomas",
+      "SUB_TOTAL": "SUB_TOTAL : 1454.95  EUR",
+      "TOTAL": "TOTAL : 1506.26 EUR"
+    }
+  }
+]

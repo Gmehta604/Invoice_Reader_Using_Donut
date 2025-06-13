@@ -1,0 +1,682 @@
+[
+  {
+    "image": "Template43_Instance47.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohn Ballard\n192 Kelly Lodge Apt. 115\nLanemouth, SD 65948 US\nTel:+(839)448-9687\nEmail:douglasstephanie@example.org\nSite:http://harper.biz/",
+      "DATE": "Invoice Date: 11-Dec-2020",
+      "DISCOUNT": "DISCOUNT(4.7%): (-)  4.93",
+      "DUE_DATE": "Due Date : 12-Sep-1999",
+      "NUMBER": "INVOICE ID 1Y8M7d-044",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 104.94  USD",
+      "TAX": "TAX:VAT (3.66%):  3.85 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 107.48 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance29.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRachel Scott\n353 Mark Courts Apt. 918\nWest Ashley, NE 53190 US\nTel:+(203)885-3960\nEmail:jonathonmolina@example.net\nSite:http://www.kennedy.com/",
+      "DATE": "Invoice Date: 23-Sep-1993",
+      "DISCOUNT": "DISCOUNT(3.65%): (-)  27.97",
+      "DUE_DATE": "Due Date : 04-Nov-1996",
+      "NUMBER": "INVOICE ID INV/85-69/727",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 766.38  $",
+      "TAX": "TAX:VAT (6.77%):  51.91 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 793.38 $"
+    }
+  },
+  {
+    "image": "Template43_Instance130.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nYolanda Arias\n171 Juan Prairie\nTuckerfort, WA 48237 US\nTel:+(951)623-7486\nEmail:arivera@example.net\nSite:http://www.johnson.com/",
+      "DATE": "Invoice Date: 02-Sep-2018",
+      "DISCOUNT": "DISCOUNT(2.4%): (-)  3.81",
+      "DUE_DATE": "Due Date : 16-Nov-2009",
+      "NUMBER": "Invoice number INV93706327",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 158.89  USD",
+      "TAX": "TAX:VAT (3.30%):  5.25 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 161.22 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance60.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSarah Crawford\n23672 Emma Corners\nJamesbury, MO 07000 US\nTel:+(143)474-0590\nEmail:vgomez@example.net\nSite:http://monroe-kennedy.biz/",
+      "DATE": "Invoice Date: 16-Jul-1993",
+      "DISCOUNT": "DISCOUNT(2.5%): (-)  8.68",
+      "DUE_DATE": "Due Date : 17-Oct-2020",
+      "NUMBER": "INVOICE # 6926-506",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 347.20  EUR",
+      "TAX": "TAX:VAT (6.17%):  21.43 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 353.14 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance13.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEmily Hunter\n05644 Obrien Union Apt. 225\nStevensfort, WI 18416 US\nTel:+(434)525-0973\nEmail:mcdonaldkurt@example.net\nSite:https://lamb.org/",
+      "DATE": "Date: 18-Mar-2003",
+      "DISCOUNT": "DISCOUNT(2.27%): (-)  23.08",
+      "DUE_DATE": "Due Date : 27-Dec-1994",
+      "NUMBER": "INVOICE # 3Y6M7d-223",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1016.74  USD",
+      "TAX": "TAX:VAT (4.34%):  44.14 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1044.82 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance144.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVicki Russell\n826 Brooks Isle Apt. 597\nRiceport, AZ 72653 US\nTel:+(976)397-9501\nEmail:vroberts@example.net\nSite:http://www.vega.com/",
+      "DATE": "Date: 06-Apr-2002",
+      "DISCOUNT": "DISCOUNT(4.31%): (-)  34.63",
+      "DUE_DATE": "Due Date : 02-Apr-1996",
+      "NUMBER": "Invoice number 3911-879",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 803.43  $",
+      "TAX": "TAX:VAT (4.71%):  37.85 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 811.31 $"
+    }
+  },
+  {
+    "image": "Template43_Instance189.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoshua Knight\n948 Brittany Islands Suite 521\nDuarteview, OR 89033 US\nTel:+(681)974-4719\nEmail:mcphersonwilliam@example.net\nSite:http://thompson.com/",
+      "DATE": "Invoice Date: 25-Nov-2002",
+      "DISCOUNT": "DISCOUNT(1.44%): (-)  11.4",
+      "DUE_DATE": "Due Date : 23-Nov-2021",
+      "NUMBER": "Invoice number INV64477920",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 791.51  EUR",
+      "TAX": "TAX:VAT (6.70%):  53.03 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 825.31 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance89.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nStephen Ryan\n2991 Michelle Islands\nMichaelmouth, PW 59975 US\nTel:+(394)743-1220\nEmail:dustin93@example.com\nSite:https://palmer-wilson.info/",
+      "DATE": "Invoice Date: 29-Sep-1996",
+      "DISCOUNT": "DISCOUNT(2.81%): (-)  14.56",
+      "DUE_DATE": "Due Date : 14-Aug-2011",
+      "NUMBER": "INVOICE # INV09896459",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 518.19  $",
+      "TAX": "TAX:VAT (5.72%):  29.66 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 537.28 $"
+    }
+  },
+  {
+    "image": "Template43_Instance68.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoseph Brown\n8808 Bruce Isle Apt. 979\nAndersonshire, NY 39490 US\nTel:+(938)416-5965\nEmail:cummingscarl@example.com\nSite:http://steele-howell.info/",
+      "DATE": "Date: 25-Aug-2001",
+      "DISCOUNT": "DISCOUNT(1.12%): (-)  12.24",
+      "DUE_DATE": "Due Date : 13-Sep-2012",
+      "NUMBER": "Invoice number INV31992573",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1092.80  EUR",
+      "TAX": "TAX:VAT (3.42%):  37.39 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1101.45 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance45.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristy Patterson\n81621 Lane Ville\nNorth Barbara, VI 16732 US\nTel:+(276)770-9643\nEmail:nicolemiller@example.net\nSite:https://wise.com/",
+      "DATE": "Date: 09-Aug-1998",
+      "DISCOUNT": "DISCOUNT(2.87%): (-)  15.84",
+      "DUE_DATE": "Due Date : 11-Aug-2011",
+      "NUMBER": "INVOICE ID INV/17-74/653",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 552.09  EUR",
+      "TAX": "TAX:VAT (4.18%):  23.09 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 551.00 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance128.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCrystal Norris\n45915 Brittney Union\nWoodview, MT 48978 US\nTel:+(442)275-2569\nEmail:ybenjamin@example.net\nSite:http://bruce.com/",
+      "DATE": "Date: 25-Jun-1996",
+      "DISCOUNT": "DISCOUNT(4.28%): (-)  28.15",
+      "DUE_DATE": "Due Date : 07-Mar-2016",
+      "NUMBER": "INVOICE ID INV/92-40/660",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 657.72  USD",
+      "TAX": "TAX:VAT (4.12%):  27.07 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 669.60 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance115.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJennifer Spencer\n491 Johnson Loaf Apt. 760\nSouth Shane, VI 07980 US\nTel:+(242)719-7089\nEmail:longjames@example.org\nSite:http://www.perez-thomas.com/",
+      "DATE": "Date: 13-Dec-1994",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  21.96",
+      "DUE_DATE": "Due Date : 27-Oct-1995",
+      "NUMBER": "INVOICE # 7Y7M8d-665",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 717.60  $",
+      "TAX": "TAX:VAT (4.75%):  34.10 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 724.43 $"
+    }
+  },
+  {
+    "image": "Template43_Instance187.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nPaul Andersen\n70429 Lindsay Throughway Apt. 266\nWest Kylestad, TX 75246 US\nTel:+(653)929-2902\nEmail:steven60@example.net\nSite:http://www.pittman.com/",
+      "DATE": "Invoice Date: 14-Jun-2000",
+      "DISCOUNT": "DISCOUNT(4.59%): (-)  36.52",
+      "DUE_DATE": "Due Date : 30-May-2001",
+      "NUMBER": "Invoice number INV/16-13/059",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 795.58  $",
+      "TAX": "TAX:VAT (4.21%):  33.46 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 800.16 $"
+    }
+  },
+  {
+    "image": "Template43_Instance37.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nPamela Patterson\n6200 Eugene Underpass\nNorth Nicholasport, MA 23015 US\nTel:+(225)848-4608\nEmail:lmartinez@example.net\nSite:http://www.cortez.biz/",
+      "DATE": "Invoice Date: 01-Dec-2016",
+      "DISCOUNT": "DISCOUNT(2.52%): (-)  4.15",
+      "DUE_DATE": "Due Date : 18-Jun-2022",
+      "NUMBER": "INVOICE # 7Y5M9d-728",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 164.80  $",
+      "TAX": "TAX:VAT (6.20%):  10.21 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 170.12 $"
+    }
+  },
+  {
+    "image": "Template43_Instance78.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristina Wallace\n7586 Garcia Stravenue Apt. 568\nMezaburgh, WY 32148 US\nTel:+(788)822-7529\nEmail:jessicacarroll@example.net\nSite:http://blevins-flores.com/",
+      "DATE": "Date: 22-Mar-2004",
+      "DISCOUNT": "DISCOUNT(3.08%): (-)  29.34",
+      "DUE_DATE": "Due Date : 08-Nov-2000",
+      "NUMBER": "Invoice number 4Y1M7d-839",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 952.46  EUR",
+      "TAX": "TAX:VAT (3.06%):  29.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 966.99 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance91.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRebecca Williams\n82388 White Pass Apt. 667\nToniborough, DE 62371 US\nTel:+(382)939-2608\nEmail:ibond@example.org\nSite:https://harrington.com/",
+      "DATE": "Invoice Date: 24-Feb-2020",
+      "DISCOUNT": "DISCOUNT(2.57%): (-)  9.43",
+      "DUE_DATE": "Due Date : 24-Oct-2021",
+      "NUMBER": "Invoice number INV/00-36/117",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 366.83  $",
+      "TAX": "TAX:VAT (4.70%):  17.22 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 367.80 $"
+    }
+  },
+  {
+    "image": "Template43_Instance125.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJasmine Romero\n3768 Newton Mill\nNew Samuel, MP 99354 US\nTel:+(306)040-0143\nEmail:mark10@example.com\nSite:https://www.hester-brown.com/",
+      "DATE": "Date: 29-Sep-1997",
+      "DISCOUNT": "DISCOUNT(2.11%): (-)  2.98",
+      "DUE_DATE": "Due Date : 10-Dec-2000",
+      "NUMBER": "Invoice number 1Y6M2d-506",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 141.26  EUR",
+      "TAX": "TAX:VAT (3.48%):  4.91 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 143.73 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance197.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nShaun Smith\n428 Joseph Neck\nLopezside, ID 91382 US\nTel:+(371)298-4066\nEmail:rangelwilliam@example.net\nSite:https://www.obrien.net/",
+      "DATE": "Invoice Date: 28-Jun-1997",
+      "DISCOUNT": "DISCOUNT(1.4%): (-)  2.41",
+      "DUE_DATE": "Due Date : 29-Oct-2011",
+      "NUMBER": "INVOICE ID 8253-549",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 172.24  $",
+      "TAX": "TAX:VAT (3.01%):  5.18 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 170.67 $"
+    }
+  },
+  {
+    "image": "Template43_Instance22.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCynthia Mays\n5254 Daniel Locks\nKelseymouth, AK 97275 US\nTel:+(631)702-3375\nEmail:ellisjon@example.com\nSite:http://flores.com/",
+      "DATE": "Date: 13-Oct-2011",
+      "DISCOUNT": "DISCOUNT(3.18%): (-)  14.38",
+      "DUE_DATE": "Due Date : 19-Apr-2018",
+      "NUMBER": "Invoice number INV/98-78/137",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 452.07  $",
+      "TAX": "TAX:VAT (5.32%):  24.05 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 459.76 $"
+    }
+  },
+  {
+    "image": "Template43_Instance70.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChloe Cruz\n159 Catherine Mountain\nEast Jeremiah, NV 54858 US\nTel:+(804)973-4583\nEmail:donald46@example.net\nSite:https://grant.org/",
+      "DATE": "Invoice Date: 06-Oct-2009",
+      "DISCOUNT": "DISCOUNT(4.23%): (-)  23.41",
+      "DUE_DATE": "Due Date : 25-Aug-2009",
+      "NUMBER": "INVOICE # INV05612299",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 553.52  USD",
+      "TAX": "TAX:VAT (5.79%):  32.03 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 567.67 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance116.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMason Beasley\n915 Catherine Run\nBraymouth, AK 39352 US\nTel:+(560)836-4503\nEmail:mpena@example.net\nSite:https://www.johnson-lopez.com/",
+      "DATE": "Invoice Date: 20-Oct-2015",
+      "DISCOUNT": "DISCOUNT(3.95%): (-)  26.77",
+      "DUE_DATE": "Due Date : 06-Jun-2022",
+      "NUMBER": "INVOICE # 6306-103",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 677.62  EUR",
+      "TAX": "TAX:VAT (6.05%):  41.00 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 689.35 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance48.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGeorge Orr\n9509 Jones Overpass\nNorth Leahbury, GA 53716 US\nTel:+(404)091-7015\nEmail:kellerkyle@example.net\nSite:http://www.garner-buchanan.com/",
+      "DATE": "Invoice Date: 19-Aug-2007",
+      "DISCOUNT": "DISCOUNT(3.6%): (-)  21.22",
+      "DUE_DATE": "Due Date : 15-Apr-2017",
+      "NUMBER": "Invoice number INV/66-85/578",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 589.48  USD",
+      "TAX": "TAX:VAT (5.07%):  29.90 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 596.63 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance0.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRebecca Barajas\n1335 Martin Summit\nLake Angelicaside, ND 80800 US\nTel:+(033)004-6437\nEmail:ktorres@example.com\nSite:http://carroll.com/",
+      "DATE": "Invoice Date: 09-Apr-2005",
+      "DISCOUNT": "DISCOUNT(4.64%): (-)  40.51",
+      "DUE_DATE": "Due Date : 31-Jul-2015",
+      "NUMBER": "INVOICE ID 0380-762",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 873.10  USD",
+      "TAX": "TAX:VAT (5.51%):  48.10 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 904.70 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance177.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRebecca Byrd\n468 Stark Fort\nValdeztown, AK 09255 US\nTel:+(443)426-9810\nEmail:haydenchristopher@example.org\nSite:https://petersen.com/",
+      "DATE": "Date: 29-Jun-2008",
+      "DISCOUNT": "DISCOUNT(1.65%): (-)  11.85",
+      "DUE_DATE": "Due Date : 29-Aug-2013",
+      "NUMBER": "INVOICE # 3987-007",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 718.06  USD",
+      "TAX": "TAX:VAT (4.39%):  31.51 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 739.01 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance21.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNatasha Smith\n36917 Melissa Walk Apt. 412\nLake Carlstad, NE 35058 US\nTel:+(036)541-6315\nEmail:jeffrey12@example.net\nSite:http://castro.org/",
+      "DATE": "Invoice Date: 11-Mar-2014",
+      "DISCOUNT": "DISCOUNT(2.28%): (-)  8.51",
+      "DUE_DATE": "Due Date : 11-Apr-2004",
+      "NUMBER": "Invoice number 7Y6M9d-830",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 373.46  $",
+      "TAX": "TAX:VAT (5.50%):  20.53 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 388.72 $"
+    }
+  },
+  {
+    "image": "Template43_Instance96.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAllen Cook\n7489 Harvey Knolls Suite 158\nEast Graceview, MS 94814 US\nTel:+(915)629-3474\nEmail:nholder@example.org\nSite:https://www.moore.com/",
+      "DATE": "Invoice Date: 13-May-2000",
+      "DISCOUNT": "DISCOUNT(4.71%): (-)  41.48",
+      "DUE_DATE": "Due Date : 18-Oct-2018",
+      "NUMBER": "INVOICE # 9Y1M6d-264",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 880.71  $",
+      "TAX": "TAX:VAT (3.13%):  27.55 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 888.00 $"
+    }
+  },
+  {
+    "image": "Template43_Instance101.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJack Perez\n97817 Young Land Suite 353\nTannerton, OR 99129 US\nTel:+(397)799-2506\nEmail:frichardson@example.org\nSite:http://ward-brown.com/",
+      "DATE": "Invoice Date: 21-Jun-2006",
+      "DISCOUNT": "DISCOUNT(4.47%): (-)  14.69",
+      "DUE_DATE": "Due Date : 10-Dec-1993",
+      "NUMBER": "Invoice number 4581-411",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 328.74  $",
+      "TAX": "TAX:VAT (5.77%):  18.97 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 339.36 $"
+    }
+  },
+  {
+    "image": "Template43_Instance136.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDouglas Rush\n203 Greene Creek Apt. 364\nNorth Sydneyberg, CA 40284 US\nTel:+(719)241-9115\nEmail:zkelly@example.org\nSite:http://conway.com/",
+      "DATE": "Date: 23-Nov-2011",
+      "DISCOUNT": "DISCOUNT(4.16%): (-)  10.05",
+      "DUE_DATE": "Due Date : 05-Aug-2013",
+      "NUMBER": "Invoice number 1Y8M4d-594",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 241.61  USD",
+      "TAX": "TAX:VAT (3.47%):  8.37 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 246.33 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance122.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBarbara Potter\n5194 Daniel Track Apt. 155\nNew Melissa, MO 76736 US\nTel:+(823)051-3036\nEmail:calebmathews@example.com\nSite:https://www.garcia-johnson.com/",
+      "DATE": "Invoice Date: 11-Feb-1999",
+      "DISCOUNT": "DISCOUNT(2.83%): (-)  14.49",
+      "DUE_DATE": "Due Date : 21-Aug-2010",
+      "NUMBER": "INVOICE ID 2165-035",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 511.89  EUR",
+      "TAX": "TAX:VAT (3.82%):  19.56 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 522.39 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance166.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMakayla Gonzalez\n09839 Anthony Meadow\nYoungport, MN 52733 US\nTel:+(169)309-6153\nEmail:julia81@example.net\nSite:https://www.wagner.org/",
+      "DATE": "Date: 26-May-2009",
+      "DISCOUNT": "DISCOUNT(3.88%): (-)  19.55",
+      "DUE_DATE": "Due Date : 29-Jan-2007",
+      "NUMBER": "INVOICE ID INV/57-56/479",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 503.75  $",
+      "TAX": "TAX:VAT (4.98%):  25.08 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 510.54 $"
+    }
+  },
+  {
+    "image": "Template43_Instance139.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSarah Cunningham\n2973 Jill Keys\nSouth Paul, CA 62178 US\nTel:+(421)141-8704\nEmail:paul35@example.org\nSite:https://barnes-watkins.com/",
+      "DATE": "Invoice Date: 16-Mar-2018",
+      "DISCOUNT": "DISCOUNT(3.23%): (-)  29.32",
+      "DUE_DATE": "Due Date : 26-Jan-2006",
+      "NUMBER": "Invoice number 2Y5M7d-905",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 907.76  EUR",
+      "TAX": "TAX:VAT (5.98%):  54.24 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 943.30 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance50.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWilliam Lopez\n281 Caldwell Circle\nPort Raymond, MN 79224 US\nTel:+(699)203-8203\nEmail:obrewer@example.org\nSite:http://www.porter-buchanan.info/",
+      "DATE": "Date: 10-Feb-2019",
+      "DISCOUNT": "DISCOUNT(4.39%): (-)  22.36",
+      "DUE_DATE": "Due Date : 17-Jan-2009",
+      "NUMBER": "INVOICE ID 1Y6M3d-164",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 509.23  EUR",
+      "TAX": "TAX:VAT (6.24%):  31.76 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 517.26 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance65.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTaylor Davis\n9052 Brown Parks\nKleinmouth, CA 60072 US\nTel:+(198)741-0633\nEmail:madisonharris@example.com\nSite:http://www.nelson.com/",
+      "DATE": "Date: 29-May-2013",
+      "DISCOUNT": "DISCOUNT(3.98%): (-)  26.79",
+      "DUE_DATE": "Due Date : 31-Aug-2010",
+      "NUMBER": "INVOICE ID 8157-997",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 673.18  $",
+      "TAX": "TAX:VAT (4.35%):  29.31 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 674.49 $"
+    }
+  },
+  {
+    "image": "Template43_Instance120.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMark White\n549 Kimberly Gardens\nReedstad, SD 15879 US\nTel:+(739)968-8113\nEmail:elizabethdavis@example.net\nSite:http://carter.com/",
+      "DATE": "Invoice Date: 27-Jun-2018",
+      "DISCOUNT": "DISCOUNT(3.17%): (-)  43.96",
+      "DUE_DATE": "Due Date : 12-Dec-1997",
+      "NUMBER": "INVOICE ID INV/90-46/134",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1386.67  USD",
+      "TAX": "TAX:VAT (5.99%):  83.00 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1433.48 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance4.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJuan Dodson\n3987 Edwards Street Apt. 805\nCarterburgh, NE 92607 US\nTel:+(709)647-4371\nEmail:robert47@example.org\nSite:http://stafford.com/",
+      "DATE": "Date: 12-Feb-2010",
+      "DISCOUNT": "DISCOUNT(2.19%): (-)  15.02",
+      "DUE_DATE": "Due Date : 12-Jan-2008",
+      "NUMBER": "INVOICE # 4Y4M5d-308",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 685.86  USD",
+      "TAX": "TAX:VAT (3.52%):  24.17 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 694.67 USD"
+    }
+  },
+  {
+    "image": "Template43_Instance52.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJennifer Brown\n183 Rachel Course\nPort Sarachester, KS 29896 US\nTel:+(640)792-5606\nEmail:kharris@example.net\nSite:http://black.biz/",
+      "DATE": "Date: 01-Mar-1996",
+      "DISCOUNT": "DISCOUNT(4.97%): (-)  28.66",
+      "DUE_DATE": "Due Date : 16-Jun-2011",
+      "NUMBER": "Invoice number 1227-402",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 576.58  EUR",
+      "TAX": "TAX:VAT (6.95%):  40.08 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 601.90 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance173.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJessica Rogers\n8138 Villa Ports\nJohnstonport, AK 97511 US\nTel:+(050)475-3062\nEmail:james25@example.org\nSite:http://johnson-burke.com/",
+      "DATE": "Date: 27-Sep-2013",
+      "DISCOUNT": "DISCOUNT(2.05%): (-)  11.54",
+      "DUE_DATE": "Due Date : 26-Apr-1997",
+      "NUMBER": "Invoice number 8353-690",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 562.92  EUR",
+      "TAX": "TAX:VAT (4.85%):  27.31 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 580.60 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance12.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWilliam Dalton\n80391 Weber Island Suite 138\nLake Patricia, SC 48561 US\nTel:+(227)459-4337\nEmail:anthony11@example.net\nSite:https://gonzales.com/",
+      "DATE": "Invoice Date: 19-Mar-2016",
+      "DISCOUNT": "DISCOUNT(3.43%): (-)  14.05",
+      "DUE_DATE": "Due Date : 12-Nov-2001",
+      "NUMBER": "Invoice number 6642-305",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 409.64  EUR",
+      "TAX": "TAX:VAT (6.86%):  28.09 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 418.64 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance85.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTodd Rich\n265 Michelle Centers\nNew Brian, KY 07583 US\nTel:+(477)394-4476\nEmail:gomezalyssa@example.com\nSite:https://www.shepard.info/",
+      "DATE": "Invoice Date: 27-Feb-2008",
+      "DISCOUNT": "DISCOUNT(4.6%): (-)  12.94",
+      "DUE_DATE": "Due Date : 06-May-2020",
+      "NUMBER": "INVOICE ID 1134-938",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 281.40  EUR",
+      "TAX": "TAX:VAT (6.92%):  19.47 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 291.25 EUR"
+    }
+  },
+  {
+    "image": "Template43_Instance16.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVincent Patterson\n5441 Wayne Trail\nNorth Amy, KS 39896 US\nTel:+(735)717-9486\nEmail:steven46@example.org\nSite:http://www.salinas.net/",
+      "DATE": "Date: 28-Oct-1995",
+      "DISCOUNT": "DISCOUNT(4.46%): (-)  15.23",
+      "DUE_DATE": "Due Date : 02-Jan-2019",
+      "NUMBER": "Invoice number INV/52-93/658",
+      "SELLER_ADDRESS": "Address:938 Gonzalez Key Suite 573\nNew Anitaport, MN 04941 US",
+      "SELLER_EMAIL": "Email:susan62@example.com",
+      "SELLER_SITE": "www.PaulGibsonandAnderson.com",
+      "SUB_TOTAL": "SUB_TOTAL : 341.44  $",
+      "TAX": "TAX:VAT (3.52%):  12.01 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 344.20 $"
+    }
+  }
+]

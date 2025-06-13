@@ -1,0 +1,1922 @@
+[
+  {
+    "image": "Template30_Instance135.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 09-Sep-2019",
+      "NUMBER": "INVOICE ID INV/97-36/197",
+      "SUB_TOTAL": "SUB_TOTAL : 274.50  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and seventy-\n-nine point eight seven",
+      "SEND_TO": "SHIP_TO:\nSusan Clark\n936 Paul Burg Apt. 250\nCarterborough, AR 83480 US\nTel:+(782)682-3599\nEmail:ritahopkins@example.net\nSite:http://www.cain.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance98.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 16-May-1996",
+      "NUMBER": "INVOICE ID 5868-606",
+      "SUB_TOTAL": "SUB_TOTAL : 579.05  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-three point five one",
+      "SEND_TO": "SHIP_TO:\nZachary Brown\n2828 Eddie Creek Apt. 956\nDavidborough, NY 48039 US\nTel:+(882)904-0525\nEmail:ashley23@example.net\nSite:http://www.davis-bolton.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance171.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Aug-2011",
+      "NUMBER": "INVOICE ID 1Y1M2d-660",
+      "SUB_TOTAL": "SUB_TOTAL : 472.16  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and se-\nventy-two point nine",
+      "SEND_TO": "SHIP_TO:\nDylan Knapp\n51844 James Prairie Suite 981\nBrennanberg, WV 70425 US\nTel:+(681)110-1290\nEmail:moorephillip@example.org\nSite:https://www.garcia-peterson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance174.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Nov-2016",
+      "NUMBER": "INVOICE ID INV/38-47/851",
+      "SUB_TOTAL": "SUB_TOTAL : 612.40  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and forty-\n-seven point one seven",
+      "SEND_TO": "SHIP_TO:\nLee Hunter\n98354 Shields Squares\nAmyfurt, MS 89070 US\nTel:+(391)027-8389\nEmail:franciscobarnett@example.org\nSite:https://www.gomez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance93.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 14-Apr-2012",
+      "NUMBER": "Invoice number 4Y6M8d-821",
+      "SUB_TOTAL": "SUB_TOTAL : 509.97  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirt-\ny-nine point zero nine",
+      "SEND_TO": "SHIP_TO:\nStephanie Price\n58533 Jeffrey Course Suite 953\nEast Samantha, WI 57677 US\nTel:+(980)696-0405\nEmail:ucampbell@example.com\nSite:https://www.ingram.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance175.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 27-May-2013",
+      "NUMBER": "Invoice number INV/65-19/034",
+      "SUB_TOTAL": "SUB_TOTAL : 1201.11  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred -\nand fifteen point three two",
+      "SEND_TO": "SHIP_TO:\nStacey Meyer\n9311 Garner Crossing\nRowemouth, DC 01012 US\nTel:+(388)653-1543\nEmail:davidcoleman@example.net\nSite:https://wong-williams.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance141.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Sep-1997",
+      "NUMBER": "INVOICE # INV/37-90/058",
+      "SUB_TOTAL": "SUB_TOTAL : 496.17  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and s-\nix point seven one",
+      "SEND_TO": "SHIP_TO:\nJesus Flores\n690 Carpenter Forge Suite 942\nJorgestad, PA 88706 US\nTel:+(879)553-5692\nEmail:curtisalexandra@example.com\nSite:https://harper-key.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance158.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Nov-2010",
+      "NUMBER": "INVOICE # 2028-002",
+      "SUB_TOTAL": "SUB_TOTAL : 595.48  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and ei-\nght point two four",
+      "SEND_TO": "SHIP_TO:\nJacob Johnson\n098 Franco Springs Suite 200\nCookeburgh, NY 88888 US\nTel:+(809)164-1788\nEmail:jessicasandoval@example.com\nSite:http://schroeder.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance25.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Oct-2021",
+      "NUMBER": "INVOICE ID 2706-102",
+      "SUB_TOTAL": "SUB_TOTAL : 274.05  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-four point zero six",
+      "SEND_TO": "SHIP_TO:\nDeanna Hendrix\n473 Hodges Ridges\nThomasland, DE 22678 US\nTel:+(903)796-7665\nEmail:hogandavid@example.org\nSite:http://webb.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance186.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 01-Feb-1996",
+      "NUMBER": "INVOICE # INV53745406",
+      "SUB_TOTAL": "SUB_TOTAL : 773.23  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and nine-\nty-six point one three",
+      "SEND_TO": "SHIP_TO:\nApril Frey\n713 Julia Point\nWest Michaelton, MA 37481 US\nTel:+(994)955-6592\nEmail:ggarcia@example.net\nSite:http://www.castillo-graham.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance108.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Jul-2000",
+      "NUMBER": "INVOICE # 7Y8M8d-287",
+      "SUB_TOTAL": "SUB_TOTAL : 88.25  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eighty-nine -\npoint two two",
+      "SEND_TO": "SHIP_TO:\nRandy Stewart\n907 Ebony Turnpike Apt. 365\nHebertport, LA 70513 US\nTel:+(244)889-3243\nEmail:jmorgan@example.net\nSite:https://king-barnett.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance43.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Mar-2015",
+      "NUMBER": "INVOICE # 7Y5M1d-100",
+      "SUB_TOTAL": "SUB_TOTAL : 1294.56  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred-\nand thirty point four eight",
+      "SEND_TO": "SHIP_TO:\nEric Spencer\n019 Angela Forks Apt. 353\nNorth Raymond, MD 41702 US\nTel:+(836)381-8658\nEmail:brianharding@example.org\nSite:http://frazier-may.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance71.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 23-Feb-2001",
+      "NUMBER": "INVOICE # INV/30-38/820",
+      "SUB_TOTAL": "SUB_TOTAL : 257.61  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty-\n-four point one three",
+      "SEND_TO": "SHIP_TO:\nScott Thompson\n00557 Martinez Parkways\nSouth Davidview, MP 26882 US\nTel:+(743)675-5468\nEmail:crossmartin@example.net\nSite:https://holder.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance37.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 13-May-2018",
+      "NUMBER": "Invoice number 3Y8M4d-515",
+      "SUB_TOTAL": "SUB_TOTAL : 1010.71  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and twent-\ny-three point nine four",
+      "SEND_TO": "SHIP_TO:\nChristine Alvarado\n40923 Jose Manor Suite 087\nJennabury, SD 61411 US\nTel:+(150)190-8790\nEmail:ajones@example.net\nSite:http://carr-stanley.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance47.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Feb-2021",
+      "NUMBER": "INVOICE ID INV40637025",
+      "SUB_TOTAL": "SUB_TOTAL : 150.68  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and fift-\ny-four point two two",
+      "SEND_TO": "SHIP_TO:\nTimothy White\n15930 Montes Junctions\nBowmanport, VI 41925 US\nTel:+(812)824-6249\nEmail:chudson@example.net\nSite:http://graham-guerrero.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance1.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Sep-2012",
+      "NUMBER": "INVOICE # 3Y8M1d-551",
+      "SUB_TOTAL": "SUB_TOTAL : 597.08  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and ei-\nght point six seven",
+      "SEND_TO": "SHIP_TO:\nTiffany Stokes\n278 Terri Shoals\nSouth Lance, FL 42103 US\nTel:+(377)488-9542\nEmail:allenmartin@example.net\nSite:https://www.james-taylor.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance164.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 26-Mar-2012",
+      "NUMBER": "INVOICE ID 2Y7M2d-891",
+      "SUB_TOTAL": "SUB_TOTAL : 1295.31  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred -\nand fourteen point zero seven",
+      "SEND_TO": "SHIP_TO:\nMelissa Tucker\n26060 Henderson Trace Apt. 653\nPort Adrianfort, WV 59826 US\nTel:+(593)266-6021\nEmail:ophillips@example.org\nSite:https://www.reynolds-james.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance150.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Sep-2019",
+      "NUMBER": "INVOICE ID INV/84-75/113",
+      "SUB_TOTAL": "SUB_TOTAL : 746.63  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eigh-\nty-four point zero four",
+      "SEND_TO": "SHIP_TO:\nSarah Cook\n696 Mark Lake Suite 616\nChadshire, NJ 31228 US\nTel:+(989)290-1514\nEmail:ccopeland@example.com\nSite:http://ortiz.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance13.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 05-Sep-1996",
+      "NUMBER": "INVOICE # 4668-392",
+      "SUB_TOTAL": "SUB_TOTAL : 590.42  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and ele-\nven point seven six",
+      "SEND_TO": "SHIP_TO:\nLori Hicks\n197 Edwards Stravenue Apt. 792\nBrennanborough, DE 08849 US\nTel:+(080)075-3549\nEmail:dparker@example.org\nSite:http://larson-nelson.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance155.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 13-Jul-2017",
+      "NUMBER": "Invoice number INV02842486",
+      "SUB_TOTAL": "SUB_TOTAL : 534.80  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and f-\nifty point one five",
+      "SEND_TO": "SHIP_TO:\nTimothy Ayers\n862 William Plaza\nMichelleland, IA 30353 US\nTel:+(579)008-5231\nEmail:amanda60@example.org\nSite:https://nichols-morgan.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance189.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 17-Jan-1996",
+      "NUMBER": "INVOICE # INV57281531",
+      "SUB_TOTAL": "SUB_TOTAL : 714.01  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-five point zero seven",
+      "SEND_TO": "SHIP_TO:\nCorey Padilla\n557 Williams Wells Suite 389\nWeissbury, WA 75271 US\nTel:+(511)011-5073\nEmail:kyle50@example.org\nSite:http://jennings-yu.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance109.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-Jan-1996",
+      "NUMBER": "Invoice number INV/51-39/801",
+      "SUB_TOTAL": "SUB_TOTAL : 529.95  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and fo-\nrty point five five",
+      "SEND_TO": "SHIP_TO:\nMichelle Sanders\n412 Atkinson Village\nSouth Carolhaven, GA 95048 US\nTel:+(749)181-1934\nEmail:wjohnson@example.org\nSite:https://www.dixon.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance194.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 03-Aug-2013",
+      "NUMBER": "INVOICE ID 4Y3M7d-201",
+      "SUB_TOTAL": "SUB_TOTAL : 1061.19  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and si-\nxty point four eight",
+      "SEND_TO": "SHIP_TO:\nBrian Green\n7286 Shawn Keys\nLydiaside, NJ 81248 US\nTel:+(454)293-3701\nEmail:chandlermelissa@example.net\nSite:http://www.golden.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance46.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 15-Oct-2018",
+      "NUMBER": "INVOICE ID INV/44-55/966",
+      "SUB_TOTAL": "SUB_TOTAL : 604.54  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and eig-\nht point three nine",
+      "SEND_TO": "SHIP_TO:\nChristopher Collins\n781 Gonzalez Springs Apt. 763\nSouth Roberta, AL 59025 US\nTel:+(798)551-1852\nEmail:jennifernewton@example.org\nSite:http://davis.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance69.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-May-2021",
+      "NUMBER": "Invoice number INV/57-81/727",
+      "SUB_TOTAL": "SUB_TOTAL : 1273.33  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred and-\neighty-three point five seven",
+      "SEND_TO": "SHIP_TO:\nElaine Kidd\n969 Garrett Run\nJacksonview, TX 40039 US\nTel:+(640)948-0374\nEmail:hughesrodney@example.org\nSite:http://walters.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance151.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-May-2011",
+      "NUMBER": "INVOICE # 7869-697",
+      "SUB_TOTAL": "SUB_TOTAL : 464.96  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and six-\nty-two point two two",
+      "SEND_TO": "SHIP_TO:\nRonald Cain\n417 Lauren Landing\nAmandachester, VI 28239 US\nTel:+(195)160-5706\nEmail:sherry26@example.com\nSite:https://www.garcia.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance82.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 31-Dec-2017",
+      "NUMBER": "INVOICE # 7117-438",
+      "SUB_TOTAL": "SUB_TOTAL : 227.74  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-four point two three",
+      "SEND_TO": "SHIP_TO:\nChelsea Martin\n6501 Dawn Trace\nLindsayview, MD 65414 US\nTel:+(910)236-4913\nEmail:dustinjones@example.com\nSite:https://www.rivera-hoover.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance182.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 04-Aug-2001",
+      "NUMBER": "Invoice number INV/25-03/251",
+      "SUB_TOTAL": "SUB_TOTAL : 408.53  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and twent-\ny-four point zero eight",
+      "SEND_TO": "SHIP_TO:\nRyan Wiley DDS\n5817 Sonia Stravenue\nJoneschester, RI 62411 US\nTel:+(138)960-0397\nEmail:ibrown@example.net\nSite:https://www.grant.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance168.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 01-Oct-2011",
+      "NUMBER": "Invoice number INV/95-53/108",
+      "SUB_TOTAL": "SUB_TOTAL : 915.17  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  nine hundred and forty-\n-nine point eight eight",
+      "SEND_TO": "SHIP_TO:\nKaylee Perry\n618 Antonio Hill Apt. 094\nRachelton, SD 23205 US\nTel:+(505)909-8747\nEmail:taylormatthew@example.net\nSite:http://blankenship.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance70.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 05-Apr-2001",
+      "NUMBER": "INVOICE # INV/79-63/760",
+      "SUB_TOTAL": "SUB_TOTAL : 453.20  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and se-\nventy point six two",
+      "SEND_TO": "SHIP_TO:\nMichelle Brown\n96833 Sherri Inlet\nLake Stephanie, NY 40070 US\nTel:+(347)870-2483\nEmail:gravesmark@example.com\nSite:https://www.taylor.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance96.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 29-Jul-2008",
+      "NUMBER": "INVOICE # INV83689526",
+      "SUB_TOTAL": "SUB_TOTAL : 845.69  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fort-\ny-eight point two three",
+      "SEND_TO": "SHIP_TO:\nCrystal Middleton\n950 Butler Crest\nWashingtonview, MH 63274 US\nTel:+(921)641-6313\nEmail:valeriehartman@example.net\nSite:https://www.morgan.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance17.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-Oct-2017",
+      "NUMBER": "Invoice number INV45752177",
+      "SUB_TOTAL": "SUB_TOTAL : 385.70  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and ninet-\ny-two point three eight",
+      "SEND_TO": "SHIP_TO:\nPaul Jones\n76781 Martinez Plains\nSouth Abigail, NY 58608 US\nTel:+(604)877-6285\nEmail:tholmes@example.com\nSite:http://www.galloway-michael.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance79.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 03-Apr-2008",
+      "NUMBER": "INVOICE # 6094-834",
+      "SUB_TOTAL": "SUB_TOTAL : 626.84  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and fort-\ny-six point eight two",
+      "SEND_TO": "SHIP_TO:\nBrian Davis\n79317 Douglas Garden\nNew Stacymouth, CT 33446 US\nTel:+(179)686-4332\nEmail:william42@example.com\nSite:http://www.campbell.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance145.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 01-Jun-1996",
+      "NUMBER": "Invoice number INV/37-29/608",
+      "SUB_TOTAL": "SUB_TOTAL : 814.21  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and ni-\nneteen point nine six",
+      "SEND_TO": "SHIP_TO:\nTanya Parks\n699 Marcus Well Apt. 864\nLewisborough, VI 10854 US\nTel:+(308)738-0754\nEmail:grantcalhoun@example.net\nSite:https://www.brock-oliver.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance55.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 19-Sep-2006",
+      "NUMBER": "INVOICE # INV42884772",
+      "SUB_TOTAL": "SUB_TOTAL : 313.15  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and si-\nxteen point two eight",
+      "SEND_TO": "SHIP_TO:\nMark Jones\n6131 Duran Rue Apt. 618\nChristopherborough, SC 91307 US\nTel:+(540)434-7297\nEmail:slester@example.org\nSite:http://www.murphy.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance86.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Jun-2012",
+      "NUMBER": "INVOICE ID INV72461750",
+      "SUB_TOTAL": "SUB_TOTAL : 546.80  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and for-\nty-one point one two",
+      "SEND_TO": "SHIP_TO:\nJason Bennett\n09138 Mary Ford Suite 334\nHawkinsfurt, NJ 04331 US\nTel:+(644)786-8543\nEmail:rsanchez@example.com\nSite:https://greene-tucker.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance53.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 05-Dec-1996",
+      "NUMBER": "INVOICE # 5Y3M1d-573",
+      "SUB_TOTAL": "SUB_TOTAL : 496.28  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and nin-\nety-two point one six",
+      "SEND_TO": "SHIP_TO:\nJeffrey Robinson\n097 Christine Station\nMoyershire, KY 28012 US\nTel:+(672)335-9897\nEmail:mark05@example.org\nSite:https://www.wolf.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance180.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 19-Aug-1997",
+      "NUMBER": "INVOICE ID 5Y4M9d-971",
+      "SUB_TOTAL": "SUB_TOTAL : 458.08  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-one point seven five",
+      "SEND_TO": "SHIP_TO:\nJennifer Collins\n13642 Thomas Spur\nEast Sarah, OR 22778 US\nTel:+(992)574-4583\nEmail:aliciaboyer@example.com\nSite:https://davis-harris.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance65.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 26-Sep-2015",
+      "NUMBER": "INVOICE ID 6669-879",
+      "SUB_TOTAL": "SUB_TOTAL : 103.40  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and th-\nree point eight one",
+      "SEND_TO": "SHIP_TO:\nLinda Pittman\n64524 Anderson Parks\nRobertview, NM 62485 US\nTel:+(284)434-3957\nEmail:daniel78@example.net\nSite:http://www.kaiser.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance90.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 25-Jul-1995",
+      "NUMBER": "Invoice number INV89707539",
+      "SUB_TOTAL": "SUB_TOTAL : 358.50  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-four point two three",
+      "SEND_TO": "SHIP_TO:\nTodd Ray\n9573 Daniel Stravenue Suite 454\nJessicaport, MS 47501 US\nTel:+(351)929-6738\nEmail:coreyclarke@example.com\nSite:https://www.smith-cunningham.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance81.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Feb-1993",
+      "NUMBER": "INVOICE # 2Y2M5d-003",
+      "SUB_TOTAL": "SUB_TOTAL : 240.33  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and forty-\n-four point four seven",
+      "SEND_TO": "SHIP_TO:\nJohn Ruiz\n1742 Daniel Extensions Apt. 167\nGordontown, WY 55998 US\nTel:+(534)146-8779\nEmail:kenneth99@example.org\nSite:http://www.allen.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance85.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-Oct-2012",
+      "NUMBER": "INVOICE # INV70421707",
+      "SUB_TOTAL": "SUB_TOTAL : 926.00  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  nine hundred and for-\nty-one point five one",
+      "SEND_TO": "SHIP_TO:\nBrandon Knight\n32033 Young Pine\nSouth Joseph, NV 52608 US\nTel:+(575)161-8532\nEmail:donald74@example.net\nSite:https://www.mendoza-lucas.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance54.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Nov-2019",
+      "NUMBER": "INVOICE # INV13663755",
+      "SUB_TOTAL": "SUB_TOTAL : 643.98  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty--\nthree point three five",
+      "SEND_TO": "SHIP_TO:\nJamie Wood\n683 Lewis Stream Suite 097\nMaxberg, UT 17260 US\nTel:+(613)972-3740\nEmail:colson@example.org\nSite:https://russo-romero.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance146.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 09-Aug-2011",
+      "NUMBER": "INVOICE # INV94094154",
+      "SUB_TOTAL": "SUB_TOTAL : 610.96  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and nine-\nteen point one seven",
+      "SEND_TO": "SHIP_TO:\nMichelle Caldwell\n2986 Christine Prairie\nLake Mikaylamouth, PR 17636 US\nTel:+(476)294-5257\nEmail:jacqueline82@example.com\nSite:https://www.jackson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance176.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-Jun-1998",
+      "NUMBER": "Invoice number INV04723699",
+      "SUB_TOTAL": "SUB_TOTAL : 210.11  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sev-\nen point five eight",
+      "SEND_TO": "SHIP_TO:\nMatthew Johnson\n67255 Joan Passage Apt. 183\nJimenezstad, UT 63190 US\nTel:+(551)742-1899\nEmail:briggsjermaine@example.net\nSite:https://bryant-gonzalez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance131.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-Jun-1993",
+      "NUMBER": "Invoice number INV20703538",
+      "SUB_TOTAL": "SUB_TOTAL : 778.43  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eigh-\nty-one point zero eight",
+      "SEND_TO": "SHIP_TO:\nMatthew Santos\n94557 Smith Throughway\nNorth Daniel, PW 13849 US\nTel:+(638)304-3633\nEmail:umorales@example.net\nSite:http://white-ayers.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance9.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 22-Sep-1995",
+      "NUMBER": "INVOICE # INV/47-42/546",
+      "SUB_TOTAL": "SUB_TOTAL : 1169.27  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd seventy-two point six seven",
+      "SEND_TO": "SHIP_TO:\nAngela Simmons\n411 Bryan Pine Suite 737\nGarciabury, IL 88179 US\nTel:+(393)150-2247\nEmail:blewis@example.com\nSite:https://www.murray.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance101.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 06-Apr-2014",
+      "NUMBER": "INVOICE # INV91895518",
+      "SUB_TOTAL": "SUB_TOTAL : 1017.22  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and fifty-\n-nine point zero three",
+      "SEND_TO": "SHIP_TO:\nRonald Smith\n844 Shepherd Gardens\nEast Diana, ND 03450 US\nTel:+(809)953-4297\nEmail:tdavis@example.net\nSite:http://www.bennett.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance124.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Jun-2004",
+      "NUMBER": "INVOICE # 4950-902",
+      "SUB_TOTAL": "SUB_TOTAL : 30.66  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  thirty-one po-\nint eight nine",
+      "SEND_TO": "SHIP_TO:\nDustin Lopez\n125 Garcia Lodge\nAmberbury, RI 53122 US\nTel:+(208)050-7956\nEmail:loganbrown@example.com\nSite:https://harris.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance48.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 14-May-1996",
+      "NUMBER": "INVOICE ID 0962-883",
+      "SUB_TOTAL": "SUB_TOTAL : 468.54  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-one point five six",
+      "SEND_TO": "SHIP_TO:\nChristine Johnson\n86612 Christopher Locks\nLake Jessica, VA 05995 US\nTel:+(027)093-2332\nEmail:jclements@example.com\nSite:https://martinez-foster.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance32.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Jul-2005",
+      "NUMBER": "INVOICE # 4Y9M9d-984",
+      "SUB_TOTAL": "SUB_TOTAL : 443.24  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and fif-\nty-one point two six",
+      "SEND_TO": "SHIP_TO:\nJose Knight\n31066 Trevor Union Apt. 961\nKathleenland, MH 75824 US\nTel:+(779)227-7487\nEmail:wilsontimothy@example.org\nSite:http://garrett-watkins.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance111.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 17-Dec-2012",
+      "NUMBER": "Invoice number INV/00-98/614",
+      "SUB_TOTAL": "SUB_TOTAL : 160.06  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and fif-\nty-nine point three",
+      "SEND_TO": "SHIP_TO:\nChristine Martinez\n6247 Mary Glens Apt. 041\nSimmonsbury, MD 42308 US\nTel:+(915)121-2057\nEmail:lmartin@example.org\nSite:http://www.murphy-hubbard.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance177.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Aug-1998",
+      "NUMBER": "INVOICE ID 1670-754",
+      "SUB_TOTAL": "SUB_TOTAL : 1112.44  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one -\nhundred and sixteen",
+      "SEND_TO": "SHIP_TO:\nSteven Long\n32788 Troy Summit\nJoshuaberg, MD 48212 US\nTel:+(243)385-4255\nEmail:mossnicole@example.com\nSite:http://www.doyle-jimenez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance185.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 23-Apr-2015",
+      "NUMBER": "INVOICE # INV/59-13/258",
+      "SUB_TOTAL": "SUB_TOTAL : 406.74  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and eig-\nhteen point five two",
+      "SEND_TO": "SHIP_TO:\nShannon Bradshaw\n537 Glass Knolls Apt. 761\nLake Seanchester, GU 22550 US\nTel:+(757)939-4931\nEmail:jared00@example.com\nSite:http://www.wiggins.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance184.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 09-Jun-2006",
+      "NUMBER": "Invoice number INV/60-99/144",
+      "SUB_TOTAL": "SUB_TOTAL : 644.29  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and fift-\ny-one point one three",
+      "SEND_TO": "SHIP_TO:\nRichard Thompson\n84713 Deborah Views\nEast Stephanie, LA 95302 US\nTel:+(402)884-1963\nEmail:cherylhall@example.com\nSite:https://www.brown-bryan.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance61.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 09-Dec-2003",
+      "NUMBER": "INVOICE ID INV33198533",
+      "SUB_TOTAL": "SUB_TOTAL : 1136.68  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\nseventy-three point three two",
+      "SEND_TO": "SHIP_TO:\nTabitha White\n89197 Hicks Landing Suite 924\nPort John, PW 44106 US\nTel:+(140)051-3373\nEmail:christian98@example.net\nSite:http://simon-mercado.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance99.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 17-Oct-2013",
+      "NUMBER": "Invoice number 0031-835",
+      "SUB_TOTAL": "SUB_TOTAL : 774.38  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnty-seven point six six",
+      "SEND_TO": "SHIP_TO:\nRichard Jones\n738 Alexis Road Apt. 062\nPort Timothytown, TX 85506 US\nTel:+(151)707-1660\nEmail:cynthia75@example.com\nSite:http://myers.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance42.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 03-Jul-1995",
+      "NUMBER": "Invoice number INV02675390",
+      "SUB_TOTAL": "SUB_TOTAL : 240.89  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and fort-\ny-one point six four",
+      "SEND_TO": "SHIP_TO:\nMonica Webb\n54435 Collin Pines\nNew Marybury, MI 50771 US\nTel:+(451)060-2299\nEmail:megannorman@example.com\nSite:https://www.brooks.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance58.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-Oct-2018",
+      "NUMBER": "Invoice number 8586-919",
+      "SUB_TOTAL": "SUB_TOTAL : 308.84  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and ni-\nneteen point four one",
+      "SEND_TO": "SHIP_TO:\nPenny Mendoza\n662 Freeman Ville\nAndrewbury, HI 29409 US\nTel:+(206)768-5405\nEmail:ryan19@example.com\nSite:https://www.duarte.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance5.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 10-Aug-1993",
+      "NUMBER": "INVOICE # 1Y2M7d-110",
+      "SUB_TOTAL": "SUB_TOTAL : 334.26  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-five point one eight",
+      "SEND_TO": "SHIP_TO:\nJames Powell\n807 Mcdonald Highway\nAnthonybury, TX 64850 US\nTel:+(350)860-0314\nEmail:barbara64@example.org\nSite:http://www.figueroa.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance161.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 15-Feb-2003",
+      "NUMBER": "Invoice number INV/25-89/106",
+      "SUB_TOTAL": "SUB_TOTAL : 215.52  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nteen point zero seven",
+      "SEND_TO": "SHIP_TO:\nJulie Anderson\n23850 Larry Course Suite 342\nEast Evanview, MO 60398 US\nTel:+(883)949-0242\nEmail:debbie36@example.net\nSite:http://www.hall.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance50.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Dec-2006",
+      "NUMBER": "Invoice number 5Y8M3d-703",
+      "SUB_TOTAL": "SUB_TOTAL : 424.72  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirty-\n-seven point seven four",
+      "SEND_TO": "SHIP_TO:\nAnthony Golden\n81705 Davis Village Suite 118\nSouth Michael, WA 39494 US\nTel:+(668)312-5738\nEmail:qrichardson@example.net\nSite:https://williams.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance24.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 16-Aug-2008",
+      "NUMBER": "Invoice number INV/01-27/614",
+      "SUB_TOTAL": "SUB_TOTAL : 519.37  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and t-\nwenty point one two",
+      "SEND_TO": "SHIP_TO:\nSarah Kelley\n671 Jason Canyon Apt. 785\nSouth Cynthia, DC 98389 US\nTel:+(191)824-4882\nEmail:rodney30@example.org\nSite:https://daugherty.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance16.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 13-Mar-2014",
+      "NUMBER": "INVOICE # INV/60-44/016",
+      "SUB_TOTAL": "SUB_TOTAL : 831.35  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and th-\nirty-eight point one",
+      "SEND_TO": "SHIP_TO:\nJessica Deleon\n8675 Andrew Brooks\nSouth Matthewville, AR 37101 US\nTel:+(218)386-5999\nEmail:apriljohnson@example.com\nSite:https://www.rivera.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance199.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 31-May-2006",
+      "NUMBER": "Invoice number INV/68-61/218",
+      "SUB_TOTAL": "SUB_TOTAL : 211.44  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and ni-\nne point seven six",
+      "SEND_TO": "SHIP_TO:\nAntonio Taylor\n2293 Moore Freeway\nNorth Michaelville, KS 77238 US\nTel:+(807)224-3065\nEmail:bobbymorgan@example.org\nSite:http://rios.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance196.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Apr-2013",
+      "NUMBER": "INVOICE # 1454-221",
+      "SUB_TOTAL": "SUB_TOTAL : 635.15  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-one point eight five",
+      "SEND_TO": "SHIP_TO:\nSteve Wilson\n0232 Santiago Ridge Apt. 435\nNorth Brettfurt, AS 05338 US\nTel:+(878)743-2304\nEmail:jasmin74@example.net\nSite:https://wilson.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance126.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-May-1996",
+      "NUMBER": "INVOICE ID INV49280095",
+      "SUB_TOTAL": "SUB_TOTAL : 997.16  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and fo-\nrty point four four",
+      "SEND_TO": "SHIP_TO:\nElijah Campbell\n7359 Weaver Spring Apt. 651\nFosterville, KY 47381 US\nTel:+(547)135-2812\nEmail:susanfranco@example.org\nSite:https://www.fisher.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance122.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Dec-2022",
+      "NUMBER": "INVOICE ID 3Y8M3d-776",
+      "SUB_TOTAL": "SUB_TOTAL : 1133.86  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd sixty-one point six eight",
+      "SEND_TO": "SHIP_TO:\nCaleb Wallace\n03918 Aaron Plaza Suite 796\nJessicaborough, AZ 05736 US\nTel:+(590)278-4868\nEmail:margaretwalker@example.org\nSite:https://www.beck-olsen.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance138.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 03-Apr-2001",
+      "NUMBER": "INVOICE # 6914-061",
+      "SUB_TOTAL": "SUB_TOTAL : 613.24  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and tw-\nenty point six five",
+      "SEND_TO": "SHIP_TO:\nJohn Huerta\n692 Jill Isle Apt. 701\nPalmertown, AS 70912 US\nTel:+(296)063-1328\nEmail:rmiller@example.com\nSite:https://www.buck.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance95.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 07-Sep-2016",
+      "NUMBER": "INVOICE # INV19562094",
+      "SUB_TOTAL": "SUB_TOTAL : 417.19  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and thi-\nrty point eight four",
+      "SEND_TO": "SHIP_TO:\nJohn Martin\n995 Jill Falls Suite 847\nFischerchester, UT 95834 US\nTel:+(620)750-0602\nEmail:justinduncan@example.com\nSite:http://singh.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance100.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Jan-2006",
+      "NUMBER": "INVOICE # 2Y1M8d-185",
+      "SUB_TOTAL": "SUB_TOTAL : 901.37  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fou-\nrteen point nine five",
+      "SEND_TO": "SHIP_TO:\nMargaret Smith\n5152 Ryan Cliff\nDavidmouth, NC 67060 US\nTel:+(880)660-9281\nEmail:qwilliams@example.net\nSite:http://www.bryant.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance36.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 20-May-2006",
+      "NUMBER": "INVOICE ID INV/30-09/141",
+      "SUB_TOTAL": "SUB_TOTAL : 532.33  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and f-\nifty-two point one",
+      "SEND_TO": "SHIP_TO:\nAnne Hernandez\n213 Tina Terrace Apt. 265\nLarsonberg, NH 96068 US\nTel:+(670)770-3939\nEmail:briangregory@example.org\nSite:http://www.dominguez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance198.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 23-Feb-2001",
+      "NUMBER": "INVOICE ID 6Y1M1d-208",
+      "SUB_TOTAL": "SUB_TOTAL : 1136.56  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\nninety-two point seven seven",
+      "SEND_TO": "SHIP_TO:\nJennifer Henry\n792 Stephanie Oval\nMorrisonmouth, ME 59973 US\nTel:+(002)215-2591\nEmail:michellenorris@example.net\nSite:http://king.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance92.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Jan-1994",
+      "NUMBER": "Invoice number 3Y8M1d-402",
+      "SUB_TOTAL": "SUB_TOTAL : 589.62  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-four point four six",
+      "SEND_TO": "SHIP_TO:\nVictor Hill\n13097 Guerra Expressway Suite 274\nBakerbury, MN 23922 US\nTel:+(767)587-4189\nEmail:kenneth82@example.com\nSite:https://maldonado.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance179.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 11-Sep-2013",
+      "NUMBER": "INVOICE # INV/14-18/528",
+      "SUB_TOTAL": "SUB_TOTAL : 628.53  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and fort-\ny-six point three one",
+      "SEND_TO": "SHIP_TO:\nAndrew Lopez\n8866 Cody Estate Suite 683\nShelleybury, MT 49677 US\nTel:+(147)539-0187\nEmail:knoxmichael@example.net\nSite:http://chase.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance31.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 13-Jun-2013",
+      "NUMBER": "INVOICE # 4368-266",
+      "SUB_TOTAL": "SUB_TOTAL : 826.87  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-one point eight nine",
+      "SEND_TO": "SHIP_TO:\nAshley Wilson\n7141 Jones Club\nLoriborough, NJ 85363 US\nTel:+(754)029-7515\nEmail:juan18@example.org\nSite:http://www.collins.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance75.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Jun-2010",
+      "NUMBER": "INVOICE ID INV/32-51/993",
+      "SUB_TOTAL": "SUB_TOTAL : 139.86  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-four point two three",
+      "SEND_TO": "SHIP_TO:\nCarol Watkins\n36346 Anderson Divide\nPaulfurt, ID 24799 US\nTel:+(674)865-3651\nEmail:john91@example.com\nSite:http://www.smith.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance188.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 21-Dec-2010",
+      "NUMBER": "Invoice number INV69810160",
+      "SUB_TOTAL": "SUB_TOTAL : 1002.10  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and twen-\nty-one point four four",
+      "SEND_TO": "SHIP_TO:\nHannah Mcclure\n1277 Miller Hollow Suite 621\nWest Jermainestad, NY 62796 US\nTel:+(907)365-5931\nEmail:allisonthomas@example.com\nSite:http://www.sandoval.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance103.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Dec-2013",
+      "NUMBER": "INVOICE # 1Y9M7d-583",
+      "SUB_TOTAL": "SUB_TOTAL : 696.66  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-nine point three six",
+      "SEND_TO": "SHIP_TO:\nDavid Kline\n80219 Jeffrey Terrace Suite 284\nBryantown, SC 08461 US\nTel:+(211)676-6046\nEmail:jamesgarcia@example.net\nSite:http://www.richards.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance87.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Jan-2006",
+      "NUMBER": "INVOICE # 8235-716",
+      "SUB_TOTAL": "SUB_TOTAL : 750.20  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fift-\ny-four point zero four",
+      "SEND_TO": "SHIP_TO:\nJesse Ayala\n9377 Ryan Trafficway Apt. 251\nWest Nicholas, OK 67453 US\nTel:+(066)276-9723\nEmail:robertmcdowell@example.org\nSite:https://becker.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance119.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 06-Mar-2017",
+      "NUMBER": "INVOICE ID INV/44-63/780",
+      "SUB_TOTAL": "SUB_TOTAL : 1111.17  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd forty-four point zero seven",
+      "SEND_TO": "SHIP_TO:\nJoe Rodriguez\n66516 Goodman Trace\nLake Donald, FL 20459 US\nTel:+(626)894-7088\nEmail:elizabethmurphy@example.com\nSite:https://warren.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance56.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Aug-2012",
+      "NUMBER": "INVOICE ID 3671-920",
+      "SUB_TOTAL": "SUB_TOTAL : 469.92  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-two point seven seven",
+      "SEND_TO": "SHIP_TO:\nMelissa Burton\n55522 Mcgee Union Suite 311\nEast Barry, NE 68808 US\nTel:+(704)194-9073\nEmail:sgarcia@example.com\nSite:http://www.robinson-taylor.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance84.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Nov-2010",
+      "NUMBER": "Invoice number 8440-737",
+      "SUB_TOTAL": "SUB_TOTAL : 558.49  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-nine point seven one",
+      "SEND_TO": "SHIP_TO:\nAnthony Coleman\n2846 Robert Forks Suite 661\nSaraville, PA 15834 US\nTel:+(927)153-6820\nEmail:kevingardner@example.net\nSite:http://figueroa.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance41.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 16-Sep-2008",
+      "NUMBER": "INVOICE # 5Y5M8d-750",
+      "SUB_TOTAL": "SUB_TOTAL : 1092.86  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred -\nand thirty point six seven",
+      "SEND_TO": "SHIP_TO:\nDennis Jones\n05811 Kristina Valley Suite 477\nWest Heatherfort, CO 54416 US\nTel:+(441)363-5678\nEmail:katelyn22@example.net\nSite:http://www.hernandez-acosta.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance21.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Apr-2011",
+      "NUMBER": "INVOICE # INV/40-17/640",
+      "SUB_TOTAL": "SUB_TOTAL : 91.73  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  ninety-four p-\noint two seven",
+      "SEND_TO": "SHIP_TO:\nRyan Wall\n57249 Jasmine Hills Apt. 522\nWest Derek, FM 52300 US\nTel:+(717)727-3473\nEmail:jjordan@example.com\nSite:http://www.forbes.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance117.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 05-Sep-2016",
+      "NUMBER": "INVOICE ID 8186-062",
+      "SUB_TOTAL": "SUB_TOTAL : 258.13  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty-\n-four point nine five",
+      "SEND_TO": "SHIP_TO:\nFaith Skinner\n153 Kathleen Flat Apt. 029\nTylerview, VA 89507 US\nTel:+(904)662-1986\nEmail:allisonhenry@example.net\nSite:http://www.meyers.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance94.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Oct-2021",
+      "NUMBER": "Invoice number INV/51-83/097",
+      "SUB_TOTAL": "SUB_TOTAL : 285.59  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninety-\n-five point three three",
+      "SEND_TO": "SHIP_TO:\nJoshua Dominguez\n50307 Steven Villages Suite 588\nDouglasfurt, PW 45176 US\nTel:+(098)277-9698\nEmail:qvilla@example.com\nSite:https://www.martinez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance34.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 18-Jul-2013",
+      "NUMBER": "INVOICE # INV97689363",
+      "SUB_TOTAL": "SUB_TOTAL : 430.40  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and for-\nty-six point four one",
+      "SEND_TO": "SHIP_TO:\nMegan Parks\n851 Brian Plaza\nJonathanborough, AK 04698 US\nTel:+(011)969-4596\nEmail:igutierrez@example.org\nSite:https://rodriguez.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance30.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Sep-2020",
+      "NUMBER": "INVOICE ID INV84321436",
+      "SUB_TOTAL": "SUB_TOTAL : 184.71  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and eight-\ny-seven point five one",
+      "SEND_TO": "SHIP_TO:\nKaren White\n29681 Nguyen Divide\nPort Michellestad, KY 56611 US\nTel:+(409)950-4549\nEmail:wilsonjohn@example.net\nSite:http://nelson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance80.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 05-Aug-2001",
+      "NUMBER": "Invoice number INV/02-11/624",
+      "SUB_TOTAL": "SUB_TOTAL : 1060.06  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and sixty-\n-three point zero three",
+      "SEND_TO": "SHIP_TO:\nRick Brown\n425 Herrera Crossing Apt. 259\nPort Kennethport, SD 86315 US\nTel:+(638)045-1587\nEmail:brianna62@example.org\nSite:http://www.howell-silva.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance62.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 17-Apr-1999",
+      "NUMBER": "Invoice number INV49543626",
+      "SUB_TOTAL": "SUB_TOTAL : 347.48  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and fif-\nty-six point nine six",
+      "SEND_TO": "SHIP_TO:\nMichael Richard\n80869 Macdonald Prairie Suite 149\nWest Williamshire, MD 80942 US\nTel:+(802)851-3977\nEmail:greengregory@example.com\nSite:https://www.yang.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance148.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Oct-2000",
+      "NUMBER": "Invoice number 3476-495",
+      "SUB_TOTAL": "SUB_TOTAL : 272.34  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sevent-\ny-five point six eight",
+      "SEND_TO": "SHIP_TO:\nDavid Rogers\n785 Patrick Coves\nErnestmouth, KS 81611 US\nTel:+(530)690-4457\nEmail:brenda43@example.net\nSite:https://www.johnson.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance120.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Jul-1995",
+      "NUMBER": "INVOICE # 9379-596",
+      "SUB_TOTAL": "SUB_TOTAL : 308.49  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and twe-\nnty-one point one five",
+      "SEND_TO": "SHIP_TO:\nAmy Dodson\n155 Obrien Freeway\nLongside, VT 55658 US\nTel:+(963)487-2677\nEmail:qdavis@example.net\nSite:https://osborn-pierce.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance133.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-Oct-2013",
+      "NUMBER": "INVOICE # 5Y6M2d-266",
+      "SUB_TOTAL": "SUB_TOTAL : 742.75  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-three point two five",
+      "SEND_TO": "SHIP_TO:\nBarbara White\n1780 Joshua Route Suite 027\nNew Stephaniemouth, SC 86819 US\nTel:+(045)655-5818\nEmail:underwoodnicole@example.com\nSite:https://lane.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance77.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 28-May-2003",
+      "NUMBER": "INVOICE ID INV48679398",
+      "SUB_TOTAL": "SUB_TOTAL : 736.20  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fifty-\n-three point three three",
+      "SEND_TO": "SHIP_TO:\nTasha Dixon\n6902 Sharon Square\nRebeccahaven, MT 01988 US\nTel:+(030)868-2523\nEmail:erin25@example.net\nSite:https://dennis.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance173.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Oct-2002",
+      "NUMBER": "INVOICE ID INV/60-51/260",
+      "SUB_TOTAL": "SUB_TOTAL : 361.67  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and s-\neventy point six one",
+      "SEND_TO": "SHIP_TO:\nTimothy Watson\n31701 Brian Hills\nPort Kristy, WA 18530 US\nTel:+(311)156-2256\nEmail:lhernandez@example.com\nSite:https://www.stokes.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance162.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Jul-2017",
+      "NUMBER": "INVOICE ID INV/73-30/001",
+      "SUB_TOTAL": "SUB_TOTAL : 551.11  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and fifty-\n-eight point six seven",
+      "SEND_TO": "SHIP_TO:\nNicole Campbell\n127 Holly Lodge Apt. 661\nWest Matthew, MA 44961 US\nTel:+(740)998-8558\nEmail:rossvanessa@example.com\nSite:http://johnson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance78.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 26-Dec-2017",
+      "NUMBER": "INVOICE ID 8Y5M3d-890",
+      "SUB_TOTAL": "SUB_TOTAL : 1232.37  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd sixty-three point seven one",
+      "SEND_TO": "SHIP_TO:\nStacy Fitzgerald\n4210 Michael Brook\nNorth Jessicahaven, NE 07063 US\nTel:+(672)447-5006\nEmail:vprice@example.com\nSite:https://www.brown.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance73.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Feb-2000",
+      "NUMBER": "INVOICE ID INV/74-46/176",
+      "SUB_TOTAL": "SUB_TOTAL : 725.46  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thir-\nty-six point one three",
+      "SEND_TO": "SHIP_TO:\nAlexa Montgomery\n405 Catherine Corner\nPowellbury, VI 68066 US\nTel:+(773)512-2297\nEmail:wellsdaniel@example.com\nSite:http://www.mcdonald.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance116.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 23-May-2013",
+      "NUMBER": "INVOICE ID INV/81-80/438",
+      "SUB_TOTAL": "SUB_TOTAL : 464.20  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and seve-\nnty point eight eight",
+      "SEND_TO": "SHIP_TO:\nTracy Pitts\n05744 Amanda Prairie Apt. 615\nEast Douglas, IA 63406 US\nTel:+(257)243-5153\nEmail:claytondaniel@example.com\nSite:http://robinson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance114.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 19-Apr-2020",
+      "NUMBER": "Invoice number 6Y1M4d-216",
+      "SUB_TOTAL": "SUB_TOTAL : 806.28  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sev-\nenteen point six eight",
+      "SEND_TO": "SHIP_TO:\nAlexis Kennedy\n74987 Jeffrey Keys Apt. 933\nWest Danamouth, WV 32099 US\nTel:+(974)585-4957\nEmail:molly51@example.net\nSite:http://www.dominguez-rogers.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance112.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 03-Dec-1995",
+      "NUMBER": "Invoice number INV65365417",
+      "SUB_TOTAL": "SUB_TOTAL : 817.20  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thirt-\ny-eight point two seven",
+      "SEND_TO": "SHIP_TO:\nRobert Larson\n26003 Katelyn Landing Apt. 173\nCherylbury, WA 81454 US\nTel:+(454)903-0853\nEmail:thomasmartin@example.com\nSite:https://www.garrett.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance49.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 09-Sep-2017",
+      "NUMBER": "Invoice number INV35973321",
+      "SUB_TOTAL": "SUB_TOTAL : 246.79  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and forty-\n-nine point zero seven",
+      "SEND_TO": "SHIP_TO:\nBeth Aguirre\n3104 Castillo Rest Apt. 753\nWest Tiffanyberg, WY 03758 US\nTel:+(190)508-5769\nEmail:iwalls@example.com\nSite:https://www.baxter.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance4.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 22-Nov-2014",
+      "NUMBER": "INVOICE # 5Y3M2d-123",
+      "SUB_TOTAL": "SUB_TOTAL : 279.44  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\ny-four point seven one",
+      "SEND_TO": "SHIP_TO:\nSheri Johnson\n13719 Nancy Union Apt. 483\nNorth Lisa, MN 42564 US\nTel:+(852)296-9357\nEmail:gmiller@example.org\nSite:https://www.perkins.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance129.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 09-Jul-2013",
+      "NUMBER": "Invoice number INV24437684",
+      "SUB_TOTAL": "SUB_TOTAL : 437.53  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-two point seven seven",
+      "SEND_TO": "SHIP_TO:\nAlexandra Taylor DDS\n067 Nancy Hill Suite 640\nScottville, MT 88751 US\nTel:+(207)073-1514\nEmail:lynchevelyn@example.org\nSite:https://matthews-dominguez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance8.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 25-Sep-2006",
+      "NUMBER": "Invoice number 8539-305",
+      "SUB_TOTAL": "SUB_TOTAL : 1139.34  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd forty-six point seven one",
+      "SEND_TO": "SHIP_TO:\nMr. Jason Gallegos\n13874 Dawn Pike Suite 083\nAndersonborough, PR 16315 US\nTel:+(381)809-9229\nEmail:kennethbartlett@example.org\nSite:https://www.rodriguez.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance191.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 05-Jun-2005",
+      "NUMBER": "INVOICE # 4755-320",
+      "SUB_TOTAL": "SUB_TOTAL : 384.06  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-seven point one five",
+      "SEND_TO": "SHIP_TO:\nJennifer Stone\n06033 Keller Gateway\nNorth Toddview, NH 49682 US\nTel:+(527)767-0737\nEmail:slong@example.org\nSite:http://www.little.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance102.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Mar-2020",
+      "NUMBER": "INVOICE ID 4098-259",
+      "SUB_TOTAL": "SUB_TOTAL : 739.00  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixty-\n-eight point five eight",
+      "SEND_TO": "SHIP_TO:\nTina Fisher\n51875 Green Gateway Suite 055\nSuttonfurt, MA 62995 US\nTel:+(307)082-8447\nEmail:maria93@example.org\nSite:http://www.yates.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance128.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-May-2015",
+      "NUMBER": "Invoice number INV32433135",
+      "SUB_TOTAL": "SUB_TOTAL : 874.86  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and ninet-\ny-seven point eight six",
+      "SEND_TO": "SHIP_TO:\nBarbara Hayes\n2375 Joseph Ferry\nNicholasbury, AL 03065 US\nTel:+(977)634-5057\nEmail:psherman@example.net\nSite:http://www.hunt.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance195.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 19-Jan-1994",
+      "NUMBER": "Invoice number INV68686734",
+      "SUB_TOTAL": "SUB_TOTAL : 138.12  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirty-\n-nine point eight five",
+      "SEND_TO": "SHIP_TO:\nJames Simpson\n533 Anthony Rapids Apt. 042\nWest Lisa, ME 16632 US\nTel:+(428)209-2267\nEmail:xnielsen@example.org\nSite:https://www.davidson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance154.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-Mar-1999",
+      "NUMBER": "Invoice number INV/90-77/766",
+      "SUB_TOTAL": "SUB_TOTAL : 662.43  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and seven-\nty-one point three two",
+      "SEND_TO": "SHIP_TO:\nLaura Rogers\n3029 Murray Island\nPort Thomasmouth, AL 17328 US\nTel:+(353)923-7346\nEmail:bowmannancy@example.org\nSite:http://www.roberts-stafford.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance68.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Aug-2006",
+      "NUMBER": "INVOICE ID INV59044297",
+      "SUB_TOTAL": "SUB_TOTAL : 934.72  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fifty-\n-eight point two seven",
+      "SEND_TO": "SHIP_TO:\nSherri Martinez\n460 Ferguson Mountain\nLake Matthewview, MT 83107 US\nTel:+(963)112-2464\nEmail:shawn01@example.org\nSite:http://swanson.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance165.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Sep-2003",
+      "NUMBER": "INVOICE # 6Y4M8d-405",
+      "SUB_TOTAL": "SUB_TOTAL : 487.40  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-three point four two",
+      "SEND_TO": "SHIP_TO:\nIan Rodriguez\n556 Mcdaniel Inlet Apt. 837\nSouth Traceyberg, KS 31753 US\nTel:+(954)088-8259\nEmail:janet09@example.org\nSite:https://www.gray.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance60.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Apr-2008",
+      "NUMBER": "Invoice number INV/59-51/407",
+      "SUB_TOTAL": "SUB_TOTAL : 1013.18  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and seve-\nnteen point four eight",
+      "SEND_TO": "SHIP_TO:\nJacob Benson\n3931 Morgan Station Suite 334\nNew Brenda, AL 89584 US\nTel:+(370)227-8466\nEmail:levyeric@example.net\nSite:https://www.parker.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance142.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 02-Nov-2015",
+      "NUMBER": "INVOICE # 0119-024",
+      "SUB_TOTAL": "SUB_TOTAL : 505.28  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-six point three seven",
+      "SEND_TO": "SHIP_TO:\nWhitney Davis\n18498 Beasley Plain Apt. 508\nSouth Robert, MI 32179 US\nTel:+(688)473-9737\nEmail:salaswhitney@example.net\nSite:https://meza.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance29.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 05-Mar-2011",
+      "NUMBER": "INVOICE # INV24793135",
+      "SUB_TOTAL": "SUB_TOTAL : 1067.55  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and fi-\nfty-nine point four",
+      "SEND_TO": "SHIP_TO:\nSharon Hudson\n122 Castro Forges\nNew Gregoryview, VA 81794 US\nTel:+(486)060-7859\nEmail:blake17@example.net\nSite:http://www.scott.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance110.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-Nov-2015",
+      "NUMBER": "INVOICE ID 9Y2M1d-592",
+      "SUB_TOTAL": "SUB_TOTAL : 641.28  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and fi-\nfty-three point two",
+      "SEND_TO": "SHIP_TO:\nDennis Wilson\n88262 David Loaf\nPort Latasha, MP 61259 US\nTel:+(042)533-5365\nEmail:smithvictoria@example.net\nSite:https://www.fernandez.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance115.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Jul-2009",
+      "NUMBER": "Invoice number INV/11-18/986",
+      "SUB_TOTAL": "SUB_TOTAL : 221.36  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-one point eight one",
+      "SEND_TO": "SHIP_TO:\nDavid Harris\n19799 Haley Mill Suite 023\nSouth Marissa, IL 51956 US\nTel:+(669)484-0753\nEmail:tarariley@example.com\nSite:https://www.wilson-rich.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance136.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-Jan-1997",
+      "NUMBER": "INVOICE # INV/54-22/301",
+      "SUB_TOTAL": "SUB_TOTAL : 506.04  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and e-\night point six six",
+      "SEND_TO": "SHIP_TO:\nDonna Snyder\n9394 Frost Burgs\nNancymouth, AR 70289 US\nTel:+(349)650-8162\nEmail:wendycook@example.net\nSite:https://ingram.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance3.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 28-Apr-2003",
+      "NUMBER": "INVOICE ID INV81959387",
+      "SUB_TOTAL": "SUB_TOTAL : 556.80  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixty-\n-nine point three eight",
+      "SEND_TO": "SHIP_TO:\nJoseph Patterson\n8181 Gomez Summit Suite 500\nNorth Leahside, NC 05965 US\nTel:+(026)039-1414\nEmail:choikenneth@example.com\nSite:http://www.contreras.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance22.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 22-Jan-2003",
+      "NUMBER": "INVOICE # INV83490394",
+      "SUB_TOTAL": "SUB_TOTAL : 643.46  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and fi-\nfty point four six",
+      "SEND_TO": "SHIP_TO:\nJasmine Warren\n41406 Ethan Cliff\nSouth Anthony, OK 77334 US\nTel:+(169)761-6158\nEmail:jennifer50@example.org\nSite:http://cisneros.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance91.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 20-Jul-2009",
+      "NUMBER": "INVOICE ID 1847-501",
+      "SUB_TOTAL": "SUB_TOTAL : 813.41  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-six point seven one",
+      "SEND_TO": "SHIP_TO:\nKelsey Mccarthy MD\n59448 Andrew Passage\nSmithshire, NH 54802 US\nTel:+(699)339-4681\nEmail:gibsonnicholas@example.org\nSite:http://www.zhang.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance44.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 01-Oct-2012",
+      "NUMBER": "Invoice number 8206-373",
+      "SUB_TOTAL": "SUB_TOTAL : 557.06  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and fifty-\n-one point three seven",
+      "SEND_TO": "SHIP_TO:\nPaula Lopez\n5943 Amber Mews Suite 390\nGillborough, UT 27313 US\nTel:+(575)980-4400\nEmail:toddgolden@example.org\nSite:https://castillo-mclaughlin.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance139.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 10-Oct-2017",
+      "NUMBER": "INVOICE # INV92067130",
+      "SUB_TOTAL": "SUB_TOTAL : 1095.64  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd twenty-two point four two",
+      "SEND_TO": "SHIP_TO:\nRhonda Mata\n27120 Moore Greens\nNorth Brady, SD 11954 US\nTel:+(255)350-9543\nEmail:phelpsdavid@example.org\nSite:https://www.hunt.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance2.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Aug-2018",
+      "NUMBER": "INVOICE # INV52179654",
+      "SUB_TOTAL": "SUB_TOTAL : 272.30  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sev-\nenty-six point three",
+      "SEND_TO": "SHIP_TO:\nAaron Kim\n2106 Amanda Mission\nBauertown, TX 93634 US\nTel:+(975)082-8977\nEmail:cramos@example.com\nSite:https://craig-weaver.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance153.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Oct-2014",
+      "NUMBER": "INVOICE ID INV14826333",
+      "SUB_TOTAL": "SUB_TOTAL : 452.32  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and fif-\nty point three seven",
+      "SEND_TO": "SHIP_TO:\nAnthony Gonzalez Jr.\n0346 Ryan Meadow\nEast Debrafort, OH 70717 US\nTel:+(310)295-1194\nEmail:chenbrian@example.net\nSite:https://www.klein.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance156.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Oct-1996",
+      "NUMBER": "INVOICE # 1713-751",
+      "SUB_TOTAL": "SUB_TOTAL : 388.85  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and ninet-\ny-eight point zero five",
+      "SEND_TO": "SHIP_TO:\nWilliam Williams\n291 Murphy Corners\nSancheztown, OR 03344 US\nTel:+(697)985-2778\nEmail:nberry@example.org\nSite:http://martin.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance127.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 30-Jul-2019",
+      "NUMBER": "INVOICE # INV46460828",
+      "SUB_TOTAL": "SUB_TOTAL : 480.59  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and nine-\nty-four point nine one",
+      "SEND_TO": "SHIP_TO:\nDavid Sellers\n340 Christopher Lights\nDanielborough, TN 61109 US\nTel:+(157)473-5247\nEmail:roberttorres@example.org\nSite:https://www.terry.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance63.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 20-Oct-2013",
+      "NUMBER": "Invoice number 7577-976",
+      "SUB_TOTAL": "SUB_TOTAL : 188.75  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and n-\ninety point seven",
+      "SEND_TO": "SHIP_TO:\nMary Lewis\n747 Reyes Court\nEast Tyler, AZ 46746 US\nTel:+(327)465-0223\nEmail:tuckerdavid@example.net\nSite:https://www.jackson.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance83.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 18-Jun-2006",
+      "NUMBER": "Invoice number 4Y8M8d-690",
+      "SUB_TOTAL": "SUB_TOTAL : 680.70  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and se-\nven point three seven",
+      "SEND_TO": "SHIP_TO:\nJackson Smith\n7500 Matthew Ferry Apt. 111\nAaronmouth, MD 60944 US\nTel:+(190)048-5685\nEmail:markskatrina@example.net\nSite:http://www.holder.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance15.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Oct-2011",
+      "NUMBER": "INVOICE # 9219-739",
+      "SUB_TOTAL": "SUB_TOTAL : 490.44  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred an-\nd ten point two",
+      "SEND_TO": "SHIP_TO:\nKevin Hughes\n248 Erin Manors Suite 125\nPort Kristen, KS 71690 US\nTel:+(765)865-8820\nEmail:perezjodi@example.com\nSite:http://www.phillips.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance97.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 01-Mar-2014",
+      "NUMBER": "INVOICE ID INV/37-79/337",
+      "SUB_TOTAL": "SUB_TOTAL : 730.30  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fifty-\n-seven point three seven",
+      "SEND_TO": "SHIP_TO:\nNatalie Santiago\n215 Saunders Causeway Apt. 900\nSouth Christopher, RI 27355 US\nTel:+(493)335-1353\nEmail:rwilson@example.org\nSite:https://www.moore-montgomery.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance40.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 04-Apr-2001",
+      "NUMBER": "INVOICE # 8Y1M5d-636",
+      "SUB_TOTAL": "SUB_TOTAL : 753.81  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fort-\ny-nine point eight nine",
+      "SEND_TO": "SHIP_TO:\nVicki Howard\n0235 Hayley Knolls Apt. 069\nStephanieland, MH 46376 US\nTel:+(171)551-7499\nEmail:brittany20@example.net\nSite:http://hawkins.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance67.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Mar-2001",
+      "NUMBER": "INVOICE ID 6485-145",
+      "SUB_TOTAL": "SUB_TOTAL : 834.21  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and t-\nhirty point four two",
+      "SEND_TO": "SHIP_TO:\nRobin Ramos\n6025 Green Mill Suite 092\nNew Stephanie, MS 74128 US\nTel:+(331)509-9766\nEmail:smithjeremy@example.com\nSite:http://sandoval.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance178.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 01-Sep-2016",
+      "NUMBER": "Invoice number INV82458070",
+      "SUB_TOTAL": "SUB_TOTAL : 708.98  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thir-\nty-three point six two",
+      "SEND_TO": "SHIP_TO:\nJordan Vazquez\n2557 Stacy Rapids Suite 194\nWest Carlastad, DC 84491 US\nTel:+(871)282-9447\nEmail:patriciachaney@example.net\nSite:http://freeman-mcintosh.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance51.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Mar-2016",
+      "NUMBER": "INVOICE # 6Y6M4d-418",
+      "SUB_TOTAL": "SUB_TOTAL : 852.89  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sevent-\ny-three point zero seven",
+      "SEND_TO": "SHIP_TO:\nColleen Clark\n410 Parker Forks Apt. 331\nMicheleborough, IN 99782 US\nTel:+(266)054-9109\nEmail:kimblack@example.org\nSite:http://www.allen-turner.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance72.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Jul-2008",
+      "NUMBER": "INVOICE ID 2Y2M4d-238",
+      "SUB_TOTAL": "SUB_TOTAL : 369.28  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and seve-\nnty-six point zero two",
+      "SEND_TO": "SHIP_TO:\nMelissa Sloan\n35523 Glenn Ville\nHollyside, MA 94714 US\nTel:+(681)004-0555\nEmail:mistycolon@example.org\nSite:https://www.davis.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance144.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Jun-2015",
+      "NUMBER": "INVOICE ID 0906-877",
+      "SUB_TOTAL": "SUB_TOTAL : 595.18  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and twe-\nlve point eight six",
+      "SEND_TO": "SHIP_TO:\nEmily Mendoza\n81527 John Bridge Suite 674\nMichaelland, SD 20914 US\nTel:+(186)118-7497\nEmail:hannahgreen@example.com\nSite:https://hansen.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance64.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-Mar-2001",
+      "NUMBER": "Invoice number 3Y3M8d-350",
+      "SUB_TOTAL": "SUB_TOTAL : 482.96  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and t-\nhree point four six",
+      "SEND_TO": "SHIP_TO:\nGeorge Bowman\n7931 White Mission Apt. 499\nLake Timothy, KY 28497 US\nTel:+(696)444-4114\nEmail:eric96@example.net\nSite:http://www.gray-hendrix.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance193.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 29-Jul-2005",
+      "NUMBER": "Invoice number INV39777167",
+      "SUB_TOTAL": "SUB_TOTAL : 56.68  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  fifty-\n-eight",
+      "SEND_TO": "SHIP_TO:\nSusan Garcia\n13979 Watts Vista\nNew Katrina, MT 78813 US\nTel:+(501)837-7839\nEmail:lozanomichaela@example.org\nSite:https://king.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance10.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 04-Apr-2020",
+      "NUMBER": "INVOICE # 8643-519",
+      "SUB_TOTAL": "SUB_TOTAL : 557.70  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-eight point nine two",
+      "SEND_TO": "SHIP_TO:\nWilliam Fisher\n900 James Groves\nHannahhaven, NM 23389 US\nTel:+(899)657-3344\nEmail:rlara@example.com\nSite:http://www.freeman.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance59.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 20-Aug-2010",
+      "NUMBER": "INVOICE ID INV53197843",
+      "SUB_TOTAL": "SUB_TOTAL : 659.09  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixt-\ny-six point four nine",
+      "SEND_TO": "SHIP_TO:\nLouis Delgado\n3096 Velazquez Pine\nAlexisfort, AR 81451 US\nTel:+(081)005-7964\nEmail:christopherjordan@example.net\nSite:http://stephens.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance140.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Aug-2019",
+      "NUMBER": "INVOICE # INV/44-50/504",
+      "SUB_TOTAL": "SUB_TOTAL : 145.91  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and fifty--\nthree point five seven",
+      "SEND_TO": "SHIP_TO:\nEric Mata\n9229 Martinez Summit Apt. 736\nFigueroamouth, NE 31912 US\nTel:+(158)850-2334\nEmail:robertwilliams@example.org\nSite:https://www.gordon.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance52.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 29-Nov-2012",
+      "NUMBER": "INVOICE ID 7572-817",
+      "SUB_TOTAL": "SUB_TOTAL : 647.69  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and for-\nty-seven point eight",
+      "SEND_TO": "SHIP_TO:\nKara Fisher\n5317 Janet Avenue Apt. 340\nMorenoburgh, VI 69116 US\nTel:+(745)156-9447\nEmail:cpadilla@example.org\nSite:https://www.henry-schmitt.info/"
+    }
+  },
+  {
+    "image": "Template30_Instance45.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 15-Jun-2002",
+      "NUMBER": "Invoice number 6872-524",
+      "SUB_TOTAL": "SUB_TOTAL : 183.14  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and eighty-\n-three point zero four",
+      "SEND_TO": "SHIP_TO:\nDawn Bennett\n32736 Holly Cove Apt. 354\nPaulfort, PR 69991 US\nTel:+(598)254-7331\nEmail:lynn89@example.org\nSite:https://www.oconnell-king.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance183.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 14-Sep-2011",
+      "NUMBER": "INVOICE ID INV/09-46/319",
+      "SUB_TOTAL": "SUB_TOTAL : 564.86  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-six point nine nine",
+      "SEND_TO": "SHIP_TO:\nMelissa Campbell\n265 Ashley Views Suite 829\nNew Gregoryhaven, KY 38654 US\nTel:+(582)665-0712\nEmail:kcummings@example.net\nSite:http://www.bernard.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance160.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 11-Jan-2003",
+      "NUMBER": "INVOICE # INV/70-86/892",
+      "SUB_TOTAL": "SUB_TOTAL : 400.31  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-eight point five six",
+      "SEND_TO": "SHIP_TO:\nStephen Wilson\n545 James Ports Apt. 234\nManueltown, VI 28414 US\nTel:+(287)403-8021\nEmail:erodriguez@example.com\nSite:http://www.mejia.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance125.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Apr-2009",
+      "NUMBER": "Invoice number INV/05-92/973",
+      "SUB_TOTAL": "SUB_TOTAL : 337.61  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-four point nine seven",
+      "SEND_TO": "SHIP_TO:\nPamela Smith\n454 Adams Turnpike Suite 946\nCareyfort, IL 80334 US\nTel:+(284)545-9679\nEmail:ashley86@example.org\nSite:https://www.warren-jones.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance26.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 03-Sep-2012",
+      "NUMBER": "Invoice number 9382-769",
+      "SUB_TOTAL": "SUB_TOTAL : 110.82  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and twe-\nlve point three nine",
+      "SEND_TO": "SHIP_TO:\nBarbara Rivers\n880 Carrillo Motorway\nVincentfurt, DE 97620 US\nTel:+(782)407-5043\nEmail:wilsonamber@example.org\nSite:https://campbell.biz/"
+    }
+  },
+  {
+    "image": "Template30_Instance147.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 14-May-2013",
+      "NUMBER": "INVOICE ID 8Y3M2d-924",
+      "SUB_TOTAL": "SUB_TOTAL : 872.01  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sixt-\ny-five point nine seven",
+      "SEND_TO": "SHIP_TO:\nThomas White\n8740 Wong Fall Apt. 940\nPort Aaronview, AS 03409 US\nTel:+(243)736-3872\nEmail:wendy53@example.org\nSite:https://hines-west.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance149.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Aug-2009",
+      "NUMBER": "INVOICE ID INV/45-39/051",
+      "SUB_TOTAL": "SUB_TOTAL : 225.73  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-five point six five",
+      "SEND_TO": "SHIP_TO:\nRyan Marsh\n65584 Richard Ramp\nDayshire, MP 54455 US\nTel:+(404)455-9074\nEmail:owebb@example.org\nSite:https://www.carter.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance19.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 20-Jul-1996",
+      "NUMBER": "INVOICE # 8Y1M5d-440",
+      "SUB_TOTAL": "SUB_TOTAL : 787.45  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and -\nten point zero two",
+      "SEND_TO": "SHIP_TO:\nJacob Allen\n25282 Cynthia Mission\nEast Jacob, HI 69768 US\nTel:+(760)022-2945\nEmail:lawrencebrian@example.net\nSite:https://www.stephens-tanner.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance38.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 20-Apr-2001",
+      "NUMBER": "Invoice number 7154-889",
+      "SUB_TOTAL": "SUB_TOTAL : 455.43  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and six-\nty-six point six one",
+      "SEND_TO": "SHIP_TO:\nChristine Williams\n6728 Troy Mountain\nPort Markland, PR 10608 US\nTel:+(579)701-4705\nEmail:bryan83@example.net\nSite:http://webster.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance104.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 04-Jan-2011",
+      "NUMBER": "INVOICE # 7Y1M5d-198",
+      "SUB_TOTAL": "SUB_TOTAL : 258.84  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixt-\ny-one point six four",
+      "SEND_TO": "SHIP_TO:\nBrad Estrada\n09201 Stein Parks Apt. 102\nEast Josephland, MO 95900 US\nTel:+(147)856-9304\nEmail:flopez@example.net\nSite:http://www.randolph-sweeney.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance0.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 19-Oct-1994",
+      "NUMBER": "Invoice number 3Y3M2d-501",
+      "SUB_TOTAL": "SUB_TOTAL : 614.33  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-four point zero one",
+      "SEND_TO": "SHIP_TO:\nJohn Kent\n80942 Daniel Trafficway Suite 168\nNew Cynthia, NV 46650 US\nTel:+(394)917-0446\nEmail:michaeljacobs@example.org\nSite:https://www.williamson.org/"
+    }
+  },
+  {
+    "image": "Template30_Instance197.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 13-Dec-2003",
+      "NUMBER": "INVOICE # INV19477909",
+      "SUB_TOTAL": "SUB_TOTAL : 495.63  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-seven point one nine",
+      "SEND_TO": "SHIP_TO:\nBrian Smith\n2785 Sarah Parkway Suite 710\nWest Patriciafurt, KY 15667 US\nTel:+(487)001-1476\nEmail:jennifer34@example.com\nSite:https://www.lang.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance187.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Sep-1994",
+      "NUMBER": "Invoice number 7Y6M3d-987",
+      "SUB_TOTAL": "SUB_TOTAL : 152.72  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and fifty-\n-three point nine four",
+      "SEND_TO": "SHIP_TO:\nMonica Clark\n3923 Moore Way Suite 077\nWest Brandon, IA 88208 US\nTel:+(654)168-8876\nEmail:trancarolyn@example.com\nSite:https://olson.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance113.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 25-Jan-2014",
+      "NUMBER": "INVOICE # INV24514056",
+      "SUB_TOTAL": "SUB_TOTAL : 106.23  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and ni-\nne point three five",
+      "SEND_TO": "SHIP_TO:\nAmy Gray\n53762 Smith Drive\nLauraburgh, PW 73206 US\nTel:+(422)099-4709\nEmail:jacobbell@example.org\nSite:http://www.sloan.net/"
+    }
+  },
+  {
+    "image": "Template30_Instance118.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Mar-2020",
+      "NUMBER": "INVOICE ID 5Y8M7d-526",
+      "SUB_TOTAL": "SUB_TOTAL : 163.16  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and sixty-\n-four point three five",
+      "SEND_TO": "SHIP_TO:\nApril Jacobson\n2656 Brian Glen Suite 689\nSouth Jacqueline, GU 41748 US\nTel:+(668)136-5169\nEmail:barnettstephen@example.net\nSite:http://www.mckinney.com/"
+    }
+  },
+  {
+    "image": "Template30_Instance28.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Dec-2006",
+      "NUMBER": "INVOICE ID 1Y2M5d-780",
+      "SUB_TOTAL": "SUB_TOTAL : 970.49  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fifty-\n-eight point six seven",
+      "SEND_TO": "SHIP_TO:\nJohn Schwartz\n75641 Alex Square Suite 765\nEast Brycestad, FM 45124 US\nTel:+(403)609-2756\nEmail:zpineda@example.com\nSite:http://www.riley-horton.info/"
+    }
+  }
+]

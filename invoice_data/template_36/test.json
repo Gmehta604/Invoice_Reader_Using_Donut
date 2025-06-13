@@ -1,0 +1,602 @@
+[
+  {
+    "image": "Template36_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ricardo Henderson\n724 Fowler Row\nLake Courtney, FM 44701 US\nTel:+(187)244-9414\nEmail:osbornheather@example.org\nSite:http://waters.org/",
+      "DATE": "Invoice Date: 21-Sep-1994",
+      "NUMBER": "INVOICE ID 6Y7M2d-868",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 340.80  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-one point three five",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 351.35 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance89.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Felicia Wise\n57266 Nolan Curve Apt. 395\nRobertchester, MO 62369 US\nTel:+(734)451-8055\nEmail:angelatorres@example.com\nSite:https://www.bell-davis.org/",
+      "DATE": "Date: 15-Dec-2005",
+      "NUMBER": "INVOICE # 8Y6M3d-091",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 403.86  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and si-\nxteen point six one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 416.61 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Long\n1936 Ellis Drive Suite 079\nEricaberg, NY 50060 US\nTel:+(331)205-5329\nEmail:dcollier@example.org\nSite:https://www.long.com/",
+      "DATE": "Date: 18-Jan-2003",
+      "NUMBER": "INVOICE ID INV/00-68/664",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 864.30  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sev-\nenty-two point six one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 872.61 $"
+    }
+  },
+  {
+    "image": "Template36_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Leonard David\n65537 Holland Flats\nOwensland, OR 30317 US\nTel:+(190)458-0809\nEmail:sspencer@example.com\nSite:http://smith.com/",
+      "DATE": "Invoice Date: 26-Sep-2002",
+      "NUMBER": "INVOICE ID INV92566480",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 351.63  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and six-\nty-one point zero five",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 361.05 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wesley Fields\n72422 Jasmin Plain Suite 996\nThomasfurt, AL 05085 US\nTel:+(973)415-6489\nEmail:qfinley@example.net\nSite:https://www.hudson.com/",
+      "DATE": "Invoice Date: 26-Mar-1993",
+      "NUMBER": "INVOICE ID INV77352912",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 680.10  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and eight-\ny-four point three six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 684.36 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Lara\n1392 Ashley Dale\nSouth Andrew, MT 86783 US\nTel:+(850)827-4162\nEmail:cannonamy@example.org\nSite:http://hurley-garcia.com/",
+      "DATE": "Invoice Date: 12-Jul-2002",
+      "NUMBER": "Invoice number INV32679931",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 756.69  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnty-four point six two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 774.62 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Perez\n819 Kelley Mills Apt. 830\nNew Amymouth, NY 56575 US\nTel:+(748)052-1613\nEmail:vmarshall@example.net\nSite:https://www.wells-chase.biz/",
+      "DATE": "Invoice Date: 18-Feb-1998",
+      "NUMBER": "INVOICE ID INV20632847",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 433.94  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and fo-\nrty-seven point two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 447.20 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Monique Garcia\n797 Kelly Spring\nJayview, ID 17268 US\nTel:+(463)122-6733\nEmail:glennkristina@example.com\nSite:http://www.pearson.biz/",
+      "DATE": "Invoice Date: 25-Nov-2019",
+      "NUMBER": "INVOICE ID INV28935434",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 816.19  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and t-\nwenty point two nine",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 820.29 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Stewart\n806 Norman Mount\nJamesberg, ME 77342 US\nTel:+(511)613-3222\nEmail:fcraig@example.net\nSite:http://www.hunt.com/",
+      "DATE": "Date: 08-Feb-2007",
+      "NUMBER": "Invoice number 4182-933",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 475.14  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenty-five point nine",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 475.90 $"
+    }
+  },
+  {
+    "image": "Template36_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Antonio Duran\n8625 Gonzalez Knolls\nSouth Robert, NC 48089 US\nTel:+(284)926-6333\nEmail:adamgreen@example.org\nSite:http://www.daniels-fleming.info/",
+      "DATE": "Date: 18-Jul-2016",
+      "NUMBER": "Invoice number 3Y7M5d-660",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 374.18  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and eight-\ny-three point nine eight",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 383.98 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brittany Mccormick\n693 Martin Pines\nDalestad, VA 74013 US\nTel:+(606)601-1475\nEmail:fsanders@example.net\nSite:http://brown.com/",
+      "DATE": "Invoice Date: 28-Apr-2004",
+      "NUMBER": "Invoice number INV/32-45/817",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 313.40  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and tw-\nenty point three one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 320.31 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Mcdaniel\n41462 Dennis Ferry\nWesleyshire, AL 53297 US\nTel:+(530)398-2414\nEmail:jmiller@example.net\nSite:http://www.jones-contreras.com/",
+      "DATE": "Invoice Date: 21-Sep-2006",
+      "NUMBER": "INVOICE # INV44125314",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 699.66  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-five point six four",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 695.64 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Yvonne Garza\n5232 Collins Extension Suite 705\nNorth Beverlyfort, MA 05294 US\nTel:+(165)305-6320\nEmail:brittanylong@example.com\nSite:http://bell.org/",
+      "DATE": "Invoice Date: 20-Dec-1994",
+      "NUMBER": "INVOICE # 6Y4M6d-060",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 538.51  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-one point three five",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 551.35 $"
+    }
+  },
+  {
+    "image": "Template36_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Justin Cook\n911 Eric Track Apt. 585\nNorth Emily, NC 30529 US\nTel:+(113)514-8639\nEmail:margaretsmith@example.org\nSite:http://www.henson-williams.com/",
+      "DATE": "Invoice Date: 21-Sep-2012",
+      "NUMBER": "INVOICE ID 5458-653",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 256.64  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty-\n-four point nine four",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 264.94 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Omar Washington\n00459 Dodson Curve Suite 718\nClarkton, AS 03578 US\nTel:+(269)407-4640\nEmail:laurie53@example.com\nSite:http://www.estrada.com/",
+      "DATE": "Date: 31-Jul-1994",
+      "NUMBER": "Invoice number INV/98-11/133",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 465.87  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and seven-\nty-seven point one two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 477.12 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nichole Guerrero\n2496 Campbell Glens Apt. 612\nPort Linda, SD 45375 US\nTel:+(399)013-3627\nEmail:grantlori@example.com\nSite:https://www.forbes.com/",
+      "DATE": "Date: 11-Apr-2020",
+      "NUMBER": "INVOICE ID INV/02-10/364",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 382.43  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-three point four one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 393.41 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Diane Fry\n3191 Kevin Mount\nSouth Jessica, CO 77001 US\nTel:+(667)747-6694\nEmail:maynardangela@example.org\nSite:http://boone.biz/",
+      "DATE": "Date: 05-Aug-2004",
+      "NUMBER": "INVOICE ID 7450-139",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 477.27  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-seven point four two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 487.42 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jesus Watts\n569 Mitchell Port Apt. 675\nLake Brian, MS 70489 US\nTel:+(373)991-9538\nEmail:kylejackson@example.org\nSite:http://www.jackson-lopez.com/",
+      "DATE": "Invoice Date: 23-Nov-1999",
+      "NUMBER": "Invoice number 4Y2M3d-886",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1203.96  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred a-\nnd sixty-five point one four",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1265.14 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Kent\n60460 Mary Estates\nWest Anne, AL 36007 US\nTel:+(655)039-4677\nEmail:krista92@example.net\nSite:https://turner.net/",
+      "DATE": "Date: 19-Dec-2010",
+      "NUMBER": "INVOICE # INV/35-43/025",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1204.17  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd twenty-two point eight one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1222.81 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Thompson\n0817 Flores Points\nSilvaland, ID 59931 US\nTel:+(218)550-4931\nEmail:danielsmith@example.org\nSite:https://carr.biz/",
+      "DATE": "Invoice Date: 12-Jan-2005",
+      "NUMBER": "INVOICE ID 1Y3M2d-098",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 479.89  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and -\none point four six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 501.46 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amanda Washington\n6029 Mia Station Suite 325\nEast Theresa, CO 34879 US\nTel:+(973)771-9332\nEmail:carrolltimothy@example.com\nSite:http://rivera-nelson.com/",
+      "DATE": "Invoice Date: 13-May-2018",
+      "NUMBER": "Invoice number INV/51-43/667",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 379.48  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-four point zero six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 384.06 $"
+    }
+  },
+  {
+    "image": "Template36_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Roberts\n6503 Phillips Burg Apt. 472\nWoodsville, WA 35809 US\nTel:+(934)123-4731\nEmail:paul48@example.com\nSite:http://hall.com/",
+      "DATE": "Invoice Date: 17-Jan-1998",
+      "NUMBER": "Invoice number 4Y9M7d-612",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 391.46  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and t-\nwo point eight six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 402.86 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Johnathan Black\n9027 Payne Burgs Suite 404\nNew Kayla, VA 63511 US\nTel:+(766)182-2638\nEmail:hillandrea@example.org\nSite:https://www.jones-roberts.com/",
+      "DATE": "Invoice Date: 28-Jul-2006",
+      "NUMBER": "Invoice number 1847-071",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 744.43  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fift-\ny-nine point six three",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 759.63 $"
+    }
+  },
+  {
+    "image": "Template36_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Suzanne Hart\n423 Kimberly Extensions Suite 229\nWest Kim, KY 94684 US\nTel:+(224)816-2431\nEmail:mollymorales@example.org\nSite:https://wagner.info/",
+      "DATE": "Invoice Date: 12-May-2001",
+      "NUMBER": "INVOICE # INV93650710",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 654.81  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  six hundred and eight-\ny-four point seven one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 684.71 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Miller\n0342 Robinson Ways Suite 664\nJamesland, SD 23187 US\nTel:+(890)488-4715\nEmail:craiggray@example.net\nSite:http://www.smith-morton.com/",
+      "DATE": "Invoice Date: 17-Oct-2003",
+      "NUMBER": "Invoice number INV/45-59/121",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1439.92  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred -\nand forty point seven three",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 1440.73 $"
+    }
+  },
+  {
+    "image": "Template36_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Leonard Perry\n215 Torres Wells\nLake John, NE 81528 US\nTel:+(893)473-0725\nEmail:alejandramay@example.com\nSite:https://fuentes-adams.net/",
+      "DATE": "Invoice Date: 16-Feb-1995",
+      "NUMBER": "Invoice number 2852-349",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 583.77  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and n-\ninety point six two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 590.62 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Victoria Vega\n27361 Grace Gardens Apt. 133\nNathanview, TX 56845 US\nTel:+(517)242-8591\nEmail:williamshepard@example.com\nSite:http://www.freeman.com/",
+      "DATE": "Date: 26-Jun-2019",
+      "NUMBER": "INVOICE # 1Y9M9d-730",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 338.68  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-five point zero eight",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 345.08 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lance Franco\n02176 Tiffany Trail\nFranciscohaven, LA 71247 US\nTel:+(496)241-2340\nEmail:gsimmons@example.com\nSite:http://keller.info/",
+      "DATE": "Invoice Date: 05-Feb-2004",
+      "NUMBER": "INVOICE # 8465-731",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 265.02  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty--\nfive point three eight",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 265.38 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Belinda Hays\n673 Mark Mill Suite 464\nSamanthaport, MT 20203 US\nTel:+(905)270-5365\nEmail:michelechambers@example.net\nSite:http://dean.net/",
+      "DATE": "Invoice Date: 24-Jul-2000",
+      "NUMBER": "INVOICE # 3035-509",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1053.66  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and eigh-\nty-three point six one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1083.61 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Denise Cooper\n650 Barnett Ranch Suite 398\nVaughnland, IA 55980 US\nTel:+(936)992-4188\nEmail:ubradshaw@example.org\nSite:https://www.jackson-gonzalez.info/",
+      "DATE": "Invoice Date: 04-Aug-2022",
+      "NUMBER": "Invoice number INV/80-24/515",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 492.53  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and-\neight point six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 508.60 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patrick Chase\n34570 Alexander Mountain Apt. 432\nPort Jimmyhaven, MP 03996 US\nTel:+(078)779-1336\nEmail:astone@example.com\nSite:https://www.james.com/",
+      "DATE": "Invoice Date: 30-Dec-1997",
+      "NUMBER": "Invoice number 9Y4M3d-960",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1383.01  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred-\nand ten point seven three",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1410.73 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Susan Boyd\n16555 Jill Lodge Apt. 667\nMartinton, IN 20727 US\nTel:+(116)004-1597\nEmail:meaganbartlett@example.org\nSite:https://www.lawrence-perry.com/",
+      "DATE": "Invoice Date: 30-Jul-2005",
+      "NUMBER": "Invoice number INV18572090",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 124.07  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one hundred and twent-\ny-six point eight six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 126.86 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cynthia Santana\n640 Spears Mountains\nSouth Lori, MO 36879 US\nTel:+(075)400-2405\nEmail:josephmarie@example.org\nSite:http://www.garcia-stout.com/",
+      "DATE": "Date: 22-Jul-2021",
+      "NUMBER": "INVOICE ID 4Y8M1d-567",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 785.62  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  eight hundred and e-\nleven point one nine",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 811.19 $"
+    }
+  },
+  {
+    "image": "Template36_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Kaufman\n627 Alicia Vista Apt. 489\nNew Rachel, CO 84471 US\nTel:+(661)054-8735\nEmail:wbaker@example.org\nSite:https://www.moore.com/",
+      "DATE": "Date: 01-Jun-2005",
+      "NUMBER": "INVOICE # INV51645758",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 392.70  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  four hundred and tw-\nelve point four one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 412.41 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Nelson\n64828 Wilson Locks Apt. 452\nWalkerhaven, NY 29618 US\nTel:+(445)346-4347\nEmail:tlopez@example.com\nSite:http://www.reynolds.com/",
+      "DATE": "Invoice Date: 19-Jan-2002",
+      "NUMBER": "INVOICE ID INV/65-36/048",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 714.98  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and el-\neven point eight one",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 711.81 $"
+    }
+  },
+  {
+    "image": "Template36_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bryan Mckinney\n2528 Amy Haven Apt. 294\nSilvaport, MD 45641 US\nTel:+(736)384-1268\nEmail:kristentrevino@example.com\nSite:https://www.kim.com/",
+      "DATE": "Date: 14-Mar-2017",
+      "NUMBER": "Invoice number 0122-059",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1002.34  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand and thirt-\ny-seven point four two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1037.42 $"
+    }
+  },
+  {
+    "image": "Template36_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Victoria Herrera\n747 Victor Ports\nElizabethside, SC 89104 US\nTel:+(692)383-3687\nEmail:danielle89@example.org\nSite:https://www.brown-wolf.net/",
+      "DATE": "Date: 06-Mar-2011",
+      "NUMBER": "Invoice number INV57361254",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1243.10  USD",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred a-\nnd sixty-six point five two",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 1266.52 USD"
+    }
+  },
+  {
+    "image": "Template36_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Short\n65516 Phillips Centers\nWhiteburgh, MN 62505 US\nTel:+(343)536-5915\nEmail:mary85@example.com\nSite:http://schneider.net/",
+      "DATE": "Invoice Date: 27-Apr-2002",
+      "NUMBER": "Invoice number 8055-920",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 752.88  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL_WORDS": "Total in words:  seven hundred and si-\nxty-two point one six",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "DUE_AMOUNT : 762.16 $"
+    }
+  },
+  {
+    "image": "Template36_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tyler Carey\n98345 Amanda Prairie\nJessicachester, AK 44675 US\nTel:+(087)903-9685\nEmail:ogonzalez@example.com\nSite:https://meyer-osborn.com/",
+      "DATE": "Invoice Date: 08-Feb-1999",
+      "NUMBER": "Invoice number INV/67-81/876",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 543.89  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-six point zero four",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "BALANCE_DUE : 556.04 EUR"
+    }
+  },
+  {
+    "image": "Template36_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Conley\n5682 Alvarez Canyon Apt. 915\nJosefort, MT 22735 US\nTel:+(807)190-5483\nEmail:richardmitchell@example.com\nSite:https://www.green-nelson.com/",
+      "DATE": "Invoice Date: 16-Nov-1999",
+      "NUMBER": "INVOICE # INV70771592",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:047 Jackson Meadows Apt. 391\nPearsonmouth, OH 83042 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1176.21  $",
+      "TITLE": "INVOICE",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd ninety-six point five three",
+      "GSTIN": "GSTIN No. 24AADCP1453)/AZZ",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1196.53 $"
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "image": "Template14_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Stewart\n957 David Walks Apt. 189\nWebstershire, FM 12232 US\nTel:+(426)647-1843\nEmail:derek05@example.com\nSite:http://hughes.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Nov-1999",
+      "DISCOUNT": "DISCOUNT(4.71%): (-)  13.3",
+      "DUE_DATE": "Due Date : 26-Dec-1994",
+      "NUMBER": "Invoice number INV/71-92/701",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 292.08 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremiah Cortez\n9140 Christina Fall\nNew Edwardchester, VI 65477 US\nTel:+(045)704-4811\nEmail:samanthacarpenter@example.com\nSite:http://www.hardy.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 30-Sep-2019",
+      "DISCOUNT": "DISCOUNT(2.52%): (-)  15.73",
+      "DUE_DATE": "Due Date : 14-Nov-2015",
+      "NUMBER": "Invoice number INV98921338",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 639.77 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sara Davis\n4115 Kimberly Prairie\nSouth Teresa, CO 99898 US\nTel:+(501)118-9448\nEmail:jeffreywhite@example.net\nSite:http://www.potts-graham.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 06-Feb-2007",
+      "DISCOUNT": "DISCOUNT(2.16%): (-)  18.28",
+      "DUE_DATE": "Due Date : 13-Oct-1997",
+      "NUMBER": "INVOICE # INV73694672",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 877.15 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Shawn Williams\n8186 Wagner Forest Apt. 411\nWest Danielleland, OH 04802 US\nTel:+(603)845-3290\nEmail:john90@example.org\nSite:http://www.ford.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Apr-1994",
+      "DISCOUNT": "DISCOUNT(3.86%): (-)  15.06",
+      "DUE_DATE": "Due Date : 24-Dec-2011",
+      "NUMBER": "Invoice number INV58041928",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 397.23 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Brooks\n43067 King Stream\nNew Angela, MO 38852 US\nTel:+(849)865-3037\nEmail:stephenskatherine@example.net\nSite:http://smith-collins.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 11-Apr-1999",
+      "DISCOUNT": "DISCOUNT(3.37%): (-)  27.13",
+      "DUE_DATE": "Due Date : 14-Nov-2010",
+      "NUMBER": "INVOICE ID INV89749203",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 806.43 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Donald Henderson\n11367 Jenna Throughway Suite 118\nGentrymouth, HI 14935 US\nTel:+(101)080-2290\nEmail:uanderson@example.com\nSite:https://ware-murphy.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Sep-2014",
+      "DISCOUNT": "DISCOUNT(2.6%): (-)  22.5",
+      "DUE_DATE": "Due Date : 21-Feb-2013",
+      "NUMBER": "Invoice number 0890-782",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 869.11 $"
+    }
+  },
+  {
+    "image": "Template14_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexis Joseph\n8866 Scott Key\nJimmyside, VA 66980 US\nTel:+(373)427-8563\nEmail:monicapadilla@example.net\nSite:https://www.hall.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Aug-2018",
+      "DISCOUNT": "DISCOUNT(4.23%): (-)  10.92",
+      "DUE_DATE": "Due Date : 18-Feb-1997",
+      "NUMBER": "INVOICE # INV/35-10/345",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 267.66 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandy Holloway\n0014 Hensley Plains\nMirandahaven, NV 14042 US\nTel:+(718)444-6779\nEmail:myersryan@example.net\nSite:https://welch-simmons.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Aug-2016",
+      "DISCOUNT": "DISCOUNT(3.5%): (-)  33.6",
+      "DUE_DATE": "Due Date : 28-Jun-1997",
+      "NUMBER": "Invoice number INV/60-39/946",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 963.76 $"
+    }
+  },
+  {
+    "image": "Template14_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gregory Johnson\n403 Martin Springs\nMadisonville, CA 99228 US\nTel:+(478)811-3898\nEmail:bakerkyle@example.org\nSite:https://www.boyd.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 15-Apr-2020",
+      "DISCOUNT": "DISCOUNT(4.17%): (-)  24.75",
+      "DUE_DATE": "Due Date : 27-Nov-2016",
+      "NUMBER": "INVOICE # INV96453710",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 612.38 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Adam Cox\n6250 Alvarez Harbor\nPenashire, NM 47953 US\nTel:+(064)137-2279\nEmail:billyhaley@example.net\nSite:https://www.everett-greene.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 05-Sep-1997",
+      "DISCOUNT": "DISCOUNT(2.46%): (-)  11.97",
+      "DUE_DATE": "Due Date : 30-Mar-2022",
+      "NUMBER": "Invoice number 8825-294",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 496.12 $"
+    }
+  },
+  {
+    "image": "Template14_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rodney Chen\n00106 Carolyn Ford\nButlerfurt, UT 53122 US\nTel:+(720)486-3772\nEmail:thomas15@example.com\nSite:http://www.freeman.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 03-Mar-2014",
+      "DISCOUNT": "DISCOUNT(1.24%): (-)  8.49",
+      "DUE_DATE": "Due Date : 16-Apr-2014",
+      "NUMBER": "INVOICE # INV/46-40/124",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 696.09 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Benjamin Matthews\n59659 Bullock Vista Suite 516\nWest Karen, GU 46535 US\nTel:+(369)926-8493\nEmail:whernandez@example.com\nSite:http://www.ward-owens.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Aug-2017",
+      "DISCOUNT": "DISCOUNT(3.36%): (-)  5.73",
+      "DUE_DATE": "Due Date : 28-Apr-2010",
+      "NUMBER": "INVOICE # INV/12-44/477",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 172.00 $"
+    }
+  },
+  {
+    "image": "Template14_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :George Ford\n6125 Mary Via Apt. 362\nAlexisbury, MN 51867 US\nTel:+(576)798-9180\nEmail:jared32@example.com\nSite:http://mack.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Jun-2019",
+      "DISCOUNT": "DISCOUNT(4.38%): (-)  25.01",
+      "DUE_DATE": "Due Date : 10-Jan-1997",
+      "NUMBER": "INVOICE # 4Y7M6d-503",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 577.08 $"
+    }
+  },
+  {
+    "image": "Template14_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jordan Smith\n00506 Teresa Causeway Suite 616\nMercadoborough, VI 76590 US\nTel:+(305)943-1854\nEmail:gouldaaron@example.com\nSite:https://www.young.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 04-Apr-2006",
+      "DISCOUNT": "DISCOUNT(2.28%): (-)  9.45",
+      "DUE_DATE": "Due Date : 05-Sep-2004",
+      "NUMBER": "INVOICE ID INV92045704",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 433.49 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tracy Herrera\n4490 Massey Highway Suite 611\nAndreamouth, TX 48673 US\nTel:+(495)958-9995\nEmail:lhernandez@example.com\nSite:http://garcia.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Aug-1996",
+      "DISCOUNT": "DISCOUNT(4.24%): (-)  26.09",
+      "DUE_DATE": "Due Date : 07-Aug-2018",
+      "NUMBER": "INVOICE ID INV/13-54/613",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 609.75 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Latasha Contreras\n178 Hayes Turnpike Apt. 075\nWest Rachel, NY 89444 US\nTel:+(527)449-7412\nEmail:fieldsamber@example.org\nSite:http://bautista.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 22-Jun-2003",
+      "DISCOUNT": "DISCOUNT(1.17%): (-)  8.46",
+      "DUE_DATE": "Due Date : 22-Nov-2020",
+      "NUMBER": "Invoice number INV/09-75/309",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 756.99 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Teresa Mccoy\n55917 Robinson Plaza Apt. 226\nNorth Matthew, MS 74795 US\nTel:+(879)429-1563\nEmail:aliciagonzales@example.com\nSite:http://www.norton.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Jun-2015",
+      "DISCOUNT": "DISCOUNT(1.85%): (-)  14.03",
+      "DUE_DATE": "Due Date : 24-Jul-2017",
+      "NUMBER": "INVOICE # INV92030889",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 780.94 $"
+    }
+  },
+  {
+    "image": "Template14_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Davis\n8766 Hurst Burgs\nGreenberg, PA 29205 US\nTel:+(413)783-1080\nEmail:williamsjason@example.net\nSite:http://www.ramirez-stewart.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 22-Jan-2012",
+      "DISCOUNT": "DISCOUNT(3.93%): (-)  21.57",
+      "DUE_DATE": "Due Date : 18-Feb-2000",
+      "NUMBER": "INVOICE ID INV/53-43/029",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 567.97 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Ross\n3377 Sean Pines Suite 217\nNew Christopherfort, OR 21828 US\nTel:+(013)637-6183\nEmail:michaelshah@example.com\nSite:http://king.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-Jun-2010",
+      "DISCOUNT": "DISCOUNT(1.5%): (-)  2.42",
+      "DUE_DATE": "Due Date : 07-Jul-2011",
+      "NUMBER": "INVOICE # INV46992102",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 165.93 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Evan Davis\n505 Hill Meadows\nTracychester, NY 77608 US\nTel:+(296)073-1432\nEmail:mitchell08@example.org\nSite:https://www.little.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Sep-2002",
+      "DISCOUNT": "DISCOUNT(3.84%): (-)  3.62",
+      "DUE_DATE": "Due Date : 24-Jul-2015",
+      "NUMBER": "Invoice number INV/49-14/619",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 95.48 $"
+    }
+  },
+  {
+    "image": "Template14_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Aaron Christensen\n7126 Amanda Cape Apt. 048\nEast Clinton, NC 89991 US\nTel:+(864)388-2410\nEmail:lewiskayla@example.net\nSite:http://www.lawson-kelly.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Dec-2018",
+      "DISCOUNT": "DISCOUNT(2.99%): (-)  15.52",
+      "DUE_DATE": "Due Date : 01-Jun-2010",
+      "NUMBER": "Invoice number 1914-279",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 515.60 $"
+    }
+  },
+  {
+    "image": "Template14_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Mcclure\n2840 Stewart Mews Apt. 347\nSouth Brittanyberg, HI 09582 US\nTel:+(663)965-1603\nEmail:davidmiller@example.net\nSite:http://ford.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 04-Jun-2010",
+      "DISCOUNT": "DISCOUNT(3.89%): (-)  13.54",
+      "DUE_DATE": "Due Date : 29-Jul-2002",
+      "NUMBER": "INVOICE # INV/28-61/964",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 360.55 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cindy Banks\n0668 Amanda Street Apt. 308\nNew Jeffrey, MO 07685 US\nTel:+(610)001-4758\nEmail:oconnorjeffrey@example.net\nSite:http://www.ingram-norton.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Jul-2014",
+      "DISCOUNT": "DISCOUNT(2.2%): (-)  16.98",
+      "DUE_DATE": "Due Date : 03-Jul-1994",
+      "NUMBER": "Invoice number INV/56-57/942",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 782.69 $"
+    }
+  },
+  {
+    "image": "Template14_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tara Jones\n015 Riley Loop Apt. 705\nLake Jasonshire, IA 90629 US\nTel:+(837)851-4952\nEmail:kbarnett@example.org\nSite:https://webster.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Oct-1995",
+      "DISCOUNT": "DISCOUNT(3.95%): (-)  15.18",
+      "DUE_DATE": "Due Date : 13-May-1996",
+      "NUMBER": "INVOICE # INV/06-07/760",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 397.40 $"
+    }
+  },
+  {
+    "image": "Template14_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. Drew Herrera\n01591 Collins Bridge Apt. 698\nNorth Jeffrey, LA 30262 US\nTel:+(797)238-4537\nEmail:nicholasrush@example.org\nSite:http://griffin-james.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 15-Sep-1999",
+      "DISCOUNT": "DISCOUNT(1.1%): (-)  8.96",
+      "DUE_DATE": "Due Date : 28-Feb-2001",
+      "NUMBER": "INVOICE # INV33171386",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 837.72 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Richard Mendoza\n849 Daniel Canyon Suite 516\nCassiefurt, WY 52176 US\nTel:+(248)135-5442\nEmail:gonzalesshannon@example.org\nSite:http://www.willis-odonnell.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 08-Nov-1994",
+      "DISCOUNT": "DISCOUNT(3.77%): (-)  21.64",
+      "DUE_DATE": "Due Date : 03-Aug-1998",
+      "NUMBER": "Invoice number INV/10-19/141",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 593.82 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tim Key\n10343 Rodriguez Meadows Apt. 353\nNorth Deborah, ND 28918 US\nTel:+(240)647-8690\nEmail:bishopjames@example.com\nSite:https://hayes.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 03-Mar-1994",
+      "DISCOUNT": "DISCOUNT(4.92%): (-)  15.48",
+      "DUE_DATE": "Due Date : 16-Mar-1994",
+      "NUMBER": "Invoice number INV02857807",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 318.79 $"
+    }
+  },
+  {
+    "image": "Template14_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Thomas Lee\n32086 Moore Passage Suite 960\nSouth Joshua, MD 89592 US\nTel:+(075)825-8577\nEmail:mary90@example.com\nSite:http://www.morrow-morgan.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 06-Mar-2000",
+      "DISCOUNT": "DISCOUNT(2.13%): (-)  15.78",
+      "DUE_DATE": "Due Date : 17-Dec-2015",
+      "NUMBER": "INVOICE ID INV66231671",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 747.99 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Craig Harris\n343 Deanna Oval Apt. 716\nDuncanburgh, MP 05195 US\nTel:+(979)901-3742\nEmail:johnsonleslie@example.com\nSite:http://young-smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Jul-2010",
+      "DISCOUNT": "DISCOUNT(3.34%): (-)  8.95",
+      "DUE_DATE": "Due Date : 09-Sep-1998",
+      "NUMBER": "INVOICE ID 6Y6M7d-178",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 267.09 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. Ashley Golden\n304 Knapp Haven\nHillchester, CT 06052 US\nTel:+(859)034-8679\nEmail:rodriguezjoseph@example.net\nSite:https://www.morris-anderson.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Oct-2021",
+      "DISCOUNT": "DISCOUNT(4.68%): (-)  15.14",
+      "DUE_DATE": "Due Date : 21-May-2007",
+      "NUMBER": "INVOICE # 2Y4M8d-777",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 334.17 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amber Ortiz\n6076 Matthew Keys Apt. 914\nBlackburnchester, OH 60047 US\nTel:+(271)458-1851\nEmail:chad36@example.net\nSite:https://perkins-davis.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 04-Jun-2004",
+      "DISCOUNT": "DISCOUNT(2.71%): (-)  30.55",
+      "DUE_DATE": "Due Date : 28-Feb-2006",
+      "NUMBER": "INVOICE ID 2Y3M9d-858",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1147.47 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Megan Anderson\n2918 Teresa Fort\nThomastown, MA 46278 US\nTel:+(783)085-6841\nEmail:melissa89@example.com\nSite:https://www.reynolds.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 02-May-2016",
+      "DISCOUNT": "DISCOUNT(4.25%): (-)  33.82",
+      "DUE_DATE": "Due Date : 13-Jul-2002",
+      "NUMBER": "INVOICE # INV14188107",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 793.97 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Johnson\n51213 Adkins Locks\nSouth Corytown, CO 15323 US\nTel:+(772)040-3456\nEmail:sophia47@example.com\nSite:http://www.perry-barnett.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 06-Feb-1995",
+      "DISCOUNT": "DISCOUNT(1.26%): (-)  8.22",
+      "DUE_DATE": "Due Date : 19-Jun-1996",
+      "NUMBER": "Invoice number INV63281191",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 660.32 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Barrett\n894 Haynes Mountains\nSouth Natashabury, AR 39377 US\nTel:+(396)920-4619\nEmail:luke92@example.com\nSite:http://blackburn.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-May-2005",
+      "DISCOUNT": "DISCOUNT(2.95%): (-)  9.59",
+      "DUE_DATE": "Due Date : 10-Aug-2002",
+      "NUMBER": "INVOICE ID INV98046951",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 331.74 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Lopez PhD\n5419 Trujillo Garden\nBoyleview, PA 93068 US\nTel:+(013)627-7050\nEmail:smurphy@example.org\nSite:https://michael.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 26-Sep-2002",
+      "DISCOUNT": "DISCOUNT(4.4%): (-)  16.03",
+      "DUE_DATE": "Due Date : 14-Mar-2015",
+      "NUMBER": "Invoice number INV/27-79/634",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 373.27 EUR"
+    }
+  },
+  {
+    "image": "Template14_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Cuevas\n7067 Smith Falls Suite 627\nBradleyfurt, VA 43608 US\nTel:+(625)868-7242\nEmail:hector89@example.net\nSite:https://www.west.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 16-Nov-2021",
+      "DISCOUNT": "DISCOUNT(2.0%): (-)  16.92",
+      "DUE_DATE": "Due Date : 29-Sep-2021",
+      "NUMBER": "INVOICE ID INV/18-67/921",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 887.99 $"
+    }
+  },
+  {
+    "image": "Template14_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Eric Rogers\n05121 Brandon Parkway Suite 373\nPort Joshuaside, AL 61558 US\nTel:+(650)382-9067\nEmail:kruegerdarlene@example.net\nSite:http://sutton.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 12-Nov-2003",
+      "DISCOUNT": "DISCOUNT(1.81%): (-)  4.66",
+      "DUE_DATE": "Due Date : 22-Jul-2015",
+      "NUMBER": "Invoice number INV/07-34/914",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 271.54 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Mitchell\n0926 Davis Road Suite 150\nWendybury, AL 57145 US\nTel:+(435)096-9290\nEmail:biancajones@example.net\nSite:http://www.clark-morgan.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 04-Mar-2009",
+      "DISCOUNT": "DISCOUNT(2.14%): (-)  5.97",
+      "DUE_DATE": "Due Date : 18-Mar-2003",
+      "NUMBER": "INVOICE # 0445-702",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 287.33 $"
+    }
+  },
+  {
+    "image": "Template14_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dan Dawson\n93495 Greene Court\nNew Davidport, MT 63011 US\nTel:+(162)568-2662\nEmail:wilsonjason@example.org\nSite:https://www.shea.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-Jul-1997",
+      "DISCOUNT": "DISCOUNT(3.3%): (-)  18.6",
+      "DUE_DATE": "Due Date : 08-Jul-2004",
+      "NUMBER": "Invoice number INV04119664",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 555.70 USD"
+    }
+  },
+  {
+    "image": "Template14_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sean Garcia\n38389 Zachary Trail\nEast Robin, NY 99627 US\nTel:+(194)491-8957\nEmail:andrew54@example.com\nSite:http://www.cruz.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Feb-2016",
+      "DISCOUNT": "DISCOUNT(4.73%): (-)  36.29",
+      "DUE_DATE": "Due Date : 25-Feb-1998",
+      "NUMBER": "Invoice number 8855-208",
+      "SELLER_ADDRESS": "Address:841 Marshall Knolls\nTimothystad, SC 63653 US",
+      "SELLER_NAME": "Faulkner LLC",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 782.46 EUR"
+    }
+  }
+]

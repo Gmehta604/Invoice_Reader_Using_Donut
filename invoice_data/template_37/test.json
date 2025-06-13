@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template37_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cassandra Nguyen\n9760 Kevin Plains Suite 306\nCoxside, NC 51334 US\nTel:+(132)116-5333\nEmail:matthewsedward@example.net\nSite:https://griffith.com/",
+      "DATE": "Invoice Date: 19-Dec-2002",
+      "DUE_DATE": "Due Date : 05-Feb-2022",
+      "PO_NUMBER": "PO Number :12",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 152.56  $",
+      "TAX": "TAX:VAT (6.47%):  9.88 $",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 158.26 $"
+    }
+  },
+  {
+    "image": "Template37_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sheryl Byrd\n484 Cole Inlet Apt. 811\nGregorymouth, VI 43611 US\nTel:+(949)636-6546\nEmail:angieparks@example.org\nSite:https://www.rodriguez.net/",
+      "DATE": "Date: 17-Aug-2013",
+      "DUE_DATE": "Due Date : 19-Jun-2002",
+      "PO_NUMBER": "PO Number :39",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 122.18  USD",
+      "TAX": "TAX:VAT (4.46%):  5.45 USD",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 122.67 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bryan Mcgee\n27842 Wade Manors Suite 054\nMeghanhaven, MA 80179 US\nTel:+(122)036-6539\nEmail:rachelsmith@example.net\nSite:http://nguyen.com/",
+      "DATE": "Date: 05-Apr-2004",
+      "DUE_DATE": "Due Date : 29-Jan-2007",
+      "PO_NUMBER": "PO Number :74",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1089.38  $",
+      "TAX": "TAX:VAT (5.26%):  57.25 $",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1106.98 $"
+    }
+  },
+  {
+    "image": "Template37_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paul Ryan\n662 Clark Crossroad\nGarciashire, WI 12584 US\nTel:+(299)292-2305\nEmail:yhamilton@example.org\nSite:http://moon-ellis.info/",
+      "DATE": "Date: 13-Nov-2019",
+      "DUE_DATE": "Due Date : 15-Jan-2006",
+      "PO_NUMBER": "PO Number :27",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 526.88  USD",
+      "TAX": "TAX:VAT (3.96%):  20.85 USD",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 538.98 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Flores\n321 Wright Tunnel Suite 634\nLake Kathy, HI 82347 US\nTel:+(730)393-4528\nEmail:ccarroll@example.com\nSite:https://www.ellis-rasmussen.com/",
+      "DATE": "Date: 22-May-2017",
+      "DUE_DATE": "Due Date : 09-Oct-2010",
+      "PO_NUMBER": "PO Number :56",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 692.12  $",
+      "TAX": "TAX:VAT (6.08%):  42.08 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 707.00 $"
+    }
+  },
+  {
+    "image": "Template37_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Catherine Jones\n510 Parks Summit Apt. 781\nSouth Rachael, CT 69682 US\nTel:+(742)331-7811\nEmail:mwilliams@example.org\nSite:http://www.terry.com/",
+      "DATE": "Date: 18-Nov-2008",
+      "DUE_DATE": "Due Date : 17-Sep-1995",
+      "PO_NUMBER": "PO Number :07",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 490.32  $",
+      "TAX": "TAX:VAT (3.36%):  16.47 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 488.99 $"
+    }
+  },
+  {
+    "image": "Template37_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Shea\n79388 Brown Radial\nLake Richard, MO 86785 US\nTel:+(773)459-3957\nEmail:gailcook@example.org\nSite:https://www.gordon-woods.biz/",
+      "DATE": "Date: 30-Nov-2011",
+      "DUE_DATE": "Due Date : 12-Aug-2008",
+      "PO_NUMBER": "PO Number :23",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 748.54  EUR",
+      "TAX": "TAX:VAT (6.61%):  49.50 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 768.32 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Lewis\n03366 Diane Mountain Suite 326\nEast Joshuachester, OR 51028 US\nTel:+(053)563-1574\nEmail:keith16@example.org\nSite:https://murray-jones.com/",
+      "DATE": "Date: 14-Sep-2017",
+      "DUE_DATE": "Due Date : 01-Feb-1995",
+      "PO_NUMBER": "PO Number :43",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 283.64  EUR",
+      "TAX": "TAX:VAT (4.59%):  13.02 EUR",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 288.26 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Wilson\n03267 Brian Underpass\nChristopherburgh, CA 39521 US\nTel:+(500)123-2435\nEmail:justinharris@example.net\nSite:http://daniels-aguirre.com/",
+      "DATE": "Date: 30-Mar-2004",
+      "DUE_DATE": "Due Date : 16-Nov-2017",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 665.97  EUR",
+      "TAX": "TAX:VAT (6.68%):  44.51 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 693.36 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Frank Kirk\n961 Wang Mountains Apt. 263\nAlejandrochester, NE 80485 US\nTel:+(709)277-5698\nEmail:mccoytony@example.net\nSite:http://lin.com/",
+      "DATE": "Date: 07-Feb-2010",
+      "DUE_DATE": "Due Date : 27-Aug-1997",
+      "PO_NUMBER": "PO Number :52",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 963.53  USD",
+      "TAX": "TAX:VAT (5.65%):  54.39 USD",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 997.97 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Rocha\n60790 Anderson Points\nEast Angela, NV 66581 US\nTel:+(190)966-2645\nEmail:maysbrittany@example.net\nSite:https://butler.org/",
+      "DATE": "Invoice Date: 12-Jun-2003",
+      "DUE_DATE": "Due Date : 19-Feb-2014",
+      "PO_NUMBER": "PO Number :53",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1168.64  $",
+      "TAX": "TAX:VAT (6.16%):  71.95 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1221.42 $"
+    }
+  },
+  {
+    "image": "Template37_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremy Nelson\n11266 Thomas Drive Suite 408\nRobertsside, SC 65011 US\nTel:+(202)366-3346\nEmail:xvaughan@example.com\nSite:http://bass-peterson.org/",
+      "DATE": "Date: 24-Jun-2019",
+      "DUE_DATE": "Due Date : 24-Dec-1999",
+      "PO_NUMBER": "PO Number :75",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 613.52  $",
+      "TAX": "TAX:VAT (6.55%):  40.22 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 623.86 $"
+    }
+  },
+  {
+    "image": "Template37_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erik Kim\n00767 Morrow Parkway\nJessicamouth, UT 82625 US\nTel:+(381)915-2270\nEmail:juanlawrence@example.net\nSite:https://frazier.com/",
+      "DATE": "Date: 25-Mar-2015",
+      "DUE_DATE": "Due Date : 10-Nov-2003",
+      "PO_NUMBER": "PO Number :03",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 873.69  EUR",
+      "TAX": "TAX:VAT (6.60%):  57.67 EUR",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 917.38 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Schneider\n905 Julia Port\nLake Danielchester, VT 50439 US\nTel:+(885)555-8679\nEmail:beckysmith@example.com\nSite:https://www.elliott-cervantes.com/",
+      "DATE": "Invoice Date: 06-Jan-2019",
+      "DUE_DATE": "Due Date : 13-Nov-2012",
+      "PO_NUMBER": "PO Number :34",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1143.25  USD",
+      "TAX": "TAX:VAT (5.07%):  57.97 USD",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 1179.96 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mindy Sims\n0092 Debra Extensions\nWest Brandonfurt, IN 27463 US\nTel:+(349)490-7395\nEmail:tcraig@example.net\nSite:http://www.brooks-huynh.com/",
+      "DATE": "Date: 11-Sep-2003",
+      "DUE_DATE": "Due Date : 11-Aug-2022",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 950.39  USD",
+      "TAX": "TAX:VAT (4.02%):  38.18 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 965.76 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anne Taylor\n0354 Potter Village Suite 256\nLake Amandachester, IN 59829 US\nTel:+(899)543-3608\nEmail:pbrown@example.net\nSite:https://williams-henderson.com/",
+      "DATE": "Date: 19-Aug-1997",
+      "DUE_DATE": "Due Date : 16-Jul-2022",
+      "PO_NUMBER": "PO Number :66",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 561.58  EUR",
+      "TAX": "TAX:VAT (6.70%):  37.65 EUR",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 589.51 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Justin Mcdaniel\n575 Gary Park\nNguyenbury, VI 19749 US\nTel:+(425)957-0570\nEmail:steve69@example.net\nSite:https://stokes-coleman.biz/",
+      "DATE": "Invoice Date: 17-Jun-1995",
+      "DUE_DATE": "Due Date : 05-Aug-2015",
+      "PO_NUMBER": "PO Number :63",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 787.96  USD",
+      "TAX": "TAX:VAT (4.74%):  37.38 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 793.98 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Gutierrez\n6991 Jenna Streets\nWilliamport, NY 82450 US\nTel:+(486)220-8255\nEmail:edavis@example.net\nSite:https://cross-marquez.com/",
+      "DATE": "Invoice Date: 19-Mar-2004",
+      "DUE_DATE": "Due Date : 26-Oct-2012",
+      "PO_NUMBER": "PO Number :49",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 211.13  USD",
+      "TAX": "TAX:VAT (5.03%):  10.63 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 216.76 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeremy Mcknight\n0147 Mitchell Unions\nWest Toni, ID 35722 US\nTel:+(927)922-2924\nEmail:doylesonya@example.net\nSite:http://zuniga.com/",
+      "DATE": "Invoice Date: 16-Apr-2022",
+      "DUE_DATE": "Due Date : 21-Jan-2008",
+      "PO_NUMBER": "PO Number :30",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1076.38  $",
+      "TAX": "TAX:VAT (6.33%):  68.18 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 1119.59 $"
+    }
+  },
+  {
+    "image": "Template37_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Byrd\n59838 Nicholas Junctions\nSimpsonview, KY 48381 US\nTel:+(738)252-3055\nEmail:vwilliams@example.com\nSite:https://www.carr.com/",
+      "DATE": "Invoice Date: 23-Aug-2011",
+      "DUE_DATE": "Due Date : 12-Jun-2001",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 893.41  $",
+      "TAX": "TAX:VAT (4.73%):  42.23 $",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 904.73 $"
+    }
+  },
+  {
+    "image": "Template37_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Parsons\n9761 Christopher Lakes\nHarrisonburgh, FM 12887 US\nTel:+(283)391-7988\nEmail:xprice@example.com\nSite:http://diaz-jones.net/",
+      "DATE": "Date: 19-Apr-2017",
+      "DUE_DATE": "Due Date : 12-Mar-2011",
+      "PO_NUMBER": "PO Number :90",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 769.66  EUR",
+      "TAX": "TAX:VAT (4.95%):  38.12 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 770.53 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kerri Figueroa\n3722 Richardson Vista\nWest Tonya, VA 62430 US\nTel:+(364)714-2486\nEmail:mary16@example.com\nSite:https://ibarra-bryant.com/",
+      "DATE": "Invoice Date: 09-Mar-1997",
+      "DUE_DATE": "Due Date : 28-May-2013",
+      "PO_NUMBER": "PO Number :94",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 185.55  $",
+      "TAX": "TAX:VAT (4.74%):  8.79 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 187.72 $"
+    }
+  },
+  {
+    "image": "Template37_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Parks\n4379 Alec Courts Suite 193\nJeremiahstad, OK 19324 US\nTel:+(169)603-4578\nEmail:catherinemedina@example.com\nSite:https://morrow.org/",
+      "DATE": "Date: 24-Feb-2003",
+      "DUE_DATE": "Due Date : 06-Mar-2015",
+      "PO_NUMBER": "PO Number :39",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 700.55  USD",
+      "TAX": "TAX:VAT (6.04%):  42.29 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 728.55 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Franco\n16194 John Lights Apt. 646\nPort Julie, WV 36801 US\nTel:+(779)339-6940\nEmail:williegallegos@example.net\nSite:https://acevedo.info/",
+      "DATE": "Invoice Date: 09-Nov-2017",
+      "DUE_DATE": "Due Date : 21-Nov-2004",
+      "PO_NUMBER": "PO Number :31",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 257.91  $",
+      "TAX": "TAX:VAT (4.72%):  12.17 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 264.46 $"
+    }
+  },
+  {
+    "image": "Template37_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gabrielle Le\n77931 David Mountains\nJohnsonberg, NE 60622 US\nTel:+(294)162-4173\nEmail:dunnkimberly@example.org\nSite:https://www.barker-welch.biz/",
+      "DATE": "Invoice Date: 11-Nov-2015",
+      "DUE_DATE": "Due Date : 09-Jan-1996",
+      "PO_NUMBER": "PO Number :05",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1206.90  USD",
+      "TAX": "TAX:VAT (4.77%):  57.54 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1210.61 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Flores\n5472 Castillo Center\nEast Gregoryview, MD 08362 US\nTel:+(802)625-5395\nEmail:matthew51@example.org\nSite:http://pena-jackson.com/",
+      "DATE": "Date: 19-Jan-2020",
+      "DUE_DATE": "Due Date : 30-Jan-2015",
+      "PO_NUMBER": "PO Number :85",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 241.37  EUR",
+      "TAX": "TAX:VAT (5.57%):  13.44 EUR",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 245.44 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Fox\n186 Edwards Canyon Apt. 946\nSnyderville, PR 01039 US\nTel:+(949)263-9584\nEmail:anne00@example.net\nSite:http://cooper.org/",
+      "DATE": "Invoice Date: 01-Jan-2014",
+      "DUE_DATE": "Due Date : 15-Mar-2019",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1542.89  USD",
+      "TAX": "TAX:VAT (4.47%):  69.03 USD",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1553.60 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Caldwell MD\n277 Yates Forge\nSouth Steveshire, NH 71497 US\nTel:+(362)795-5850\nEmail:anna79@example.net\nSite:http://www.edwards.biz/",
+      "DATE": "Date: 28-Feb-1995",
+      "DUE_DATE": "Due Date : 24-Oct-1993",
+      "PO_NUMBER": "PO Number :82",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 457.48  $",
+      "TAX": "TAX:VAT (3.31%):  15.14 $",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 461.14 $"
+    }
+  },
+  {
+    "image": "Template37_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bradley Mueller\n5075 Brittany Ports Suite 786\nPort Sandraton, CT 73018 US\nTel:+(130)397-5002\nEmail:carla61@example.net\nSite:https://www.fuentes.biz/",
+      "DATE": "Invoice Date: 14-Dec-2013",
+      "DUE_DATE": "Due Date : 15-Feb-2008",
+      "PO_NUMBER": "PO Number :95",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1739.22  $",
+      "TAX": "TAX:VAT (6.60%):  114.84 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1773.19 $"
+    }
+  },
+  {
+    "image": "Template37_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brittany Fuller\n11705 Natalie Dale Apt. 840\nWest Justinchester, IL 62524 US\nTel:+(466)662-1583\nEmail:reeselinda@example.org\nSite:https://www.griffin.info/",
+      "DATE": "Date: 27-Apr-2022",
+      "DUE_DATE": "Due Date : 28-Aug-1996",
+      "PO_NUMBER": "PO Number :20",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 663.08  $",
+      "TAX": "TAX:VAT (4.13%):  27.39 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 660.17 $"
+    }
+  },
+  {
+    "image": "Template37_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Wang\n10345 Jessica Cliff Apt. 904\nWest Josefurt, CT 52913 US\nTel:+(668)351-2978\nEmail:joan35@example.net\nSite:http://www.nash-fields.info/",
+      "DATE": "Invoice Date: 14-Sep-2003",
+      "DUE_DATE": "Due Date : 28-Nov-2013",
+      "PO_NUMBER": "PO Number :88",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 470.84  EUR",
+      "TAX": "TAX:VAT (4.16%):  19.61 EUR",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 473.59 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Miranda\n46884 Stephanie Meadows\nGinafort, MT 85278 US\nTel:+(349)533-4128\nEmail:washingtonjudith@example.net\nSite:https://www.butler.com/",
+      "DATE": "Date: 13-Mar-2016",
+      "DUE_DATE": "Due Date : 31-Mar-2008",
+      "PO_NUMBER": "PO Number :15",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 586.70  EUR",
+      "TAX": "TAX:VAT (5.37%):  31.51 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 596.21 EUR"
+    }
+  },
+  {
+    "image": "Template37_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristine Lamb\n2204 Kevin Trace\nFarrellton, AK 07207 US\nTel:+(161)321-9473\nEmail:ykidd@example.net\nSite:http://jones.biz/",
+      "DATE": "Invoice Date: 16-Jul-2022",
+      "DUE_DATE": "Due Date : 28-Aug-2008",
+      "PO_NUMBER": "PO Number :43",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1139.41  USD",
+      "TAX": "TAX:VAT (3.47%):  39.57 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1150.38 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lori Fox\n485 Jessica Passage Suite 623\nLake Nicholas, UT 83957 US\nTel:+(460)579-2629\nEmail:jessejohnson@example.com\nSite:http://pearson.biz/",
+      "DATE": "Invoice Date: 04-Sep-2015",
+      "DUE_DATE": "Due Date : 03-Oct-2022",
+      "PO_NUMBER": "PO Number :13",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 698.37  USD",
+      "TAX": "TAX:VAT (3.58%):  24.98 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "BALANCE_DUE : 707.50 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Smith\n211 Randy Parkway Suite 571\nNicholston, FM 30722 US\nTel:+(821)323-3103\nEmail:nathanielblair@example.com\nSite:http://clark.com/",
+      "DATE": "Date: 10-May-2020",
+      "DUE_DATE": "Due Date : 16-May-1999",
+      "PO_NUMBER": "PO Number :45",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1145.06  $",
+      "TAX": "TAX:VAT (5.13%):  58.74 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1190.63 $"
+    }
+  },
+  {
+    "image": "Template37_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Watson\n05866 Velazquez Mount\nNorth Diane, NJ 20651 US\nTel:+(839)237-3484\nEmail:sara88@example.org\nSite:https://anderson.com/",
+      "DATE": "Date: 16-Aug-2006",
+      "DUE_DATE": "Due Date : 27-Aug-2009",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1777.00  $",
+      "TAX": "TAX:VAT (4.82%):  85.63 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1776.45 $"
+    }
+  },
+  {
+    "image": "Template37_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Victoria Martin\n75083 Martinez Lock Apt. 359\nPaulborough, MP 06214 US\nTel:+(146)917-5223\nEmail:kaitlyn83@example.com\nSite:http://mendoza.com/",
+      "DATE": "Date: 28-Oct-2000",
+      "DUE_DATE": "Due Date : 21-Jun-1998",
+      "PO_NUMBER": "PO Number :06",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1192.32  USD",
+      "TAX": "TAX:VAT (4.23%):  50.42 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1202.20 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Trevor Robertson\n5398 Andrew Stravenue Apt. 926\nPort Denisebury, CT 46807 US\nTel:+(856)664-2477\nEmail:vtran@example.net\nSite:http://www.whitehead.com/",
+      "DATE": "Invoice Date: 10-Mar-2019",
+      "DUE_DATE": "Due Date : 11-Nov-2007",
+      "PO_NUMBER": "PO Number :30",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 826.20  USD",
+      "TAX": "TAX:VAT (6.39%):  52.78 USD",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 867.00 USD"
+    }
+  },
+  {
+    "image": "Template37_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Edward Anderson\n8214 Marissa Walk Suite 156\nEast Ryanmouth, VT 88056 US\nTel:+(384)759-4745\nEmail:patrick66@example.com\nSite:http://brown.com/",
+      "DATE": "Date: 07-Aug-2010",
+      "DUE_DATE": "Due Date : 19-May-2007",
+      "PO_NUMBER": "PO Number :88",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 416.93  $",
+      "TAX": "TAX:VAT (4.51%):  18.80 $",
+      "TITLE": "TAX INVOICE",
+      "AMOUNT_DUE": "AMOUNT_DUE : 424.60 $"
+    }
+  },
+  {
+    "image": "Template37_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bianca Alvarez\n8306 Holly Loop\nLake Steven, FL 00603 US\nTel:+(013)763-6457\nEmail:robert28@example.com\nSite:https://anderson.net/",
+      "DATE": "Date: 09-Sep-2008",
+      "DUE_DATE": "Due Date : 22-Aug-2009",
+      "PO_NUMBER": "PO Number :02",
+      "SELLER_ADDRESS": "Address:05866 Velazquez Mount\nNorth Diane, NJ 20651 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1220.77  $",
+      "TAX": "TAX:VAT (6.49%):  79.20 $",
+      "TITLE": "INVOICE",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1278.85 $"
+    }
+  }
+]

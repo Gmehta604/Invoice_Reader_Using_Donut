@@ -1,0 +1,762 @@
+[
+  {
+    "image": "Template48_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Knight\n5756 Williams Mission Suite 511\nPort Sherrishire, MH 03259 US\nTel:+(867)645-6646\nEmail:cathystevenson@example.org\nSite:https://www.allen-stokes.net/",
+      "DATE": "Date: 11-Sep-1994",
+      "DUE_DATE": "Due Date : 19-Oct-2015",
+      "NUMBER": "INVOICE # INV/99-23/531",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13143829\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 589.94  EUR",
+      "TOTAL": "BALANCE DUE : 603.64 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and th-\nree point six four",
+      "GST(9%)": "GST(9%) : 53.09"
+    }
+  },
+  {
+    "image": "Template48_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Oconnor\n9404 Mckay Trace Suite 576\nGreenmouth, OH 50207 US\nTel:+(077)444-4262\nEmail:dawnwright@example.org\nSite:http://ellis.com/",
+      "DATE": "Date: 23-Sep-2005",
+      "DUE_DATE": "Due Date : 10-Feb-2012",
+      "NUMBER": "Invoice number 2259-252",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10549287\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1197.46  $",
+      "TOTAL": "BALANCE DUE : 1250.24 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred-\nand fifty point two four",
+      "GST(9%)": "GST(9%) : 107.77"
+    }
+  },
+  {
+    "image": "Template48_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Miguel Carpenter\n72382 Rhonda Center\nOliviafurt, PA 77303 US\nTel:+(862)751-6447\nEmail:caitlynvelazquez@example.com\nSite:http://hayes-molina.com/",
+      "DATE": "Invoice Date: 01-Jun-2005",
+      "DUE_DATE": "Due Date : 15-Dec-1996",
+      "NUMBER": "INVOICE ID 2112-285",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16647250\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 776.81  $",
+      "TOTAL": "BALANCE DUE : 811.24 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and e-\nleven point two four",
+      "GST(9%)": "GST(9%) : 69.91"
+    }
+  },
+  {
+    "image": "Template48_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Olson\n60783 Tina Ports\nPierceland, TX 10215 US\nTel:+(560)489-4909\nEmail:monicaramirez@example.net\nSite:http://www.dixon.com/",
+      "DATE": "Date: 17-Dec-2018",
+      "DUE_DATE": "Due Date : 17-Feb-1994",
+      "NUMBER": "INVOICE ID INV/23-35/492",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12072635\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 587.51  USD",
+      "TOTAL": "BALANCE DUE : 601.99 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and o-\nne point nine nine",
+      "GST(9%)": "GST(9%) : 52.88"
+    }
+  },
+  {
+    "image": "Template48_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Deanna Martinez\n30224 Jeffrey Path\nEast Tammy, MS 58819 US\nTel:+(240)710-4291\nEmail:angela70@example.com\nSite:http://anderson.com/",
+      "DATE": "Date: 21-May-2003",
+      "DUE_DATE": "Due Date : 16-Nov-2006",
+      "NUMBER": "INVOICE ID 8Y9M9d-697",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10131514\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 472.70  $",
+      "TOTAL": "BALANCE DUE : 491.44 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and nine-\nty-one point four four",
+      "GST(9%)": "GST(9%) : 42.54"
+    }
+  },
+  {
+    "image": "Template48_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nancy Torres\n350 Amanda Station\nMyersfort, MS 75176 US\nTel:+(632)977-6712\nEmail:brianwilson@example.org\nSite:http://www.curry.info/",
+      "DATE": "Date: 05-Dec-1997",
+      "DUE_DATE": "Due Date : 25-Dec-2003",
+      "NUMBER": "Invoice number 9760-871",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18621882\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 670.24  $",
+      "TOTAL": "BALANCE DUE : 691.80 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and nin-\nety-one point eight",
+      "GST(9%)": "GST(9%) : 60.32"
+    }
+  },
+  {
+    "image": "Template48_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kirk Walker\n4907 Hernandez Hill Apt. 966\nJosephfurt, NY 36122 US\nTel:+(584)961-5891\nEmail:brent08@example.org\nSite:http://ramos.biz/",
+      "DATE": "Invoice Date: 24-Jul-2012",
+      "DUE_DATE": "Due Date : 15-Jan-1995",
+      "NUMBER": "INVOICE ID INV18488257",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15285585\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 633.86  $",
+      "TOTAL": "BALANCE DUE : 644.24 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fort-\ny-four point two four",
+      "GST(9%)": "GST(9%) : 57.05"
+    }
+  },
+  {
+    "image": "Template48_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Robinson\n345 Fisher Via\nNavarrochester, NY 77898 US\nTel:+(811)345-2614\nEmail:cward@example.org\nSite:https://www.chandler-hampton.net/",
+      "DATE": "Invoice Date: 01-Jul-2008",
+      "DUE_DATE": "Due Date : 04-Apr-2011",
+      "NUMBER": "Invoice number 2Y6M7d-581",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13792015\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 821.57  EUR",
+      "TOTAL": "BALANCE DUE : 807.87 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and se-\nven point eight seven",
+      "GST(9%)": "GST(9%) : 73.94"
+    }
+  },
+  {
+    "image": "Template48_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Wood\n34034 Brandon Mills\nNorth Mary, IA 16350 US\nTel:+(777)282-3435\nEmail:peterdunn@example.net\nSite:https://willis-freeman.info/",
+      "DATE": "Date: 04-Oct-2015",
+      "DUE_DATE": "Due Date : 14-May-1993",
+      "NUMBER": "INVOICE # INV42269974",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13020989\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 552.32  EUR",
+      "TOTAL": "BALANCE DUE : 573.26 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-three point two six",
+      "GST(9%)": "GST(9%) : 49.71"
+    }
+  },
+  {
+    "image": "Template48_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Angel Yang\n787 Mcconnell Pine\nWest Elizabethmouth, GA 43272 US\nTel:+(505)471-1484\nEmail:lgonzalez@example.org\nSite:http://www.horn-olson.com/",
+      "DATE": "Date: 08-Mar-2017",
+      "DUE_DATE": "Due Date : 05-Dec-2013",
+      "NUMBER": "INVOICE ID 2Y9M9d-990",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15175123\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1130.11  USD",
+      "TOTAL": "BALANCE DUE : 1181.27 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd eighty-one point two seven",
+      "GST(9%)": "GST(9%) : 101.71"
+    }
+  },
+  {
+    "image": "Template48_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Roberto White\n4495 White Place Apt. 832\nNew Christopher, CT 39905 US\nTel:+(412)143-9694\nEmail:choiperry@example.org\nSite:https://www.thornton.net/",
+      "DATE": "Invoice Date: 24-Dec-2015",
+      "DUE_DATE": "Due Date : 16-Nov-2017",
+      "NUMBER": "INVOICE # INV/60-27/004",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10883107\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 207.94  EUR",
+      "TOTAL": "BALANCE DUE : 215.95 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and fif-\nteen point nine five",
+      "GST(9%)": "GST(9%) : 18.71"
+    }
+  },
+  {
+    "image": "Template48_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brad Bishop\n17665 Michael Glens\nPort Christopherstad, KS 60645 US\nTel:+(193)105-5401\nEmail:laurie26@example.com\nSite:http://www.berry.org/",
+      "DATE": "Date: 22-Jun-2016",
+      "DUE_DATE": "Due Date : 26-Aug-1999",
+      "NUMBER": "INVOICE # INV86611301",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13355107\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1189.19  USD",
+      "TOTAL": "BALANCE DUE : 1200.18 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hu-\nndred point one eight",
+      "GST(9%)": "GST(9%) : 107.03"
+    }
+  },
+  {
+    "image": "Template48_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Justin Wilson\n95603 John View\nNew Gloria, MO 97908 US\nTel:+(807)070-0036\nEmail:abrooks@example.org\nSite:http://doyle-marsh.com/",
+      "DATE": "Date: 07-Jun-2019",
+      "DUE_DATE": "Due Date : 11-Jun-1996",
+      "NUMBER": "INVOICE # 1Y7M2d-638",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11550280\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 415.81  $",
+      "TOTAL": "BALANCE DUE : 418.73 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nteen point seven three",
+      "GST(9%)": "GST(9%) : 37.42"
+    }
+  },
+  {
+    "image": "Template48_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Tanner\n864 Novak Mission\nElizabethbury, OR 42868 US\nTel:+(722)534-2687\nEmail:uparrish@example.org\nSite:http://www.riley.info/",
+      "DATE": "Invoice Date: 14-Mar-2000",
+      "DUE_DATE": "Due Date : 09-Oct-2012",
+      "NUMBER": "INVOICE # 5Y4M9d-524",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18473031\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 321.84  EUR",
+      "TOTAL": "BALANCE DUE : 317.42 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and sev-\nenteen point four two",
+      "GST(9%)": "GST(9%) : 28.97"
+    }
+  },
+  {
+    "image": "Template48_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sheila Moore\n430 Hill Courts Apt. 844\nAmymouth, DE 15375 US\nTel:+(636)173-3708\nEmail:christopher54@example.com\nSite:https://www.jones-gonzales.com/",
+      "DATE": "Date: 30-Dec-2007",
+      "DUE_DATE": "Due Date : 08-May-2020",
+      "NUMBER": "INVOICE ID INV/29-43/028",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13861613\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 338.41  USD",
+      "TOTAL": "BALANCE DUE : 351.54 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fif-\nty-one point five four",
+      "GST(9%)": "GST(9%) : 30.46"
+    }
+  },
+  {
+    "image": "Template48_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dylan Dougherty\n1003 Simon Unions Suite 715\nSouth Matthew, SD 02062 US\nTel:+(692)378-6110\nEmail:perezjessica@example.org\nSite:http://mitchell.com/",
+      "DATE": "Date: 02-Jan-1998",
+      "DUE_DATE": "Due Date : 10-Oct-2010",
+      "NUMBER": "Invoice number 6Y4M2d-196",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17290758\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 856.49  $",
+      "TOTAL": "BALANCE DUE : 872.07 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and seven-\nty-two point zero seven",
+      "GST(9%)": "GST(9%) : 77.08"
+    }
+  },
+  {
+    "image": "Template48_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carla Miller\n15949 Tiffany Curve\nNorth Patriciamouth, CO 33809 US\nTel:+(238)880-1957\nEmail:ralphterry@example.org\nSite:http://garcia.com/",
+      "DATE": "Invoice Date: 19-Oct-2016",
+      "DUE_DATE": "Due Date : 05-Sep-2000",
+      "NUMBER": "INVOICE ID 2642-047",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  11807202\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 724.20  $",
+      "TOTAL": "BALANCE DUE : 745.66 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and for-\nty-five point six six",
+      "GST(9%)": "GST(9%) : 65.18"
+    }
+  },
+  {
+    "image": "Template48_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lawrence Cole\n86456 Becky Station Suite 647\nEast Ariel, PW 96952 US\nTel:+(222)531-7255\nEmail:lchambers@example.com\nSite:https://www.cunningham.com/",
+      "DATE": "Date: 10-Feb-2013",
+      "DUE_DATE": "Due Date : 22-Nov-2017",
+      "NUMBER": "INVOICE ID 6177-646",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11015439\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 614.48  USD",
+      "TOTAL": "BALANCE DUE : 627.48 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and twenty-\n-seven point four eight",
+      "GST(9%)": "GST(9%) : 55.30"
+    }
+  },
+  {
+    "image": "Template48_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Shaw\n7119 Doris Drive Suite 232\nLake Michael, MT 30465 US\nTel:+(709)510-0075\nEmail:garrettbrian@example.org\nSite:http://www.rivera.net/",
+      "DATE": "Date: 15-Jul-1993",
+      "DUE_DATE": "Due Date : 24-Dec-1994",
+      "NUMBER": "INVOICE # 7Y9M9d-262",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19417701\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 690.94  EUR",
+      "TOTAL": "BALANCE DUE : 706.84 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and s-\nix point eight four",
+      "GST(9%)": "GST(9%) : 62.18"
+    }
+  },
+  {
+    "image": "Template48_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Chelsea Moore\n58131 Gutierrez Pines Suite 418\nCoffeyborough, NH 67882 US\nTel:+(534)476-0637\nEmail:pughmalik@example.net\nSite:http://www.scott-fitzgerald.biz/",
+      "DATE": "Date: 30-Jan-1997",
+      "DUE_DATE": "Due Date : 03-Aug-2014",
+      "NUMBER": "Invoice number 5Y7M3d-800",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14677308\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 563.36  EUR",
+      "TOTAL": "BALANCE DUE : 579.24 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-nine point two four",
+      "GST(9%)": "GST(9%) : 50.70"
+    }
+  },
+  {
+    "image": "Template48_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:George Palmer\n55955 Jason Park Suite 790\nDavidton, TX 39642 US\nTel:+(965)379-6853\nEmail:loganolson@example.com\nSite:http://mitchell.com/",
+      "DATE": "Date: 26-Jan-1993",
+      "DUE_DATE": "Due Date : 29-Jan-2001",
+      "NUMBER": "Invoice number 1Y6M5d-111",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14244188\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 417.95  EUR",
+      "TOTAL": "BALANCE DUE : 418.84 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nteen point eight four",
+      "GST(9%)": "GST(9%) : 37.62"
+    }
+  },
+  {
+    "image": "Template48_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alyssa Nielsen\n723 Eric Street Suite 526\nNorth Jessica, NE 47955 US\nTel:+(697)873-1865\nEmail:hcampbell@example.com\nSite:http://weaver.com/",
+      "DATE": "Date: 26-Oct-2020",
+      "DUE_DATE": "Due Date : 20-Apr-2021",
+      "NUMBER": "INVOICE # 9164-963",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13460420\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 454.98  EUR",
+      "TOTAL": "BALANCE DUE : 467.43 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixty-\n-seven point four three",
+      "GST(9%)": "GST(9%) : 40.95"
+    }
+  },
+  {
+    "image": "Template48_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Casey Banks\n1355 Watson Alley Apt. 413\nNew Victor, IA 08181 US\nTel:+(459)613-4525\nEmail:xwalters@example.net\nSite:https://roberts.com/",
+      "DATE": "Invoice Date: 10-Feb-2008",
+      "DUE_DATE": "Due Date : 03-Jul-2017",
+      "NUMBER": "INVOICE # INV27633119",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16535271\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 259.80  USD",
+      "TOTAL": "BALANCE DUE : 270.46 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and sev-\nenty point four six",
+      "GST(9%)": "GST(9%) : 23.38"
+    }
+  },
+  {
+    "image": "Template48_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy Garcia\n07477 Andrew Highway\nBrandtburgh, VA 48348 US\nTel:+(143)590-9282\nEmail:ujoseph@example.com\nSite:https://peck.com/",
+      "DATE": "Date: 14-Jun-1994",
+      "DUE_DATE": "Due Date : 02-Nov-2000",
+      "NUMBER": "Invoice number INV31932488",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10146098\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 899.35  USD",
+      "TOTAL": "BALANCE DUE : 916.24 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and si-\nxteen point two four",
+      "GST(9%)": "GST(9%) : 80.94"
+    }
+  },
+  {
+    "image": "Template48_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Henderson\n44732 Eric Mountain Apt. 897\nEast Edward, IN 55647 US\nTel:+(226)285-6935\nEmail:melissa69@example.com\nSite:https://carpenter.org/",
+      "DATE": "Invoice Date: 07-May-1993",
+      "DUE_DATE": "Due Date : 21-Sep-2011",
+      "NUMBER": "INVOICE ID INV/26-13/891",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14968528\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 84.03  $",
+      "TOTAL": "BALANCE DUE : 84.69 $",
+      "TOTAL_WORDS": "Total in words:  eighty-four p-\noint six nine",
+      "GST(9%)": "GST(9%) : 7.56"
+    }
+  },
+  {
+    "image": "Template48_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Smith\n5752 Adams Station Suite 114\nEast Robertberg, SC 81802 US\nTel:+(732)906-1756\nEmail:joshuaclayton@example.net\nSite:http://www.kelley.info/",
+      "DATE": "Date: 19-Oct-1997",
+      "DUE_DATE": "Due Date : 05-Nov-2017",
+      "NUMBER": "Invoice number INV02501186",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13692159\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 552.53  EUR",
+      "TOTAL": "BALANCE DUE : 557.06 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-seven point zero six",
+      "GST(9%)": "GST(9%) : 49.73"
+    }
+  },
+  {
+    "image": "Template48_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Harris\n82086 Wesley Forest\nWest Jessicafurt, IL 58153 US\nTel:+(880)602-5066\nEmail:christina36@example.com\nSite:https://fischer.com/",
+      "DATE": "Date: 14-Apr-2018",
+      "DUE_DATE": "Due Date : 21-Apr-2006",
+      "NUMBER": "Invoice number INV21261710",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16563100\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 697.19  EUR",
+      "TOTAL": "BALANCE DUE : 726.32 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twen-\nty-six point three two",
+      "GST(9%)": "GST(9%) : 62.75"
+    }
+  },
+  {
+    "image": "Template48_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Hale\n91330 Suzanne Valley\nNew Diane, PA 42462 US\nTel:+(924)957-2240\nEmail:alexanderkristin@example.net\nSite:https://diaz.com/",
+      "DATE": "Invoice Date: 25-Jul-2020",
+      "DUE_DATE": "Due Date : 25-Jun-1993",
+      "NUMBER": "INVOICE ID INV01669009",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  11325678\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 56.47  USD",
+      "TOTAL": "BALANCE DUE : 56.40 USD",
+      "TOTAL_WORDS": "Total in words:  fifty-six -\npoint four",
+      "GST(9%)": "GST(9%) : 5.08"
+    }
+  },
+  {
+    "image": "Template48_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Perry\n6724 Atkins Branch\nJonathanbury, CA 57028 US\nTel:+(283)731-8724\nEmail:lgraham@example.net\nSite:https://brown.com/",
+      "DATE": "Date: 26-Jun-2001",
+      "DUE_DATE": "Due Date : 09-Mar-2015",
+      "NUMBER": "INVOICE ID INV33607309",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10189142\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 638.52  $",
+      "TOTAL": "BALANCE DUE : 657.86 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-seven point eight six",
+      "GST(9%)": "GST(9%) : 57.47"
+    }
+  },
+  {
+    "image": "Template48_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Roberts\n648 Stewart Orchard\nPetersenmouth, NY 71252 US\nTel:+(925)003-5219\nEmail:robinwest@example.org\nSite:https://www.jimenez.com/",
+      "DATE": "Date: 21-Aug-2004",
+      "DUE_DATE": "Due Date : 24-Jan-2020",
+      "NUMBER": "Invoice number INV/78-86/955",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13039867\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 104.78  EUR",
+      "TOTAL": "BALANCE DUE : 104.95 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and fo-\nur point nine five",
+      "GST(9%)": "GST(9%) : 9.43"
+    }
+  },
+  {
+    "image": "Template48_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremy Lopez\n384 Gates Mountain\nPort Lori, IA 23733 US\nTel:+(461)652-3650\nEmail:angel70@example.net\nSite:https://andrews.com/",
+      "DATE": "Date: 09-Sep-2016",
+      "DUE_DATE": "Due Date : 10-Nov-2012",
+      "NUMBER": "INVOICE # INV/35-13/993",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10236504\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 184.42  USD",
+      "TOTAL": "BALANCE DUE : 183.91 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and eight-\ny-three point nine one",
+      "GST(9%)": "GST(9%) : 16.60"
+    }
+  },
+  {
+    "image": "Template48_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gregory Garcia\n86441 Jonathan Terrace\nSavagemouth, ND 81985 US\nTel:+(019)556-8807\nEmail:trankelly@example.org\nSite:https://www.wright.com/",
+      "DATE": "Invoice Date: 15-Aug-2011",
+      "DUE_DATE": "Due Date : 15-Jun-2014",
+      "NUMBER": "INVOICE ID INV56968020",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10449187\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 396.30  $",
+      "TOTAL": "BALANCE DUE : 402.52 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and -\ntwo point five two",
+      "GST(9%)": "GST(9%) : 35.67"
+    }
+  },
+  {
+    "image": "Template48_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexis Jackson\n4058 Nicholas Streets Suite 117\nNelsonton, WY 08364 US\nTel:+(286)710-1061\nEmail:stephen89@example.org\nSite:https://www.rice.biz/",
+      "DATE": "Date: 15-Dec-1997",
+      "DUE_DATE": "Due Date : 01-May-2000",
+      "NUMBER": "INVOICE ID 3548-238",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14631255\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 143.73  EUR",
+      "TOTAL": "BALANCE DUE : 143.68 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-three point six eight",
+      "GST(9%)": "GST(9%) : 12.94"
+    }
+  },
+  {
+    "image": "Template48_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erin Rivera\n705 Matthew Ferry Suite 826\nKimberlyside, DE 10916 US\nTel:+(056)648-0324\nEmail:mbullock@example.net\nSite:https://watson-haley.com/",
+      "DATE": "Invoice Date: 26-Dec-1998",
+      "DUE_DATE": "Due Date : 16-Jan-2013",
+      "NUMBER": "INVOICE # 4Y2M8d-457",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14445284\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1055.09  USD",
+      "TOTAL": "BALANCE DUE : 1057.40 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and fi-\nfty-seven point four",
+      "GST(9%)": "GST(9%) : 94.96"
+    }
+  },
+  {
+    "image": "Template48_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tracy Jensen\n4312 Sanders Junction\nLake Charlesfort, PA 73494 US\nTel:+(986)358-4028\nEmail:hinesjonathan@example.org\nSite:https://franklin.com/",
+      "DATE": "Invoice Date: 15-Jun-1993",
+      "DUE_DATE": "Due Date : 01-Oct-2017",
+      "NUMBER": "INVOICE # INV87882398",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19732065\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 383.80  USD",
+      "TOTAL": "BALANCE DUE : 394.46 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-four point four six",
+      "GST(9%)": "GST(9%) : 34.54"
+    }
+  },
+  {
+    "image": "Template48_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Peterson\n332 Cynthia Mission Apt. 063\nNew Cathyborough, VA 35201 US\nTel:+(365)339-8216\nEmail:megan04@example.org\nSite:http://www.rivera-brown.com/",
+      "DATE": "Invoice Date: 21-Apr-2003",
+      "DUE_DATE": "Due Date : 05-Nov-2003",
+      "NUMBER": "INVOICE ID INV61200588",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18561232\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 736.62  EUR",
+      "TOTAL": "BALANCE DUE : 774.49 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seven-\nty-four point four nine",
+      "GST(9%)": "GST(9%) : 66.30"
+    }
+  },
+  {
+    "image": "Template48_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ruth Garcia\n957 Jessica Drives\nJohnsontown, MH 03943 US\nTel:+(298)715-1933\nEmail:boyerkyle@example.com\nSite:https://www.wallace.com/",
+      "DATE": "Invoice Date: 20-Jun-1995",
+      "DUE_DATE": "Due Date : 18-Jun-1995",
+      "NUMBER": "INVOICE # INV/33-17/218",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11760844\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 664.88  USD",
+      "TOTAL": "BALANCE DUE : 675.71 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-five point seven one",
+      "GST(9%)": "GST(9%) : 59.84"
+    }
+  },
+  {
+    "image": "Template48_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Ortiz\n94542 Horn Cape\nSouth Erichaven, KS 36124 US\nTel:+(400)475-7668\nEmail:imolina@example.com\nSite:https://huang.biz/",
+      "DATE": "Date: 30-Jan-1998",
+      "DUE_DATE": "Due Date : 03-May-2006",
+      "NUMBER": "INVOICE ID INV43265389",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17698666\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1332.86  $",
+      "TOTAL": "BALANCE DUE : 1381.63 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred a-\nnd eighty-one point six three",
+      "GST(9%)": "GST(9%) : 119.96"
+    }
+  },
+  {
+    "image": "Template48_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anna Haynes\n3027 Danielle Loop\nLake Chloemouth, PR 70536 US\nTel:+(667)056-8444\nEmail:shawnporter@example.net\nSite:http://cochran.net/",
+      "DATE": "Date: 27-Mar-2015",
+      "DUE_DATE": "Due Date : 15-Oct-2013",
+      "NUMBER": "INVOICE # INV/06-73/763",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  11092212\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 75.17  EUR",
+      "TOTAL": "BALANCE DUE : 78.30 EUR",
+      "TOTAL_WORDS": "Total in words:  seventy-eigh-\nt point three",
+      "GST(9%)": "GST(9%) : 6.77"
+    }
+  },
+  {
+    "image": "Template48_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexis Vaughn\n2161 Sanchez Wells Suite 942\nNew Desireeside, AZ 42904 US\nTel:+(638)429-0394\nEmail:matthewhunt@example.com\nSite:http://duncan-henson.com/",
+      "DATE": "Invoice Date: 19-Mar-2001",
+      "DUE_DATE": "Due Date : 10-Jan-2016",
+      "NUMBER": "Invoice number INV51962569",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18687996\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:9950 Santos Squares\nGarzafurt, MH 31937 US",
+      "SELLER_EMAIL": "Email:ospencer@example.com",
+      "SELLER_NAME": "Brooks LLC",
+      "SELLER_SITE": "www.BrooksLLC.com",
+      "SUB_TOTAL": "SUB_TOTAL : 260.63  EUR",
+      "TOTAL": "BALANCE DUE : 271.02 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-one point zero two",
+      "GST(9%)": "GST(9%) : 23.46"
+    }
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "image": "Template29_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Garza\n7418 Melissa Track\nWest Charles, NH 80285 US\nTel:+(247)450-1939\nEmail:xburch@example.net\nSite:http://freeman.com/",
+      "DATE": "Date: 14-Apr-2007",
+      "NUMBER": "Invoice number INV74511549",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14662501\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 336.91  EUR",
+      "TAX": "TAX:VAT (5.24%):  17.66 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 347.09 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-seven point zero nine",
+      "GST(18%)": "GST(18%) : 60.64"
+    }
+  },
+  {
+    "image": "Template29_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Lopez\n34989 Thompson Trafficway\nNew Cliffordview, TX 50437 US\nTel:+(451)315-6860\nEmail:hunterwebster@example.net\nSite:https://www.mcpherson.com/",
+      "DATE": "Invoice Date: 09-Feb-2016",
+      "NUMBER": "Invoice number INV76129139",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16435599\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 657.18  EUR",
+      "TAX": "TAX:VAT (3.97%):  26.07 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 668.66 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixt-\ny-eight point six six",
+      "GST(18%)": "GST(18%) : 118.29"
+    }
+  },
+  {
+    "image": "Template29_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Chelsea Joseph\n73630 Sandra Knolls Suite 065\nAshleyfort, UT 63072 US\nTel:+(374)600-3712\nEmail:daniellesmith@example.com\nSite:http://parker-alexander.com/",
+      "DATE": "Invoice Date: 26-Apr-2002",
+      "NUMBER": "Invoice number INV51308715",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18402615\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 351.75  $",
+      "TAX": "TAX:VAT (5.26%):  18.49 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 358.42 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-eight point four two",
+      "GST(18%)": "GST(18%) : 63.31"
+    }
+  },
+  {
+    "image": "Template29_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carol Baker\n1228 Stewart Rue Apt. 817\nThomasview, IN 68992 US\nTel:+(222)081-8110\nEmail:llee@example.net\nSite:https://powers.org/",
+      "DATE": "Date: 05-Jul-2010",
+      "NUMBER": "INVOICE # 3276-187",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11429563\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 810.41  USD",
+      "TAX": "TAX:VAT (5.39%):  43.66 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 831.46 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thi-\nrty-one point four six",
+      "GST(18%)": "GST(18%) : 145.87"
+    }
+  },
+  {
+    "image": "Template29_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Miranda\n1476 Chelsea Ranch Apt. 273\nEast Rickeyborough, SC 08282 US\nTel:+(823)232-7640\nEmail:xmcmillan@example.com\nSite:https://www.gonzalez.com/",
+      "DATE": "Date: 12-Jan-2009",
+      "NUMBER": "Invoice number INV/70-18/954",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10327832\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1040.14  $",
+      "TAX": "TAX:VAT (6.04%):  62.83 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1069.48 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and sixty-\n-nine point four eight",
+      "GST(18%)": "GST(18%) : 187.23"
+    }
+  },
+  {
+    "image": "Template29_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Allison Donovan\n426 Steele Throughway\nKarenmouth, TN 51794 US\nTel:+(396)174-0807\nEmail:wking@example.com\nSite:http://edwards.net/",
+      "DATE": "Invoice Date: 23-Oct-2020",
+      "NUMBER": "INVOICE ID INV85413787",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19181197\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 178.12  USD",
+      "TAX": "TAX:VAT (3.03%):  5.40 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 179.03 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and sevent-\ny-nine point zero three",
+      "GST(18%)": "GST(18%) : 32.06"
+    }
+  },
+  {
+    "image": "Template29_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Vincent\n8456 Valenzuela Valley\nLake Zacharyhaven, DE 68743 US\nTel:+(234)584-2274\nEmail:philipalexander@example.net\nSite:https://www.oliver.com/",
+      "DATE": "Invoice Date: 27-Apr-2019",
+      "NUMBER": "INVOICE # INV63467445",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16610291\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1082.64  EUR",
+      "TAX": "TAX:VAT (6.85%):  74.20 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1118.73 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd eighteen point seven three",
+      "GST(18%)": "GST(18%) : 194.88"
+    }
+  },
+  {
+    "image": "Template29_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jacob Snow\n92049 Mcdonald Way Suite 255\nPetertown, AL 58752 US\nTel:+(524)721-9196\nEmail:mjacobs@example.org\nSite:http://russo.com/",
+      "DATE": "Date: 03-Oct-2000",
+      "NUMBER": "INVOICE # 4552-150",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12549848\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1154.20  USD",
+      "TAX": "TAX:VAT (5.08%):  58.65 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1187.46 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd eighty-seven point four six",
+      "GST(18%)": "GST(18%) : 207.76"
+    }
+  },
+  {
+    "image": "Template29_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Juan Jones\n2323 Craig Landing\nChristinaville, VT 81430 US\nTel:+(200)403-9355\nEmail:jwhite@example.net\nSite:https://www.dalton.info/",
+      "DATE": "Date: 08-Jan-2014",
+      "NUMBER": "INVOICE # 9848-602",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14712108\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 175.99  $",
+      "TAX": "TAX:VAT (4.72%):  8.31 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 178.63 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and sevent-\ny-eight point six three",
+      "GST(18%)": "GST(18%) : 31.68"
+    }
+  },
+  {
+    "image": "Template29_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nathan Butler\n1920 Webb Keys\nSheilastad, OK 86638 US\nTel:+(681)757-7271\nEmail:palmerthomas@example.com\nSite:http://harrison.com/",
+      "DATE": "Invoice Date: 24-Jun-2018",
+      "NUMBER": "INVOICE ID 6536-912",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16302013\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 590.76  $",
+      "TAX": "TAX:VAT (3.13%):  18.49 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 591.82 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-one point eight two",
+      "GST(18%)": "GST(18%) : 106.34"
+    }
+  },
+  {
+    "image": "Template29_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cody Conner\n80670 James Run Suite 015\nAlexmouth, UT 74526 US\nTel:+(159)049-9088\nEmail:xmartinez@example.net\nSite:http://pearson-wolfe.info/",
+      "DATE": "Invoice Date: 26-Jan-2004",
+      "NUMBER": "INVOICE ID INV/21-18/722",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10329107\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 88.25  EUR",
+      "TAX": "TAX:VAT (3.20%):  2.83 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 89.56 EUR",
+      "TOTAL_WORDS": "Total in words:  eighty-nine p-\noint five six",
+      "GST(18%)": "GST(18%) : 15.88"
+    }
+  },
+  {
+    "image": "Template29_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Roberts\n43934 Thompson Dam\nLake Debra, IL 44527 US\nTel:+(474)370-7309\nEmail:adamsjames@example.net\nSite:https://stewart.com/",
+      "DATE": "Invoice Date: 22-Jun-2004",
+      "NUMBER": "INVOICE # INV14275542",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12899511\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1167.17  $",
+      "TAX": "TAX:VAT (4.30%):  50.20 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1160.88 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred -\nand sixty point eight eight",
+      "GST(18%)": "GST(18%) : 210.09"
+    }
+  },
+  {
+    "image": "Template29_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Sandoval\n19450 Dawn Stravenue\nDawnfort, LA 94141 US\nTel:+(640)210-8954\nEmail:qstokes@example.com\nSite:http://www.williams-humphrey.info/",
+      "DATE": "Invoice Date: 25-May-2014",
+      "NUMBER": "INVOICE ID INV48083070",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14050933\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 634.12  EUR",
+      "TAX": "TAX:VAT (4.51%):  28.62 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 651.26 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and fif-\nty-one point two six",
+      "GST(18%)": "GST(18%) : 114.14"
+    }
+  },
+  {
+    "image": "Template29_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ronald Flores\n8925 Moses Avenue\nNorth Reginamouth, IN 02986 US\nTel:+(541)973-4390\nEmail:mclark@example.net\nSite:https://vargas.info/",
+      "DATE": "Date: 13-Dec-2000",
+      "NUMBER": "Invoice number 8Y8M8d-835",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16857936\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 510.18  $",
+      "TAX": "TAX:VAT (6.24%):  31.84 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 535.18 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirt-\ny-five point one eight",
+      "GST(18%)": "GST(18%) : 91.83"
+    }
+  },
+  {
+    "image": "Template29_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Allison Horton\n398 Lewis Isle Apt. 050\nPort Mary, IN 05512 US\nTel:+(544)888-5363\nEmail:thomasbrandy@example.com\nSite:http://white.net/",
+      "DATE": "Date: 01-Feb-1994",
+      "NUMBER": "INVOICE ID 7259-581",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14668314\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 522.96  EUR",
+      "TAX": "TAX:VAT (6.04%):  31.58 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 547.79 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and forty-\n-seven point seven nine",
+      "GST(18%)": "GST(18%) : 94.13"
+    }
+  },
+  {
+    "image": "Template29_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bobby Reyes\n1467 Romero Plain Suite 109\nNew Albert, NV 47256 US\nTel:+(325)521-1901\nEmail:nmoreno@example.org\nSite:http://miller.com/",
+      "DATE": "Date: 21-Feb-1998",
+      "NUMBER": "INVOICE ID INV34390670",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15129365\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1021.87  $",
+      "TAX": "TAX:VAT (6.36%):  64.94 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1075.47 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and sevent-\ny-five point four seven",
+      "GST(18%)": "GST(18%) : 183.94"
+    }
+  },
+  {
+    "image": "Template29_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa King\n7277 Christopher Circles\nShaunfurt, CO 48168 US\nTel:+(731)639-0958\nEmail:ysmith@example.org\nSite:http://spencer-gonzalez.org/",
+      "DATE": "Invoice Date: 27-Oct-2011",
+      "NUMBER": "INVOICE # INV99180115",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11222703\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 628.82  EUR",
+      "TAX": "TAX:VAT (6.54%):  41.11 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 649.43 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and forty-\n-nine point four three",
+      "GST(18%)": "GST(18%) : 113.19"
+    }
+  },
+  {
+    "image": "Template29_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Desiree Carpenter\n026 David Stravenue Suite 581\nMaynardview, NH 99870 US\nTel:+(801)517-6306\nEmail:olam@example.net\nSite:https://meyer.com/",
+      "DATE": "Date: 28-Apr-1995",
+      "NUMBER": "Invoice number 1227-222",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18992186\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 382.91  EUR",
+      "TAX": "TAX:VAT (5.67%):  21.70 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 385.89 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and eight-\ny-five point eight nine",
+      "GST(18%)": "GST(18%) : 68.92"
+    }
+  },
+  {
+    "image": "Template29_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Bruce III\n982 Zachary Hill\nNew Mitchellstad, MN 14629 US\nTel:+(945)534-6910\nEmail:josephrandolph@example.com\nSite:http://wilson.com/",
+      "DATE": "Date: 19-Jan-2002",
+      "NUMBER": "INVOICE # INV80550138",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16120251\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 437.14  EUR",
+      "TAX": "TAX:VAT (4.30%):  18.79 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 439.67 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-nine point six seven",
+      "GST(18%)": "GST(18%) : 78.69"
+    }
+  },
+  {
+    "image": "Template29_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Austin Wiggins\n08172 David Haven\nWoodfort, NM 44344 US\nTel:+(995)195-8992\nEmail:danielmyers@example.net\nSite:http://www.sampson-randall.info/",
+      "DATE": "Invoice Date: 19-Apr-2020",
+      "NUMBER": "Invoice number 3060-908",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15076561\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 740.43  USD",
+      "TAX": "TAX:VAT (4.79%):  35.46 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 749.46 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and for-\nty-nine point four six",
+      "GST(18%)": "GST(18%) : 133.28"
+    }
+  },
+  {
+    "image": "Template29_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lindsay Gould\n216 Brandy Crossroad\nPeterberg, IN 10430 US\nTel:+(572)714-2061\nEmail:kimberly29@example.com\nSite:http://www.campbell.info/",
+      "DATE": "Date: 21-Dec-2007",
+      "NUMBER": "INVOICE ID 1148-563",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12911517\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 744.30  USD",
+      "TAX": "TAX:VAT (5.75%):  42.79 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 761.56 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and six-\nty-one point five six",
+      "GST(18%)": "GST(18%) : 133.97"
+    }
+  },
+  {
+    "image": "Template29_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Aaron Howard\n369 Rodriguez Meadow Apt. 404\nJosephfurt, CT 36050 US\nTel:+(475)157-5021\nEmail:wadecarolyn@example.net\nSite:http://www.martinez-craig.biz/",
+      "DATE": "Date: 12-Jul-2008",
+      "NUMBER": "INVOICE ID INV/85-51/931",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16366608\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1135.56  USD",
+      "TAX": "TAX:VAT (3.03%):  34.39 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1141.79 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd forty-one point seven nine",
+      "GST(18%)": "GST(18%) : 204.40"
+    }
+  },
+  {
+    "image": "Template29_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Janet Martinez\n3343 Kathryn Alley Apt. 951\nAndrewport, GU 23515 US\nTel:+(521)193-3576\nEmail:xhill@example.net\nSite:https://davidson.info/",
+      "DATE": "Date: 07-Oct-2004",
+      "NUMBER": "Invoice number INV/26-35/529",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10958628\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1090.30  EUR",
+      "TAX": "TAX:VAT (6.04%):  65.82 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1106.84 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred-\nand six point eight four",
+      "GST(18%)": "GST(18%) : 196.25"
+    }
+  },
+  {
+    "image": "Template29_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jody Conley\n171 Kimberly Road\nBentonfurt, ID 25598 US\nTel:+(605)456-0596\nEmail:hannahhughes@example.org\nSite:http://barajas-page.org/",
+      "DATE": "Invoice Date: 24-Jul-2013",
+      "NUMBER": "Invoice number INV/12-12/510",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13125152\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 103.34  $",
+      "TAX": "TAX:VAT (3.20%):  3.30 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 104.39 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fo-\nur point three nine",
+      "GST(18%)": "GST(18%) : 18.60"
+    }
+  },
+  {
+    "image": "Template29_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Best\n0182 Ian Fall Apt. 067\nEast Georgeport, NE 22183 US\nTel:+(068)857-8279\nEmail:robert59@example.org\nSite:https://ruiz-davis.com/",
+      "DATE": "Date: 03-Apr-2013",
+      "NUMBER": "INVOICE # 8715-102",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13652932\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 300.58  $",
+      "TAX": "TAX:VAT (5.55%):  16.68 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 314.07 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fou-\nrteen point zero seven",
+      "GST(18%)": "GST(18%) : 54.10"
+    }
+  },
+  {
+    "image": "Template29_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeremy Taylor\n595 Heath Trace\nNorth Brianfurt, FL 83759 US\nTel:+(200)316-0567\nEmail:emily13@example.com\nSite:https://www.le.com/",
+      "DATE": "Date: 21-Oct-2012",
+      "NUMBER": "INVOICE ID 6958-570",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14389735\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 690.56  $",
+      "TAX": "TAX:VAT (4.01%):  27.67 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 698.69 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-eight point six nine",
+      "GST(18%)": "GST(18%) : 124.30"
+    }
+  },
+  {
+    "image": "Template29_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Justin Thompson\n015 Leach Corner Suite 709\nRacheltown, IA 70798 US\nTel:+(093)619-1961\nEmail:melissa01@example.com\nSite:https://www.mitchell.com/",
+      "DATE": "Invoice Date: 19-Mar-2001",
+      "NUMBER": "INVOICE # INV01891954",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18743776\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 483.20  EUR",
+      "TAX": "TAX:VAT (5.71%):  27.57 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 487.82 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-seven point eight two",
+      "GST(18%)": "GST(18%) : 86.98"
+    }
+  },
+  {
+    "image": "Template29_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bryan Hoover\n6977 Russell Island\nSouth David, MP 29233 US\nTel:+(443)040-1566\nEmail:lgay@example.net\nSite:https://michael.org/",
+      "DATE": "Invoice Date: 11-Nov-2004",
+      "NUMBER": "INVOICE # 9764-556",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18940068\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 690.72  USD",
+      "TAX": "TAX:VAT (6.40%):  44.17 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 706.29 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\nsix point two nine",
+      "GST(18%)": "GST(18%) : 124.33"
+    }
+  },
+  {
+    "image": "Template29_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Katrina Sutton\n26113 John Heights\nPort David, MO 70985 US\nTel:+(346)613-9440\nEmail:gabrielschneider@example.net\nSite:https://hunter.org/",
+      "DATE": "Date: 26-May-1998",
+      "NUMBER": "INVOICE # INV91909095",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14366219\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 315.20  USD",
+      "TAX": "TAX:VAT (4.20%):  13.23 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 324.87 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and twent-\ny-four point eight seven",
+      "GST(18%)": "GST(18%) : 56.74"
+    }
+  },
+  {
+    "image": "Template29_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen Swanson\n13068 Kelly Street\nWest Joshua, FL 25890 US\nTel:+(104)252-5292\nEmail:robinsonlaura@example.net\nSite:http://craig-hoffman.com/",
+      "DATE": "Date: 31-Jan-1994",
+      "NUMBER": "Invoice number INV53785873",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18974710\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1466.60  EUR",
+      "TAX": "TAX:VAT (3.22%):  47.20 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1492.53 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred an-\nd ninety-two point five three",
+      "GST(18%)": "GST(18%) : 263.99"
+    }
+  },
+  {
+    "image": "Template29_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melvin Hubbard\n28539 Cortez Meadows\nLisaburgh, AZ 59429 US\nTel:+(315)497-5777\nEmail:daniel83@example.com\nSite:https://chang-carpenter.com/",
+      "DATE": "Invoice Date: 23-Nov-1995",
+      "NUMBER": "INVOICE # 3241-220",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17596810\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 720.11  $",
+      "TAX": "TAX:VAT (3.91%):  28.18 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 731.51 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thi-\nrty-one point five one",
+      "GST(18%)": "GST(18%) : 129.62"
+    }
+  },
+  {
+    "image": "Template29_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Cruz\n2242 Gordon View\nNew Thomaschester, WV 87627 US\nTel:+(369)846-2606\nEmail:maryholmes@example.net\nSite:http://www.skinner.com/",
+      "DATE": "Invoice Date: 27-Nov-2017",
+      "NUMBER": "INVOICE ID INV/98-31/615",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17415906\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 297.49  USD",
+      "TAX": "TAX:VAT (6.69%):  19.91 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 303.51 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and t-\nhree point five one",
+      "GST(18%)": "GST(18%) : 53.55"
+    }
+  },
+  {
+    "image": "Template29_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Luna\n708 Morgan Rue Apt. 639\nNew Harry, MS 06247 US\nTel:+(510)321-2163\nEmail:kharvey@example.org\nSite:http://barrera.com/",
+      "DATE": "Invoice Date: 20-Feb-1998",
+      "NUMBER": "INVOICE # INV91902259",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18879444\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 467.73  EUR",
+      "TAX": "TAX:VAT (4.34%):  20.32 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 466.39 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-six point three nine",
+      "GST(18%)": "GST(18%) : 84.19"
+    }
+  },
+  {
+    "image": "Template29_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Aaron Fuller\n471 Jackson Mill\nWest Kimberly, NV 60522 US\nTel:+(529)400-0938\nEmail:cassandra86@example.net\nSite:http://www.james.com/",
+      "DATE": "Invoice Date: 07-Apr-2011",
+      "NUMBER": "INVOICE ID 7649-946",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17659597\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 420.24  $",
+      "TAX": "TAX:VAT (6.72%):  28.25 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 440.55 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fo-\nrty point five five",
+      "GST(18%)": "GST(18%) : 75.64"
+    }
+  },
+  {
+    "image": "Template29_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erica Browning\n004 Douglas Harbors\nJessicaborough, IN 43153 US\nTel:+(180)067-6155\nEmail:tglover@example.org\nSite:http://www.white-anderson.com/",
+      "DATE": "Invoice Date: 10-Sep-2021",
+      "NUMBER": "INVOICE ID 3Y5M6d-243",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12075936\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 699.05  $",
+      "TAX": "TAX:VAT (6.22%):  43.47 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 730.92 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and t-\nhirty point nine two",
+      "GST(18%)": "GST(18%) : 125.83"
+    }
+  },
+  {
+    "image": "Template29_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Leah Garner\n702 King Islands\nCrossborough, NH 93980 US\nTel:+(864)373-1691\nEmail:kimberly29@example.com\nSite:http://alvarado-vasquez.info/",
+      "DATE": "Invoice Date: 12-Dec-1996",
+      "NUMBER": "INVOICE # INV62201557",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15116681\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1363.72  EUR",
+      "TAX": "TAX:VAT (4.47%):  60.93 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1380.60 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hund-\nred and eighty point six",
+      "GST(18%)": "GST(18%) : 245.47"
+    }
+  },
+  {
+    "image": "Template29_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Archer\n410 Eric Vista Suite 534\nWest Stevenmouth, WA 57683 US\nTel:+(650)832-9739\nEmail:chrispierce@example.com\nSite:http://www.wright-jackson.com/",
+      "DATE": "Date: 08-Nov-2008",
+      "NUMBER": "Invoice number INV65907654",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14733603\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 509.68  EUR",
+      "TAX": "TAX:VAT (5.56%):  28.35 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 518.00 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred-\nand eighteen",
+      "GST(18%)": "GST(18%) : 91.74"
+    }
+  },
+  {
+    "image": "Template29_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christine Miller\n00085 Clay Radial\nWest Sara, MS 58718 US\nTel:+(932)414-6157\nEmail:sara78@example.net\nSite:http://ruiz.com/",
+      "DATE": "Invoice Date: 25-Jan-2009",
+      "NUMBER": "INVOICE ID 7022-681",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15189799\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 363.91  USD",
+      "TAX": "TAX:VAT (4.48%):  16.31 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 370.21 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and s-\neventy point two one",
+      "GST(18%)": "GST(18%) : 65.50"
+    }
+  },
+  {
+    "image": "Template29_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Don Fields\n450 Fleming Club Apt. 146\nHelenville, FM 23704 US\nTel:+(931)576-8062\nEmail:michael05@example.com\nSite:https://www.rivera.com/",
+      "DATE": "Date: 23-Sep-2000",
+      "NUMBER": "Invoice number INV92769493",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13259836\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 706.57  EUR",
+      "TAX": "TAX:VAT (4.65%):  32.84 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 726.13 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twen-\nty-six point one three",
+      "GST(18%)": "GST(18%) : 127.18"
+    }
+  },
+  {
+    "image": "Template29_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathryn Barnes\n646 Christy Cliffs\nEast Thomasbury, ME 72489 US\nTel:+(650)222-8003\nEmail:sterry@example.net\nSite:https://boyd-brown.com/",
+      "DATE": "Invoice Date: 23-May-2016",
+      "NUMBER": "Invoice number 9685-651",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19635896\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:03449 Andrade Hill Suite 722\nCampbellville, PW 02320 US",
+      "SELLER_EMAIL": "Email:choieric@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 469.18  $",
+      "TAX": "TAX:VAT (6.68%):  31.33 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 481.51 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-one point five one",
+      "GST(18%)": "GST(18%) : 84.45"
+    }
+  }
+]

@@ -1,0 +1,2082 @@
+[
+  {
+    "image": "Template26_Instance26.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 18-Dec-2013",
+      "DUE_DATE": "Due Date : 10-Jun-2004",
+      "NUMBER": "Invoice number 8Y2M8d-145",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nPaul Anderson\n5845 Gomez Road\nSouth Timothyland, PA 98742 US\nTel:+(475)350-2608\nEmail:rivasemily@example.net\nSite:https://www.dennis.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance83.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 28-Mar-2013",
+      "DUE_DATE": "Due Date : 21-Nov-2020",
+      "NUMBER": "INVOICE # INV/70-20/833",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nRobert Thompson\n353 Jessica Isle\nPort Victoriastad, NE 93411 US\nTel:+(595)766-2157\nEmail:uhenry@example.org\nSite:http://smith-villegas.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance78.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 25-Jun-2022",
+      "DUE_DATE": "Due Date : 14-Apr-2011",
+      "NUMBER": "INVOICE # INV/67-36/788",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMark Smith\n989 Carpenter Junction\nPort Ashley, AS 99573 US\nTel:+(178)194-4711\nEmail:chudson@example.com\nSite:http://santana.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance74.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Jul-2016",
+      "DUE_DATE": "Due Date : 16-Aug-1999",
+      "NUMBER": "INVOICE # 3Y8M7d-378",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrianna Bryant\n0295 Andrew Inlet Suite 976\nLake Amber, NE 15834 US\nTel:+(560)371-2304\nEmail:scott25@example.org\nSite:https://perry-underwood.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance102.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 14-Feb-2006",
+      "DUE_DATE": "Due Date : 21-Aug-2010",
+      "NUMBER": "Invoice number INV46005395",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nHolly Contreras\n88811 Tate Plains\nWest Catherine, PW 40742 US\nTel:+(490)060-3345\nEmail:hesterlydia@example.com\nSite:https://costa.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance140.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Apr-2013",
+      "DUE_DATE": "Due Date : 22-Oct-2017",
+      "NUMBER": "INVOICE # INV01289505",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nGene Webster\n257 Noah Well\nVaughanside, MN 39378 US\nTel:+(690)444-0354\nEmail:robertstony@example.net\nSite:http://www.white.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance186.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 10-Dec-2004",
+      "DUE_DATE": "Due Date : 25-Feb-2011",
+      "NUMBER": "INVOICE # INV/72-20/410",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nPatricia Bush\n9187 Brooks Tunnel\nRosariomouth, CT 79565 US\nTel:+(672)563-2983\nEmail:kinglinda@example.org\nSite:https://martinez.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance171.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Mar-2022",
+      "DUE_DATE": "Due Date : 13-Jan-2008",
+      "NUMBER": "Invoice number 9Y8M6d-044",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJonathan Bailey\n89144 Romero Squares Suite 468\nRussellhaven, NV 84278 US\nTel:+(205)299-5741\nEmail:alexismartin@example.net\nSite:http://stewart.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance24.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 27-Aug-1998",
+      "DUE_DATE": "Due Date : 16-Apr-1997",
+      "NUMBER": "INVOICE ID INV/56-35/513",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nEric Moran\n7340 Joseph Isle\nVanessaside, HI 49519 US\nTel:+(261)213-7973\nEmail:debrajennings@example.com\nSite:https://hernandez-bailey.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance45.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Aug-2020",
+      "DUE_DATE": "Due Date : 05-Jul-2002",
+      "NUMBER": "Invoice number 2193-378",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrian Howard\n3079 Brad Crossing Apt. 503\nLynnmouth, WA 43767 US\nTel:+(825)474-8123\nEmail:morganballard@example.com\nSite:http://www.cabrera-woods.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance136.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 04-Feb-2017",
+      "DUE_DATE": "Due Date : 09-Oct-2002",
+      "NUMBER": "INVOICE # 5Y5M7d-675",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nDarryl Shelton\n621 Rodgers Wall Suite 126\nDonnamouth, NY 29544 US\nTel:+(228)628-6127\nEmail:efowler@example.net\nSite:https://www.roberts-willis.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance87.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Oct-2009",
+      "DUE_DATE": "Due Date : 22-Dec-2005",
+      "NUMBER": "Invoice number 2Y9M8d-991",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nMolly Gomez\n7486 Marc Square Apt. 990\nDarrenfurt, IN 22070 US\nTel:+(509)107-2035\nEmail:klevine@example.net\nSite:https://www.lowe-hanson.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance139.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-Mar-2016",
+      "DUE_DATE": "Due Date : 25-Jul-2021",
+      "NUMBER": "INVOICE ID INV/28-39/910",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nBonnie Johnson\n64928 Olson Garden\nAngelaport, IN 84983 US\nTel:+(148)478-6676\nEmail:zkim@example.net\nSite:http://www.smith.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance166.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 20-Jun-1995",
+      "DUE_DATE": "Due Date : 02-Jan-2018",
+      "NUMBER": "INVOICE # INV/84-89/110",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nKathryn Ramirez\n946 Kristie Inlet Suite 613\nPadillafort, NE 19922 US\nTel:+(505)180-2689\nEmail:jonathanthompson@example.org\nSite:https://www.martinez-stone.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance75.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Apr-2002",
+      "DUE_DATE": "Due Date : 12-Jun-2006",
+      "NUMBER": "INVOICE ID INV02808522",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nScott Frazier\n240 Chad Neck\nWest Isaac, DE 42416 US\nTel:+(461)631-2952\nEmail:jonathan49@example.com\nSite:http://bond.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance167.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Aug-2022",
+      "DUE_DATE": "Due Date : 28-May-1994",
+      "NUMBER": "INVOICE # 2Y6M2d-565",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nShannon Hayden\n149 Christine Flat\nWest Tracy, VA 88826 US\nTel:+(555)388-2002\nEmail:jeffreylee@example.org\nSite:http://www.fritz.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance69.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Aug-2000",
+      "DUE_DATE": "Due Date : 31-May-2003",
+      "NUMBER": "INVOICE ID INV/65-50/425",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMelanie Flores\n964 Williams Points\nNorth Donnaside, MI 57086 US\nTel:+(219)954-4076\nEmail:johnsonwarren@example.com\nSite:http://moore.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance190.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Sep-2021",
+      "DUE_DATE": "Due Date : 12-Oct-2018",
+      "NUMBER": "Invoice number 4508-294",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nSarah Macias\n9080 Philip Junction Suite 700\nCatherineshire, MS 97781 US\nTel:+(366)645-8742\nEmail:kcarpenter@example.org\nSite:http://bowen-grant.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance20.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 27-Nov-1996",
+      "DUE_DATE": "Due Date : 25-Jul-1996",
+      "NUMBER": "Invoice number INV/43-50/954",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKenneth Richards\n978 Lee Roads Apt. 231\nNicolemouth, IN 22432 US\nTel:+(023)915-7287\nEmail:joseph37@example.com\nSite:https://www.cline-cline.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance80.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Dec-2020",
+      "DUE_DATE": "Due Date : 15-Aug-2002",
+      "NUMBER": "Invoice number 5Y7M6d-795",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMark Simpson\n211 Anthony Park\nMarissaburgh, AL 54625 US\nTel:+(209)706-8527\nEmail:manuel40@example.net\nSite:http://waters.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance174.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Sep-2022",
+      "DUE_DATE": "Due Date : 03-Mar-2012",
+      "NUMBER": "INVOICE ID INV62810340",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nStephen Evans\n53564 Casey Tunnel Suite 270\nCodyfurt, LA 08708 US\nTel:+(533)353-1663\nEmail:samanthasilva@example.net\nSite:https://weber.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance33.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-May-2008",
+      "DUE_DATE": "Due Date : 24-Jul-2001",
+      "NUMBER": "Invoice number INV/63-76/662",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJason Mendoza\n2047 Teresa Parks Apt. 504\nCoffeyhaven, IN 45730 US\nTel:+(942)900-1671\nEmail:jacobsscott@example.com\nSite:http://www.frazier-phillips.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance81.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 05-Aug-2012",
+      "DUE_DATE": "Due Date : 29-Sep-2019",
+      "NUMBER": "Invoice number 5Y2M6d-978",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKathryn Bates\n311 Jones Rest\nMannland, KS 56161 US\nTel:+(788)308-1193\nEmail:andrea00@example.org\nSite:https://www.bird.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance3.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Sep-2021",
+      "DUE_DATE": "Due Date : 19-Jan-2006",
+      "NUMBER": "INVOICE ID 6Y3M2d-861",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nLonnie Rice\n4559 Brian Park Apt. 245\nKellyland, WY 54096 US\nTel:+(988)665-2964\nEmail:raymond72@example.com\nSite:https://perez.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance52.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Feb-2016",
+      "DUE_DATE": "Due Date : 18-Jun-2010",
+      "NUMBER": "INVOICE # 3Y4M6d-761",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nAllison Frost\n995 Angela Underpass\nSmithland, IN 96786 US\nTel:+(470)655-1785\nEmail:darrellfoley@example.net\nSite:https://lambert-frost.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance176.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Jul-2006",
+      "DUE_DATE": "Due Date : 13-Jun-2011",
+      "NUMBER": "INVOICE ID INV/86-85/339",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nMary Johnson\n02408 May Via\nBishopchester, WA 05447 US\nTel:+(856)945-1088\nEmail:jessicafrye@example.com\nSite:https://www.pearson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance30.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-Jul-1999",
+      "DUE_DATE": "Due Date : 02-Jul-1997",
+      "NUMBER": "INVOICE ID INV24465639",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrian Alvarado\n55104 Yesenia Terrace Suite 758\nKathleenborough, VA 30207 US\nTel:+(849)556-4851\nEmail:tonithompson@example.net\nSite:https://www.hernandez.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance98.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 24-Feb-2016",
+      "DUE_DATE": "Due Date : 04-Jan-2003",
+      "NUMBER": "INVOICE # 5110-363",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJason Johnson\n63848 Cortez Terrace Suite 527\nIsabellastad, DE 64998 US\nTel:+(445)104-3436\nEmail:schmittcrystal@example.org\nSite:https://www.carroll.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance126.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Jan-2000",
+      "DUE_DATE": "Due Date : 30-May-2001",
+      "NUMBER": "Invoice number INV59900093",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nAnthony Flores\n73483 Carolyn Shore\nLeachton, OH 41842 US\nTel:+(423)302-6013\nEmail:pricematthew@example.net\nSite:https://www.smith.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance148.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Mar-2002",
+      "DUE_DATE": "Due Date : 03-Nov-2005",
+      "NUMBER": "INVOICE # 0429-807",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nEric Jones\n21457 Molly Plaza\nBaileybury, LA 75764 US\nTel:+(335)827-0742\nEmail:dianafowler@example.org\nSite:https://franklin-leon.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance44.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Jul-2018",
+      "DUE_DATE": "Due Date : 01-Dec-2019",
+      "NUMBER": "INVOICE ID 0482-253",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nNicole Peters\n4031 Edward Squares\nSouth Wendy, NC 17743 US\nTel:+(736)271-1473\nEmail:sowens@example.org\nSite:http://rivera-coleman.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance100.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-May-2019",
+      "DUE_DATE": "Due Date : 30-Dec-2000",
+      "NUMBER": "INVOICE # INV/30-20/480",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKenneth Marquez\n865 Miller Spur\nNorth Rebecca, IN 68775 US\nTel:+(242)529-7361\nEmail:jonesroy@example.net\nSite:http://jensen-clark.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance86.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 01-Aug-2021",
+      "DUE_DATE": "Due Date : 28-May-2011",
+      "NUMBER": "INVOICE ID INV76702254",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nCourtney Berry\n9840 Jay Oval\nCochranland, MP 84919 US\nTel:+(738)524-5343\nEmail:benderwilliam@example.net\nSite:http://www.carter-reed.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance99.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-May-2022",
+      "DUE_DATE": "Due Date : 19-Jul-2019",
+      "NUMBER": "INVOICE # INV/97-30/756",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKristin Simpson\n3365 Santos Island\nPort Ana, NY 68612 US\nTel:+(836)778-4966\nEmail:delgadoannette@example.org\nSite:http://www.wolf.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance117.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Nov-1999",
+      "DUE_DATE": "Due Date : 03-Aug-2018",
+      "NUMBER": "Invoice number INV66995933",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJulie Adams\n9856 Lisa Locks\nCynthiachester, NM 43862 US\nTel:+(859)102-3257\nEmail:richardgarcia@example.org\nSite:http://www.sweeney.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance132.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 14-Jul-2014",
+      "DUE_DATE": "Due Date : 03-Apr-1997",
+      "NUMBER": "Invoice number INV/23-89/864",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrianna Alvarado\n51751 Jennifer Freeway Apt. 914\nSouth Amanda, IN 19809 US\nTel:+(975)761-8110\nEmail:lori19@example.net\nSite:http://www.wade.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance195.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Feb-1999",
+      "DUE_DATE": "Due Date : 30-Sep-1996",
+      "NUMBER": "INVOICE # 9Y2M1d-337",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMrs. Donna Harris\n838 Perez Corners\nPeggymouth, OR 34986 US\nTel:+(128)113-3888\nEmail:jenniferscott@example.com\nSite:http://rivera.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance97.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 16-Jun-1998",
+      "DUE_DATE": "Due Date : 27-Mar-1996",
+      "NUMBER": "INVOICE ID INV79002131",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMichael Cox\n8641 Edwards Hollow Suite 442\nNorth Amy, IL 69017 US\nTel:+(020)963-9269\nEmail:cthomas@example.org\nSite:https://mccormick.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance115.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Dec-2005",
+      "DUE_DATE": "Due Date : 01-Oct-2005",
+      "NUMBER": "INVOICE # 2736-729",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nLori Weeks\n46575 Andrew Drives Suite 879\nMitchellville, ID 51976 US\nTel:+(248)399-4304\nEmail:bking@example.net\nSite:https://bailey.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance150.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Mar-1993",
+      "DUE_DATE": "Due Date : 02-Apr-2005",
+      "NUMBER": "Invoice number INV/50-28/120",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKatherine Flores\n69754 Hammond Forge\nRodriguezbury, MA 69672 US\nTel:+(917)227-0727\nEmail:ryoung@example.net\nSite:http://howard.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance1.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Mar-2016",
+      "DUE_DATE": "Due Date : 07-Mar-2007",
+      "NUMBER": "INVOICE ID 4306-298",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nKendra Macdonald\n38202 Kerry Union Suite 704\nEast Deborah, ID 49136 US\nTel:+(563)138-7083\nEmail:esanchez@example.com\nSite:http://hernandez.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance134.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 11-Jun-2019",
+      "DUE_DATE": "Due Date : 07-Nov-2013",
+      "NUMBER": "Invoice number INV/69-65/571",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nDavid Aguilar\n796 Saunders Heights Apt. 236\nUnderwoodfurt, IL 90613 US\nTel:+(259)808-4350\nEmail:brandongarcia@example.org\nSite:https://www.williams.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance127.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 07-Jun-2011",
+      "DUE_DATE": "Due Date : 28-Mar-2018",
+      "NUMBER": "Invoice number INV64661669",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nAdam Wolf\n39807 Rodriguez Brooks\nMitchellburgh, AL 52224 US\nTel:+(261)887-4597\nEmail:patricia19@example.com\nSite:https://www.little.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance198.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Aug-2010",
+      "DUE_DATE": "Due Date : 06-Oct-1998",
+      "NUMBER": "INVOICE ID INV43242474",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJessica Hartman\n8153 Powell Haven\nChapmanmouth, ME 09519 US\nTel:+(142)857-4132\nEmail:wilsonjackie@example.com\nSite:https://www.hughes.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance16.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 20-Sep-2004",
+      "DUE_DATE": "Due Date : 17-Oct-2003",
+      "NUMBER": "Invoice number INV11445714",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nTaylor Choi\n228 Mary Pass\nRiosmouth, CO 55373 US\nTel:+(782)015-3623\nEmail:thomasjulie@example.com\nSite:https://chen-wood.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance157.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 31-Mar-2013",
+      "DUE_DATE": "Due Date : 19-Apr-2020",
+      "NUMBER": "INVOICE # 6005-157",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMichaela Bullock DDS\n0341 Williams Mountains Apt. 709\nNew Brooke, IA 82686 US\nTel:+(318)000-3437\nEmail:parrishmatthew@example.net\nSite:http://thomas.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance193.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 30-Jun-1998",
+      "DUE_DATE": "Due Date : 21-May-1994",
+      "NUMBER": "INVOICE # 1684-542",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nDenise Watson\n00530 Anderson Meadows Apt. 389\nMarkstad, LA 10964 US\nTel:+(631)284-1628\nEmail:ryan72@example.org\nSite:http://www.morris.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance36.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 01-Sep-2015",
+      "DUE_DATE": "Due Date : 21-Feb-2017",
+      "NUMBER": "INVOICE ID INV/81-98/818",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nLinda Sutton\n098 Tanner Vista\nWest Stephaniefurt, NV 09805 US\nTel:+(131)759-6932\nEmail:stephanie73@example.org\nSite:https://kim.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance76.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Sep-2005",
+      "DUE_DATE": "Due Date : 08-Sep-1995",
+      "NUMBER": "INVOICE ID 9Y7M1d-478",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrandon Russell\n926 Harding Falls Suite 210\nNorth Michaelstad, GA 12386 US\nTel:+(356)696-5174\nEmail:housejohn@example.org\nSite:http://fleming.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance2.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 03-Aug-2018",
+      "DUE_DATE": "Due Date : 03-Oct-2009",
+      "NUMBER": "Invoice number INV/71-72/240",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nDaniel Sanchez\n2305 Robert Land\nWhitakerside, SD 51752 US\nTel:+(062)577-9098\nEmail:shawnthomas@example.net\nSite:https://mason.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance38.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Jun-1994",
+      "DUE_DATE": "Due Date : 20-Apr-2019",
+      "NUMBER": "INVOICE ID 7Y5M4d-071",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nGregory Mcgee\n069 Nicholas Pike\nNew Katrina, GU 61852 US\nTel:+(931)558-7811\nEmail:kimberly85@example.org\nSite:http://www.hill-santos.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance17.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Feb-1996",
+      "DUE_DATE": "Due Date : 10-Apr-2003",
+      "NUMBER": "INVOICE ID 1259-452",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nDaniel Gaines\n6539 Daniels Street Apt. 361\nLake Christine, KY 83071 US\nTel:+(739)262-3167\nEmail:joshua22@example.org\nSite:https://www.harrison.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance165.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-Jun-1997",
+      "DUE_DATE": "Due Date : 26-Dec-2015",
+      "NUMBER": "Invoice number INV/94-72/680",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nTracy Hale\n0825 Hernandez Landing Apt. 120\nRobersonview, CT 20407 US\nTel:+(888)518-0446\nEmail:nicholskristie@example.net\nSite:https://www.kennedy.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance125.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Apr-2003",
+      "DUE_DATE": "Due Date : 29-Apr-2019",
+      "NUMBER": "INVOICE ID INV/82-61/209",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nAaron Allen\n80589 Mueller Roads\nSouth Wendy, MP 54542 US\nTel:+(938)398-6104\nEmail:steven25@example.net\nSite:http://caldwell-stone.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance189.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-May-2018",
+      "DUE_DATE": "Due Date : 09-Jun-2005",
+      "NUMBER": "INVOICE ID 7857-969",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nStephen Noble\n8066 Fernandez Squares Apt. 510\nGarciahaven, TN 27879 US\nTel:+(194)741-2363\nEmail:rbenton@example.org\nSite:http://foster.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance129.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 08-Feb-1997",
+      "DUE_DATE": "Due Date : 31-Dec-2010",
+      "NUMBER": "Invoice number 0929-633",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nHolly Lee\n30826 Aaron Trafficway\nWest Colleenfort, DC 25035 US\nTel:+(721)753-8883\nEmail:torrespaul@example.com\nSite:http://williams.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance29.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Sep-2000",
+      "DUE_DATE": "Due Date : 10-Jul-2001",
+      "NUMBER": "INVOICE ID 2346-161",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nKaren Booth\n679 Michelle Branch\nNorth Tanner, WI 20874 US\nTel:+(699)822-8017\nEmail:scottjonathan@example.net\nSite:http://moore-jackson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance151.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 01-Sep-2011",
+      "DUE_DATE": "Due Date : 26-May-2014",
+      "NUMBER": "INVOICE # INV/63-57/053",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nRebecca White\n1206 Brandi Loaf\nThomasfurt, NJ 37884 US\nTel:+(963)811-9206\nEmail:rhernandez@example.com\nSite:https://www.gordon.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance191.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 29-Jul-1998",
+      "DUE_DATE": "Due Date : 05-Mar-1997",
+      "NUMBER": "Invoice number INV60985277",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJennifer Berger\n69893 Thomas Circle Apt. 330\nNew Colton, SC 54987 US\nTel:+(285)027-1142\nEmail:courtneyallen@example.com\nSite:https://bartlett.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance149.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Nov-2002",
+      "DUE_DATE": "Due Date : 30-Mar-2022",
+      "NUMBER": "INVOICE # INV/33-80/622",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nRyan Fernandez\n43965 Obrien Gateway\nPatrickborough, MA 36447 US\nTel:+(587)058-7972\nEmail:dennismyers@example.org\nSite:https://www.ryan.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance108.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-May-1999",
+      "DUE_DATE": "Due Date : 21-Oct-2003",
+      "NUMBER": "Invoice number 5992-132",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nAndrew Daniels\n43313 Ingram Knoll\nDenisebury, NM 10946 US\nTel:+(881)548-5039\nEmail:lchan@example.org\nSite:https://www.reynolds-kennedy.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance169.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 31-Aug-1993",
+      "DUE_DATE": "Due Date : 17-Dec-2010",
+      "NUMBER": "Invoice number INV98687038",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nPatricia Bridges\n819 Farmer Crescent\nLake Veronicamouth, MS 18788 US\nTel:+(108)841-1436\nEmail:victorclarke@example.net\nSite:https://www.todd-carpenter.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance8.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-Feb-2016",
+      "DUE_DATE": "Due Date : 16-Sep-1999",
+      "NUMBER": "INVOICE ID INV/47-11/421",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nIan Mejia\n7560 Moreno Wall Suite 808\nEast Emilyville, AK 99671 US\nTel:+(945)870-1358\nEmail:elizabeth18@example.net\nSite:http://www.ward.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance43.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Mar-2014",
+      "DUE_DATE": "Due Date : 07-Feb-2014",
+      "NUMBER": "Invoice number 7040-913",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrandi Moore\n93969 Jennifer Ways Suite 816\nGaryton, VI 17626 US\nTel:+(428)067-6640\nEmail:colliernancy@example.org\nSite:https://hoffman.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance122.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-Aug-2017",
+      "DUE_DATE": "Due Date : 09-Apr-2002",
+      "NUMBER": "INVOICE ID 8357-824",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKristin Mitchell\n14776 Leon Ville\nLake Matthewmouth, ME 42082 US\nTel:+(357)287-2481\nEmail:espinozasabrina@example.com\nSite:http://vance.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance156.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Jan-1996",
+      "DUE_DATE": "Due Date : 09-Jun-2022",
+      "NUMBER": "INVOICE ID INV/08-28/563",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJohn Orozco\n4441 Tony Meadow Apt. 753\nMillerburgh, NV 48138 US\nTel:+(326)687-3379\nEmail:jenniferestrada@example.com\nSite:http://www.graham.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance142.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 17-Mar-2020",
+      "DUE_DATE": "Due Date : 29-Oct-2018",
+      "NUMBER": "INVOICE ID 5Y1M1d-189",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nEric Chapman\n0525 Brown Harbors\nNorth Michael, MH 06313 US\nTel:+(099)085-5927\nEmail:david04@example.net\nSite:http://www.moran-allen.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance89.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Feb-2017",
+      "DUE_DATE": "Due Date : 05-Jan-2001",
+      "NUMBER": "Invoice number 5Y8M7d-326",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrittany Spencer\n65742 Luis Dale\nWilsonfurt, MN 09026 US\nTel:+(367)456-9168\nEmail:rbrown@example.org\nSite:http://www.scott.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance71.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 09-Jul-2008",
+      "DUE_DATE": "Due Date : 27-Oct-1995",
+      "NUMBER": "INVOICE ID INV45409557",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nLisa Reyes\n926 Katelyn Estates\nNorth Michellechester, NV 32875 US\nTel:+(374)167-4494\nEmail:ashleystewart@example.org\nSite:http://www.martin.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance4.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Nov-2008",
+      "DUE_DATE": "Due Date : 06-Oct-2013",
+      "NUMBER": "INVOICE # 9368-901",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nCrystal Bray\n5516 Cook Via\nSouth Amanda, FL 94844 US\nTel:+(076)825-2242\nEmail:emilyrogers@example.net\nSite:http://mcgee-harris.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance73.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Mar-2008",
+      "DUE_DATE": "Due Date : 05-Sep-2014",
+      "NUMBER": "INVOICE # 9Y1M8d-861",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nDiana Davis\n2478 Zachary Skyway\nLake Susanbury, OK 71730 US\nTel:+(290)885-4973\nEmail:timothy88@example.net\nSite:https://smith.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance53.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 03-Jul-1995",
+      "DUE_DATE": "Due Date : 17-Mar-2000",
+      "NUMBER": "Invoice number INV05551436",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nLauren Cox\n4893 Stone Ridge\nBrownmouth, VA 73145 US\nTel:+(116)702-1752\nEmail:christopherbarnes@example.com\nSite:https://johnson-sosa.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance184.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Dec-2022",
+      "DUE_DATE": "Due Date : 09-Aug-2013",
+      "NUMBER": "INVOICE ID 6Y6M3d-330",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMatthew Nelson\n1826 Strickland Street\nRobinville, SC 87151 US\nTel:+(013)116-4049\nEmail:joan12@example.org\nSite:http://little-leonard.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance106.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 27-Jan-2011",
+      "DUE_DATE": "Due Date : 15-Sep-2011",
+      "NUMBER": "INVOICE # INV/27-94/685",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nAnne Hill\n2685 Roberts Shore\nTaylorberg, VI 91596 US\nTel:+(496)478-3220\nEmail:scottbrown@example.net\nSite:https://www.ingram.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance180.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Dec-2003",
+      "DUE_DATE": "Due Date : 03-Nov-2010",
+      "NUMBER": "INVOICE ID INV/32-34/047",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nApril Phillips\n3265 Amber Spring Suite 268\nMcclureshire, NJ 39282 US\nTel:+(425)400-2489\nEmail:alvindavis@example.com\nSite:https://www.rogers.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance192.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 30-Aug-1995",
+      "DUE_DATE": "Due Date : 18-Jun-2006",
+      "NUMBER": "INVOICE ID 6Y3M9d-204",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrooke Shelton\n534 Courtney Mills Suite 241\nWest David, FM 85911 US\nTel:+(366)305-5444\nEmail:wilsonmiguel@example.net\nSite:http://www.west.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance152.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 15-Oct-2007",
+      "DUE_DATE": "Due Date : 06-Jan-2005",
+      "NUMBER": "INVOICE ID 6522-278",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJudy Montoya\n26373 Bailey Circles\nNorth Stevenchester, MO 12312 US\nTel:+(318)849-7293\nEmail:sandra60@example.net\nSite:https://henderson-parks.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance179.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 21-Nov-2020",
+      "DUE_DATE": "Due Date : 15-Oct-2011",
+      "NUMBER": "INVOICE ID INV/97-62/475",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nRobert Martinez\n981 Wright Mission\nEast Tonyamouth, MH 09967 US\nTel:+(223)453-2341\nEmail:millerhannah@example.org\nSite:http://scott.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance27.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 04-Oct-1994",
+      "DUE_DATE": "Due Date : 29-Nov-2012",
+      "NUMBER": "INVOICE ID 3745-868",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nMatthew Cooper\n60530 Garcia Port\nRobertchester, MI 47187 US\nTel:+(542)932-8454\nEmail:edaniel@example.net\nSite:https://brewer-moore.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance14.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Jul-2021",
+      "DUE_DATE": "Due Date : 13-Aug-2002",
+      "NUMBER": "INVOICE # 9448-807",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJames Melton\n52819 Schultz Hollow Suite 487\nCindyfurt, HI 90974 US\nTel:+(454)860-1028\nEmail:deborahfernandez@example.com\nSite:https://www.foster-manning.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance48.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 14-Dec-2009",
+      "DUE_DATE": "Due Date : 02-Feb-2011",
+      "NUMBER": "INVOICE ID INV40798270",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nKathy Blair\n49497 Sandoval Cliff Suite 339\nNorth Victorview, OK 53445 US\nTel:+(277)235-0847\nEmail:tammy79@example.com\nSite:http://fitzgerald.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance168.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 29-Jul-1999",
+      "DUE_DATE": "Due Date : 22-Apr-2002",
+      "NUMBER": "Invoice number INV33504810",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nLaura Taylor\n014 Rodgers Locks\nSouth Jennifer, MA 59056 US\nTel:+(949)365-3618\nEmail:nmartinez@example.net\nSite:http://www.mosley.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance19.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-May-2009",
+      "DUE_DATE": "Due Date : 18-May-2021",
+      "NUMBER": "INVOICE ID INV/89-60/559",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nSophia Smith\n227 Christopher Meadow\nThomasmouth, PR 96319 US\nTel:+(003)144-7822\nEmail:fturner@example.net\nSite:http://www.costa-martinez.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance181.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 27-Dec-1993",
+      "DUE_DATE": "Due Date : 04-Feb-2005",
+      "NUMBER": "INVOICE ID INV03062093",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJerry Porter\n4047 Jacobson Shoal\nPort Sarah, AK 17497 US\nTel:+(144)092-3915\nEmail:johnsondaniel@example.com\nSite:http://www.livingston.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance137.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-Nov-2012",
+      "DUE_DATE": "Due Date : 06-May-2003",
+      "NUMBER": "Invoice number 9905-629",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nScott Berger MD\n00293 Diane Crest\nNorth Christopher, NJ 05207 US\nTel:+(762)531-0505\nEmail:james16@example.org\nSite:http://harper-wood.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance112.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-Nov-1994",
+      "DUE_DATE": "Due Date : 04-Apr-2000",
+      "NUMBER": "INVOICE ID 8606-040",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nSusan Bryant\n59497 Ashley Rue\nLake Joel, FL 09325 US\nTel:+(243)572-0475\nEmail:harperjeremiah@example.com\nSite:http://garrison.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance7.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 25-Jan-2015",
+      "DUE_DATE": "Due Date : 22-Feb-1994",
+      "NUMBER": "Invoice number INV/85-92/441",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMichael Robertson\n3310 Vaughn Trace Apt. 803\nPadillaport, IL 11412 US\nTel:+(123)144-6264\nEmail:elizabethwilcox@example.com\nSite:http://barton.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance12.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 12-Nov-2012",
+      "DUE_DATE": "Due Date : 28-Nov-2013",
+      "NUMBER": "INVOICE # INV38488000",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nAaron Macdonald\n276 Davies Meadow Apt. 764\nWest Curtisborough, NJ 64584 US\nTel:+(287)575-8379\nEmail:mendozarose@example.com\nSite:http://martin.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance70.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-May-2018",
+      "DUE_DATE": "Due Date : 01-May-2016",
+      "NUMBER": "Invoice number INV/81-67/587",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nDanielle Zuniga\n3952 Marissa Springs Apt. 608\nDebraport, IN 63750 US\nTel:+(297)942-0385\nEmail:kathleensullivan@example.net\nSite:https://mclaughlin.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance18.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Dec-2017",
+      "DUE_DATE": "Due Date : 31-May-2020",
+      "NUMBER": "INVOICE ID INV/23-25/984",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nBryan Mccullough\n477 Angela Ridge\nWest Meganmouth, MD 07443 US\nTel:+(177)312-3746\nEmail:erikagonzalez@example.net\nSite:https://www.chapman.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance155.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-Nov-2001",
+      "DUE_DATE": "Due Date : 13-Aug-2005",
+      "NUMBER": "INVOICE # INV/68-02/083",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJohn Heath\n4849 Michael Roads Suite 500\nPort Mariamouth, AZ 20893 US\nTel:+(915)882-5230\nEmail:kelleyalexis@example.org\nSite:http://www.jarvis-guerrero.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance63.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-Nov-2020",
+      "DUE_DATE": "Due Date : 11-Dec-2002",
+      "NUMBER": "INVOICE # 5Y6M6d-092",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nCheryl Cooper\n8326 Kelly Landing Apt. 152\nNew Kevin, DE 31411 US\nTel:+(464)276-3224\nEmail:ekey@example.org\nSite:http://medina.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance46.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-Jul-2010",
+      "DUE_DATE": "Due Date : 16-Sep-2019",
+      "NUMBER": "INVOICE ID INV/85-14/760",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nHaley Phillips\n85128 Jesse Dam Suite 736\nEast Veronicahaven, SC 92785 US\nTel:+(601)890-4875\nEmail:lmorris@example.org\nSite:https://scott.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance121.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 10-Nov-2013",
+      "DUE_DATE": "Due Date : 07-Apr-1998",
+      "NUMBER": "INVOICE # 7828-473",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMelanie Fuller\n1231 Shari Isle Suite 748\nPamelaport, DC 80076 US\nTel:+(164)510-7023\nEmail:george25@example.net\nSite:https://martinez.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance35.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-May-2004",
+      "DUE_DATE": "Due Date : 18-Jun-2000",
+      "NUMBER": "INVOICE ID 4Y2M9d-005",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nPamela Turner\n36697 Medina Skyway\nTaylortown, DE 49318 US\nTel:+(193)873-8255\nEmail:cookmeghan@example.org\nSite:https://roberts-willis.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance60.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-Jun-1994",
+      "DUE_DATE": "Due Date : 14-Sep-2011",
+      "NUMBER": "Invoice number INV/40-69/019",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nPamela Clark\n33924 Gilbert Center Apt. 590\nNew Hannah, TX 58120 US\nTel:+(884)122-7508\nEmail:kdavenport@example.org\nSite:https://lewis.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance107.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-Sep-2001",
+      "DUE_DATE": "Due Date : 16-Jun-2007",
+      "NUMBER": "INVOICE ID 6043-118",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJeremiah Goodman\n726 Cervantes Pines\nAngelfort, IA 98027 US\nTel:+(440)939-6832\nEmail:cguerrero@example.net\nSite:https://brown-hoffman.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance37.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Jun-2018",
+      "DUE_DATE": "Due Date : 15-Aug-1999",
+      "NUMBER": "Invoice number 6Y3M9d-323",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nTodd Harding\n169 Scott Streets Suite 592\nParsonstown, ME 14432 US\nTel:+(093)981-6906\nEmail:salazarkyle@example.org\nSite:http://malone-gonzalez.biz/"
+    }
+  },
+  {
+    "image": "Template26_Instance21.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-Jan-2018",
+      "DUE_DATE": "Due Date : 10-Sep-1999",
+      "NUMBER": "INVOICE # INV86334773",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nCindy Curry\n975 Nicholson Manors Apt. 258\nSouth Johnview, AZ 86462 US\nTel:+(275)495-7746\nEmail:jreed@example.com\nSite:http://bonilla.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance164.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-May-2011",
+      "DUE_DATE": "Due Date : 26-May-2009",
+      "NUMBER": "INVOICE # 7474-160",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMrs. Tiffany Scott\n3165 Vargas Station\nBryanberg, OK 07766 US\nTel:+(555)271-3345\nEmail:javiernovak@example.net\nSite:https://www.morgan-edwards.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance23.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-Jan-2020",
+      "DUE_DATE": "Due Date : 12-Dec-2019",
+      "NUMBER": "INVOICE # INV/57-37/780",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nRobert Mcdonald\n22446 Gregory Springs\nMckinneyton, SC 78316 US\nTel:+(903)455-8533\nEmail:ncrawford@example.com\nSite:https://www.anderson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance196.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 14-Nov-2017",
+      "DUE_DATE": "Due Date : 23-Dec-2008",
+      "NUMBER": "INVOICE ID 0644-741",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJulie Barnes\n583 Davis Course\nNorth Robinville, RI 13601 US\nTel:+(822)474-2737\nEmail:barbara26@example.com\nSite:https://www.stevens.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance0.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 28-Jun-2016",
+      "DUE_DATE": "Due Date : 09-Jun-2003",
+      "NUMBER": "INVOICE # 3216-553",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nRoy Pineda\n10370 Henry Green\nBrownstad, AR 30970 US\nTel:+(431)963-1921\nEmail:payneandrew@example.com\nSite:http://www.tyler.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance145.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 23-Feb-2005",
+      "DUE_DATE": "Due Date : 09-Jun-2020",
+      "NUMBER": "INVOICE ID 1297-023",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nOlivia Farley\n911 Bird Flats Apt. 083\nYoungbury, WA 97004 US\nTel:+(250)384-6795\nEmail:khenry@example.org\nSite:https://martin.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance197.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Aug-2007",
+      "DUE_DATE": "Due Date : 07-Nov-2013",
+      "NUMBER": "INVOICE ID 5Y2M8d-039",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nCaleb Fisher\n6181 David Village Apt. 461\nWest Raymondbury, NY 83016 US\nTel:+(347)565-1015\nEmail:michael40@example.com\nSite:http://www.shelton.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance50.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Feb-2014",
+      "DUE_DATE": "Due Date : 23-Sep-1994",
+      "NUMBER": "INVOICE # INV/10-51/650",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nAlicia Hoffman\n81321 Melissa Crossroad\nWest James, ID 22018 US\nTel:+(355)000-5515\nEmail:andersonelizabeth@example.org\nSite:http://boyd.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance173.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Apr-2007",
+      "DUE_DATE": "Due Date : 10-May-2018",
+      "NUMBER": "INVOICE # INV/54-62/967",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nJeanne Skinner\n09196 Courtney Island Suite 417\nHopkinstown, ID 37204 US\nTel:+(794)754-8134\nEmail:brownnichole@example.org\nSite:https://gallagher-rodgers.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance118.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Oct-2017",
+      "DUE_DATE": "Due Date : 10-Jul-1997",
+      "NUMBER": "INVOICE ID 4431-392",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJenna Peterson\n709 Joseph Knolls Suite 839\nPamelafort, PW 21829 US\nTel:+(941)743-7107\nEmail:jamesbell@example.net\nSite:https://www.graves.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance11.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-Oct-2010",
+      "DUE_DATE": "Due Date : 07-Jan-2010",
+      "NUMBER": "Invoice number 1726-566",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJennifer Sawyer\n960 Gonzalez Rest Suite 215\nWest Nancybury, GA 25528 US\nTel:+(475)777-7854\nEmail:dansmith@example.net\nSite:https://www.thomas-johnston.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance146.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 15-Dec-2004",
+      "DUE_DATE": "Due Date : 24-Jun-2016",
+      "NUMBER": "INVOICE # 5Y4M7d-280",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMichael Fisher\n6263 Emily Trafficway\nLeblanchaven, MT 61542 US\nTel:+(324)188-7598\nEmail:anna06@example.org\nSite:http://pollard.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance79.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-May-2011",
+      "DUE_DATE": "Due Date : 19-Aug-2019",
+      "NUMBER": "INVOICE ID INV85865644",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJeffrey Harper\n625 Spears Rapid Apt. 757\nMejiafort, VT 63215 US\nTel:+(761)440-1635\nEmail:haileybrown@example.com\nSite:https://www.morris.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance95.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 31-Jul-2004",
+      "DUE_DATE": "Due Date : 16-Nov-2006",
+      "NUMBER": "Invoice number INV/93-99/856",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJustin Taylor\n34207 Philip Circle Apt. 473\nWilliamsontown, VA 30690 US\nTel:+(850)641-1682\nEmail:shannoncantu@example.com\nSite:https://martinez-pierce.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance158.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Mar-2004",
+      "DUE_DATE": "Due Date : 25-Sep-1999",
+      "NUMBER": "Invoice number INV05499944",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nChristine Rice\n3843 Tiffany Hollow Suite 432\nNew Amberville, WI 63416 US\nTel:+(456)028-6396\nEmail:barnessara@example.com\nSite:https://gonzales.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance163.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-May-1996",
+      "DUE_DATE": "Due Date : 04-Apr-2013",
+      "NUMBER": "INVOICE # INV/31-96/626",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nStephanie Kane\n710 Thomas Route Suite 895\nWest Daniel, HI 63495 US\nTel:+(054)343-2407\nEmail:emmawest@example.org\nSite:https://www.clark.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance194.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 22-May-2004",
+      "DUE_DATE": "Due Date : 30-May-2019",
+      "NUMBER": "INVOICE ID 8Y8M9d-843",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nRobert Adams\n3686 Simon Overpass\nLeblancside, IA 77263 US\nTel:+(343)991-1044\nEmail:smitholivia@example.net\nSite:http://www.howell.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance175.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Jun-2011",
+      "DUE_DATE": "Due Date : 03-May-2004",
+      "NUMBER": "INVOICE ID INV/21-53/920",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nMr. Todd Novak MD\n209 Brianna Lane Apt. 079\nEast Annettetown, OR 08010 US\nTel:+(940)204-2472\nEmail:garrisonlaura@example.com\nSite:https://www.walker-rivera.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance133.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Oct-2019",
+      "DUE_DATE": "Due Date : 30-Mar-2018",
+      "NUMBER": "INVOICE ID 6Y8M9d-837",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nHannah Price\n0908 Christopher Glens Suite 817\nValerieland, ID 21578 US\nTel:+(177)357-6060\nEmail:martinjennifer@example.com\nSite:http://duncan-boone.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance128.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-Aug-1994",
+      "DUE_DATE": "Due Date : 23-Jun-2007",
+      "NUMBER": "INVOICE # INV37449357",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nErin Henderson\n89684 Daniel Mill\nBrandichester, RI 47452 US\nTel:+(667)058-8524\nEmail:imccormick@example.com\nSite:http://fox.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance187.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Aug-2011",
+      "DUE_DATE": "Due Date : 24-Feb-2015",
+      "NUMBER": "Invoice number INV24168142",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nMargaret Hill\n0723 Steven Ports Apt. 485\nSouth Ashleyberg, LA 43139 US\nTel:+(310)529-4788\nEmail:cbrown@example.org\nSite:https://beck.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance111.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 20-Dec-2008",
+      "DUE_DATE": "Due Date : 24-Jun-1997",
+      "NUMBER": "INVOICE # INV/28-99/613",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nDavid Baker\n1485 Michelle Ranch\nSouth Kenneth, FM 80656 US\nTel:+(678)964-2766\nEmail:jennifernelson@example.org\nSite:http://bell.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance103.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 28-Jul-2007",
+      "DUE_DATE": "Due Date : 28-May-1998",
+      "NUMBER": "Invoice number INV57419924",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMrs. Kathy Miller\n03997 Bradley Summit Apt. 052\nCrystalbury, MA 00787 US\nTel:+(129)648-9194\nEmail:wrightbrett@example.net\nSite:http://holland.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance39.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 28-Jun-2002",
+      "DUE_DATE": "Due Date : 17-May-2002",
+      "NUMBER": "INVOICE ID 2Y8M1d-387",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nWhitney Vargas\n83512 Sean Stream\nSingletonbury, OR 83973 US\nTel:+(285)008-7592\nEmail:hendersoncameron@example.com\nSite:https://richardson-miller.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance114.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Nov-2014",
+      "DUE_DATE": "Due Date : 12-Aug-1994",
+      "NUMBER": "INVOICE # 9Y3M8d-048",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nAlexander Stone\n48328 Jonathan Tunnel\nEdwardsbury, NM 23183 US\nTel:+(849)182-9412\nEmail:kelleydavid@example.org\nSite:https://peterson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance135.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-Dec-1996",
+      "DUE_DATE": "Due Date : 21-Nov-2016",
+      "NUMBER": "INVOICE # INV/04-26/488",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJames Graves\n5495 Tyler Ford Suite 761\nLake Kevin, AK 29991 US\nTel:+(579)400-9419\nEmail:fmeyer@example.org\nSite:https://english.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance42.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 02-May-2015",
+      "DUE_DATE": "Due Date : 02-Jun-2000",
+      "NUMBER": "Invoice number 8866-699",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nOscar Kelley\n613 Harvey Underpass Suite 797\nLewisland, MH 16068 US\nTel:+(022)174-1975\nEmail:wendy51@example.org\nSite:http://www.lawson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance113.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Jan-2004",
+      "DUE_DATE": "Due Date : 06-Jan-1999",
+      "NUMBER": "INVOICE # 8Y5M5d-160",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nWillie Wong\n19712 Hall Junctions\nWest Brian, WI 19195 US\nTel:+(194)116-4836\nEmail:shanepatel@example.net\nSite:https://robinson-chapman.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance77.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 19-Apr-1998",
+      "DUE_DATE": "Due Date : 11-Sep-2019",
+      "NUMBER": "INVOICE # 6246-544",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nKaren Marshall\n656 Trevor Unions\nElainefurt, PA 25837 US\nTel:+(839)110-4034\nEmail:ocarrillo@example.com\nSite:https://thomas.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance183.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 30-Jun-2010",
+      "DUE_DATE": "Due Date : 06-Jan-1995",
+      "NUMBER": "INVOICE # 0240-735",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nDavid Molina\n14807 Sally Spurs Suite 747\nNew Michaeltown, MP 18262 US\nTel:+(373)590-5931\nEmail:lukechavez@example.net\nSite:http://www.carter.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance141.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 05-Sep-2014",
+      "DUE_DATE": "Due Date : 09-Jun-2007",
+      "NUMBER": "INVOICE # INV09682107",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMary Riley\n1496 Huffman Inlet\nWest Teresa, PW 01363 US\nTel:+(893)569-3225\nEmail:petersonsean@example.net\nSite:http://www.chavez-allison.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance90.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Aug-2013",
+      "DUE_DATE": "Due Date : 19-Mar-2012",
+      "NUMBER": "Invoice number INV/77-38/651",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nChristopher Mullins\n921 Shields Light Suite 698\nKristaborough, CO 25519 US\nTel:+(015)791-4868\nEmail:steven96@example.org\nSite:https://dennis-chavez.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance25.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-May-2004",
+      "DUE_DATE": "Due Date : 21-Sep-2015",
+      "NUMBER": "INVOICE ID 0255-622",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nDavid Rodriguez\n959 Joseph Forest Apt. 255\nWangfurt, PW 78524 US\nTel:+(688)508-2412\nEmail:johnortiz@example.com\nSite:https://mcintyre.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance55.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Apr-1998",
+      "DUE_DATE": "Due Date : 13-Aug-1994",
+      "NUMBER": "INVOICE # INV16122116",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nKristin Davis\n085 Denise Valleys Suite 186\nGarciabury, NH 08432 US\nTel:+(395)537-5386\nEmail:karina04@example.com\nSite:https://christensen.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance161.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 06-Dec-2008",
+      "DUE_DATE": "Due Date : 05-May-1995",
+      "NUMBER": "INVOICE # 9948-328",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nScott Daniels\n3329 Wendy Tunnel Suite 982\nBarnettport, WA 49232 US\nTel:+(783)138-9008\nEmail:christopherscott@example.com\nSite:http://www.nichols.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance92.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Jul-2010",
+      "DUE_DATE": "Due Date : 19-Dec-1996",
+      "NUMBER": "INVOICE ID INV/13-58/552",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKirsten Santos\n738 Tammy Villages\nJeffreyside, ID 41368 US\nTel:+(590)056-2130\nEmail:phillip42@example.com\nSite:https://johnson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance61.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Jul-2010",
+      "DUE_DATE": "Due Date : 27-Apr-1993",
+      "NUMBER": "INVOICE ID 5535-215",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJames Patel\n5172 Key Green\nBeckerfort, VI 32907 US\nTel:+(282)517-9715\nEmail:rodriguezmark@example.org\nSite:https://riley.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance172.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Oct-2000",
+      "DUE_DATE": "Due Date : 27-Feb-2009",
+      "NUMBER": "INVOICE ID 8464-623",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nBradley Good\n9350 Nathan Manor\nEast Katherine, LA 86044 US\nTel:+(328)549-4429\nEmail:haley12@example.com\nSite:http://gilmore-snyder.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance56.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 02-Nov-2010",
+      "DUE_DATE": "Due Date : 19-Sep-2010",
+      "NUMBER": "INVOICE ID INV85264827",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nDaniel Anthony\n8000 Judith Ville\nWest Cristina, VT 96422 US\nTel:+(379)023-3491\nEmail:xwilliams@example.net\nSite:http://www.dodson.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance84.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Jun-1996",
+      "DUE_DATE": "Due Date : 08-Feb-2002",
+      "NUMBER": "INVOICE ID 8045-846",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrad Perez\n7199 Megan Mountain Suite 801\nNorth Adamside, VI 40331 US\nTel:+(363)452-1267\nEmail:myersnathan@example.net\nSite:https://www.tran-morrison.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance64.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 31-May-2008",
+      "DUE_DATE": "Due Date : 06-Dec-1997",
+      "NUMBER": "Invoice number INV/09-05/996",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJohn Valdez\n1421 Kristin Creek\nLake Rebeccaport, VA 49099 US\nTel:+(710)569-3285\nEmail:bwalters@example.org\nSite:https://www.patrick.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance185.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 20-May-2000",
+      "DUE_DATE": "Due Date : 27-Jun-2017",
+      "NUMBER": "Invoice number 3Y9M5d-779",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nPaul Robertson\n38613 Wendy Prairie Apt. 679\nEast David, HI 35074 US\nTel:+(957)309-6857\nEmail:markhenderson@example.com\nSite:https://www.trujillo.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance119.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 20-Jul-1996",
+      "DUE_DATE": "Due Date : 12-Apr-2019",
+      "NUMBER": "INVOICE ID INV/14-66/135",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nCrystal Kelly\n20711 Dickson Square Apt. 043\nCruzmouth, OH 26203 US\nTel:+(664)405-9351\nEmail:megan99@example.org\nSite:https://doyle.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance144.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-Oct-2013",
+      "DUE_DATE": "Due Date : 21-Aug-2002",
+      "NUMBER": "INVOICE # 8Y4M4d-634",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nAngel Garcia\n4891 Reynolds Stravenue\nAguirreville, GA 83108 US\nTel:+(952)477-2762\nEmail:qstewart@example.org\nSite:https://www.richards.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance130.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-Sep-2012",
+      "DUE_DATE": "Due Date : 25-Jul-2014",
+      "NUMBER": "INVOICE # 4Y4M9d-924",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJeffrey Williams\n936 Lynch Spurs\nBarbaraberg, SD 96879 US\nTel:+(905)377-2901\nEmail:adrianacox@example.com\nSite:https://thomas.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance147.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Mar-1993",
+      "DUE_DATE": "Due Date : 22-Mar-1997",
+      "NUMBER": "Invoice number 5Y7M3d-311",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nGeorge Pierce\n011 Kelly Creek Suite 131\nRobbinstown, UT 42161 US\nTel:+(108)295-9129\nEmail:bondjessica@example.com\nSite:http://www.manning.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance40.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 16-Jun-2007",
+      "DUE_DATE": "Due Date : 01-Nov-2018",
+      "NUMBER": "INVOICE ID INV/23-41/056",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nWendy Martinez\n3266 Johnson Road\nLesterbury, FL 67072 US\nTel:+(329)911-8983\nEmail:owensjoseph@example.org\nSite:http://mckay.org/"
+    }
+  },
+  {
+    "image": "Template26_Instance120.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 31-Jan-2004",
+      "DUE_DATE": "Due Date : 05-Jan-2004",
+      "NUMBER": "INVOICE ID 4Y8M7d-160",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nSamantha Herrera\n6703 James River\nEast Carriemouth, NM 89001 US\nTel:+(456)546-3302\nEmail:williampham@example.com\nSite:http://morris.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance101.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 26-Feb-2008",
+      "DUE_DATE": "Due Date : 01-Jan-2023",
+      "NUMBER": "INVOICE ID INV97543146",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nMatthew Wallace\n832 Perez Highway Suite 229\nNew Anthony, HI 33135 US\nTel:+(586)185-3710\nEmail:charles19@example.net\nSite:http://lara-nelson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance123.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 13-Oct-2004",
+      "DUE_DATE": "Due Date : 08-Jan-2003",
+      "NUMBER": "Invoice number INV/47-42/887",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nCasey Walker\n5500 Rose Court\nNew Brianna, DC 61407 US\nTel:+(647)777-4449\nEmail:dorseyjoshua@example.com\nSite:http://mitchell.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance105.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 02-Feb-2019",
+      "DUE_DATE": "Due Date : 25-Apr-2014",
+      "NUMBER": "INVOICE ID 9348-516",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nKristin Day\n9323 Patrick Fall Suite 026\nMichaelchester, FL 85773 US\nTel:+(223)349-7117\nEmail:kennethallison@example.com\nSite:https://kim.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance9.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Apr-2001",
+      "DUE_DATE": "Due Date : 28-Feb-2022",
+      "NUMBER": "INVOICE ID INV/71-51/256",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nJason Moran\n97905 Williams View Apt. 831\nEast Frank, UT 92776 US\nTel:+(303)489-4964\nEmail:benjamin98@example.com\nSite:https://www.powers.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance5.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 04-Jul-1999",
+      "DUE_DATE": "Due Date : 18-Feb-1999",
+      "NUMBER": "INVOICE # 8455-842",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nLaura Lopez\n098 Amanda Extensions\nNew Yvonne, MD 05392 US\nTel:+(335)803-1735\nEmail:jennifer32@example.net\nSite:https://www.vincent.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance91.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 01-Sep-2002",
+      "DUE_DATE": "Due Date : 21-Apr-2005",
+      "NUMBER": "INVOICE # 4Y4M6d-566",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "TAX INVOICE",
+      "SEND_TO": "SHIP_TO:\nBrad Bird\n23787 Garcia Inlet Suite 441\nRandytown, GA 65254 US\nTel:+(833)111-9332\nEmail:mromero@example.com\nSite:https://www.tran.info/"
+    }
+  },
+  {
+    "image": "Template26_Instance15.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 23-Nov-2009",
+      "DUE_DATE": "Due Date : 27-Sep-2012",
+      "NUMBER": "Invoice number 6017-614",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nFernando Miller\n326 Megan Rue\nJamieview, PR 97705 US\nTel:+(679)472-9057\nEmail:toddbarrett@example.net\nSite:https://www.mercer-nielsen.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance177.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Mar-2019",
+      "DUE_DATE": "Due Date : 14-May-2000",
+      "NUMBER": "Invoice number 8728-833",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nKimberly Lopez\n490 Kristi Field\nJermaineberg, DC 84908 US\nTel:+(660)524-5472\nEmail:morrisonjohn@example.net\nSite:http://www.willis.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance160.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 29-May-2019",
+      "DUE_DATE": "Due Date : 18-Jul-2016",
+      "NUMBER": "INVOICE ID INV/61-73/486",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJanice Smith\n7168 Simon Brook\nSouth Misty, IN 02126 US\nTel:+(328)334-0764\nEmail:ydavis@example.com\nSite:https://www.miller.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance116.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 09-Apr-2009",
+      "DUE_DATE": "Due Date : 26-Jul-2007",
+      "NUMBER": "INVOICE # 8959-271",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nAmy Fowler\n104 Camacho View Apt. 262\nNorth Lindseyborough, DC 08929 US\nTel:+(755)000-9299\nEmail:krystalmartinez@example.com\nSite:http://simpson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance57.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Jan-2016",
+      "DUE_DATE": "Due Date : 08-Apr-2015",
+      "NUMBER": "INVOICE # INV45924583",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "INVOICE",
+      "SEND_TO": "SHIP_TO:\nMrs. Valerie Robbins PhD\n6021 Renee Cliff\nPort Jennifer, CT 13156 US\nTel:+(390)586-1758\nEmail:thomas96@example.com\nSite:http://www.jackson.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance59.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 12-Jan-2005",
+      "DUE_DATE": "Due Date : 21-May-1999",
+      "NUMBER": "Invoice number INV08390928",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nCourtney Snyder\n9283 Andrew Valleys Apt. 640\nNew Patriciafort, IA 72244 US\nTel:+(629)789-2149\nEmail:meganstewart@example.com\nSite:http://gutierrez-mckenzie.net/"
+    }
+  },
+  {
+    "image": "Template26_Instance93.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 13-May-2013",
+      "DUE_DATE": "Due Date : 01-Apr-2004",
+      "NUMBER": "INVOICE ID 1Y2M6d-830",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nJacob Henderson\n12773 Bowen Mall Suite 950\nPeggytown, MN 08326 US\nTel:+(605)068-5834\nEmail:wadematthew@example.com\nSite:http://cole.com/"
+    }
+  },
+  {
+    "image": "Template26_Instance58.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 17-Jun-1996",
+      "DUE_DATE": "Due Date : 16-Oct-2015",
+      "NUMBER": "Invoice number 3Y6M1d-920",
+      "SELLER_ADDRESS": "Address:496 Buck Rest Suite 598\nJenningsburgh, UT 95460 US",
+      "SELLER_NAME": "Jensen Group",
+      "TITLE": "COMMERCIAL INVOICE",
+      "SEND_TO": "SHIP_TO:\nBenjamin Duran\n03030 Wallace Mission\nLoweberg, FL 98360 US\nTel:+(735)968-7811\nEmail:gbarnes@example.com\nSite:http://www.stewart.org/"
+    }
+  }
+]

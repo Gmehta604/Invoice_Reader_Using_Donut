@@ -1,0 +1,762 @@
+[
+  {
+    "image": "Template25_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paula Hobbs\n8272 Watkins Mountains Apt. 886\nBurgessside, ND 83719 US\nTel:+(935)123-9324\nEmail:iwang@example.com\nSite:http://parker.net/",
+      "DATE": "Date: 30-May-2009",
+      "DUE_DATE": "Due Date : 26-Mar-1998",
+      "NUMBER": "INVOICE # 8788-520",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 540.89  EUR",
+      "TOTAL": "TOTAL : 546.61 EUR",
+      "GST(1%)": "GST(1%) : 5.41",
+      "GST(20%)": "GST(20%) : 108.18",
+      "GST(18%)": "GST(18%) : 97.36",
+      "GST(12%)": "GST(12%) : 64.91",
+      "GST(5%)": "GST(5%) : 27.04"
+    }
+  },
+  {
+    "image": "Template25_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Chris Brock\n25107 Melanie Throughway\nWest Darren, LA 49809 US\nTel:+(421)875-4198\nEmail:uvargas@example.com\nSite:https://benson-lewis.com/",
+      "DATE": "Date: 13-Nov-2003",
+      "DUE_DATE": "Due Date : 26-Apr-2004",
+      "NUMBER": "Invoice number 6Y9M4d-215",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 230.70  USD",
+      "TOTAL": "TOTAL : 242.84 USD",
+      "GST(1%)": "GST(1%) : 2.31",
+      "GST(20%)": "GST(20%) : 46.14",
+      "GST(18%)": "GST(18%) : 41.53",
+      "GST(12%)": "GST(12%) : 27.68",
+      "GST(5%)": "GST(5%) : 11.54"
+    }
+  },
+  {
+    "image": "Template25_Instance170.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bailey Rogers\n282 Ryan Lake\nMarisaside, IN 52949 US\nTel:+(466)840-4334\nEmail:duaneluna@example.org\nSite:https://www.warren-howell.com/",
+      "DATE": "Date: 08-May-2014",
+      "DUE_DATE": "Due Date : 14-Feb-2011",
+      "NUMBER": "INVOICE ID 4733-332",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 502.63  EUR",
+      "TOTAL": "TOTAL : 510.01 EUR",
+      "GST(1%)": "GST(1%) : 5.03",
+      "GST(20%)": "GST(20%) : 100.53",
+      "GST(18%)": "GST(18%) : 90.47",
+      "GST(12%)": "GST(12%) : 60.32",
+      "GST(5%)": "GST(5%) : 25.13"
+    }
+  },
+  {
+    "image": "Template25_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Duran\n017 Wheeler Isle Suite 627\nWest Marktown, CO 46983 US\nTel:+(559)666-7984\nEmail:farmerjohn@example.net\nSite:https://www.riley.com/",
+      "DATE": "Date: 24-Jan-1999",
+      "DUE_DATE": "Due Date : 10-Jul-2015",
+      "NUMBER": "Invoice number 9109-610",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 229.66  $",
+      "TOTAL": "TOTAL : 229.48 $",
+      "GST(1%)": "GST(1%) : 2.30",
+      "GST(20%)": "GST(20%) : 45.93",
+      "GST(18%)": "GST(18%) : 41.34",
+      "GST(12%)": "GST(12%) : 27.56",
+      "GST(5%)": "GST(5%) : 11.48"
+    }
+  },
+  {
+    "image": "Template25_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Todd Campbell\n534 Martinez Plain Apt. 263\nAdamtown, UT 69017 US\nTel:+(871)411-3296\nEmail:kaylahernandez@example.com\nSite:http://www.ortega.com/",
+      "DATE": "Date: 05-Feb-2006",
+      "DUE_DATE": "Due Date : 01-Jan-2017",
+      "NUMBER": "INVOICE ID INV/75-38/997",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 346.48  $",
+      "TOTAL": "TOTAL : 358.56 $",
+      "GST(1%)": "GST(1%) : 3.46",
+      "GST(20%)": "GST(20%) : 69.30",
+      "GST(18%)": "GST(18%) : 62.37",
+      "GST(12%)": "GST(12%) : 41.58",
+      "GST(5%)": "GST(5%) : 17.32"
+    }
+  },
+  {
+    "image": "Template25_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sarah Sampson\n806 Jones Lakes\nEast Matthew, IA 79806 US\nTel:+(116)704-6703\nEmail:samantha75@example.com\nSite:https://www.reed-green.com/",
+      "DATE": "Invoice Date: 24-Oct-1998",
+      "DUE_DATE": "Due Date : 17-Oct-2004",
+      "NUMBER": "INVOICE # INV/24-21/745",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 619.49  EUR",
+      "TOTAL": "TOTAL : 624.80 EUR",
+      "GST(1%)": "GST(1%) : 6.19",
+      "GST(20%)": "GST(20%) : 123.90",
+      "GST(18%)": "GST(18%) : 111.51",
+      "GST(12%)": "GST(12%) : 74.34",
+      "GST(5%)": "GST(5%) : 30.97"
+    }
+  },
+  {
+    "image": "Template25_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paul Woods\n45216 Bishop Junction Suite 210\nJasonfurt, DC 61115 US\nTel:+(552)187-3006\nEmail:johnathancurtis@example.com\nSite:http://brown.org/",
+      "DATE": "Invoice Date: 08-Jul-1997",
+      "DUE_DATE": "Due Date : 04-Jun-2004",
+      "NUMBER": "INVOICE ID 9280-395",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 865.45  USD",
+      "TOTAL": "TOTAL : 867.88 USD",
+      "GST(1%)": "GST(1%) : 8.65",
+      "GST(20%)": "GST(20%) : 173.09",
+      "GST(18%)": "GST(18%) : 155.78",
+      "GST(12%)": "GST(12%) : 103.85",
+      "GST(5%)": "GST(5%) : 43.27"
+    }
+  },
+  {
+    "image": "Template25_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Sullivan\n2041 Sheila Mews\nWilliamsmouth, NH 15452 US\nTel:+(022)607-9964\nEmail:vlee@example.net\nSite:https://flores-ferguson.com/",
+      "DATE": "Invoice Date: 22-Dec-2017",
+      "DUE_DATE": "Due Date : 10-Jan-2005",
+      "NUMBER": "INVOICE # INV88505440",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 498.99  $",
+      "TOTAL": "TOTAL : 511.40 $",
+      "GST(1%)": "GST(1%) : 4.99",
+      "GST(20%)": "GST(20%) : 99.80",
+      "GST(18%)": "GST(18%) : 89.82",
+      "GST(12%)": "GST(12%) : 59.88",
+      "GST(5%)": "GST(5%) : 24.95"
+    }
+  },
+  {
+    "image": "Template25_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathy Carney\n27254 Joan Ford\nBrianatown, AZ 39108 US\nTel:+(632)991-5149\nEmail:martinjeanne@example.net\nSite:https://jones-holt.com/",
+      "DATE": "Date: 17-Feb-2015",
+      "DUE_DATE": "Due Date : 04-Nov-1996",
+      "NUMBER": "Invoice number 3Y6M7d-458",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 757.49  EUR",
+      "TOTAL": "TOTAL : 770.61 EUR",
+      "GST(1%)": "GST(1%) : 7.57",
+      "GST(20%)": "GST(20%) : 151.50",
+      "GST(18%)": "GST(18%) : 136.35",
+      "GST(12%)": "GST(12%) : 90.90",
+      "GST(5%)": "GST(5%) : 37.87"
+    }
+  },
+  {
+    "image": "Template25_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carla Morgan\n3141 Dana Spurs Apt. 338\nMonicabury, MI 59781 US\nTel:+(323)081-4837\nEmail:edwardgonzalez@example.com\nSite:http://estrada.com/",
+      "DATE": "Date: 01-Mar-2014",
+      "DUE_DATE": "Due Date : 18-Apr-2021",
+      "NUMBER": "INVOICE # INV/79-42/898",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 540.10  $",
+      "TOTAL": "TOTAL : 543.95 $",
+      "GST(1%)": "GST(1%) : 5.40",
+      "GST(20%)": "GST(20%) : 108.02",
+      "GST(18%)": "GST(18%) : 97.22",
+      "GST(12%)": "GST(12%) : 64.81",
+      "GST(5%)": "GST(5%) : 27.00"
+    }
+  },
+  {
+    "image": "Template25_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard King\n799 Chelsea Corner Apt. 411\nLake Elizabeth, MT 21933 US\nTel:+(713)493-6065\nEmail:juliawebster@example.com\nSite:http://rogers.com/",
+      "DATE": "Date: 14-Sep-2004",
+      "DUE_DATE": "Due Date : 28-Jan-2000",
+      "NUMBER": "INVOICE # 2858-491",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 1268.09  EUR",
+      "TOTAL": "TOTAL : 1309.71 EUR",
+      "GST(1%)": "GST(1%) : 12.68",
+      "GST(20%)": "GST(20%) : 253.62",
+      "GST(18%)": "GST(18%) : 228.26",
+      "GST(12%)": "GST(12%) : 152.17",
+      "GST(5%)": "GST(5%) : 63.40"
+    }
+  },
+  {
+    "image": "Template25_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christina Shaw\n4106 White Road Apt. 880\nLake Michaelstad, MI 01141 US\nTel:+(500)394-1342\nEmail:kelly19@example.net\nSite:http://www.rice.com/",
+      "DATE": "Invoice Date: 13-Dec-2004",
+      "DUE_DATE": "Due Date : 11-Aug-2019",
+      "NUMBER": "INVOICE ID 3598-215",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 1204.34  EUR",
+      "TOTAL": "TOTAL : 1216.71 EUR",
+      "GST(1%)": "GST(1%) : 12.04",
+      "GST(20%)": "GST(20%) : 240.87",
+      "GST(18%)": "GST(18%) : 216.78",
+      "GST(12%)": "GST(12%) : 144.52",
+      "GST(5%)": "GST(5%) : 60.22"
+    }
+  },
+  {
+    "image": "Template25_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Elizabeth Green\n309 Rachel Trafficway Apt. 057\nNorth Stacey, LA 45732 US\nTel:+(075)520-3822\nEmail:meagan34@example.com\nSite:http://gregory.org/",
+      "DATE": "Date: 24-Jul-2004",
+      "DUE_DATE": "Due Date : 25-Jul-2009",
+      "NUMBER": "Invoice number 2785-772",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 996.44  USD",
+      "TOTAL": "TOTAL : 1039.53 USD",
+      "GST(1%)": "GST(1%) : 9.96",
+      "GST(20%)": "GST(20%) : 199.29",
+      "GST(18%)": "GST(18%) : 179.36",
+      "GST(12%)": "GST(12%) : 119.57",
+      "GST(5%)": "GST(5%) : 49.82"
+    }
+  },
+  {
+    "image": "Template25_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Pam Rice\n520 Samuel Plains\nRobertport, OK 58930 US\nTel:+(123)100-9858\nEmail:matthewhickman@example.net\nSite:http://www.james-lindsey.com/",
+      "DATE": "Invoice Date: 23-Oct-2010",
+      "DUE_DATE": "Due Date : 09-Sep-2004",
+      "NUMBER": "INVOICE ID INV/92-93/404",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 733.68  $",
+      "TOTAL": "TOTAL : 773.64 $",
+      "GST(1%)": "GST(1%) : 7.34",
+      "GST(20%)": "GST(20%) : 146.74",
+      "GST(18%)": "GST(18%) : 132.06",
+      "GST(12%)": "GST(12%) : 88.04",
+      "GST(5%)": "GST(5%) : 36.68"
+    }
+  },
+  {
+    "image": "Template25_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandy Wilson\n85487 Roberts Road Suite 053\nSouth Dianaberg, SC 58401 US\nTel:+(038)493-2008\nEmail:lindsey32@example.org\nSite:http://www.valdez-garcia.com/",
+      "DATE": "Invoice Date: 09-Feb-2008",
+      "DUE_DATE": "Due Date : 02-Nov-1994",
+      "NUMBER": "INVOICE ID 9507-428",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 923.63  USD",
+      "TOTAL": "TOTAL : 940.89 USD",
+      "GST(1%)": "GST(1%) : 9.24",
+      "GST(20%)": "GST(20%) : 184.73",
+      "GST(18%)": "GST(18%) : 166.25",
+      "GST(12%)": "GST(12%) : 110.84",
+      "GST(5%)": "GST(5%) : 46.18"
+    }
+  },
+  {
+    "image": "Template25_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Phillip Cantu\n3942 Cynthia Square\nMorrisview, MH 10940 US\nTel:+(686)509-9173\nEmail:michaelbishop@example.com\nSite:https://www.nguyen-brown.org/",
+      "DATE": "Invoice Date: 23-Mar-2004",
+      "DUE_DATE": "Due Date : 24-Jan-1997",
+      "NUMBER": "INVOICE ID INV/91-19/030",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 775.63  $",
+      "TOTAL": "TOTAL : 792.23 $",
+      "GST(1%)": "GST(1%) : 7.76",
+      "GST(20%)": "GST(20%) : 155.13",
+      "GST(18%)": "GST(18%) : 139.61",
+      "GST(12%)": "GST(12%) : 93.08",
+      "GST(5%)": "GST(5%) : 38.78"
+    }
+  },
+  {
+    "image": "Template25_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stacie Wilcox\n285 Xavier Run\nEast Russell, FL 31522 US\nTel:+(634)082-0925\nEmail:jacob94@example.net\nSite:http://www.thomas-clark.org/",
+      "DATE": "Date: 23-Dec-2002",
+      "DUE_DATE": "Due Date : 25-Jun-2006",
+      "NUMBER": "Invoice number 7856-603",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 432.14  EUR",
+      "TOTAL": "TOTAL : 434.15 EUR",
+      "GST(1%)": "GST(1%) : 4.32",
+      "GST(20%)": "GST(20%) : 86.43",
+      "GST(18%)": "GST(18%) : 77.79",
+      "GST(12%)": "GST(12%) : 51.86",
+      "GST(5%)": "GST(5%) : 21.61"
+    }
+  },
+  {
+    "image": "Template25_Instance89.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christina Campbell\n2659 Debbie Oval Suite 698\nLake Ryan, NH 47432 US\nTel:+(487)982-4087\nEmail:burkericky@example.net\nSite:http://black.biz/",
+      "DATE": "Invoice Date: 12-Dec-2002",
+      "DUE_DATE": "Due Date : 04-Sep-2012",
+      "NUMBER": "Invoice number INV/34-17/976",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 563.03  $",
+      "TOTAL": "TOTAL : 564.68 $",
+      "GST(1%)": "GST(1%) : 5.63",
+      "GST(20%)": "GST(20%) : 112.61",
+      "GST(18%)": "GST(18%) : 101.35",
+      "GST(12%)": "GST(12%) : 67.56",
+      "GST(5%)": "GST(5%) : 28.15"
+    }
+  },
+  {
+    "image": "Template25_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jamie Peters\n64943 Shane Burgs Suite 517\nPollardhaven, CA 57024 US\nTel:+(071)256-7598\nEmail:brandonerickson@example.com\nSite:http://barber-graves.com/",
+      "DATE": "Invoice Date: 11-Feb-2020",
+      "DUE_DATE": "Due Date : 17-Aug-2000",
+      "NUMBER": "Invoice number INV94667092",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 734.24  USD",
+      "TOTAL": "TOTAL : 735.27 USD",
+      "GST(1%)": "GST(1%) : 7.34",
+      "GST(20%)": "GST(20%) : 146.85",
+      "GST(18%)": "GST(18%) : 132.16",
+      "GST(12%)": "GST(12%) : 88.11",
+      "GST(5%)": "GST(5%) : 36.71"
+    }
+  },
+  {
+    "image": "Template25_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Murphy\n3604 Ian Ports Suite 091\nJonesview, KS 74681 US\nTel:+(633)047-4809\nEmail:martinezjessica@example.net\nSite:https://miranda-davis.biz/",
+      "DATE": "Date: 27-Nov-2020",
+      "DUE_DATE": "Due Date : 21-Feb-2017",
+      "NUMBER": "INVOICE ID 6Y2M9d-487",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 871.73  USD",
+      "TOTAL": "TOTAL : 879.05 USD",
+      "GST(1%)": "GST(1%) : 8.72",
+      "GST(20%)": "GST(20%) : 174.35",
+      "GST(18%)": "GST(18%) : 156.91",
+      "GST(12%)": "GST(12%) : 104.61",
+      "GST(5%)": "GST(5%) : 43.59"
+    }
+  },
+  {
+    "image": "Template25_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Rivera\n066 Sloan Pine Suite 008\nNew Rebecca, DC 74579 US\nTel:+(815)128-9394\nEmail:wjohnson@example.net\nSite:https://williams.com/",
+      "DATE": "Invoice Date: 05-Jun-2004",
+      "DUE_DATE": "Due Date : 30-Sep-2006",
+      "NUMBER": "INVOICE ID 2331-934",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 492.29  EUR",
+      "TOTAL": "TOTAL : 507.89 EUR",
+      "GST(1%)": "GST(1%) : 4.92",
+      "GST(20%)": "GST(20%) : 98.46",
+      "GST(18%)": "GST(18%) : 88.61",
+      "GST(12%)": "GST(12%) : 59.07",
+      "GST(5%)": "GST(5%) : 24.61"
+    }
+  },
+  {
+    "image": "Template25_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rita Davis\n546 Allison Green Suite 444\nLake Michael, CT 85149 US\nTel:+(177)939-2875\nEmail:gregorycampbell@example.com\nSite:http://carson.com/",
+      "DATE": "Date: 07-Jul-2005",
+      "DUE_DATE": "Due Date : 07-Feb-2019",
+      "NUMBER": "INVOICE ID 9158-213",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 822.27  USD",
+      "TOTAL": "TOTAL : 824.85 USD",
+      "GST(1%)": "GST(1%) : 8.22",
+      "GST(20%)": "GST(20%) : 164.45",
+      "GST(18%)": "GST(18%) : 148.01",
+      "GST(12%)": "GST(12%) : 98.67",
+      "GST(5%)": "GST(5%) : 41.11"
+    }
+  },
+  {
+    "image": "Template25_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Webster\n0777 Justin Forge Apt. 514\nCunninghamland, GA 25124 US\nTel:+(863)040-8713\nEmail:fowlerthomas@example.org\nSite:https://shea.com/",
+      "DATE": "Invoice Date: 23-Oct-1998",
+      "DUE_DATE": "Due Date : 21-Oct-2021",
+      "NUMBER": "Invoice number INV/40-85/952",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 1281.76  USD",
+      "TOTAL": "TOTAL : 1355.57 USD",
+      "GST(1%)": "GST(1%) : 12.82",
+      "GST(20%)": "GST(20%) : 256.35",
+      "GST(18%)": "GST(18%) : 230.72",
+      "GST(12%)": "GST(12%) : 153.81",
+      "GST(5%)": "GST(5%) : 64.09"
+    }
+  },
+  {
+    "image": "Template25_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Pope\n5108 Roy Cape\nDavisborough, LA 38133 US\nTel:+(560)838-6873\nEmail:lambana@example.net\nSite:http://www.williams.com/",
+      "DATE": "Date: 17-Apr-2014",
+      "DUE_DATE": "Due Date : 23-Sep-1993",
+      "NUMBER": "INVOICE ID 9Y8M8d-213",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 245.05  EUR",
+      "TOTAL": "TOTAL : 255.56 EUR",
+      "GST(1%)": "GST(1%) : 2.45",
+      "GST(20%)": "GST(20%) : 49.01",
+      "GST(18%)": "GST(18%) : 44.11",
+      "GST(12%)": "GST(12%) : 29.41",
+      "GST(5%)": "GST(5%) : 12.25"
+    }
+  },
+  {
+    "image": "Template25_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ian Elliott\n6030 Willie Shores Suite 354\nGuerraton, TX 60058 US\nTel:+(740)159-5191\nEmail:meghan88@example.net\nSite:https://murphy.biz/",
+      "DATE": "Date: 10-Jan-2003",
+      "DUE_DATE": "Due Date : 07-Oct-2022",
+      "NUMBER": "INVOICE # 0160-748",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 463.19  EUR",
+      "TOTAL": "TOTAL : 476.38 EUR",
+      "GST(1%)": "GST(1%) : 4.63",
+      "GST(20%)": "GST(20%) : 92.64",
+      "GST(18%)": "GST(18%) : 83.37",
+      "GST(12%)": "GST(12%) : 55.58",
+      "GST(5%)": "GST(5%) : 23.16"
+    }
+  },
+  {
+    "image": "Template25_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nancy Young\n762 Joseph Ranch\nPort Michaelland, SC 40029 US\nTel:+(885)270-1245\nEmail:nguyensavannah@example.net\nSite:https://gonzalez.org/",
+      "DATE": "Date: 01-Jul-2014",
+      "DUE_DATE": "Due Date : 17-Nov-1997",
+      "NUMBER": "INVOICE ID 3993-856",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 461.73  $",
+      "TOTAL": "TOTAL : 466.88 $",
+      "GST(1%)": "GST(1%) : 4.62",
+      "GST(20%)": "GST(20%) : 92.35",
+      "GST(18%)": "GST(18%) : 83.11",
+      "GST(12%)": "GST(12%) : 55.41",
+      "GST(5%)": "GST(5%) : 23.09"
+    }
+  },
+  {
+    "image": "Template25_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gary Pitts\n1400 James Springs Apt. 445\nNorth Wendy, OR 17240 US\nTel:+(482)376-8325\nEmail:lindseykevin@example.com\nSite:https://stokes.com/",
+      "DATE": "Date: 03-Jun-1994",
+      "DUE_DATE": "Due Date : 17-Dec-2001",
+      "NUMBER": "Invoice number INV18565645",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 979.81  USD",
+      "TOTAL": "TOTAL : 985.64 USD",
+      "GST(1%)": "GST(1%) : 9.80",
+      "GST(20%)": "GST(20%) : 195.96",
+      "GST(18%)": "GST(18%) : 176.37",
+      "GST(12%)": "GST(12%) : 117.58",
+      "GST(5%)": "GST(5%) : 48.99"
+    }
+  },
+  {
+    "image": "Template25_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Derek Shepherd\n8728 Robinson Courts\nNguyenville, AS 77066 US\nTel:+(983)787-2896\nEmail:karabradley@example.com\nSite:http://moore.biz/",
+      "DATE": "Date: 16-May-2014",
+      "DUE_DATE": "Due Date : 11-Sep-2004",
+      "NUMBER": "INVOICE # INV/65-85/649",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 548.42  EUR",
+      "TOTAL": "TOTAL : 564.63 EUR",
+      "GST(1%)": "GST(1%) : 5.48",
+      "GST(20%)": "GST(20%) : 109.68",
+      "GST(18%)": "GST(18%) : 98.72",
+      "GST(12%)": "GST(12%) : 65.81",
+      "GST(5%)": "GST(5%) : 27.42"
+    }
+  },
+  {
+    "image": "Template25_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Emily Davis\n335 Brittany Oval Apt. 418\nHuanghaven, ID 82403 US\nTel:+(757)673-6339\nEmail:swilliams@example.org\nSite:http://mccarthy-kelly.com/",
+      "DATE": "Date: 29-Nov-2022",
+      "DUE_DATE": "Due Date : 14-Feb-2007",
+      "NUMBER": "Invoice number INV46289642",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 221.59  USD",
+      "TOTAL": "TOTAL : 228.04 USD",
+      "GST(1%)": "GST(1%) : 2.22",
+      "GST(20%)": "GST(20%) : 44.32",
+      "GST(18%)": "GST(18%) : 39.89",
+      "GST(12%)": "GST(12%) : 26.59",
+      "GST(5%)": "GST(5%) : 11.08"
+    }
+  },
+  {
+    "image": "Template25_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Nunez\n37930 Norman Creek\nSouth Mark, UT 10292 US\nTel:+(270)100-5169\nEmail:uhaynes@example.org\nSite:http://www.davis.com/",
+      "DATE": "Date: 04-Nov-2014",
+      "DUE_DATE": "Due Date : 29-Feb-2000",
+      "NUMBER": "INVOICE ID 8339-816",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 634.01  USD",
+      "TOTAL": "TOTAL : 645.89 USD",
+      "GST(1%)": "GST(1%) : 6.34",
+      "GST(20%)": "GST(20%) : 126.80",
+      "GST(18%)": "GST(18%) : 114.12",
+      "GST(12%)": "GST(12%) : 76.08",
+      "GST(5%)": "GST(5%) : 31.70"
+    }
+  },
+  {
+    "image": "Template25_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bradley Johnson\n433 Trevor Ports Suite 587\nSouth Gordonfort, MD 87634 US\nTel:+(235)513-5036\nEmail:lisabyrd@example.org\nSite:https://west.com/",
+      "DATE": "Date: 09-May-1998",
+      "DUE_DATE": "Due Date : 18-Aug-1993",
+      "NUMBER": "Invoice number INV/11-84/567",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 811.11  $",
+      "TOTAL": "TOTAL : 832.15 $",
+      "GST(1%)": "GST(1%) : 8.11",
+      "GST(20%)": "GST(20%) : 162.22",
+      "GST(18%)": "GST(18%) : 146.00",
+      "GST(12%)": "GST(12%) : 97.33",
+      "GST(5%)": "GST(5%) : 40.56"
+    }
+  },
+  {
+    "image": "Template25_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andres Shaw\n601 Lee Valleys Suite 653\nNorth Meganport, MH 58718 US\nTel:+(603)328-6774\nEmail:sandrabuck@example.com\nSite:http://www.williams.org/",
+      "DATE": "Invoice Date: 12-Jun-2015",
+      "DUE_DATE": "Due Date : 07-Feb-2012",
+      "NUMBER": "INVOICE ID INV54768529",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 809.65  $",
+      "TOTAL": "TOTAL : 821.09 $",
+      "GST(1%)": "GST(1%) : 8.10",
+      "GST(20%)": "GST(20%) : 161.93",
+      "GST(18%)": "GST(18%) : 145.74",
+      "GST(12%)": "GST(12%) : 97.16",
+      "GST(5%)": "GST(5%) : 40.48"
+    }
+  },
+  {
+    "image": "Template25_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Gonzales\n1589 Daniels Island\nNorth Holly, AR 03015 US\nTel:+(005)482-1455\nEmail:pcrane@example.org\nSite:http://www.jackson-morrison.com/",
+      "DATE": "Date: 15-Dec-2002",
+      "DUE_DATE": "Due Date : 22-May-2007",
+      "NUMBER": "Invoice number INV65653698",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 629.89  EUR",
+      "TOTAL": "TOTAL : 649.41 EUR",
+      "GST(1%)": "GST(1%) : 6.30",
+      "GST(20%)": "GST(20%) : 125.98",
+      "GST(18%)": "GST(18%) : 113.38",
+      "GST(12%)": "GST(12%) : 75.59",
+      "GST(5%)": "GST(5%) : 31.49"
+    }
+  },
+  {
+    "image": "Template25_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Smith\n6944 Pena Pass Suite 278\nDylanstad, TN 96741 US\nTel:+(606)253-9287\nEmail:denise44@example.com\nSite:https://www.hamilton.com/",
+      "DATE": "Date: 23-Jun-1998",
+      "DUE_DATE": "Due Date : 19-Sep-2012",
+      "NUMBER": "INVOICE ID INV/96-71/080",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 670.12  EUR",
+      "TOTAL": "TOTAL : 689.58 EUR",
+      "GST(1%)": "GST(1%) : 6.70",
+      "GST(20%)": "GST(20%) : 134.02",
+      "GST(18%)": "GST(18%) : 120.62",
+      "GST(12%)": "GST(12%) : 80.41",
+      "GST(5%)": "GST(5%) : 33.51"
+    }
+  },
+  {
+    "image": "Template25_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alicia Mcgee\n549 James Vista\nNorth Gina, HI 42138 US\nTel:+(449)838-2527\nEmail:pauljohnson@example.net\nSite:http://delacruz.com/",
+      "DATE": "Invoice Date: 19-Apr-2002",
+      "DUE_DATE": "Due Date : 20-Jan-2003",
+      "NUMBER": "Invoice number INV37170505",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 585.83  EUR",
+      "TOTAL": "TOTAL : 608.83 EUR",
+      "GST(1%)": "GST(1%) : 5.86",
+      "GST(20%)": "GST(20%) : 117.17",
+      "GST(18%)": "GST(18%) : 105.45",
+      "GST(12%)": "GST(12%) : 70.30",
+      "GST(5%)": "GST(5%) : 29.29"
+    }
+  },
+  {
+    "image": "Template25_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Evan Hernandez DDS\n05776 Martin Highway\nPaulchester, MN 59454 US\nTel:+(379)713-4248\nEmail:terrydavid@example.org\nSite:http://brown.net/",
+      "DATE": "Date: 06-Oct-2001",
+      "DUE_DATE": "Due Date : 07-May-2010",
+      "NUMBER": "INVOICE ID 3Y8M4d-959",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 683.78  USD",
+      "TOTAL": "TOTAL : 701.25 USD",
+      "GST(1%)": "GST(1%) : 6.84",
+      "GST(20%)": "GST(20%) : 136.76",
+      "GST(18%)": "GST(18%) : 123.08",
+      "GST(12%)": "GST(12%) : 82.05",
+      "GST(5%)": "GST(5%) : 34.19"
+    }
+  },
+  {
+    "image": "Template25_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Madison Jordan\n9674 Christy Prairie\nCollinstad, MN 93165 US\nTel:+(727)853-9345\nEmail:daisy82@example.org\nSite:https://www.spencer.com/",
+      "DATE": "Date: 13-Jun-2013",
+      "DUE_DATE": "Due Date : 03-Nov-2011",
+      "NUMBER": "INVOICE ID INV47478664",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 328.71  USD",
+      "TOTAL": "TOTAL : 332.08 USD",
+      "GST(1%)": "GST(1%) : 3.29",
+      "GST(20%)": "GST(20%) : 65.74",
+      "GST(18%)": "GST(18%) : 59.17",
+      "GST(12%)": "GST(12%) : 39.45",
+      "GST(5%)": "GST(5%) : 16.44"
+    }
+  },
+  {
+    "image": "Template25_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Garrett Mack\n1159 Brittany Falls Suite 621\nAllentown, MP 04712 US\nTel:+(371)362-2242\nEmail:lisa71@example.com\nSite:http://dyer-wheeler.net/",
+      "DATE": "Invoice Date: 24-May-2019",
+      "DUE_DATE": "Due Date : 13-Oct-2007",
+      "NUMBER": "INVOICE ID 4Y5M2d-920",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 365.62  $",
+      "TOTAL": "TOTAL : 373.79 $",
+      "GST(1%)": "GST(1%) : 3.66",
+      "GST(20%)": "GST(20%) : 73.12",
+      "GST(18%)": "GST(18%) : 65.81",
+      "GST(12%)": "GST(12%) : 43.87",
+      "GST(5%)": "GST(5%) : 18.28"
+    }
+  },
+  {
+    "image": "Template25_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jamie Ibarra\n15689 Brianna Ridge Suite 224\nWest Vickifurt, TN 80770 US\nTel:+(931)998-5648\nEmail:nlopez@example.org\nSite:http://www.little-phillips.org/",
+      "DATE": "Invoice Date: 19-Nov-2007",
+      "DUE_DATE": "Due Date : 31-Dec-2017",
+      "NUMBER": "INVOICE # INV/41-06/188",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 641.47  EUR",
+      "TOTAL": "TOTAL : 647.03 EUR",
+      "GST(1%)": "GST(1%) : 6.41",
+      "GST(20%)": "GST(20%) : 128.29",
+      "GST(18%)": "GST(18%) : 115.46",
+      "GST(12%)": "GST(12%) : 76.98",
+      "GST(5%)": "GST(5%) : 32.07"
+    }
+  },
+  {
+    "image": "Template25_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Maria Stone\n05200 Klein Wells\nLake Sharonfurt, OH 00555 US\nTel:+(328)216-9045\nEmail:javier02@example.com\nSite:https://www.bowers.net/",
+      "DATE": "Date: 28-Aug-2012",
+      "DUE_DATE": "Due Date : 04-Aug-1998",
+      "NUMBER": "Invoice number 1812-572",
+      "SELLER_ADDRESS": "Address:6030 Willie Shores Suite 354\nGuerraton, TX 60058 US",
+      "SELLER_EMAIL": "Email:meghan88@example.net",
+      "SELLER_NAME": "Kelly-Moss",
+      "SUB_TOTAL": "SUB_TOTAL : 586.63  EUR",
+      "TOTAL": "TOTAL : 586.35 EUR",
+      "GST(1%)": "GST(1%) : 5.87",
+      "GST(20%)": "GST(20%) : 117.33",
+      "GST(18%)": "GST(18%) : 105.59",
+      "GST(12%)": "GST(12%) : 70.40",
+      "GST(5%)": "GST(5%) : 29.33"
+    }
+  }
+]

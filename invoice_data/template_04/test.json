@@ -1,0 +1,602 @@
+[
+  {
+    "image": "Template4_Instance5.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLindsey Bryant\n33794 Sarah Meadows Suite 723\nPort Kristinview, WY 06197 US\nTel:+(088)559-8667\nEmail:masontimothy@example.com\nSite:http://shaw.org/",
+      "DATE": "Date: 14-Feb-2017",
+      "DISCOUNT": "DISCOUNT(2.11%): (-)  14.09",
+      "DUE_DATE": "Due Date : 19-Jan-2001",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 667.99  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 678.04 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance111.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nPatricia Craig\n13003 Russell Trail\nEscobarfort, GA 08317 US\nTel:+(719)039-3467\nEmail:pruittedward@example.net\nSite:http://www.mccoy.com/",
+      "DATE": "Invoice Date: 08-Apr-1999",
+      "DISCOUNT": "DISCOUNT(2.68%): (-)  11.57",
+      "DUE_DATE": "Due Date : 21-Apr-2002",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 431.85  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 441.91 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance144.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJames Hays\n25794 Jennifer Islands Suite 890\nNorth Jacob, DC 79393 US\nTel:+(416)136-1686\nEmail:melissaherrera@example.org\nSite:https://ball.com/",
+      "DATE": "Date: 08-Oct-1993",
+      "DISCOUNT": "DISCOUNT(3.32%): (-)  21.19",
+      "DUE_DATE": "Due Date : 28-Mar-1998",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 638.17  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 657.57 USD"
+    }
+  },
+  {
+    "image": "Template4_Instance156.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDean Williams\n143 Pacheco Throughway\nBethland, WY 54388 US\nTel:+(765)663-3872\nEmail:sophiablack@example.com\nSite:http://www.mullen.com/",
+      "DATE": "Invoice Date: 27-Apr-2005",
+      "DISCOUNT": "DISCOUNT(2.0%): (-)  26.93",
+      "DUE_DATE": "Due Date : 15-Jan-2016",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 1346.46  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1385.78 $"
+    }
+  },
+  {
+    "image": "Template4_Instance33.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmy Keller\n7970 Garza Orchard Suite 470\nHarrisonfurt, NC 27185 US\nTel:+(789)553-0506\nEmail:haileydominguez@example.org\nSite:http://rose.com/",
+      "DATE": "Date: 13-Aug-2018",
+      "DISCOUNT": "DISCOUNT(1.24%): (-)  3.46",
+      "DUE_DATE": "Due Date : 29-Jun-2021",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 278.93  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 289.20 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance158.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTyrone Smith\n154 Olivia Drive\nPort Kirsten, HI 08216 US\nTel:+(787)946-7597\nEmail:sarahnelson@example.com\nSite:https://cole.com/",
+      "DATE": "Date: 29-Jan-2018",
+      "DISCOUNT": "DISCOUNT(1.34%): (-)  13.03",
+      "DUE_DATE": "Due Date : 05-Aug-1993",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 972.50  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1029.07 $"
+    }
+  },
+  {
+    "image": "Template4_Instance142.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCaroline Pena\n80461 Anderson Cliffs Apt. 586\nValeriechester, OH 38801 US\nTel:+(484)756-6310\nEmail:kristenhutchinson@example.org\nSite:http://huber.info/",
+      "DATE": "Invoice Date: 11-Aug-2008",
+      "DISCOUNT": "DISCOUNT(3.15%): (-)  13.78",
+      "DUE_DATE": "Due Date : 06-Nov-2010",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 437.50  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 448.51 $"
+    }
+  },
+  {
+    "image": "Template4_Instance120.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAngela Johnston\n24134 Adam Isle Apt. 123\nLake Janetchester, ND 24696 US\nTel:+(795)818-1446\nEmail:fbennett@example.com\nSite:https://www.wagner-gonzalez.com/",
+      "DATE": "Invoice Date: 12-Mar-1998",
+      "DISCOUNT": "DISCOUNT(4.8%): (-)  7.77",
+      "DUE_DATE": "Due Date : 12-Nov-2009",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 161.88  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 162.69 $"
+    }
+  },
+  {
+    "image": "Template4_Instance92.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNatalie Holmes\n08840 Hays Harbors Apt. 062\nEast Luis, NY 87968 US\nTel:+(248)603-2059\nEmail:hendersonnicole@example.net\nSite:https://guzman-contreras.org/",
+      "DATE": "Invoice Date: 01-Jan-2019",
+      "DISCOUNT": "DISCOUNT(2.4%): (-)  11.41",
+      "DUE_DATE": "Due Date : 18-Apr-2017",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 475.50  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 488.63 $"
+    }
+  },
+  {
+    "image": "Template4_Instance41.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nFrancisco Walker\n5192 Sue Overpass\nShanehaven, WV 84914 US\nTel:+(221)053-8402\nEmail:onewman@example.com\nSite:https://waters-berry.com/",
+      "DATE": "Date: 24-Oct-2007",
+      "DISCOUNT": "DISCOUNT(2.35%): (-)  18.83",
+      "DUE_DATE": "Due Date : 05-Mar-2014",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 801.39  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 797.90 $"
+    }
+  },
+  {
+    "image": "Template4_Instance2.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTiffany Cox\n7008 Evans Plaza Apt. 176\nSouth Timothyshire, NM 96811 US\nTel:+(101)862-6821\nEmail:allenbrian@example.net\nSite:https://www.house-pena.com/",
+      "DATE": "Invoice Date: 03-Mar-2015",
+      "DISCOUNT": "DISCOUNT(4.27%): (-)  7.06",
+      "DUE_DATE": "Due Date : 26-Dec-2002",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 165.38  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 165.52 $"
+    }
+  },
+  {
+    "image": "Template4_Instance169.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChad Lopez\n31878 Jennifer Fields Suite 090\nChristopherborough, ME 40160 US\nTel:+(418)431-6790\nEmail:martha17@example.com\nSite:http://www.alexander-castro.biz/",
+      "DATE": "Date: 23-Jul-2022",
+      "DISCOUNT": "DISCOUNT(1.11%): (-)  7.98",
+      "DUE_DATE": "Due Date : 22-Mar-2007",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 719.08  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 720.84 USD"
+    }
+  },
+  {
+    "image": "Template4_Instance172.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nZachary Oneal\n754 Mcdowell Path\nNew Gabrielchester, NY 26427 US\nTel:+(157)668-0122\nEmail:ibenton@example.net\nSite:http://www.walters.com/",
+      "DATE": "Date: 10-May-2021",
+      "DISCOUNT": "DISCOUNT(2.92%): (-)  12.69",
+      "DUE_DATE": "Due Date : 05-Jul-1994",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 434.49  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 446.31 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance71.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJodi West\n992 Jason Lane\nMerrittview, VI 52673 US\nTel:+(577)135-5321\nEmail:casejeffrey@example.net\nSite:http://www.serrano.info/",
+      "DATE": "Invoice Date: 30-Mar-2015",
+      "DISCOUNT": "DISCOUNT(1.59%): (-)  18.1",
+      "DUE_DATE": "Due Date : 21-Mar-2006",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 1138.37  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1142.49 $"
+    }
+  },
+  {
+    "image": "Template4_Instance168.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCarlos Sanchez\n293 Rosales Harbors\nNew Erin, AZ 54868 US\nTel:+(529)571-3210\nEmail:becky35@example.net\nSite:https://www.bates-bailey.info/",
+      "DATE": "Date: 08-Oct-2018",
+      "DISCOUNT": "DISCOUNT(3.01%): (-)  15.0",
+      "DUE_DATE": "Due Date : 09-Jun-2014",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 498.25  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 512.08 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance102.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nShane Cabrera\n22488 Flowers Spring\nDavidshire, WY 94037 US\nTel:+(763)102-5132\nEmail:codygalvan@example.net\nSite:https://montgomery-olson.biz/",
+      "DATE": "Invoice Date: 06-Dec-2015",
+      "DISCOUNT": "DISCOUNT(1.86%): (-)  14.51",
+      "DUE_DATE": "Due Date : 28-Feb-2003",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 780.35  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 789.09 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance62.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKellie Wyatt\n812 Erin Forges Suite 272\nWest Ronaldchester, VT 03597 US\nTel:+(341)206-9221\nEmail:vwest@example.com\nSite:http://www.gray.net/",
+      "DATE": "Invoice Date: 24-May-1997",
+      "DISCOUNT": "DISCOUNT(4.89%): (-)  43.85",
+      "DUE_DATE": "Due Date : 18-Jun-1993",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 896.69  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 913.03 $"
+    }
+  },
+  {
+    "image": "Template4_Instance128.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCatherine Diaz\n62815 Rebecca Road Apt. 247\nPort Steven, DE 63355 US\nTel:+(814)735-8082\nEmail:evansrick@example.com\nSite:https://green.net/",
+      "DATE": "Invoice Date: 04-Dec-2011",
+      "DISCOUNT": "DISCOUNT(1.49%): (-)  4.57",
+      "DUE_DATE": "Due Date : 20-Nov-1996",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 306.76  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 318.18 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance51.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMelissa Nguyen\n6047 Danny Mountains\nPort Elizabethside, NE 29309 US\nTel:+(499)318-9849\nEmail:washingtontammy@example.org\nSite:https://montoya-ortiz.com/",
+      "DATE": "Invoice Date: 10-Jun-2017",
+      "DISCOUNT": "DISCOUNT(3.4%): (-)  16.48",
+      "DUE_DATE": "Due Date : 16-Feb-2006",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 484.66  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 489.64 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance48.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCaitlyn Griffin\n5832 Benjamin Knoll Apt. 224\nSullivanport, CO 79224 US\nTel:+(069)765-9450\nEmail:patrickescobar@example.com\nSite:https://edwards-burke.net/",
+      "DATE": "Invoice Date: 03-Dec-2011",
+      "DISCOUNT": "DISCOUNT(3.63%): (-)  28.3",
+      "DUE_DATE": "Due Date : 08-Mar-2001",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 779.67  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 812.70 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance185.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKenneth Lozano\n72353 Jonathan Crossroad\nEast Kathleen, MD 55555 US\nTel:+(608)498-3046\nEmail:uanderson@example.com\nSite:http://young.com/",
+      "DATE": "Date: 27-Dec-2008",
+      "DISCOUNT": "DISCOUNT(1.73%): (-)  10.1",
+      "DUE_DATE": "Due Date : 11-Dec-1997",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 583.62  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 578.06 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance77.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAndrea Randall\n333 Sarah Skyway Apt. 060\nGordonhaven, MD 45806 US\nTel:+(722)988-0104\nEmail:danielsanchez@example.net\nSite:https://www.brown.com/",
+      "DATE": "Date: 29-Mar-2015",
+      "DISCOUNT": "DISCOUNT(4.46%): (-)  21.21",
+      "DUE_DATE": "Due Date : 16-Aug-2016",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 475.65  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 496.64 $"
+    }
+  },
+  {
+    "image": "Template4_Instance138.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAngela Martinez\n142 Jackson Valley Suite 632\nHinesville, PW 51637 US\nTel:+(578)965-7231\nEmail:david39@example.org\nSite:http://lopez.com/",
+      "DATE": "Date: 29-Oct-1994",
+      "DISCOUNT": "DISCOUNT(4.13%): (-)  9.05",
+      "DUE_DATE": "Due Date : 29-Dec-2010",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 219.02  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 224.64 $"
+    }
+  },
+  {
+    "image": "Template4_Instance18.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNathan Oneal\n561 Lori Cliffs Suite 364\nMariostad, IA 41938 US\nTel:+(300)149-2586\nEmail:hthomas@example.org\nSite:https://www.chavez-wallace.com/",
+      "DATE": "Invoice Date: 12-Dec-2009",
+      "DISCOUNT": "DISCOUNT(4.55%): (-)  26.04",
+      "DUE_DATE": "Due Date : 17-Sep-2002",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 572.34  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 566.66 USD"
+    }
+  },
+  {
+    "image": "Template4_Instance101.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGary Miller\n359 Emily Lock\nAllisonmouth, CO 62577 US\nTel:+(688)305-9332\nEmail:patrickriley@example.org\nSite:http://www.lawrence-perkins.com/",
+      "DATE": "Date: 29-Oct-2019",
+      "DISCOUNT": "DISCOUNT(4.97%): (-)  55.77",
+      "DUE_DATE": "Due Date : 25-Nov-2009",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 1122.23  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1124.73 $"
+    }
+  },
+  {
+    "image": "Template4_Instance82.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Duran\n72998 Lisa Path Apt. 121\nEast Ericborough, FM 06937 US\nTel:+(662)051-1331\nEmail:jacobsdennis@example.net\nSite:https://www.pacheco.com/",
+      "DATE": "Invoice Date: 08-Sep-2022",
+      "DISCOUNT": "DISCOUNT(1.73%): (-)  13.82",
+      "DUE_DATE": "Due Date : 13-Sep-1996",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 798.98  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 827.24 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance195.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nPatrick Wallace\n5103 Ayala Estates\nCunninghamburgh, PW 99028 US\nTel:+(384)347-0947\nEmail:martinezdebra@example.com\nSite:https://acevedo.biz/",
+      "DATE": "Invoice Date: 28-Nov-2013",
+      "DISCOUNT": "DISCOUNT(3.66%): (-)  20.24",
+      "DUE_DATE": "Due Date : 21-Mar-2014",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 552.94  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 572.52 $"
+    }
+  },
+  {
+    "image": "Template4_Instance183.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nShelby Walker\n05162 Gomez Islands Apt. 571\nWest Richardstad, SD 51026 US\nTel:+(880)293-6918\nEmail:william04@example.net\nSite:https://weiss-morris.biz/",
+      "DATE": "Invoice Date: 31-Jan-1995",
+      "DISCOUNT": "DISCOUNT(3.66%): (-)  3.34",
+      "DUE_DATE": "Due Date : 10-Jun-2012",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 91.25  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 93.65 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance24.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nElizabeth Perkins\n9278 Stein Unions\nPort Robin, GU 09420 US\nTel:+(957)296-6441\nEmail:mooredaniel@example.org\nSite:http://wallace.biz/",
+      "DATE": "Invoice Date: 04-Feb-2021",
+      "DISCOUNT": "DISCOUNT(4.97%): (-)  54.36",
+      "DUE_DATE": "Due Date : 11-Apr-1995",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 1093.86  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1106.80 $"
+    }
+  },
+  {
+    "image": "Template4_Instance152.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSeth Richardson\n842 Vasquez Flats Suite 136\nNew Karen, CO 68818 US\nTel:+(393)379-8723\nEmail:bergsophia@example.net\nSite:http://greene-williams.net/",
+      "DATE": "Invoice Date: 05-Aug-2021",
+      "DISCOUNT": "DISCOUNT(4.71%): (-)  64.27",
+      "DUE_DATE": "Due Date : 02-Nov-2003",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 1364.55  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1379.19 $"
+    }
+  },
+  {
+    "image": "Template4_Instance176.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLaurie Lopez\n245 Reynolds Lights\nWest Kyle, WI 60349 US\nTel:+(813)957-3697\nEmail:haleytimothy@example.net\nSite:https://www.howard-mack.net/",
+      "DATE": "Date: 06-Apr-2000",
+      "DISCOUNT": "DISCOUNT(3.23%): (-)  29.56",
+      "DUE_DATE": "Due Date : 03-Jul-2013",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 915.22  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 955.61 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance16.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMatthew Villarreal\n7023 Atkinson Loaf\nBreannaport, NE 58058 US\nTel:+(668)105-0510\nEmail:rachel93@example.net\nSite:http://stout.biz/",
+      "DATE": "Invoice Date: 27-May-2005",
+      "DISCOUNT": "DISCOUNT(1.75%): (-)  10.13",
+      "DUE_DATE": "Due Date : 15-Apr-2002",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 579.10  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 591.60 $"
+    }
+  },
+  {
+    "image": "Template4_Instance189.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRenee Becker\n186 Jamie Courts\nNorth Teresa, OH 39048 US\nTel:+(889)325-1956\nEmail:twolfe@example.org\nSite:http://www.kaufman.com/",
+      "DATE": "Date: 08-Oct-2011",
+      "DISCOUNT": "DISCOUNT(3.74%): (-)  24.8",
+      "DUE_DATE": "Due Date : 16-Dec-1994",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 663.14  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 663.40 $"
+    }
+  },
+  {
+    "image": "Template4_Instance1.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVicki Brennan\n163 Richard Station\nTravischester, ND 67073 US\nTel:+(668)889-2175\nEmail:zturner@example.net\nSite:https://www.rose-harris.biz/",
+      "DATE": "Date: 20-Jan-2004",
+      "DISCOUNT": "DISCOUNT(4.3%): (-)  34.07",
+      "DUE_DATE": "Due Date : 26-Apr-2016",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 792.31  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 806.53 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance121.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCheryl Nash\n42995 Kelsey Hollow Apt. 317\nNew Shawnbury, MH 56418 US\nTel:+(271)473-0437\nEmail:woodshawn@example.com\nSite:https://ellison.info/",
+      "DATE": "Invoice Date: 03-Jul-1994",
+      "DISCOUNT": "DISCOUNT(1.62%): (-)  6.1",
+      "DUE_DATE": "Due Date : 21-Nov-2003",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 376.70  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 379.38 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance188.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Davis\n634 Reed Wall Apt. 267\nJeffreyside, NY 52743 US\nTel:+(717)455-3111\nEmail:beth23@example.org\nSite:http://www.pierce-arias.com/",
+      "DATE": "Invoice Date: 16-Dec-2018",
+      "DISCOUNT": "DISCOUNT(1.91%): (-)  10.71",
+      "DUE_DATE": "Due Date : 23-Oct-2022",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 560.65  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 571.78 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance173.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoy Doyle\n9458 Candace Lights Apt. 640\nJacquelinechester, DC 08788 US\nTel:+(765)273-4040\nEmail:cbarrett@example.net\nSite:https://www.jackson.org/",
+      "DATE": "Invoice Date: 05-Oct-1999",
+      "DISCOUNT": "DISCOUNT(4.28%): (-)  5.75",
+      "DUE_DATE": "Due Date : 16-Nov-2018",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 134.44  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 136.05 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance165.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKyle Smith\n56808 Gina Trafficway\nEast Anitaside, AK 82502 US\nTel:+(184)851-1480\nEmail:ufrench@example.net\nSite:https://www.chang.net/",
+      "DATE": "Invoice Date: 14-Jun-1997",
+      "DISCOUNT": "DISCOUNT(2.63%): (-)  14.57",
+      "DUE_DATE": "Due Date : 07-Jun-2004",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 553.85  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 569.77 EUR"
+    }
+  },
+  {
+    "image": "Template4_Instance177.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSabrina Vargas\n466 White Ports Apt. 548\nPriceville, ID 77944 US\nTel:+(019)029-6471\nEmail:epatterson@example.org\nSite:http://www.anderson-garner.com/",
+      "DATE": "Date: 19-Feb-2015",
+      "DISCOUNT": "DISCOUNT(1.35%): (-)  11.38",
+      "DUE_DATE": "Due Date : 30-Oct-1995",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 842.94  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 850.68 USD"
+    }
+  },
+  {
+    "image": "Template4_Instance40.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCody Murray\n3428 Justin Overpass Apt. 953\nWest Erikashire, AS 62853 US\nTel:+(975)943-3959\nEmail:iashley@example.com\nSite:http://www.williams-armstrong.net/",
+      "DATE": "Invoice Date: 05-Nov-1995",
+      "DISCOUNT": "DISCOUNT(2.0%): (-)  11.63",
+      "DUE_DATE": "Due Date : 21-Jul-1998",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:2180 Michael Ridges Apt. 385\nPort Lindsey, MP 98258 US",
+      "SELLER_NAME": "Huff-Bryan",
+      "SUB_TOTAL": "SUB_TOTAL : 581.40  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 592.27 EUR"
+    }
+  }
+]

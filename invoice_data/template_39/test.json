@@ -1,0 +1,642 @@
+[
+  {
+    "image": "Template39_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alicia Mcgrath\n2212 Jacqueline Route Suite 509\nNorth Austinside, CO 65490 US\nTel:+(009)312-8856\nEmail:yharding@example.org\nSite:http://www.walsh-davis.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Dec-2004",
+      "DISCOUNT": "DISCOUNT(4.12%): (-)  39.18",
+      "DUE_DATE": "Due Date : 31-Jul-2009",
+      "NUMBER": "INVOICE ID 7861-483",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 951.06  USD",
+      "TAX": "TAX:VAT (3.12%):  29.69 USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mr. David Griffith\n741 Lisa Springs\nPort Annaview, MS 31763 US\nTel:+(671)303-0050\nEmail:christophergay@example.net\nSite:https://www.stephens-grimes.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Jul-2005",
+      "DISCOUNT": "DISCOUNT(4.8%): (-)  19.48",
+      "DUE_DATE": "Due Date : 16-Nov-2016",
+      "NUMBER": "INVOICE ID 3Y8M3d-843",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 405.87  $",
+      "TAX": "TAX:VAT (4.28%):  17.38 $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Chase Monroe\n75647 Lopez Crest\nMorganborough, WV 57146 US\nTel:+(418)898-4290\nEmail:brownrebecca@example.com\nSite:http://www.washington.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 29-May-2014",
+      "DISCOUNT": "DISCOUNT(2.49%): (-)  6.13",
+      "DUE_DATE": "Due Date : 16-Apr-2020",
+      "NUMBER": "INVOICE # INV/24-36/709",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 246.16  USD",
+      "TAX": "TAX:VAT (6.31%):  15.53 USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Susan Gallegos\n012 John Orchard Suite 408\nNguyenmouth, TX 83119 US\nTel:+(989)305-0305\nEmail:waltonpatrick@example.net\nSite:https://ramos-white.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Jul-2008",
+      "DISCOUNT": "DISCOUNT(4.55%): (-)  60.26",
+      "DUE_DATE": "Due Date : 04-Apr-1995",
+      "NUMBER": "Invoice number INV/76-12/468",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1324.49  EUR",
+      "TAX": "TAX:VAT (5.58%):  73.95 EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cassidy Hamilton\n83083 Mccormick Corner\nMatthewland, AZ 10182 US\nTel:+(606)684-9537\nEmail:catherine75@example.com\nSite:https://todd-owens.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Apr-2007",
+      "DISCOUNT": "DISCOUNT(1.6%): (-)  16.31",
+      "DUE_DATE": "Due Date : 29-Sep-1994",
+      "NUMBER": "Invoice number INV/86-86/238",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1019.49  $",
+      "TAX": "TAX:VAT (5.99%):  61.11 $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kayla Thornton\n01090 Amanda Falls Apt. 812\nXaviertown, AS 72660 US\nTel:+(956)322-9757\nEmail:gbell@example.net\nSite:https://santiago.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 07-Feb-1993",
+      "DISCOUNT": "DISCOUNT(4.47%): (-)  19.6",
+      "DUE_DATE": "Due Date : 19-Jan-2021",
+      "NUMBER": "INVOICE # 4901-094",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 438.58  EUR",
+      "TAX": "TAX:VAT (5.44%):  23.87 EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nathaniel Marshall\n8266 Miranda Underpass Suite 033\nWilliamsside, NM 46584 US\nTel:+(099)790-3457\nEmail:lscott@example.org\nSite:https://www.baldwin-thomas.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Jul-1994",
+      "DISCOUNT": "DISCOUNT(2.11%): (-)  9.29",
+      "DUE_DATE": "Due Date : 23-May-2004",
+      "NUMBER": "INVOICE # INV67254217",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 440.38  USD",
+      "TAX": "TAX:VAT (6.68%):  29.41 USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Donald Whitney\n72961 Reed Parkways\nSouth Joanburgh, NM 69309 US\nTel:+(568)570-0940\nEmail:sandra39@example.net\nSite:http://www.perkins-smith.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Jul-2007",
+      "DISCOUNT": "DISCOUNT(3.25%): (-)  25.05",
+      "DUE_DATE": "Due Date : 21-Sep-1994",
+      "NUMBER": "Invoice number 4Y8M6d-902",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 770.63  EUR",
+      "TAX": "TAX:VAT (5.78%):  44.56 EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emma Gonzales\n586 Ashley Cliffs Apt. 547\nEast Joseph, WV 19749 US\nTel:+(011)115-8654\nEmail:elizabethgross@example.net\nSite:http://www.moore.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 27-Dec-2017",
+      "DISCOUNT": "DISCOUNT(2.43%): (-)  18.83",
+      "DUE_DATE": "Due Date : 04-May-1997",
+      "NUMBER": "INVOICE ID INV/36-89/789",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 775.02  EUR",
+      "TAX": "TAX:VAT (3.59%):  27.82 EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Norris\n3984 Bonnie Route Apt. 870\nHannahbury, TN 01013 US\nTel:+(431)438-8864\nEmail:cynthiagray@example.org\nSite:https://www.delgado.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 28-Jun-2020",
+      "DISCOUNT": "DISCOUNT(2.9%): (-)  21.43",
+      "DUE_DATE": "Due Date : 25-May-2003",
+      "NUMBER": "Invoice number INV81189404",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 739.01  EUR",
+      "TAX": "TAX:VAT (6.92%):  51.12 EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diana Bowen\n027 Miller Valleys Apt. 685\nNorth Johnstad, MH 10381 US\nTel:+(115)455-6197\nEmail:hansenpaul@example.net\nSite:https://www.blackwell-spears.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 09-Aug-2018",
+      "DISCOUNT": "DISCOUNT(1.92%): (-)  3.84",
+      "DUE_DATE": "Due Date : 03-Sep-2012",
+      "NUMBER": "INVOICE # 4Y9M6d-005",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 199.93  USD",
+      "TAX": "TAX:VAT (3.19%):  6.37 USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carlos Pham\n375 Kelly Circle\nSouth Dana, NV 27653 US\nTel:+(650)107-8489\nEmail:mollydonovan@example.net\nSite:https://www.hansen.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Jan-2007",
+      "DISCOUNT": "DISCOUNT(4.01%): (-)  21.44",
+      "DUE_DATE": "Due Date : 30-Apr-1994",
+      "NUMBER": "INVOICE ID 6Y3M9d-093",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 534.63  USD",
+      "TAX": "TAX:VAT (3.38%):  18.05 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Margaret Ramirez\n242 Manning Prairie Apt. 258\nZacharyshire, IA 91279 US\nTel:+(551)285-6443\nEmail:jake11@example.org\nSite:http://reynolds.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Mar-2018",
+      "DISCOUNT": "DISCOUNT(2.33%): (-)  14.87",
+      "DUE_DATE": "Due Date : 22-Jan-1995",
+      "NUMBER": "INVOICE # 2921-838",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 638.40  USD",
+      "TAX": "TAX:VAT (6.85%):  43.75 USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Haney\n10878 Elizabeth Trafficway Apt. 949\nEast Stephenton, MH 60862 US\nTel:+(471)490-1765\nEmail:jennifer94@example.org\nSite:https://www.levy.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-May-2020",
+      "DISCOUNT": "DISCOUNT(4.06%): (-)  43.77",
+      "DUE_DATE": "Due Date : 06-Sep-2014",
+      "NUMBER": "Invoice number INV07372777",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1077.96  USD",
+      "TAX": "TAX:VAT (5.42%):  58.41 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Diaz\n951 Harrison Loop Suite 201\nNew Lauren, CT 76058 US\nTel:+(214)760-7310\nEmail:stephensoto@example.net\nSite:http://www.kaufman-chapman.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 16-Jul-1999",
+      "DISCOUNT": "DISCOUNT(3.4%): (-)  8.5",
+      "DUE_DATE": "Due Date : 17-Sep-1998",
+      "NUMBER": "INVOICE # 8Y8M5d-490",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 250.06  USD",
+      "TAX": "TAX:VAT (6.61%):  16.52 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Barbara Harris\n62143 Leslie Turnpike\nLeslieport, LA 21743 US\nTel:+(445)418-8373\nEmail:daniel57@example.net\nSite:https://www.foster.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Sep-1997",
+      "DISCOUNT": "DISCOUNT(1.71%): (-)  5.35",
+      "DUE_DATE": "Due Date : 22-Feb-1995",
+      "NUMBER": "Invoice number 5390-376",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 312.90  $",
+      "TAX": "TAX:VAT (6.11%):  19.11 $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Gonzalez\n4796 Flynn Radial Suite 084\nPerezland, KS 66821 US\nTel:+(775)770-3923\nEmail:rachelperez@example.net\nSite:https://www.walker-nielsen.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Sep-2002",
+      "DISCOUNT": "DISCOUNT(3.58%): (-)  26.8",
+      "DUE_DATE": "Due Date : 24-Oct-1995",
+      "NUMBER": "Invoice number INV85316221",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 748.55  EUR",
+      "TAX": "TAX:VAT (3.36%):  25.17 EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sharon Schultz\n69721 Lee Creek Suite 350\nLisastad, NM 27345 US\nTel:+(566)089-7027\nEmail:juliegonzalez@example.com\nSite:https://www.pugh-jones.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Oct-1996",
+      "DISCOUNT": "DISCOUNT(2.01%): (-)  5.23",
+      "DUE_DATE": "Due Date : 12-Aug-1999",
+      "NUMBER": "INVOICE ID INV11860027",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 260.37  USD",
+      "TAX": "TAX:VAT (6.76%):  17.60 USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Shannon Kim\n73362 David Freeway\nAshleyburgh, AS 07037 US\nTel:+(581)575-7069\nEmail:amyowens@example.org\nSite:http://woodard-sanders.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 17-May-1993",
+      "DISCOUNT": "DISCOUNT(2.79%): (-)  21.85",
+      "DUE_DATE": "Due Date : 26-Mar-2005",
+      "NUMBER": "INVOICE ID 4Y1M9d-541",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 783.28  $",
+      "TAX": "TAX:VAT (5.48%):  42.96 $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Williams\n791 Derrick Shores Apt. 068\nSpencerfort, AK 17420 US\nTel:+(993)060-8948\nEmail:tracy46@example.com\nSite:https://www.hart-rodriguez.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Apr-2008",
+      "DISCOUNT": "DISCOUNT(4.41%): (-)  32.76",
+      "DUE_DATE": "Due Date : 18-Nov-2020",
+      "NUMBER": "INVOICE ID INV87921002",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 742.87  USD",
+      "TAX": "TAX:VAT (4.30%):  31.95 USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Tyler\n10674 Matthews Pass Apt. 653\nAnthonytown, MS 93526 US\nTel:+(238)666-8423\nEmail:stevensonmelanie@example.org\nSite:https://www.stein-harper.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 14-Feb-2013",
+      "DISCOUNT": "DISCOUNT(4.59%): (-)  12.83",
+      "DUE_DATE": "Due Date : 25-May-2007",
+      "NUMBER": "INVOICE ID 5476-783",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 279.55  $",
+      "TAX": "TAX:VAT (5.55%):  15.52 $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Edward Garrison\n739 Christine Crossing Apt. 006\nReedhaven, WV 51595 US\nTel:+(094)823-2864\nEmail:mmartin@example.com\nSite:http://hart.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Apr-2012",
+      "DISCOUNT": "DISCOUNT(4.17%): (-)  25.51",
+      "DUE_DATE": "Due Date : 14-Feb-2018",
+      "NUMBER": "INVOICE # 7Y2M5d-372",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 611.64  EUR",
+      "TAX": "TAX:VAT (6.88%):  42.09 EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tracy Fletcher\n18586 John Plaza Apt. 088\nAdamsburgh, FL 50216 US\nTel:+(576)590-3452\nEmail:krista60@example.net\nSite:http://peters-pierce.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 12-Jan-1996",
+      "DISCOUNT": "DISCOUNT(3.15%): (-)  24.69",
+      "DUE_DATE": "Due Date : 27-Mar-2003",
+      "NUMBER": "INVOICE ID INV/57-28/812",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 783.77  USD",
+      "TAX": "TAX:VAT (3.06%):  23.97 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kendra Leblanc\n511 Travis Ridge\nDavidbury, MN 48044 US\nTel:+(788)628-7929\nEmail:sharonclark@example.com\nSite:http://www.horton.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 18-Jul-2016",
+      "DISCOUNT": "DISCOUNT(1.09%): (-)  1.58",
+      "DUE_DATE": "Due Date : 13-Feb-2002",
+      "NUMBER": "INVOICE # 7939-849",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 145.30  USD",
+      "TAX": "TAX:VAT (3.40%):  4.94 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Smith\n367 George Avenue\nNathanbury, SC 60687 US\nTel:+(281)240-8930\nEmail:daniellehernandez@example.com\nSite:http://lee.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 27-Nov-2014",
+      "DISCOUNT": "DISCOUNT(4.08%): (-)  12.95",
+      "DUE_DATE": "Due Date : 24-Feb-2015",
+      "NUMBER": "Invoice number INV/96-35/446",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 317.41  $",
+      "TAX": "TAX:VAT (3.95%):  12.54 $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Olivia Bryant\n438 Andrews Fort\nBrownton, DC 04664 US\nTel:+(002)136-0618\nEmail:mary73@example.org\nSite:https://www.terry-walsh.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 26-Dec-2017",
+      "DISCOUNT": "DISCOUNT(4.94%): (-)  58.95",
+      "DUE_DATE": "Due Date : 20-Jul-2016",
+      "NUMBER": "INVOICE # 7941-242",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1193.29  EUR",
+      "TAX": "TAX:VAT (3.80%):  45.37 EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Jennings\n759 Cameron Terrace\nNorth Kathy, DC 28945 US\nTel:+(967)386-4594\nEmail:kathryn72@example.org\nSite:https://www.avila.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-Mar-2019",
+      "DISCOUNT": "DISCOUNT(2.91%): (-)  15.21",
+      "DUE_DATE": "Due Date : 14-Apr-2012",
+      "NUMBER": "INVOICE ID INV/16-90/290",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 522.52  USD",
+      "TAX": "TAX:VAT (3.26%):  17.01 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Medina\n4275 Brenda Terrace\nWest Cynthia, MA 08635 US\nTel:+(011)936-6590\nEmail:sellersjohn@example.net\nSite:http://anderson.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Aug-2020",
+      "DISCOUNT": "DISCOUNT(2.83%): (-)  46.22",
+      "DUE_DATE": "Due Date : 07-Aug-1996",
+      "NUMBER": "INVOICE ID 8Y8M8d-709",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1633.34  USD",
+      "TAX": "TAX:VAT (5.02%):  81.97 USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mathew Patel\n22218 Stone Ports\nCatherinetown, OR 41503 US\nTel:+(418)681-7772\nEmail:eramirez@example.com\nSite:http://gomez.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-Jan-2014",
+      "DISCOUNT": "DISCOUNT(4.69%): (-)  19.56",
+      "DUE_DATE": "Due Date : 19-Aug-2017",
+      "NUMBER": "INVOICE ID 2950-561",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 417.06  $",
+      "TAX": "TAX:VAT (4.38%):  18.27 $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Meredith Davis\n2448 Jose Crossing Apt. 058\nHortonview, TX 47094 US\nTel:+(880)629-4461\nEmail:robertfields@example.org\nSite:http://www.howell.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Jan-2001",
+      "DISCOUNT": "DISCOUNT(4.44%): (-)  13.78",
+      "DUE_DATE": "Due Date : 17-Nov-2002",
+      "NUMBER": "INVOICE # 7582-825",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 310.47  USD",
+      "TAX": "TAX:VAT (6.93%):  21.52 USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Douglas Jenkins\n95783 Maurice Crossing Suite 556\nNew Danielleside, PW 98530 US\nTel:+(650)799-2773\nEmail:christopherjohnson@example.org\nSite:http://lloyd-bray.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 14-Jul-2015",
+      "DISCOUNT": "DISCOUNT(2.37%): (-)  24.94",
+      "DUE_DATE": "Due Date : 26-Apr-2022",
+      "NUMBER": "INVOICE ID 6Y7M3d-987",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1052.42  $",
+      "TAX": "TAX:VAT (6.81%):  71.62 $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erin Peterson\n26639 Garza Stream\nWarnerburgh, MD 83134 US\nTel:+(360)574-7239\nEmail:melissa27@example.org\nSite:http://www.brown.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Feb-1999",
+      "DISCOUNT": "DISCOUNT(1.84%): (-)  20.95",
+      "DUE_DATE": "Due Date : 14-Jan-2018",
+      "NUMBER": "INVOICE # 1Y5M9d-698",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1138.53  $",
+      "TAX": "TAX:VAT (6.67%):  75.97 $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Colleen Vance\n3096 Wood Junctions Apt. 859\nNorth Adam, CA 24319 US\nTel:+(632)552-9915\nEmail:schwartzrita@example.org\nSite:http://www.phillips.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Apr-2002",
+      "DISCOUNT": "DISCOUNT(2.63%): (-)  18.37",
+      "DUE_DATE": "Due Date : 06-Sep-2010",
+      "NUMBER": "INVOICE # INV/64-61/340",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 698.43  EUR",
+      "TAX": "TAX:VAT (6.29%):  43.90 EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daisy Gonzalez\n2189 Rangel River\nRebeccaburgh, VA 04629 US\nTel:+(228)435-3697\nEmail:klin@example.net\nSite:https://jones.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 13-Oct-2016",
+      "DISCOUNT": "DISCOUNT(1.29%): (-)  3.83",
+      "DUE_DATE": "Due Date : 15-Dec-2020",
+      "NUMBER": "Invoice number 2060-403",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 296.92  EUR",
+      "TAX": "TAX:VAT (3.64%):  10.81 EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Salas\n0504 Bennett Lane\nGreghaven, AS 19842 US\nTel:+(464)603-4498\nEmail:smithbrooke@example.com\nSite:https://www.costa.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Mar-2009",
+      "DISCOUNT": "DISCOUNT(1.95%): (-)  9.78",
+      "DUE_DATE": "Due Date : 12-Mar-2004",
+      "NUMBER": "Invoice number 6Y3M4d-360",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 501.50  USD",
+      "TAX": "TAX:VAT (6.63%):  33.24 USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lindsey Sanders\n64044 Anderson Locks Suite 137\nNorth Matthewhaven, PW 20613 US\nTel:+(240)108-9860\nEmail:hmaynard@example.org\nSite:https://www.collins.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-Oct-2013",
+      "DISCOUNT": "DISCOUNT(4.19%): (-)  31.8",
+      "DUE_DATE": "Due Date : 29-Mar-2010",
+      "NUMBER": "INVOICE ID 3Y7M4d-033",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 758.86  $",
+      "TAX": "TAX:VAT (6.19%):  46.94 $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Barry Lucas\n3813 Katherine Creek Suite 273\nTravistown, MN 25807 US\nTel:+(209)686-9778\nEmail:johnsonchase@example.net\nSite:http://spears.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-May-2004",
+      "DISCOUNT": "DISCOUNT(3.74%): (-)  33.53",
+      "DUE_DATE": "Due Date : 29-Nov-2008",
+      "NUMBER": "Invoice number INV36652871",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 896.46  $",
+      "TAX": "TAX:VAT (6.11%):  54.80 $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Rodriguez\n84924 Cheyenne Fords Suite 795\nFredville, ME 62755 US\nTel:+(261)721-3417\nEmail:leahberry@example.com\nSite:https://curtis.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 26-Aug-2003",
+      "DISCOUNT": "DISCOUNT(3.03%): (-)  14.42",
+      "DUE_DATE": "Due Date : 08-Dec-2005",
+      "NUMBER": "INVOICE # 4Y1M1d-442",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 475.79  EUR",
+      "TAX": "TAX:VAT (3.19%):  15.19 EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stacey Booth\n35488 Garcia Landing\nNorth Amyfurt, WV 55621 US\nTel:+(390)879-9313\nEmail:rwhitney@example.org\nSite:https://evans-harvey.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 27-Jun-1993",
+      "DISCOUNT": "DISCOUNT(1.07%): (-)  12.61",
+      "DUE_DATE": "Due Date : 15-Mar-1997",
+      "NUMBER": "INVOICE # 3782-811",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1178.79  USD",
+      "TAX": "TAX:VAT (5.06%):  59.66 USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template39_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Gutierrez\n0113 Amy Stream Apt. 374\nShirleyburgh, CO 45962 US\nTel:+(071)651-4275\nEmail:daniel45@example.org\nSite:https://jones.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Nov-2022",
+      "DISCOUNT": "DISCOUNT(2.36%): (-)  7.97",
+      "DUE_DATE": "Due Date : 20-Oct-2002",
+      "NUMBER": "Invoice number 2Y1M9d-560",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:19021 Christopher Estate\nSouth Williammouth, NH 22397 US",
+      "SUB_TOTAL": "SUB_TOTAL : 337.72  EUR",
+      "TAX": "TAX:VAT (4.96%):  16.75 EUR",
+      "TITLE": "INVOICE"
+    }
+  }
+]

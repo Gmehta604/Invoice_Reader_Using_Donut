@@ -1,0 +1,602 @@
+[
+  {
+    "image": "Template45_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Henderson\n1744 Hill Alley Apt. 165\nRhodeshaven, MN 97061 US\nTel:+(595)365-7819\nEmail:preston33@example.net\nSite:http://brown-johnson.com/",
+      "DATE": "Invoice Date: 03-Dec-2009",
+      "NUMBER": "Invoice number 0137-508",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15351539\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 456.31 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Jones\n641 Paul Drive Apt. 123\nSouth Michael, VI 55315 US\nTel:+(893)113-2008\nEmail:nguyentrevor@example.org\nSite:http://gibson-smith.biz/",
+      "DATE": "Date: 12-May-2014",
+      "NUMBER": "Invoice number 2Y7M3d-285",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11274577\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 822.51 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anna Waters\n589 Benson Springs Apt. 890\nNew Davidview, VI 59801 US\nTel:+(139)238-2925\nEmail:connie29@example.com\nSite:http://www.harper-delgado.info/",
+      "DATE": "Invoice Date: 16-Sep-2012",
+      "NUMBER": "Invoice number 4340-007",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14570198\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 415.78 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Derrick Love\n1378 Murray Trace\nBrandymouth, OR 63570 US\nTel:+(345)888-9405\nEmail:abigaillucero@example.net\nSite:http://www.oliver.com/",
+      "DATE": "Date: 31-May-2003",
+      "NUMBER": "INVOICE # 5Y5M7d-546",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19082638\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 147.80 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Pineda\n0661 Stewart Fields Suite 629\nEast Andrew, DC 10194 US\nTel:+(650)221-4347\nEmail:awalton@example.org\nSite:https://www.farmer.biz/",
+      "DATE": "Invoice Date: 31-Jul-2002",
+      "NUMBER": "INVOICE # INV/70-81/778",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10541147\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1110.95 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Daniels\n652 Melissa Freeway Suite 492\nSouth Meganmouth, FM 11058 US\nTel:+(877)001-0750\nEmail:lindaflores@example.com\nSite:http://ray-stevens.net/",
+      "DATE": "Invoice Date: 01-Dec-1998",
+      "NUMBER": "INVOICE # 6230-047",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18788623\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 195.55 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathryn Stevens\n55610 Valdez Forest\nLake Madisontown, GU 59479 US\nTel:+(589)067-9228\nEmail:thomaschristopher@example.net\nSite:http://www.conley-mitchell.net/",
+      "DATE": "Invoice Date: 21-Feb-1993",
+      "NUMBER": "Invoice number INV12240802",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10581321\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 436.51 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Darlene Mckay\n089 Kenneth Road Suite 678\nRobinsonmouth, OH 97985 US\nTel:+(058)435-9796\nEmail:kevincampbell@example.com\nSite:https://www.gentry.org/",
+      "DATE": "Invoice Date: 20-Jan-2003",
+      "NUMBER": "Invoice number 1791-622",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12076029\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 230.30 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Perez\n7566 Raven Inlet Apt. 406\nElliottland, TX 62670 US\nTel:+(249)546-6801\nEmail:nunezanthony@example.net\nSite:https://www.torres.biz/",
+      "DATE": "Date: 10-Feb-2018",
+      "NUMBER": "INVOICE ID INV04502503",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16291380\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 434.14 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sarah Graham\n666 Hopkins Manor Apt. 917\nSouth Sarahtown, MP 53753 US\nTel:+(265)622-5548\nEmail:peterhawkins@example.net\nSite:http://mccormick.com/",
+      "DATE": "Invoice Date: 25-May-1993",
+      "NUMBER": "INVOICE # INV/72-38/328",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15136265\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 875.44 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Calvin Cole\n766 Campos Island\nNguyenborough, NH 31969 US\nTel:+(412)319-3330\nEmail:stevenrobinson@example.com\nSite:http://pratt.com/",
+      "DATE": "Invoice Date: 06-Nov-2015",
+      "NUMBER": "INVOICE ID 6203-620",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16250893\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 388.28 $"
+    }
+  },
+  {
+    "image": "Template45_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robin Smith\n215 Perez Prairie\nJeffreyburgh, ME 61993 US\nTel:+(719)960-0495\nEmail:rturner@example.org\nSite:https://www.miller.com/",
+      "DATE": "Invoice Date: 30-Dec-1997",
+      "NUMBER": "Invoice number 1Y9M3d-324",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15623840\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 495.13 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathryn Gross\n28271 Jacobs Drive Suite 973\nMariamouth, MA 46870 US\nTel:+(536)827-0540\nEmail:nmcdonald@example.org\nSite:http://www.mcpherson-lee.com/",
+      "DATE": "Invoice Date: 16-Jul-2009",
+      "NUMBER": "Invoice number 3Y8M2d-866",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18420409\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 873.41 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Casey Adkins\n51444 Adkins Mill Apt. 571\nNorth Christopherfurt, HI 80296 US\nTel:+(559)463-2121\nEmail:watsonchris@example.com\nSite:https://james-kaiser.org/",
+      "DATE": "Date: 21-Oct-2017",
+      "NUMBER": "INVOICE # INV/45-86/863",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17399049\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 841.11 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Vance\n0048 Franklin Well Apt. 185\nLewisburgh, ID 30974 US\nTel:+(387)437-9084\nEmail:normancindy@example.org\nSite:http://smith-alexander.com/",
+      "DATE": "Invoice Date: 08-Apr-2000",
+      "NUMBER": "INVOICE # 3145-393",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12316177\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 195.57 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Stevens\n93684 White Well Apt. 121\nMcclainchester, AK 15144 US\nTel:+(094)792-5394\nEmail:andrew90@example.net\nSite:https://romero.com/",
+      "DATE": "Invoice Date: 21-Aug-2006",
+      "NUMBER": "INVOICE # 1569-219",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10370364\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 608.72 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jill Mccormick\n44629 Mallory Way Apt. 694\nNorth Melissa, ME 93487 US\nTel:+(438)553-2075\nEmail:andrew18@example.net\nSite:https://valdez-west.biz/",
+      "DATE": "Invoice Date: 16-May-2022",
+      "NUMBER": "INVOICE ID INV11898787",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11589537\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 600.38 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Rios\n993 Jennifer Road\nNew John, AZ 29430 US\nTel:+(774)578-2057\nEmail:richardseric@example.net\nSite:https://www.armstrong.com/",
+      "DATE": "Date: 08-May-2008",
+      "NUMBER": "INVOICE ID INV41855233",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18522214\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1072.96 $"
+    }
+  },
+  {
+    "image": "Template45_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Alexander\n682 Anthony Estates Apt. 320\nWest Holly, OK 17745 US\nTel:+(802)924-1531\nEmail:jonesaustin@example.org\nSite:https://cox-kaiser.biz/",
+      "DATE": "Invoice Date: 14-Dec-1995",
+      "NUMBER": "Invoice number INV10992908",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19491898\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 484.00 $"
+    }
+  },
+  {
+    "image": "Template45_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Shannon Savage\n18716 King Via Apt. 696\nLake Kyle, OH 33538 US\nTel:+(881)577-8136\nEmail:carolynhatfield@example.com\nSite:https://www.olson.org/",
+      "DATE": "Date: 21-Nov-2012",
+      "NUMBER": "INVOICE # 9Y8M6d-973",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16297532\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 747.81 $"
+    }
+  },
+  {
+    "image": "Template45_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sandra Medina\n089 Gonzalez Lodge Apt. 585\nNancyborough, OR 84077 US\nTel:+(662)474-6313\nEmail:samuelmays@example.net\nSite:https://gilbert.com/",
+      "DATE": "Date: 25-Mar-1999",
+      "NUMBER": "Invoice number 5Y9M1d-373",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12438102\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 492.70 $"
+    }
+  },
+  {
+    "image": "Template45_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Todd Rogers\n727 Ward Parkways\nNew Joshuaside, MO 59832 US\nTel:+(245)102-6918\nEmail:uolson@example.net\nSite:https://brown.net/",
+      "DATE": "Invoice Date: 24-Oct-2018",
+      "NUMBER": "INVOICE # INV/49-98/753",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13160304\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 211.23 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Ortiz\n4785 Finley Route Suite 015\nThomasbury, GA 26232 US\nTel:+(308)410-2530\nEmail:vwebster@example.com\nSite:https://www.peters-sanders.com/",
+      "DATE": "Invoice Date: 26-Apr-2022",
+      "NUMBER": "INVOICE # INV63666547",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18153092\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 283.77 $"
+    }
+  },
+  {
+    "image": "Template45_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Carson\n00863 Kirk Mountain\nNew Matthew, PA 81331 US\nTel:+(127)847-3028\nEmail:glenndean@example.net\nSite:https://shields-turner.com/",
+      "DATE": "Date: 09-Aug-2008",
+      "NUMBER": "Invoice number 2443-125",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14154487\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 727.40 $"
+    }
+  },
+  {
+    "image": "Template45_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sharon Mccarthy\n684 Richardson Ramp\nGarzashire, PW 04922 US\nTel:+(952)395-8466\nEmail:jamessmith@example.com\nSite:http://www.reyes.com/",
+      "DATE": "Date: 10-Jun-1994",
+      "NUMBER": "INVOICE # 8751-617",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17045271\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 719.10 $"
+    }
+  },
+  {
+    "image": "Template45_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kyle Marks\n75988 Michael Mount\nEast Rodney, DC 27799 US\nTel:+(786)926-9224\nEmail:johnharris@example.org\nSite:https://jones.com/",
+      "DATE": "Date: 08-Jun-2006",
+      "NUMBER": "INVOICE # 7Y5M2d-474",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14836506\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 496.50 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Linda Maxwell\n5705 Ronnie Lodge\nNew Brandiville, MA 09248 US\nTel:+(047)731-8903\nEmail:mmartinez@example.net\nSite:http://www.davis-fields.info/",
+      "DATE": "Invoice Date: 13-Feb-2010",
+      "NUMBER": "Invoice number 9Y9M5d-646",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16166151\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 956.97 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Kim\n8242 Jones Mall Apt. 123\nEast Seanmouth, CA 08843 US\nTel:+(395)856-1229\nEmail:rodriguezmelissa@example.com\nSite:https://hammond.org/",
+      "DATE": "Date: 04-Mar-1999",
+      "NUMBER": "INVOICE ID 6424-321",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13573724\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 696.96 $"
+    }
+  },
+  {
+    "image": "Template45_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristy Williams\n21900 Kendra Village\nJessicatown, TN 86681 US\nTel:+(715)492-5940\nEmail:thomasrose@example.org\nSite:http://frey.com/",
+      "DATE": "Invoice Date: 02-May-2019",
+      "NUMBER": "Invoice number 6Y4M5d-111",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10068675\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 677.82 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Rhodes\n46952 Christopher Brook Apt. 732\nWest Anthony, PW 05781 US\nTel:+(315)406-8354\nEmail:hernandezdale@example.com\nSite:https://www.davis.com/",
+      "DATE": "Date: 30-Jun-2001",
+      "NUMBER": "INVOICE ID 6Y2M4d-268",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14172750\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 284.44 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Glass\n29168 Roy Key\nEast Joseph, FM 78691 US\nTel:+(831)245-1100\nEmail:melissabenjamin@example.org\nSite:https://www.greene.com/",
+      "DATE": "Date: 04-Nov-2015",
+      "NUMBER": "INVOICE # INV83702850",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11546295\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 540.37 $"
+    }
+  },
+  {
+    "image": "Template45_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Greg Farmer\n173 Fritz Spurs Suite 230\nBurnston, AL 37985 US\nTel:+(275)871-7681\nEmail:daniellebrooks@example.org\nSite:https://freeman.biz/",
+      "DATE": "Invoice Date: 02-Oct-2001",
+      "NUMBER": "Invoice number INV58636856",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10688289\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 780.89 $"
+    }
+  },
+  {
+    "image": "Template45_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Gomez\n3912 Amanda Corners\nLake Chelseashire, MO 05479 US\nTel:+(884)252-1467\nEmail:robert33@example.net\nSite:http://hess.com/",
+      "DATE": "Invoice Date: 14-Jun-1993",
+      "NUMBER": "INVOICE ID 7Y6M2d-053",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16776556\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 853.21 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Aaron Smith\n0973 Washington Vista\nEast Tiffany, AL 31708 US\nTel:+(289)992-3326\nEmail:mwatson@example.com\nSite:https://gonzalez.net/",
+      "DATE": "Invoice Date: 03-Mar-2004",
+      "NUMBER": "INVOICE ID INV64583921",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10058291\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 268.12 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jonathan Boone\n6263 Makayla Knolls\nEast Anna, WV 62150 US\nTel:+(883)480-9794\nEmail:logantucker@example.org\nSite:https://www.marshall-wallace.com/",
+      "DATE": "Invoice Date: 06-Mar-2020",
+      "NUMBER": "Invoice number INV/67-78/490",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17519200\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 98.43 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:George Carter\n2491 Andrea Throughway Suite 147\nKarenborough, PW 44219 US\nTel:+(670)215-2864\nEmail:ronaldcombs@example.com\nSite:http://www.johnson.com/",
+      "DATE": "Date: 02-Apr-2022",
+      "NUMBER": "INVOICE ID 5Y6M1d-688",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13908830\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 169.73 $"
+    }
+  },
+  {
+    "image": "Template45_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joan Roberts\n455 Nicholas Dam Apt. 133\nLake Robin, NH 38541 US\nTel:+(239)627-5049\nEmail:melissa19@example.org\nSite:http://www.lee-russell.info/",
+      "DATE": "Date: 04-Feb-2002",
+      "NUMBER": "Invoice number INV/23-05/125",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18292759\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 598.20 $"
+    }
+  },
+  {
+    "image": "Template45_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kyle Phillips\n1126 Tony Branch\nNew Suzanne, MA 91076 US\nTel:+(991)090-0621\nEmail:jimmy85@example.com\nSite:https://cochran.com/",
+      "DATE": "Invoice Date: 13-Oct-2010",
+      "NUMBER": "Invoice number INV/05-13/244",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  19687791\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 39.97 USD"
+    }
+  },
+  {
+    "image": "Template45_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Edwards\n062 Lane Circle\nTylermouth, ME 81848 US\nTel:+(265)296-4046\nEmail:oyork@example.org\nSite:http://fuller-martinez.biz/",
+      "DATE": "Invoice Date: 26-Apr-1998",
+      "NUMBER": "INVOICE # INV91664839",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10901221\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 678.72 EUR"
+    }
+  },
+  {
+    "image": "Template45_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Mccoy\n3647 Fuller Trail Apt. 879\nMorganton, GA 00797 US\nTel:+(098)691-7369\nEmail:tiffany71@example.net\nSite:http://donovan-perez.com/",
+      "DATE": "Invoice Date: 21-Oct-2005",
+      "NUMBER": "INVOICE ID INV/19-12/246",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16110626\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:07924 Daniel View\nNorth Austinhaven, AK 96663 US",
+      "SELLER_EMAIL": "Email:wilsonadrienne@example.net",
+      "SELLER_NAME": "Patton, Ortiz and Moore",
+      "SELLER_SITE": "www.PattonOrtizandMoore.org",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 136.31 $"
+    }
+  }
+]

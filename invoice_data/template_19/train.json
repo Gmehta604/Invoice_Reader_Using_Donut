@@ -1,0 +1,2082 @@
+[
+  {
+    "image": "Template19_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Collins\n2541 Stacy Road Apt. 369\nNew Miguelville, CT 50191 US\nTel:+(823)646-5522\nEmail:woodsbrandon@example.net\nSite:http://burgess.com/",
+      "DATE": "Date: 29-Dec-1999",
+      "DUE_DATE": "Due Date : 07-Dec-2014",
+      "NUMBER": "Invoice number INV/83-38/745",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Donald Chapman\n31714 Reynolds Fort Suite 401\nNew Theresaton, VA 26498 US\nTel:+(367)192-1828\nEmail:barry87@example.net\nSite:http://www.smith.com/",
+      "DATE": "Date: 17-Aug-2013",
+      "DUE_DATE": "Due Date : 03-Jul-2014",
+      "NUMBER": "INVOICE ID INV69050627",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Johnathan Owens\n09069 Cook Avenue Suite 641\nSouth Shawn, SC 70739 US\nTel:+(609)218-1017\nEmail:johngrimes@example.com\nSite:https://carey.info/",
+      "DATE": "Date: 17-Dec-2011",
+      "DUE_DATE": "Due Date : 30-Oct-2012",
+      "NUMBER": "INVOICE ID 5583-049",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Darius Perez\n49373 Sean Fields Suite 764\nSouth Dawnville, VA 99148 US\nTel:+(881)712-0263\nEmail:mallory03@example.org\nSite:http://www.bautista.net/",
+      "DATE": "Invoice Date: 29-Feb-1996",
+      "DUE_DATE": "Due Date : 01-Jul-2018",
+      "NUMBER": "Invoice number 8879-904",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Welch\n8917 Justin Club\nWest Lisaton, ND 04070 US\nTel:+(748)695-5638\nEmail:proman@example.org\nSite:https://dickerson.com/",
+      "DATE": "Invoice Date: 19-Feb-2020",
+      "DUE_DATE": "Due Date : 05-Apr-2003",
+      "NUMBER": "INVOICE # 6523-110",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melinda Hernandez\n087 William Run\nSouth Marcbury, GU 51852 US\nTel:+(401)400-4960\nEmail:johnsondebra@example.net\nSite:https://www.schroeder.org/",
+      "DATE": "Date: 27-Apr-1999",
+      "DUE_DATE": "Due Date : 30-Sep-2008",
+      "NUMBER": "INVOICE ID 5080-077",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Danielle Anderson\n0720 English Vista Suite 471\nMarcside, CT 14658 US\nTel:+(933)193-1124\nEmail:oclark@example.com\nSite:https://garcia.com/",
+      "DATE": "Date: 25-May-2004",
+      "DUE_DATE": "Due Date : 23-Oct-2018",
+      "NUMBER": "INVOICE ID 7772-706",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jordan Weiss\n772 Franklin Isle Apt. 487\nNew Rachelfurt, GA 61530 US\nTel:+(986)221-6698\nEmail:gaywilliam@example.org\nSite:http://www.fisher-patrick.com/",
+      "DATE": "Date: 16-Mar-1993",
+      "DUE_DATE": "Due Date : 16-Apr-2002",
+      "NUMBER": "INVOICE # 7Y8M3d-695",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cathy Moore\n2967 Torres Green\nEast Heather, NJ 76958 US\nTel:+(812)373-4351\nEmail:kmorrison@example.net\nSite:http://flores-thompson.info/",
+      "DATE": "Invoice Date: 02-May-2020",
+      "DUE_DATE": "Due Date : 13-Nov-2000",
+      "NUMBER": "Invoice number 6Y7M4d-843",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance170.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Ballard\n090 Baldwin Lights\nNorth Chadberg, CA 06741 US\nTel:+(517)352-1351\nEmail:timothyshannon@example.net\nSite:https://www.price.biz/",
+      "DATE": "Date: 15-Oct-1997",
+      "DUE_DATE": "Due Date : 11-Feb-2017",
+      "NUMBER": "Invoice number 5012-144",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Garcia\n283 Douglas Wells\nBrownton, WA 06017 US\nTel:+(555)895-4406\nEmail:pschmidt@example.org\nSite:https://www.morris.com/",
+      "DATE": "Invoice Date: 02-Sep-2008",
+      "DUE_DATE": "Due Date : 18-Sep-1998",
+      "NUMBER": "Invoice number INV39739480",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachael Adkins\n7520 Lisa Prairie\nJohnsonfurt, UT 48271 US\nTel:+(298)034-0062\nEmail:freychristopher@example.org\nSite:http://www.salas.com/",
+      "DATE": "Date: 14-Mar-2020",
+      "DUE_DATE": "Due Date : 18-Apr-1999",
+      "NUMBER": "INVOICE # 4433-372",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Campbell\n4497 Luis Unions Suite 128\nNorth Kimberly, PR 51405 US\nTel:+(765)096-5384\nEmail:laustin@example.org\nSite:https://brown.com/",
+      "DATE": "Invoice Date: 01-Sep-2013",
+      "DUE_DATE": "Due Date : 07-Oct-2018",
+      "NUMBER": "INVOICE # INV06660668",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cynthia Phillips\n49716 Vega Gardens Suite 257\nJamesberg, IN 27386 US\nTel:+(433)412-1127\nEmail:saragray@example.org\nSite:https://west.biz/",
+      "DATE": "Date: 19-Jun-2012",
+      "DUE_DATE": "Due Date : 13-Dec-2000",
+      "NUMBER": "INVOICE # 8287-236",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Faith Dixon\n298 Long Corner Apt. 269\nFowlerstad, ME 30508 US\nTel:+(532)806-8584\nEmail:henrysamantha@example.org\nSite:http://diaz.com/",
+      "DATE": "Date: 28-Mar-1994",
+      "DUE_DATE": "Due Date : 15-Sep-2018",
+      "NUMBER": "INVOICE # 2Y7M5d-694",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eddie Davis\n0156 Lawrence Harbor Apt. 138\nWheelerfurt, FL 97522 US\nTel:+(916)480-3234\nEmail:yshelton@example.org\nSite:https://fox.com/",
+      "DATE": "Invoice Date: 13-Feb-1997",
+      "DUE_DATE": "Due Date : 18-Sep-2000",
+      "NUMBER": "INVOICE ID 7Y3M2d-945",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Adams\n224 Hall Shore Apt. 464\nNathanland, AS 34105 US\nTel:+(945)900-6533\nEmail:kylegibson@example.net\nSite:https://www.turner-walters.com/",
+      "DATE": "Invoice Date: 01-Aug-1993",
+      "DUE_DATE": "Due Date : 17-May-2019",
+      "NUMBER": "INVOICE # 1Y4M4d-609",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Cook\n845 Beverly Roads\nDanielview, CT 80931 US\nTel:+(760)807-4849\nEmail:vgreen@example.net\nSite:http://stout-brown.com/",
+      "DATE": "Invoice Date: 03-Feb-2011",
+      "DUE_DATE": "Due Date : 02-Dec-2019",
+      "NUMBER": "Invoice number 8413-507",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexandra Phillips\n046 Brandy Mountain\nBrandonport, PA 12290 US\nTel:+(602)020-8086\nEmail:kristina47@example.org\nSite:http://martinez-hill.com/",
+      "DATE": "Invoice Date: 05-Jun-2008",
+      "DUE_DATE": "Due Date : 29-May-1999",
+      "NUMBER": "Invoice number INV/13-00/540",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Steele\n279 Douglas Mountain\nEwingshire, IL 56537 US\nTel:+(358)426-0012\nEmail:emeza@example.com\nSite:http://erickson.com/",
+      "DATE": "Invoice Date: 14-Aug-1994",
+      "DUE_DATE": "Due Date : 22-Feb-2002",
+      "NUMBER": "Invoice number INV/38-78/997",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Angel Vargas\n075 Shelley Fords Suite 248\nEast Sherri, VI 17430 US\nTel:+(182)964-9310\nEmail:serranokristin@example.org\nSite:https://james.com/",
+      "DATE": "Date: 17-May-2018",
+      "DUE_DATE": "Due Date : 05-Oct-2012",
+      "NUMBER": "INVOICE ID INV79885957",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Natasha Welch\n782 Davis Turnpike Suite 234\nLake Jason, WV 74475 US\nTel:+(241)241-2710\nEmail:edwardreynolds@example.org\nSite:http://www.hunt.com/",
+      "DATE": "Date: 04-Aug-2003",
+      "DUE_DATE": "Due Date : 18-Aug-1997",
+      "NUMBER": "INVOICE # INV/41-66/001",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Rose\n793 Todd Pike\nKathleenstad, DC 94267 US\nTel:+(259)954-2717\nEmail:stevenclark@example.com\nSite:https://www.padilla-olson.com/",
+      "DATE": "Date: 28-Jul-2004",
+      "DUE_DATE": "Due Date : 05-Jun-2012",
+      "NUMBER": "Invoice number 6Y6M9d-995",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Megan Spencer\n837 Morales Burg Apt. 029\nWellsfort, PW 07653 US\nTel:+(546)639-2237\nEmail:acastillo@example.org\nSite:https://www.adams.com/",
+      "DATE": "Date: 17-Oct-2001",
+      "DUE_DATE": "Due Date : 30-Nov-2012",
+      "NUMBER": "INVOICE # INV36930459",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Larry Freeman\n19357 Powell Coves\nZacharyport, AS 73759 US\nTel:+(395)081-6309\nEmail:imedina@example.net\nSite:http://bryant-yoder.com/",
+      "DATE": "Invoice Date: 09-Nov-1994",
+      "DUE_DATE": "Due Date : 03-Dec-2011",
+      "NUMBER": "INVOICE ID INV66312948",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Miss Misty Steele\n14291 Wyatt Squares\nNorth Jameschester, VA 74329 US\nTel:+(878)449-1743\nEmail:xevans@example.org\nSite:https://www.hubbard.org/",
+      "DATE": "Invoice Date: 03-May-1998",
+      "DUE_DATE": "Due Date : 06-Sep-2021",
+      "NUMBER": "INVOICE # INV/94-98/101",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Anthony\n404 Caitlin Keys\nNew Brandonland, RI 23013 US\nTel:+(821)294-2073\nEmail:myerskathryn@example.org\nSite:http://www.obrien-mendoza.com/",
+      "DATE": "Invoice Date: 03-Feb-1997",
+      "DUE_DATE": "Due Date : 13-Dec-2018",
+      "NUMBER": "Invoice number 5271-138",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexis Durham\n983 Eric Viaduct Apt. 232\nHarringtonshire, KS 80897 US\nTel:+(897)439-0637\nEmail:danielperez@example.org\nSite:http://www.hendricks.com/",
+      "DATE": "Invoice Date: 23-Aug-2001",
+      "DUE_DATE": "Due Date : 06-Apr-1994",
+      "NUMBER": "INVOICE ID 3946-438",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nathan Reed\n97516 Scott Run\nBlakebury, OH 15086 US\nTel:+(858)833-9979\nEmail:rosariojustin@example.com\nSite:http://www.dalton.com/",
+      "DATE": "Date: 18-Jul-1994",
+      "DUE_DATE": "Due Date : 28-Oct-2021",
+      "NUMBER": "INVOICE # INV/74-41/221",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Flores\n05287 Garcia Throughway Suite 099\nEast Lucas, MN 87815 US\nTel:+(252)057-5463\nEmail:williamshannah@example.org\nSite:http://www.alexander-williams.com/",
+      "DATE": "Invoice Date: 30-Apr-2012",
+      "DUE_DATE": "Due Date : 01-May-1997",
+      "NUMBER": "Invoice number 1Y6M6d-272",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Hodges\n345 Nicholas Islands Apt. 104\nEast Christopher, NY 17468 US\nTel:+(593)386-9457\nEmail:joann55@example.com\nSite:http://www.wilson.com/",
+      "DATE": "Invoice Date: 11-Jun-2007",
+      "DUE_DATE": "Due Date : 21-Oct-2021",
+      "NUMBER": "Invoice number 3Y8M8d-943",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremy Ross\n8613 Hartman Manors Apt. 839\nNew Fernando, VT 23568 US\nTel:+(807)429-3525\nEmail:greenchristopher@example.com\nSite:https://www.baird.com/",
+      "DATE": "Date: 28-Feb-2018",
+      "DUE_DATE": "Due Date : 16-Jan-2014",
+      "NUMBER": "INVOICE ID INV/36-87/998",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tara Martinez\n185 Cox Bridge Suite 460\nPort Carlberg, WA 84368 US\nTel:+(917)447-5932\nEmail:elizabethhoward@example.org\nSite:http://simmons-reyes.biz/",
+      "DATE": "Invoice Date: 29-Nov-1994",
+      "DUE_DATE": "Due Date : 21-Nov-2013",
+      "NUMBER": "INVOICE # INV/71-50/581",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joy Gomez\n7816 King Plains\nBurtonview, DE 58167 US\nTel:+(334)450-3702\nEmail:morgangentry@example.net\nSite:http://www.montgomery.com/",
+      "DATE": "Invoice Date: 06-Feb-2021",
+      "DUE_DATE": "Due Date : 24-Oct-2021",
+      "NUMBER": "INVOICE # INV76382203",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dakota Abbott MD\n4152 Lisa Valleys Apt. 037\nEast Sheriton, NV 90424 US\nTel:+(083)978-1385\nEmail:bethany64@example.org\nSite:https://mitchell-bowen.com/",
+      "DATE": "Invoice Date: 12-Jun-2018",
+      "DUE_DATE": "Due Date : 31-Mar-2010",
+      "NUMBER": "INVOICE # 5Y4M5d-370",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joel Hunter\n45776 Flores Tunnel\nSandersbury, IA 11856 US\nTel:+(426)276-5876\nEmail:melissa61@example.com\nSite:https://mclean.com/",
+      "DATE": "Date: 05-Oct-2000",
+      "DUE_DATE": "Due Date : 28-Sep-1995",
+      "NUMBER": "INVOICE # 7445-747",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Martin\n25541 Eduardo Well Apt. 400\nDaltonberg, VT 72865 US\nTel:+(541)903-1246\nEmail:kvillegas@example.com\nSite:https://williams.net/",
+      "DATE": "Date: 30-Nov-1997",
+      "DUE_DATE": "Due Date : 01-Feb-2021",
+      "NUMBER": "INVOICE # 6134-058",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Miranda Perez\n26100 Sherman Land Suite 236\nNorth Kristenborough, IN 88446 US\nTel:+(822)253-4443\nEmail:ayork@example.org\nSite:http://www.mullen.net/",
+      "DATE": "Date: 12-Dec-2013",
+      "DUE_DATE": "Due Date : 04-Jan-2003",
+      "NUMBER": "INVOICE ID 2612-460",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tiffany Johnson\n041 Brandon Tunnel\nGrayshire, MD 04147 US\nTel:+(668)238-5554\nEmail:robertstewart@example.org\nSite:https://www.hart-zhang.com/",
+      "DATE": "Date: 18-Jul-2015",
+      "DUE_DATE": "Due Date : 07-Apr-1996",
+      "NUMBER": "INVOICE ID 6462-571",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alec Hernandez\n642 Long Harbors\nLake Susan, DE 99708 US\nTel:+(268)094-5434\nEmail:zsmith@example.org\nSite:https://alvarez-brown.biz/",
+      "DATE": "Date: 13-Aug-1993",
+      "DUE_DATE": "Due Date : 09-Jan-2003",
+      "NUMBER": "INVOICE # 2528-595",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Browning\n2046 Kelsey Cape\nRodriguezton, OH 15635 US\nTel:+(792)295-9695\nEmail:joseph19@example.com\nSite:http://www.harrison.biz/",
+      "DATE": "Invoice Date: 22-Mar-2009",
+      "DUE_DATE": "Due Date : 06-Jul-2004",
+      "NUMBER": "INVOICE ID 3Y7M7d-793",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Crawford\n019 Hansen Mountains\nNorth Richardside, TX 84765 US\nTel:+(398)328-4108\nEmail:hamptonkristopher@example.org\nSite:https://mitchell.info/",
+      "DATE": "Date: 01-Oct-2003",
+      "DUE_DATE": "Due Date : 21-Jul-2002",
+      "NUMBER": "INVOICE # 4Y1M3d-504",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nathaniel Bell\n2924 Amy Valley Apt. 554\nButlerchester, KY 12061 US\nTel:+(626)903-3985\nEmail:suareztimothy@example.com\nSite:https://www.powell.com/",
+      "DATE": "Date: 11-Oct-2021",
+      "DUE_DATE": "Due Date : 25-Dec-1993",
+      "NUMBER": "Invoice number 3403-344",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Madison Moses\n667 Brown Ridges\nFigueroastad, MN 45198 US\nTel:+(771)821-9367\nEmail:jenniferwise@example.net\nSite:https://woodard-price.com/",
+      "DATE": "Date: 03-May-2001",
+      "DUE_DATE": "Due Date : 20-Sep-2010",
+      "NUMBER": "INVOICE ID INV55397606",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Yvonne Oconnor\n79529 Sims Stream\nMitchellfurt, ND 02428 US\nTel:+(970)481-3182\nEmail:christopherward@example.org\nSite:http://walker.info/",
+      "DATE": "Invoice Date: 20-Aug-2006",
+      "DUE_DATE": "Due Date : 10-Sep-2017",
+      "NUMBER": "INVOICE # 5Y5M4d-684",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dana Ryan\n271 Smith Field Apt. 165\nBurnsburgh, LA 57627 US\nTel:+(329)880-9227\nEmail:paulburns@example.org\nSite:http://www.morris.com/",
+      "DATE": "Date: 30-Jul-2005",
+      "DUE_DATE": "Due Date : 04-Sep-2021",
+      "NUMBER": "INVOICE ID 0813-213",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Danielle Craig\n9697 Jennifer Mountain Suite 529\nEast Tracymouth, ME 53486 US\nTel:+(989)380-0956\nEmail:gary23@example.net\nSite:https://rhodes-glass.com/",
+      "DATE": "Invoice Date: 04-Nov-2019",
+      "DUE_DATE": "Due Date : 18-Sep-2006",
+      "NUMBER": "Invoice number 9Y1M9d-717",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tyrone Sullivan\n489 Frederick Circle\nHowardtown, HI 39200 US\nTel:+(352)052-8235\nEmail:james25@example.com\nSite:http://barnett-pham.net/",
+      "DATE": "Invoice Date: 16-Dec-2012",
+      "DUE_DATE": "Due Date : 28-Nov-2021",
+      "NUMBER": "Invoice number INV50659560",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacob Gonzalez\n0154 Christopher Ford\nWest Richard, MT 39195 US\nTel:+(424)238-4621\nEmail:ereynolds@example.org\nSite:http://www.francis-cooley.info/",
+      "DATE": "Date: 01-Oct-2004",
+      "DUE_DATE": "Due Date : 14-Apr-2001",
+      "NUMBER": "Invoice number INV02070454",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Nelson\n595 Vazquez Hills Suite 511\nNew Taraland, IN 96598 US\nTel:+(887)280-1365\nEmail:vtapia@example.org\nSite:http://adams-lee.com/",
+      "DATE": "Invoice Date: 04-Dec-2021",
+      "DUE_DATE": "Due Date : 09-Apr-2004",
+      "NUMBER": "INVOICE ID 6216-328",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stacey Smith\n551 Claire Club\nLake Julie, DE 04851 US\nTel:+(219)747-4270\nEmail:hernandezsharon@example.com\nSite:https://www.jordan.com/",
+      "DATE": "Invoice Date: 10-Mar-2011",
+      "DUE_DATE": "Due Date : 21-Sep-2000",
+      "NUMBER": "INVOICE ID 4Y6M3d-384",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Douglas\n00354 Banks Cliff Apt. 858\nWest Zacharyville, VT 06383 US\nTel:+(346)112-4686\nEmail:summersisabella@example.org\nSite:http://wilson.com/",
+      "DATE": "Date: 27-Jun-1999",
+      "DUE_DATE": "Due Date : 24-Apr-1997",
+      "NUMBER": "Invoice number INV64407835",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Monica Brown\n804 Audrey Green Apt. 718\nNorth Melissa, NH 62109 US\nTel:+(110)041-2921\nEmail:jeffreyhunt@example.com\nSite:http://wright.com/",
+      "DATE": "Date: 15-Feb-1998",
+      "DUE_DATE": "Due Date : 04-Mar-1997",
+      "NUMBER": "Invoice number 4Y6M6d-575",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Peter Whitehead\n197 Craig Islands Apt. 421\nSouth Paul, NH 86041 US\nTel:+(966)971-3660\nEmail:mariaharrington@example.org\nSite:http://bell-smith.com/",
+      "DATE": "Invoice Date: 03-Oct-2017",
+      "DUE_DATE": "Due Date : 20-Feb-2017",
+      "NUMBER": "INVOICE # INV/71-25/333",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Townsend\n709 Kelly Camp\nMunozshire, MP 36977 US\nTel:+(683)183-5381\nEmail:jared12@example.org\nSite:http://www.richards.com/",
+      "DATE": "Date: 28-Feb-2016",
+      "DUE_DATE": "Due Date : 14-Oct-1995",
+      "NUMBER": "INVOICE # 9950-777",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Figueroa\n0583 Martin Road Suite 849\nWattsmouth, OR 80909 US\nTel:+(865)371-5105\nEmail:vjohnson@example.net\nSite:https://lowe.com/",
+      "DATE": "Invoice Date: 12-Jul-2006",
+      "DUE_DATE": "Due Date : 09-Jan-2003",
+      "NUMBER": "Invoice number INV/79-09/178",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rebecca Santos\n9607 Short Street\nBurnsville, OK 99195 US\nTel:+(952)580-9323\nEmail:kevin73@example.com\nSite:https://johnson.com/",
+      "DATE": "Date: 10-May-2006",
+      "DUE_DATE": "Due Date : 19-Apr-2004",
+      "NUMBER": "INVOICE # 2Y6M2d-763",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Harrington\n35994 Michael Plaza Suite 532\nEast Johnmouth, FM 75767 US\nTel:+(685)604-9223\nEmail:tamara46@example.com\nSite:http://osborne.info/",
+      "DATE": "Invoice Date: 31-Mar-2011",
+      "DUE_DATE": "Due Date : 22-Feb-2005",
+      "NUMBER": "INVOICE # 1Y2M2d-016",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacob Morales\n8133 Raymond Orchard\nNorth Ashley, MO 39593 US\nTel:+(157)702-2390\nEmail:julie11@example.net\nSite:http://www.shaw-scott.com/",
+      "DATE": "Invoice Date: 26-Dec-2006",
+      "DUE_DATE": "Due Date : 09-Jun-2005",
+      "NUMBER": "INVOICE # INV/57-82/957",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jessica Owens\n10887 Stevenson Points\nAlexanderborough, CA 27396 US\nTel:+(555)356-7419\nEmail:annhouston@example.org\nSite:http://www.fernandez-porter.com/",
+      "DATE": "Date: 25-Apr-1993",
+      "DUE_DATE": "Due Date : 09-May-1994",
+      "NUMBER": "INVOICE ID INV/67-46/397",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Schwartz\n826 Rodriguez Burgs\nNew Wendytown, AZ 98793 US\nTel:+(432)302-2440\nEmail:alyssa80@example.org\nSite:http://jordan-munoz.com/",
+      "DATE": "Date: 03-May-1993",
+      "DUE_DATE": "Due Date : 22-May-2010",
+      "NUMBER": "INVOICE # INV56094521",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Johnson\n44041 Ellis Causeway Apt. 318\nMcgrathhaven, NH 21644 US\nTel:+(889)171-0950\nEmail:delgadotina@example.net\nSite:http://www.mcfarland-barnes.com/",
+      "DATE": "Invoice Date: 19-Sep-2020",
+      "DUE_DATE": "Due Date : 26-Jun-2010",
+      "NUMBER": "INVOICE # INV90976385",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Carter\n0880 Brewer Parks Apt. 063\nLake Dianehaven, TX 82185 US\nTel:+(507)808-4724\nEmail:allenrobinson@example.net\nSite:http://carter.com/",
+      "DATE": "Invoice Date: 25-Jun-1995",
+      "DUE_DATE": "Due Date : 11-Jul-2020",
+      "NUMBER": "Invoice number INV/31-43/938",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joshua Ward\n9472 Carter Springs Apt. 269\nGraceberg, CA 77345 US\nTel:+(033)007-0933\nEmail:andrearodriguez@example.org\nSite:https://www.arellano.biz/",
+      "DATE": "Date: 18-Sep-2017",
+      "DUE_DATE": "Due Date : 16-Feb-2005",
+      "NUMBER": "INVOICE # INV43889910",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Anderson\n8670 Tiffany Green Apt. 855\nSouth Jackmouth, WI 72484 US\nTel:+(380)061-7707\nEmail:garciakristin@example.com\nSite:https://tyler.com/",
+      "DATE": "Invoice Date: 03-Mar-2001",
+      "DUE_DATE": "Due Date : 24-Sep-2000",
+      "NUMBER": "INVOICE # 7899-808",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Oliver\n8047 Kyle Shoal Suite 505\nNew Bryanshire, MP 98882 US\nTel:+(557)317-6691\nEmail:raven54@example.com\nSite:http://www.murphy-campbell.info/",
+      "DATE": "Date: 12-Apr-2005",
+      "DUE_DATE": "Due Date : 22-May-1996",
+      "NUMBER": "INVOICE ID 1Y4M8d-861",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Krista Miller\n889 Rachel Villages Suite 471\nCynthiachester, ID 36317 US\nTel:+(764)779-8780\nEmail:jason64@example.org\nSite:https://coleman-hancock.info/",
+      "DATE": "Invoice Date: 09-Nov-2016",
+      "DUE_DATE": "Due Date : 28-Dec-2008",
+      "NUMBER": "Invoice number 9590-981",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Donna Mclean\n14682 Kyle Grove Suite 485\nLake Amberburgh, VT 59412 US\nTel:+(161)500-1157\nEmail:evansdanielle@example.net\nSite:https://www.simon.com/",
+      "DATE": "Date: 08-Oct-2022",
+      "DUE_DATE": "Due Date : 17-Jan-2015",
+      "NUMBER": "Invoice number 8Y2M9d-227",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tracy Brooks\n51495 Frances Parkways Suite 562\nEast Brian, GA 64280 US\nTel:+(940)203-4111\nEmail:tarahamilton@example.net\nSite:https://perkins-harris.com/",
+      "DATE": "Invoice Date: 24-May-2020",
+      "DUE_DATE": "Due Date : 28-Jul-1996",
+      "NUMBER": "INVOICE ID 1Y9M2d-389",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Johnson\n665 Joshua Village Suite 651\nNorth Arthur, SD 40511 US\nTel:+(886)385-8924\nEmail:lucasfrey@example.com\nSite:https://www.lopez.biz/",
+      "DATE": "Invoice Date: 21-Dec-2018",
+      "DUE_DATE": "Due Date : 04-Aug-2020",
+      "NUMBER": "INVOICE ID INV92859077",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Scott\n9874 Kirk Pass Apt. 150\nPort Brandon, TX 89728 US\nTel:+(650)037-9222\nEmail:ellisjames@example.org\nSite:http://www.ramos.biz/",
+      "DATE": "Invoice Date: 24-Sep-1994",
+      "DUE_DATE": "Due Date : 08-Mar-2000",
+      "NUMBER": "INVOICE # 5690-621",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Julie Ruiz\n4610 Kim Locks\nBrucehaven, CT 76133 US\nTel:+(870)292-8499\nEmail:rossalex@example.com\nSite:http://mitchell-knox.info/",
+      "DATE": "Invoice Date: 02-Apr-2013",
+      "DUE_DATE": "Due Date : 01-Sep-2018",
+      "NUMBER": "INVOICE # 0004-435",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Haynes\n67068 Hansen Prairie Apt. 790\nCourtneyland, MO 56508 US\nTel:+(170)789-0218\nEmail:usingh@example.net\nSite:https://www.williams.info/",
+      "DATE": "Invoice Date: 15-Jan-2009",
+      "DUE_DATE": "Due Date : 24-Feb-2009",
+      "NUMBER": "INVOICE ID INV16539136",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mrs. Amanda Owen\n02739 Miller Locks\nLindaview, NM 33233 US\nTel:+(622)789-2811\nEmail:fordstephanie@example.net\nSite:http://martin.com/",
+      "DATE": "Invoice Date: 16-Nov-2000",
+      "DUE_DATE": "Due Date : 23-Mar-1993",
+      "NUMBER": "INVOICE # INV08517454",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Fowler\n3291 Johnson Stream\nGibsonborough, IA 73162 US\nTel:+(346)127-1653\nEmail:laurawyatt@example.com\nSite:https://www.weaver.org/",
+      "DATE": "Invoice Date: 26-Feb-2013",
+      "DUE_DATE": "Due Date : 13-Oct-2020",
+      "NUMBER": "INVOICE # INV/22-04/141",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tiffany Wagner\n41153 Natasha Loaf Suite 464\nSouth Courtney, AZ 79124 US\nTel:+(046)510-9835\nEmail:jvillanueva@example.com\nSite:http://santiago.com/",
+      "DATE": "Date: 20-May-2010",
+      "DUE_DATE": "Due Date : 17-Aug-2007",
+      "NUMBER": "Invoice number INV77870152",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicholas Perez\n3768 David Plains Suite 477\nWest Anthony, IN 95419 US\nTel:+(424)260-8019\nEmail:christopher22@example.net\nSite:https://www.gilmore-miller.com/",
+      "DATE": "Invoice Date: 20-Jan-1999",
+      "DUE_DATE": "Due Date : 05-May-2021",
+      "NUMBER": "Invoice number 7Y5M2d-235",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Colton Long\n21627 Kristina Coves Suite 225\nPort Jennifer, DE 61115 US\nTel:+(313)162-8851\nEmail:leefred@example.com\nSite:https://www.mccall.biz/",
+      "DATE": "Invoice Date: 05-Nov-2007",
+      "DUE_DATE": "Due Date : 09-Oct-2021",
+      "NUMBER": "INVOICE ID 6Y5M9d-513",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Rodriguez\n370 Bolton Haven\nLake George, MA 23541 US\nTel:+(249)898-7109\nEmail:rachelbaird@example.org\nSite:https://www.rogers.com/",
+      "DATE": "Date: 09-Jan-2018",
+      "DUE_DATE": "Due Date : 18-Aug-1995",
+      "NUMBER": "Invoice number 4544-656",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alyssa Howard\n1034 Karen Gateway\nLake Jackieview, IA 62954 US\nTel:+(284)805-7857\nEmail:mark58@example.net\nSite:https://www.glass.com/",
+      "DATE": "Invoice Date: 03-Dec-2022",
+      "DUE_DATE": "Due Date : 16-Jan-1994",
+      "NUMBER": "INVOICE ID 2Y4M3d-880",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Greene\n92977 Melinda Plaza Suite 901\nNew Daniel, CT 24943 US\nTel:+(026)986-7431\nEmail:ocochran@example.org\nSite:http://www.wright-simon.com/",
+      "DATE": "Date: 09-Apr-2001",
+      "DUE_DATE": "Due Date : 06-Jan-2016",
+      "NUMBER": "Invoice number 5591-564",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carlos Walsh\n3694 Erin Square Suite 361\nNew Heather, MP 71417 US\nTel:+(785)804-5745\nEmail:diazmichael@example.org\nSite:http://www.gutierrez-nelson.com/",
+      "DATE": "Date: 13-Jun-1994",
+      "DUE_DATE": "Due Date : 06-Mar-2014",
+      "NUMBER": "INVOICE ID INV/82-93/753",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Hernandez\n961 Lopez Shores Suite 647\nSouth Victoriaborough, LA 80330 US\nTel:+(184)304-8300\nEmail:michelleboyd@example.net\nSite:https://sherman.com/",
+      "DATE": "Invoice Date: 17-Oct-2008",
+      "DUE_DATE": "Due Date : 24-Dec-2004",
+      "NUMBER": "Invoice number 7Y3M9d-542",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Thomas Singleton\n4807 Stacy Vista\nLake Robertside, CO 29141 US\nTel:+(439)123-0496\nEmail:craigjose@example.org\nSite:https://www.morton-hurst.info/",
+      "DATE": "Date: 15-Dec-2018",
+      "DUE_DATE": "Due Date : 04-Apr-2022",
+      "NUMBER": "INVOICE ID 2Y1M8d-177",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Charles Wells\n721 Christopher Land\nDodsonborough, SD 02358 US\nTel:+(381)820-5982\nEmail:natashaboyd@example.com\nSite:http://www.butler.com/",
+      "DATE": "Date: 30-May-2001",
+      "DUE_DATE": "Due Date : 15-Jun-2001",
+      "NUMBER": "INVOICE # 4Y1M7d-347",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joshua Gibbs\n541 Morgan Views\nMoorebury, FM 11095 US\nTel:+(976)608-5871\nEmail:ohaas@example.org\nSite:http://www.hansen.com/",
+      "DATE": "Date: 27-May-2021",
+      "DUE_DATE": "Due Date : 23-Aug-2007",
+      "NUMBER": "INVOICE ID 9591-898",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eduardo Frost\n517 Mallory Manor\nSouth Tara, SC 70620 US\nTel:+(413)424-1201\nEmail:laura51@example.com\nSite:http://www.gamble.com/",
+      "DATE": "Invoice Date: 27-Apr-2007",
+      "DUE_DATE": "Due Date : 12-Dec-2013",
+      "NUMBER": "Invoice number INV/23-02/169",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Margaret Flores\n74838 Smith Pines\nEast Mariah, DE 11741 US\nTel:+(798)014-6137\nEmail:sabrina92@example.org\nSite:https://young.com/",
+      "DATE": "Date: 29-Sep-2012",
+      "DUE_DATE": "Due Date : 04-Apr-2003",
+      "NUMBER": "Invoice number 5Y4M9d-284",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Raymond Sims\n662 Barnett Streets\nAmandahaven, IA 57946 US\nTel:+(992)710-8792\nEmail:navarrotimothy@example.org\nSite:http://www.carroll-coleman.com/",
+      "DATE": "Invoice Date: 18-May-2011",
+      "DUE_DATE": "Due Date : 27-Jun-1998",
+      "NUMBER": "Invoice number INV45349600",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Adam Wilkins\n74507 Turner Forks\nNorth Reginaside, PR 31216 US\nTel:+(762)492-8340\nEmail:jameshickman@example.net\nSite:https://chapman.info/",
+      "DATE": "Invoice Date: 24-May-2014",
+      "DUE_DATE": "Due Date : 03-Jan-2017",
+      "NUMBER": "INVOICE # 0462-626",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Adrian Lewis\n97465 Benson Neck Apt. 611\nJacobport, CO 88906 US\nTel:+(597)711-1313\nEmail:andrearogers@example.com\nSite:https://www.leach.info/",
+      "DATE": "Date: 26-Aug-2018",
+      "DUE_DATE": "Due Date : 03-Apr-2022",
+      "NUMBER": "Invoice number INV/09-04/157",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joanne Carpenter\n277 Meyer Row\nEast Daniel, MN 64726 US\nTel:+(069)908-9485\nEmail:christopherholland@example.org\nSite:https://scott.net/",
+      "DATE": "Date: 22-Jun-2009",
+      "DUE_DATE": "Due Date : 23-May-1993",
+      "NUMBER": "INVOICE # INV/62-34/948",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremiah Johnston\n124 Vasquez Way\nLarryshire, DE 17744 US\nTel:+(480)802-1751\nEmail:greenryan@example.net\nSite:https://www.weaver-lam.com/",
+      "DATE": "Invoice Date: 29-Jun-2005",
+      "DUE_DATE": "Due Date : 29-Apr-2005",
+      "NUMBER": "INVOICE ID 1Y9M6d-640",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patricia Cook\n997 Ariana Skyway\nGregoryfort, WY 47095 US\nTel:+(784)727-8258\nEmail:vanessaanthony@example.net\nSite:https://walker.org/",
+      "DATE": "Date: 01-Jul-2016",
+      "DUE_DATE": "Due Date : 02-Jul-2021",
+      "NUMBER": "Invoice number 6Y4M3d-507",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Ware\n435 Hendricks Gardens Apt. 432\nNorth Jeanburgh, NV 01393 US\nTel:+(292)093-1560\nEmail:billy18@example.org\nSite:https://www.schultz.com/",
+      "DATE": "Invoice Date: 13-Sep-2012",
+      "DUE_DATE": "Due Date : 22-Apr-2011",
+      "NUMBER": "INVOICE # INV17303031",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Owens\n419 Haley Roads\nPort Brittanyville, OK 89262 US\nTel:+(629)237-8368\nEmail:sweeneymichael@example.com\nSite:http://www.jackson-thompson.com/",
+      "DATE": "Date: 14-Sep-1996",
+      "DUE_DATE": "Due Date : 19-Sep-1997",
+      "NUMBER": "Invoice number 1307-496",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Moore\n2501 Gonzalez Stream Apt. 377\nPort Alexandriachester, MD 12139 US\nTel:+(736)959-3535\nEmail:reyesmarcus@example.net\nSite:http://www.smith.info/",
+      "DATE": "Invoice Date: 10-May-2003",
+      "DUE_DATE": "Due Date : 19-May-1998",
+      "NUMBER": "INVOICE ID 7Y4M2d-636",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Natasha Peck\n57171 Jimenez Mountain Apt. 778\nWilcoxton, TX 36600 US\nTel:+(050)703-1328\nEmail:lori74@example.org\nSite:http://rodriguez.com/",
+      "DATE": "Date: 20-Dec-2002",
+      "DUE_DATE": "Due Date : 28-Oct-1998",
+      "NUMBER": "INVOICE ID INV/99-83/710",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Wolfe\n5683 West Junctions\nPort Stephanieville, MN 98940 US\nTel:+(838)031-7619\nEmail:linda11@example.net\nSite:https://www.fry.com/",
+      "DATE": "Date: 25-Nov-2001",
+      "DUE_DATE": "Due Date : 07-Jan-2007",
+      "NUMBER": "INVOICE # 2835-645",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Johns\n5621 Jeffrey Light\nSouth Evanmouth, PA 35779 US\nTel:+(338)358-9141\nEmail:molinaryan@example.com\nSite:https://johnson-adams.com/",
+      "DATE": "Invoice Date: 01-May-2022",
+      "DUE_DATE": "Due Date : 26-May-2003",
+      "NUMBER": "Invoice number 8Y5M5d-895",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Monique Jackson\n719 Amber Lock Suite 568\nEast Victorborough, PA 00887 US\nTel:+(221)539-2357\nEmail:washingtonryan@example.com\nSite:https://garcia.org/",
+      "DATE": "Date: 23-Jul-2011",
+      "DUE_DATE": "Due Date : 23-Jan-1994",
+      "NUMBER": "INVOICE ID 3574-013",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacob Garcia\n44992 Jose Crossroad\nNew Katie, MN 12134 US\nTel:+(120)748-2763\nEmail:clane@example.org\nSite:https://www.smith.com/",
+      "DATE": "Invoice Date: 24-May-2009",
+      "DUE_DATE": "Due Date : 27-Apr-1999",
+      "NUMBER": "INVOICE # INV27058323",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Martin Sanchez\n8138 Perez Valleys\nEast Timothyberg, SC 12549 US\nTel:+(257)786-6552\nEmail:timothylewis@example.net\nSite:http://arnold.com/",
+      "DATE": "Date: 14-Jan-2001",
+      "DUE_DATE": "Due Date : 05-Sep-2011",
+      "NUMBER": "INVOICE ID INV43939855",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Ford\n755 Nancy Shore\nWilsonfort, FL 47294 US\nTel:+(804)475-7120\nEmail:khughes@example.net\nSite:https://sanchez-stein.com/",
+      "DATE": "Invoice Date: 07-Dec-2004",
+      "DUE_DATE": "Due Date : 03-Jan-1995",
+      "NUMBER": "Invoice number INV/77-56/587",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Reeves\n17932 Sparks Fort Apt. 292\nLake Joshuaport, MT 63930 US\nTel:+(103)049-0160\nEmail:jessegolden@example.net\nSite:http://www.moore.info/",
+      "DATE": "Date: 20-Jul-2021",
+      "DUE_DATE": "Due Date : 11-Feb-2006",
+      "NUMBER": "INVOICE # 6997-822",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Hannah Casey\n71740 Paul Pine Suite 217\nNew Angelfort, PR 20613 US\nTel:+(139)589-2174\nEmail:allison96@example.net\nSite:https://www.carter.info/",
+      "DATE": "Invoice Date: 18-Dec-2014",
+      "DUE_DATE": "Due Date : 01-Dec-2004",
+      "NUMBER": "INVOICE ID 5Y3M3d-558",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Martin Cowan\n56738 Patricia Shores Apt. 262\nNew Michaeltown, TX 04404 US\nTel:+(962)638-3267\nEmail:lewistricia@example.net\nSite:https://glover-olson.com/",
+      "DATE": "Invoice Date: 19-Apr-2014",
+      "DUE_DATE": "Due Date : 21-Aug-1996",
+      "NUMBER": "INVOICE ID 3Y2M3d-327",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brenda Harris\n5345 Melanie Meadow Suite 236\nMaryborough, MT 99218 US\nTel:+(794)780-0026\nEmail:oliviareid@example.com\nSite:https://cooper.biz/",
+      "DATE": "Invoice Date: 27-Dec-2009",
+      "DUE_DATE": "Due Date : 26-Nov-2018",
+      "NUMBER": "INVOICE # 9595-102",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Chase\n81302 Warner River Suite 147\nDuncanhaven, MO 04256 US\nTel:+(357)524-9940\nEmail:madelineaguilar@example.com\nSite:http://lopez.com/",
+      "DATE": "Date: 10-Jan-2010",
+      "DUE_DATE": "Due Date : 06-Feb-2021",
+      "NUMBER": "Invoice number 1757-714",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Smith\n660 Norton Groves Suite 830\nSouth Caitlin, NM 32681 US\nTel:+(260)107-5455\nEmail:paulsandoval@example.org\nSite:https://www.moon-norman.com/",
+      "DATE": "Invoice Date: 19-May-2016",
+      "DUE_DATE": "Due Date : 03-Apr-2011",
+      "NUMBER": "INVOICE ID 8588-554",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark King\n0059 Andrea Park\nNorth Spencermouth, OK 11114 US\nTel:+(495)063-4102\nEmail:shaneferguson@example.com\nSite:http://www.gilbert-wyatt.com/",
+      "DATE": "Date: 05-Jul-2002",
+      "DUE_DATE": "Due Date : 15-Jun-2005",
+      "NUMBER": "Invoice number 8880-498",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Edwards\n92408 Cruz Drive Apt. 432\nLake Melissastad, CO 51766 US\nTel:+(665)151-1583\nEmail:mary33@example.org\nSite:http://carter.com/",
+      "DATE": "Date: 07-Dec-2019",
+      "DUE_DATE": "Due Date : 11-Mar-2006",
+      "NUMBER": "INVOICE ID INV/29-56/649",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathy Pratt\n4649 Cole Keys\nKarlview, AR 01819 US\nTel:+(622)215-7309\nEmail:charles28@example.com\nSite:http://www.leon-mckinney.com/",
+      "DATE": "Date: 17-Dec-2020",
+      "DUE_DATE": "Due Date : 27-Feb-2008",
+      "NUMBER": "INVOICE ID 2968-999",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Russell\n0198 Anthony Stream Suite 226\nNew Benjamin, MH 47160 US\nTel:+(493)014-9792\nEmail:monica56@example.com\nSite:http://www.soto.info/",
+      "DATE": "Date: 12-Mar-1994",
+      "DUE_DATE": "Due Date : 18-Jun-2003",
+      "NUMBER": "INVOICE ID INV68431913",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeffrey Lucas\n60044 Kathy Harbor Apt. 852\nLucasstad, ND 49953 US\nTel:+(502)532-9868\nEmail:williamsvictor@example.net\nSite:https://www.turner-green.com/",
+      "DATE": "Invoice Date: 11-Sep-1996",
+      "DUE_DATE": "Due Date : 11-Jun-1995",
+      "NUMBER": "Invoice number INV69691915",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kristen Nash\n379 Torres Ford\nJacksonstad, FM 91793 US\nTel:+(365)395-0357\nEmail:gdiaz@example.com\nSite:http://www.ward.com/",
+      "DATE": "Date: 26-Jan-2005",
+      "DUE_DATE": "Due Date : 27-Jul-2009",
+      "NUMBER": "INVOICE # INV04937348",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Holly Crawford\n4287 Sanders Mall\nNew Ianton, AL 29058 US\nTel:+(432)666-8704\nEmail:huffmanmolly@example.org\nSite:http://www.ball.com/",
+      "DATE": "Date: 03-Jun-2008",
+      "DUE_DATE": "Due Date : 20-Dec-2002",
+      "NUMBER": "Invoice number INV77232158",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Randy Ibarra\n211 Veronica Wells\nSouth Jasonton, OH 80583 US\nTel:+(571)723-4736\nEmail:xwelch@example.net\nSite:https://allen-ortiz.biz/",
+      "DATE": "Invoice Date: 28-May-1997",
+      "DUE_DATE": "Due Date : 28-Jun-2005",
+      "NUMBER": "Invoice number INV/24-72/932",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jorge Dickson\n372 Amanda Lock Apt. 604\nMelissafort, CO 91231 US\nTel:+(102)172-6905\nEmail:thomashess@example.org\nSite:https://wallace.com/",
+      "DATE": "Date: 21-Sep-2017",
+      "DUE_DATE": "Due Date : 18-Dec-2019",
+      "NUMBER": "Invoice number INV14807953",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Nolan\n380 Matthew Hills\nBradstad, FM 77709 US\nTel:+(846)992-8685\nEmail:skinnermichelle@example.com\nSite:http://www.dunn.biz/",
+      "DATE": "Invoice Date: 17-Dec-2020",
+      "DUE_DATE": "Due Date : 16-Nov-1998",
+      "NUMBER": "Invoice number INV/43-96/084",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Briggs\n15168 Kimberly Drives Apt. 935\nOdonnellview, AK 72806 US\nTel:+(160)958-7291\nEmail:ortizpaul@example.net\nSite:http://www.flores.net/",
+      "DATE": "Invoice Date: 28-Dec-2010",
+      "DUE_DATE": "Due Date : 24-Dec-2000",
+      "NUMBER": "Invoice number INV/58-29/389",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Adrienne King\n81708 Susan Meadow\nPaulbury, CA 94577 US\nTel:+(207)466-0993\nEmail:harrygrant@example.net\nSite:https://mccoy-roberts.com/",
+      "DATE": "Date: 29-Jan-2020",
+      "DUE_DATE": "Due Date : 15-Oct-1995",
+      "NUMBER": "INVOICE # 8Y5M2d-179",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Randall Torres\n6238 Harris Greens\nNew Valerieville, NM 11882 US\nTel:+(895)232-4149\nEmail:ctaylor@example.com\nSite:https://hall-whitney.org/",
+      "DATE": "Invoice Date: 03-Mar-2016",
+      "DUE_DATE": "Due Date : 29-Jan-2021",
+      "NUMBER": "Invoice number 5549-446",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tina Pruitt\n69876 Jennifer Common\nNorth Jeffreyview, PR 06941 US\nTel:+(594)152-0731\nEmail:pschmidt@example.org\nSite:https://garcia-davis.com/",
+      "DATE": "Invoice Date: 13-Jun-1997",
+      "DUE_DATE": "Due Date : 22-Aug-2022",
+      "NUMBER": "Invoice number INV84610519",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Vincent Herrera\n920 Alexander Key\nGregoryport, NJ 24800 US\nTel:+(490)001-9084\nEmail:jennifervalentine@example.com\nSite:https://mooney.net/",
+      "DATE": "Date: 22-Dec-2008",
+      "DUE_DATE": "Due Date : 07-Dec-2014",
+      "NUMBER": "INVOICE # INV/83-72/155",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Grant\n010 Jeffrey Glens\nPort Toddport, DC 16594 US\nTel:+(119)984-2991\nEmail:colleen61@example.com\nSite:http://vazquez.com/",
+      "DATE": "Invoice Date: 07-Feb-2021",
+      "DUE_DATE": "Due Date : 31-Jul-2019",
+      "NUMBER": "INVOICE ID INV91603984",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julie Dougherty\n551 Hahn Prairie\nNew Joyberg, DC 39082 US\nTel:+(997)212-5728\nEmail:gramirez@example.org\nSite:http://www.wagner.biz/",
+      "DATE": "Invoice Date: 30-Jun-2015",
+      "DUE_DATE": "Due Date : 14-May-2006",
+      "NUMBER": "INVOICE # 8955-202",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Hanson\n2517 Rios Springs\nFosterstad, KS 33951 US\nTel:+(061)237-9103\nEmail:grossjay@example.org\nSite:http://carter-medina.com/",
+      "DATE": "Invoice Date: 07-May-2005",
+      "DUE_DATE": "Due Date : 19-Nov-2008",
+      "NUMBER": "INVOICE ID INV44727073",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sabrina Mills\n53619 Sean Alley Apt. 172\nPatriciaburgh, TX 54138 US\nTel:+(128)796-4505\nEmail:jhardy@example.org\nSite:https://www.reynolds-jones.biz/",
+      "DATE": "Date: 22-Apr-2013",
+      "DUE_DATE": "Due Date : 27-Dec-2014",
+      "NUMBER": "Invoice number 6812-696",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diane Anderson\n12390 Daniel Street\nSouth Anthony, GA 90889 US\nTel:+(154)809-3541\nEmail:hallsamantha@example.net\nSite:http://rodriguez-pratt.com/",
+      "DATE": "Date: 01-Sep-2000",
+      "DUE_DATE": "Due Date : 01-May-2004",
+      "NUMBER": "Invoice number INV77093032",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Todd Chapman\n3093 Kimberly Port\nMcclureville, SD 89548 US\nTel:+(456)755-7245\nEmail:dwhite@example.net\nSite:https://www.mack.net/",
+      "DATE": "Date: 30-Mar-2004",
+      "DUE_DATE": "Due Date : 07-May-2005",
+      "NUMBER": "INVOICE ID INV/23-11/136",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Sanchez\n5611 Amanda Flat Suite 089\nBrownview, IN 70835 US\nTel:+(626)494-1019\nEmail:hlee@example.net\nSite:https://lopez.biz/",
+      "DATE": "Invoice Date: 19-Mar-2007",
+      "DUE_DATE": "Due Date : 12-Mar-2012",
+      "NUMBER": "Invoice number 9717-888",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sharon Dawson\n8148 Nicole Stravenue\nLake Samanthaville, UT 42914 US\nTel:+(895)347-6203\nEmail:udavidson@example.net\nSite:https://smith.biz/",
+      "DATE": "Invoice Date: 13-Nov-1993",
+      "DUE_DATE": "Due Date : 22-Jun-2001",
+      "NUMBER": "INVOICE ID 9Y9M4d-323",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Carter\n29515 Frances Prairie Suite 032\nJuanville, MS 49157 US\nTel:+(875)434-4483\nEmail:hollyclark@example.net\nSite:https://www.paul-nelson.com/",
+      "DATE": "Invoice Date: 21-May-2022",
+      "DUE_DATE": "Due Date : 07-Jul-2010",
+      "NUMBER": "INVOICE ID 8751-913",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Marisa Harrison\n2167 Horn Circle\nColontown, AR 71084 US\nTel:+(989)341-9035\nEmail:jared63@example.org\nSite:http://willis.com/",
+      "DATE": "Invoice Date: 16-Nov-2022",
+      "DUE_DATE": "Due Date : 10-Mar-2022",
+      "NUMBER": "Invoice number INV/91-20/651",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erik Williams\n45359 Evans Shoal\nLake Juan, AL 02980 US\nTel:+(784)709-6508\nEmail:tammythornton@example.net\nSite:http://www.baxter.com/",
+      "DATE": "Date: 26-Feb-1997",
+      "DUE_DATE": "Due Date : 05-Mar-1996",
+      "NUMBER": "Invoice number INV33039024",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carly Clayton\n04261 Shannon Flats Suite 804\nWest Katelyn, NC 16028 US\nTel:+(665)211-1281\nEmail:paul37@example.org\nSite:http://www.todd.com/",
+      "DATE": "Date: 22-Oct-2002",
+      "DUE_DATE": "Due Date : 20-Dec-2002",
+      "NUMBER": "INVOICE # INV48509389",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amanda Wu\n073 Miller Islands Suite 666\nWest Connor, VT 97003 US\nTel:+(808)243-3977\nEmail:wcastro@example.net\nSite:https://ramirez-jimenez.com/",
+      "DATE": "Invoice Date: 28-Mar-2014",
+      "DUE_DATE": "Due Date : 17-May-2016",
+      "NUMBER": "INVOICE # INV/07-36/136",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nathan Johnson MD\n8282 Christopher Canyon Suite 669\nAndradefort, HI 86390 US\nTel:+(473)457-4669\nEmail:billy09@example.org\nSite:http://atkinson.com/",
+      "DATE": "Invoice Date: 29-Jul-2001",
+      "DUE_DATE": "Due Date : 18-Mar-2011",
+      "NUMBER": "INVOICE # 9Y4M3d-060",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tina King\n0735 Nicole Skyway Apt. 194\nPort Mary, KS 10489 US\nTel:+(672)430-6603\nEmail:charlesdyer@example.net\nSite:http://gray.com/",
+      "DATE": "Date: 29-Oct-2020",
+      "DUE_DATE": "Due Date : 29-Jan-2011",
+      "NUMBER": "INVOICE # INV15515476",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kelli Little\n7945 Sims Alley Suite 369\nNew Mary, NH 11412 US\nTel:+(524)997-8007\nEmail:lindsayjones@example.org\nSite:https://hansen.org/",
+      "DATE": "Invoice Date: 27-Jun-2012",
+      "DUE_DATE": "Due Date : 31-Mar-2002",
+      "NUMBER": "INVOICE # INV68781338",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Barrett\n27684 Lauren Roads\nChristineshire, KS 33783 US\nTel:+(054)153-5392\nEmail:daniel78@example.net\nSite:http://stewart.org/",
+      "DATE": "Invoice Date: 15-Mar-2021",
+      "DUE_DATE": "Due Date : 31-Oct-2020",
+      "NUMBER": "INVOICE # 8Y1M1d-616",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cheryl Villanueva\n9977 Porter Well\nSouth Amychester, AL 06297 US\nTel:+(277)275-0605\nEmail:johnsonlaura@example.com\nSite:http://www.howard.biz/",
+      "DATE": "Date: 17-Feb-1995",
+      "DUE_DATE": "Due Date : 21-Oct-2016",
+      "NUMBER": "INVOICE ID INV/62-47/027",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jamie Carr\n0223 Jason Shoal Suite 007\nSouth Ronald, ND 49735 US\nTel:+(444)805-5619\nEmail:castanedamichele@example.net\nSite:https://johnson.com/",
+      "DATE": "Invoice Date: 25-Dec-2004",
+      "DUE_DATE": "Due Date : 28-Oct-1994",
+      "NUMBER": "INVOICE ID 2Y2M1d-002",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sheila Wells\n036 Smith Course Suite 373\nSouth Cameron, PR 66045 US\nTel:+(675)707-9163\nEmail:amyreed@example.net\nSite:http://martinez.biz/",
+      "DATE": "Date: 31-Mar-2008",
+      "DUE_DATE": "Due Date : 16-Sep-1996",
+      "NUMBER": "INVOICE ID INV11010299",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carol Stevens\n6091 Rodriguez Ford\nSandratown, KS 64935 US\nTel:+(870)221-1081\nEmail:sullivanstacy@example.org\nSite:http://evans.com/",
+      "DATE": "Invoice Date: 25-Feb-1995",
+      "DUE_DATE": "Due Date : 14-Oct-2018",
+      "NUMBER": "Invoice number INV/79-32/184",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Benjamin Gordon\n578 Jones Harbors Apt. 540\nWest Steven, MD 18898 US\nTel:+(761)279-0626\nEmail:ysoto@example.net\nSite:https://www.powell.com/",
+      "DATE": "Date: 12-May-2021",
+      "DUE_DATE": "Due Date : 12-Mar-2000",
+      "NUMBER": "INVOICE # 4816-981",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lee Lane\n52357 Beltran Falls\nRothville, PR 13863 US\nTel:+(146)772-9034\nEmail:amy47@example.com\nSite:http://www.combs.biz/",
+      "DATE": "Date: 26-Jan-2004",
+      "DUE_DATE": "Due Date : 28-Sep-1998",
+      "NUMBER": "INVOICE # 8Y9M4d-136",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Gill\n3230 Jeremy Run\nPort Susanville, MD 07179 US\nTel:+(288)713-4252\nEmail:garciathomas@example.net\nSite:https://fisher.com/",
+      "DATE": "Invoice Date: 08-Apr-1997",
+      "DUE_DATE": "Due Date : 24-Apr-2016",
+      "NUMBER": "INVOICE # 5Y5M5d-479",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paula Price\n098 Jacob Glens Suite 548\nNew Michaelshire, ND 52450 US\nTel:+(557)715-8121\nEmail:mmcintosh@example.net\nSite:https://hernandez-wiley.com/",
+      "DATE": "Invoice Date: 08-Jun-1997",
+      "DUE_DATE": "Due Date : 03-Jan-1997",
+      "NUMBER": "INVOICE ID 4Y7M6d-932",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patrick Foster\n26771 Smith Junction\nWest Hannah, NE 93600 US\nTel:+(095)484-4667\nEmail:dryan@example.com\nSite:https://anderson.com/",
+      "DATE": "Date: 03-Mar-1994",
+      "DUE_DATE": "Due Date : 02-Oct-2006",
+      "NUMBER": "INVOICE ID INV/33-60/249",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance84.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brett Hall\n7536 Jones Station Suite 797\nMelissahaven, PW 29362 US\nTel:+(498)995-6300\nEmail:michael67@example.net\nSite:https://clark-carson.info/",
+      "DATE": "Date: 03-Jan-2017",
+      "DUE_DATE": "Due Date : 07-Dec-2003",
+      "NUMBER": "INVOICE # INV86548462",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Katherine Jackson\n1381 Theresa Tunnel Suite 688\nMarychester, OK 97968 US\nTel:+(589)828-7735\nEmail:harperscott@example.net\nSite:http://johnson.com/",
+      "DATE": "Invoice Date: 15-Nov-2015",
+      "DUE_DATE": "Due Date : 14-May-1997",
+      "NUMBER": "INVOICE # 3Y9M3d-511",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Swanson\n40687 Theresa Squares Suite 321\nNorth Davidtown, LA 06253 US\nTel:+(055)930-0683\nEmail:eholt@example.org\nSite:http://sanchez-bell.com/",
+      "DATE": "Date: 15-Jan-1997",
+      "DUE_DATE": "Due Date : 15-Jun-2020",
+      "NUMBER": "Invoice number INV/56-10/845",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sandra Ross\n644 Felicia Views Apt. 799\nKingtown, CA 77621 US\nTel:+(110)255-1011\nEmail:david10@example.com\nSite:https://johnson-gibbs.net/",
+      "DATE": "Date: 11-Dec-2007",
+      "DUE_DATE": "Due Date : 17-Aug-2000",
+      "NUMBER": "Invoice number INV/61-73/067",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Linda Garcia\n32484 Keith Hill\nNew Christopherfurt, TN 54486 US\nTel:+(897)309-1052\nEmail:andrewolsen@example.net\nSite:https://www.ayers.info/",
+      "DATE": "Invoice Date: 17-Apr-2020",
+      "DUE_DATE": "Due Date : 13-May-1999",
+      "NUMBER": "Invoice number 9Y1M2d-416",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Taylor Dean\n852 Amanda Parkway Apt. 946\nWest Emilychester, DE 96655 US\nTel:+(543)258-9972\nEmail:castrowesley@example.net\nSite:https://www.stone.com/",
+      "DATE": "Invoice Date: 06-Sep-2000",
+      "DUE_DATE": "Due Date : 22-Aug-2022",
+      "NUMBER": "INVOICE # 7Y7M7d-030",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Taylor Williams MD\n8169 Gardner Junctions Suite 128\nNew David, UT 58350 US\nTel:+(936)905-3645\nEmail:michelle05@example.net\nSite:http://www.thompson.net/",
+      "DATE": "Invoice Date: 23-Mar-2022",
+      "DUE_DATE": "Due Date : 10-Jun-2005",
+      "NUMBER": "INVOICE ID INV99036083",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Boyd\n6666 Timothy Summit\nAmberview, AK 23312 US\nTel:+(138)618-0020\nEmail:cannonjoanna@example.com\nSite:http://www.johnson.com/",
+      "DATE": "Invoice Date: 07-Oct-1994",
+      "DUE_DATE": "Due Date : 16-Apr-2019",
+      "NUMBER": "INVOICE # 4301-631",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  },
+  {
+    "image": "Template19_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amber White\n9184 Bradley Brook Suite 663\nSouth Tara, PR 32439 US\nTel:+(871)737-1667\nEmail:flong@example.net\nSite:http://www.alvarez.com/",
+      "DATE": "Invoice Date: 05-Sep-1999",
+      "DUE_DATE": "Due Date : 02-Nov-2021",
+      "NUMBER": "INVOICE # 6836-772",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:010 Jeffrey Glens\nPort Toddport, DC 16594 US",
+      "SELLER_NAME": "Yoder LLC",
+      "GSTIN": "GSTIN: GSTIN4321AAD22"
+    }
+  }
+]

@@ -1,0 +1,2242 @@
+[
+  {
+    "image": "Template15_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karla Boyd\n32919 William Ramp\nNew Michaelfurt, ND 05746 US\nTel:+(820)892-3615\nEmail:jcain@example.net\nSite:https://stewart.org/",
+      "DATE": "Date: 19-Jul-1997",
+      "DISCOUNT": "DISCOUNT(3.1%): (-)  12.68",
+      "DUE_DATE": "Due Date : 27-Aug-2012",
+      "NUMBER": "INVOICE ID 2Y7M4d-240",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 409.09  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Barbara Tucker\n419 Macdonald Mission Apt. 631\nEast Laurieport, IA 69988 US\nTel:+(022)093-6607\nEmail:warrenmichelle@example.com\nSite:https://www.rodriguez.com/",
+      "DATE": "Invoice Date: 09-Aug-2016",
+      "DISCOUNT": "DISCOUNT(1.12%): (-)  4.15",
+      "DUE_DATE": "Due Date : 20-May-2004",
+      "NUMBER": "INVOICE ID INV08863153",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 370.98  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Wilson\n6073 Leslie Bridge Suite 605\nSouth Michelleberg, NE 97742 US\nTel:+(652)091-8476\nEmail:michaelbarber@example.net\nSite:https://cross.com/",
+      "DATE": "Date: 02-May-2011",
+      "DISCOUNT": "DISCOUNT(3.01%): (-)  21.87",
+      "DUE_DATE": "Due Date : 27-Mar-2017",
+      "NUMBER": "INVOICE ID INV/68-39/937",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 726.58  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacqueline Turner\n578 Joyce Skyway\nDanielside, CO 16585 US\nTel:+(585)549-2286\nEmail:christopher39@example.org\nSite:http://gordon.com/",
+      "DATE": "Date: 10-Sep-2003",
+      "DISCOUNT": "DISCOUNT(3.4%): (-)  13.21",
+      "DUE_DATE": "Due Date : 17-Oct-2020",
+      "NUMBER": "INVOICE ID 2Y5M3d-742",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 388.44  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Douglas Lee\n6787 Debbie Row\nFrancistown, LA 68393 US\nTel:+(563)988-7697\nEmail:trevorlopez@example.net\nSite:https://henderson-camacho.info/",
+      "DATE": "Date: 13-Jul-2021",
+      "DISCOUNT": "DISCOUNT(2.34%): (-)  3.1",
+      "DUE_DATE": "Due Date : 27-Sep-2012",
+      "NUMBER": "Invoice number 3Y8M4d-357",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 132.34  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Vincent Savage\n5275 Lam Turnpike\nBrianmouth, MP 29124 US\nTel:+(113)903-6723\nEmail:davisrachel@example.net\nSite:http://www.jones.net/",
+      "DATE": "Date: 17-Jul-1999",
+      "DISCOUNT": "DISCOUNT(1.19%): (-)  1.79",
+      "DUE_DATE": "Due Date : 17-May-2011",
+      "NUMBER": "Invoice number 6Y6M4d-522",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 150.62  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Abigail Cruz\n123 Mary Groves\nJuarezland, MN 10969 US\nTel:+(077)989-9775\nEmail:markpatel@example.com\nSite:http://www.cruz-woodard.com/",
+      "DATE": "Invoice Date: 19-Aug-2015",
+      "DISCOUNT": "DISCOUNT(4.19%): (-)  18.42",
+      "DUE_DATE": "Due Date : 14-Jul-2013",
+      "NUMBER": "INVOICE # INV/88-04/354",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 439.59  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Phillip Brown\n628 Sanders Knoll Suite 163\nPort Andreaborough, CA 49001 US\nTel:+(198)121-6035\nEmail:heidi26@example.com\nSite:http://www.martin.com/",
+      "DATE": "Date: 02-Mar-2020",
+      "DISCOUNT": "DISCOUNT(4.72%): (-)  43.6",
+      "DUE_DATE": "Due Date : 06-May-2003",
+      "NUMBER": "INVOICE ID 0499-053",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 923.74  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Veronica Reed\n677 Torres Key\nWest Martin, GU 44330 US\nTel:+(175)290-8815\nEmail:justinadkins@example.net\nSite:http://mccall.com/",
+      "DATE": "Date: 16-Jan-2005",
+      "DISCOUNT": "DISCOUNT(3.73%): (-)  40.65",
+      "DUE_DATE": "Due Date : 27-Mar-2005",
+      "NUMBER": "Invoice number INV55095229",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1089.79  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Theresa Cruz\n66158 Holder Mission Suite 198\nMunozhaven, NH 24095 US\nTel:+(460)525-8469\nEmail:carolyoung@example.org\nSite:https://petersen.net/",
+      "DATE": "Date: 20-May-2020",
+      "DISCOUNT": "DISCOUNT(1.18%): (-)  9.14",
+      "DUE_DATE": "Due Date : 17-Dec-2005",
+      "NUMBER": "Invoice number INV98438320",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 774.28  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Turner\n017 Sanchez Locks Suite 966\nPort John, MA 51727 US\nTel:+(836)165-5764\nEmail:thomas26@example.org\nSite:https://www.smith-wright.com/",
+      "DATE": "Invoice Date: 22-Oct-2015",
+      "DISCOUNT": "DISCOUNT(3.55%): (-)  27.32",
+      "DUE_DATE": "Due Date : 03-Nov-2003",
+      "NUMBER": "INVOICE # 4388-114",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 769.62  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rachel Brandt\n57355 Haynes Islands\nLambview, NV 62648 US\nTel:+(428)346-7729\nEmail:anneallen@example.net\nSite:http://www.hayes.com/",
+      "DATE": "Invoice Date: 19-Dec-2003",
+      "DISCOUNT": "DISCOUNT(3.41%): (-)  24.9",
+      "DUE_DATE": "Due Date : 22-Feb-2007",
+      "NUMBER": "INVOICE ID INV/95-26/957",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 730.06  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Mullen\n77276 Jennifer Path Suite 075\nSmithmouth, RI 89414 US\nTel:+(003)848-3235\nEmail:brichardson@example.net\nSite:http://webb.com/",
+      "DATE": "Date: 03-Sep-1993",
+      "DISCOUNT": "DISCOUNT(2.9%): (-)  12.76",
+      "DUE_DATE": "Due Date : 21-Apr-1996",
+      "NUMBER": "INVOICE # INV24285291",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 440.04  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:April Morris\n727 Matthew Forks Apt. 597\nRayside, OH 74892 US\nTel:+(931)788-8231\nEmail:joneslaurie@example.org\nSite:http://moore-hines.com/",
+      "DATE": "Invoice Date: 03-Jan-2001",
+      "DISCOUNT": "DISCOUNT(2.02%): (-)  5.3",
+      "DUE_DATE": "Due Date : 23-Mar-2020",
+      "NUMBER": "INVOICE ID 9Y5M5d-644",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 262.49  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jacob Park\n071 Katherine Union\nNew Charles, NC 21076 US\nTel:+(326)251-5375\nEmail:zwagner@example.net\nSite:https://kirby.com/",
+      "DATE": "Invoice Date: 13-Sep-2015",
+      "DISCOUNT": "DISCOUNT(2.98%): (-)  21.63",
+      "DUE_DATE": "Due Date : 21-Apr-1997",
+      "NUMBER": "INVOICE # INV98669822",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 725.76  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carlos Montgomery\n095 Smith Villages Suite 836\nMayerfort, NH 11092 US\nTel:+(476)800-9855\nEmail:zferguson@example.com\nSite:https://www.trujillo.info/",
+      "DATE": "Date: 08-Aug-2015",
+      "DISCOUNT": "DISCOUNT(1.82%): (-)  10.51",
+      "DUE_DATE": "Due Date : 02-May-1999",
+      "NUMBER": "Invoice number 1Y5M8d-663",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 577.25  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Evan Munoz\n34725 Robert Streets Apt. 729\nWest Lisaville, IN 70782 US\nTel:+(269)473-0834\nEmail:olambert@example.net\nSite:http://lewis-barber.com/",
+      "DATE": "Date: 08-May-2011",
+      "DISCOUNT": "DISCOUNT(1.21%): (-)  5.83",
+      "DUE_DATE": "Due Date : 26-Dec-2012",
+      "NUMBER": "Invoice number 2Y3M3d-469",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 481.74  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Todd Gates\n19283 Richard Heights Apt. 334\nPort Keith, MA 94468 US\nTel:+(135)920-4852\nEmail:brendafloyd@example.org\nSite:http://arellano-cervantes.com/",
+      "DATE": "Invoice Date: 28-Jan-2015",
+      "DISCOUNT": "DISCOUNT(2.72%): (-)  32.59",
+      "DUE_DATE": "Due Date : 11-Nov-2008",
+      "NUMBER": "INVOICE # INV18494400",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1198.12  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Shannon Sims\n488 Hayden Glens Apt. 036\nSmithfurt, WV 44858 US\nTel:+(663)274-4989\nEmail:whitneymeadows@example.org\nSite:http://simpson-knapp.net/",
+      "DATE": "Date: 07-Aug-2002",
+      "DISCOUNT": "DISCOUNT(3.15%): (-)  2.15",
+      "DUE_DATE": "Due Date : 27-Sep-2009",
+      "NUMBER": "Invoice number INV/51-07/701",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 68.13  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Rodriguez\n15978 Mcdowell Inlet\nNorth Cory, SD 36946 US\nTel:+(722)287-5543\nEmail:frhodes@example.com\nSite:http://taylor.com/",
+      "DATE": "Invoice Date: 06-Nov-2011",
+      "DISCOUNT": "DISCOUNT(2.09%): (-)  11.15",
+      "DUE_DATE": "Due Date : 30-Apr-2018",
+      "NUMBER": "Invoice number INV/06-15/178",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 533.36  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Mckenzie\n4908 Anthony Corner\nHarrisport, WA 27364 US\nTel:+(521)897-7501\nEmail:rebeccamills@example.net\nSite:http://www.gonzalez.com/",
+      "DATE": "Date: 08-Aug-2004",
+      "DISCOUNT": "DISCOUNT(3.04%): (-)  32.97",
+      "DUE_DATE": "Due Date : 28-May-2006",
+      "NUMBER": "INVOICE # INV/51-57/933",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1084.52  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Frank Willis\n670 Velez Motorway\nJamesport, SC 91492 US\nTel:+(370)841-6942\nEmail:warrenjeffrey@example.org\nSite:http://newton.com/",
+      "DATE": "Date: 24-Jan-1995",
+      "DISCOUNT": "DISCOUNT(3.9%): (-)  25.01",
+      "DUE_DATE": "Due Date : 01-Nov-2018",
+      "NUMBER": "INVOICE ID 5Y8M9d-798",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 641.22  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Riley\n313 Sonya Gateway Apt. 181\nNorth Peterhaven, AZ 81618 US\nTel:+(390)990-2437\nEmail:travisray@example.net\nSite:http://hall-zimmerman.com/",
+      "DATE": "Invoice Date: 29-Mar-2004",
+      "DISCOUNT": "DISCOUNT(1.9%): (-)  12.79",
+      "DUE_DATE": "Due Date : 21-Jun-2002",
+      "NUMBER": "INVOICE # INV/35-38/446",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 673.14  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Megan Roberts\n830 Doris Way Suite 986\nPort Daniel, AK 79205 US\nTel:+(251)760-6523\nEmail:kelsey92@example.org\nSite:https://ramirez.com/",
+      "DATE": "Invoice Date: 24-Oct-2016",
+      "DISCOUNT": "DISCOUNT(1.16%): (-)  4.54",
+      "DUE_DATE": "Due Date : 18-Jul-2006",
+      "NUMBER": "Invoice number 9Y9M9d-256",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 391.58  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kyle Arroyo\n704 Rebecca Inlet Apt. 517\nAudreymouth, OK 85435 US\nTel:+(718)304-7061\nEmail:jimenezthomas@example.net\nSite:http://www.white.com/",
+      "DATE": "Date: 20-Oct-1999",
+      "DISCOUNT": "DISCOUNT(3.9%): (-)  35.25",
+      "DUE_DATE": "Due Date : 30-Jun-1999",
+      "NUMBER": "INVOICE # 8Y3M8d-955",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 903.88  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Monroe\n964 Lindsey Course Suite 380\nKelleymouth, IN 40238 US\nTel:+(589)649-2353\nEmail:james70@example.net\nSite:https://www.johnson.com/",
+      "DATE": "Date: 18-Jun-1998",
+      "DISCOUNT": "DISCOUNT(2.7%): (-)  37.96",
+      "DUE_DATE": "Due Date : 02-Feb-1998",
+      "NUMBER": "Invoice number 2Y1M9d-548",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1405.83  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Johnson\n2481 Tina Cliffs\nSouth Michaelside, VI 53508 US\nTel:+(369)325-0885\nEmail:emitchell@example.org\nSite:https://www.powell-roberts.com/",
+      "DATE": "Invoice Date: 12-Nov-2010",
+      "DISCOUNT": "DISCOUNT(1.02%): (-)  14.62",
+      "DUE_DATE": "Due Date : 10-Nov-2013",
+      "NUMBER": "Invoice number INV/09-52/167",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1433.28  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sarah Davis\n0080 Holly Trace Apt. 873\nSandovalchester, VA 27524 US\nTel:+(000)486-8225\nEmail:mcgrathmichael@example.org\nSite:http://morgan.net/",
+      "DATE": "Date: 28-Jun-1996",
+      "DISCOUNT": "DISCOUNT(4.08%): (-)  36.75",
+      "DUE_DATE": "Due Date : 30-Oct-2019",
+      "NUMBER": "Invoice number INV61624229",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 900.80  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Elizabeth Brown\n64546 Rivera Bypass Suite 830\nPort Tiffany, AZ 52590 US\nTel:+(369)352-0229\nEmail:tracy45@example.net\nSite:http://mckinney-gonzalez.info/",
+      "DATE": "Invoice Date: 27-Jul-2022",
+      "DISCOUNT": "DISCOUNT(1.7%): (-)  11.44",
+      "DUE_DATE": "Due Date : 08-Aug-2001",
+      "NUMBER": "INVOICE # 3184-375",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 673.01  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Veronica Stone\n324 Herrera Center\nPort Nicholas, MA 74048 US\nTel:+(752)852-2777\nEmail:flowersgina@example.org\nSite:https://humphrey-nelson.com/",
+      "DATE": "Invoice Date: 23-Jan-2008",
+      "DISCOUNT": "DISCOUNT(4.16%): (-)  29.37",
+      "DUE_DATE": "Due Date : 21-Jul-2015",
+      "NUMBER": "INVOICE # 4Y5M8d-889",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 706.06  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Turner\n547 Lisa Island Suite 847\nCherylbury, SD 47745 US\nTel:+(803)625-1977\nEmail:kristinwagner@example.net\nSite:http://robinson-miller.info/",
+      "DATE": "Invoice Date: 16-Nov-2014",
+      "DISCOUNT": "DISCOUNT(1.34%): (-)  6.68",
+      "DUE_DATE": "Due Date : 02-Feb-2005",
+      "NUMBER": "INVOICE # INV21899726",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 498.39  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rodney Knight\n4769 Jeremiah Springs\nAnthonyside, KY 61440 US\nTel:+(337)403-4249\nEmail:stewartdavid@example.com\nSite:https://www.potts.com/",
+      "DATE": "Invoice Date: 10-Jul-2008",
+      "DISCOUNT": "DISCOUNT(4.02%): (-)  24.27",
+      "DUE_DATE": "Due Date : 02-Oct-2003",
+      "NUMBER": "Invoice number 2763-565",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 603.77  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Mcknight\n29443 Lopez Valleys\nLake Williamburgh, PR 09422 US\nTel:+(482)479-6494\nEmail:heatherrichardson@example.com\nSite:https://campbell-church.com/",
+      "DATE": "Date: 05-Apr-2005",
+      "DISCOUNT": "DISCOUNT(3.38%): (-)  5.59",
+      "DUE_DATE": "Due Date : 19-Feb-2007",
+      "NUMBER": "INVOICE ID 5721-886",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 165.30  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patrick Barnes\n021 Barnes Plaza\nRossfort, WV 84836 US\nTel:+(066)467-9975\nEmail:rachelrollins@example.com\nSite:https://smith.info/",
+      "DATE": "Date: 12-Sep-2013",
+      "DISCOUNT": "DISCOUNT(2.37%): (-)  11.15",
+      "DUE_DATE": "Due Date : 06-Jul-2016",
+      "NUMBER": "INVOICE # 7306-596",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 470.28  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Morgan Stewart\n5637 Diane Lane Suite 321\nWest Rachelborough, MD 88710 US\nTel:+(812)473-7584\nEmail:carlsonshannon@example.org\nSite:https://livingston-barton.org/",
+      "DATE": "Invoice Date: 03-Jan-2005",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  15.82",
+      "DUE_DATE": "Due Date : 17-Nov-2016",
+      "NUMBER": "INVOICE ID INV31131864",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 516.87  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Parks\n456 Davis Crescent\nNew Cory, VI 91951 US\nTel:+(143)359-7191\nEmail:agarcia@example.org\nSite:https://andrews.biz/",
+      "DATE": "Date: 26-May-2013",
+      "DISCOUNT": "DISCOUNT(1.03%): (-)  4.76",
+      "DUE_DATE": "Due Date : 18-Jul-2021",
+      "NUMBER": "INVOICE # 7970-531",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 461.72  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kevin Mcmillan\n0751 Johns Courts\nAprilberg, NH 58780 US\nTel:+(593)614-0870\nEmail:tranbrenda@example.com\nSite:http://www.bass.com/",
+      "DATE": "Date: 02-Sep-1996",
+      "DISCOUNT": "DISCOUNT(3.04%): (-)  23.71",
+      "DUE_DATE": "Due Date : 28-Jan-1993",
+      "NUMBER": "INVOICE # INV21849333",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 779.95  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anna Richmond\n3299 Elizabeth Club\nJohnsonbury, MO 52473 US\nTel:+(963)545-3273\nEmail:vhart@example.com\nSite:https://villanueva.net/",
+      "DATE": "Invoice Date: 10-Jan-2017",
+      "DISCOUNT": "DISCOUNT(2.52%): (-)  5.6",
+      "DUE_DATE": "Due Date : 15-Jan-2002",
+      "NUMBER": "Invoice number INV14486583",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 222.22  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Smith\n744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US\nTel:+(980)960-3031\nEmail:stephenfoster@example.net\nSite:https://bennett.org/",
+      "DATE": "Date: 27-Aug-1993",
+      "DISCOUNT": "DISCOUNT(4.53%): (-)  47.89",
+      "DUE_DATE": "Due Date : 16-Nov-2006",
+      "NUMBER": "INVOICE ID INV38499489",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1057.19  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Willie Ball\n161 Rebecca Fall Apt. 656\nFoxstad, ID 41082 US\nTel:+(702)377-1019\nEmail:lindseygarrison@example.com\nSite:https://www.cruz-larson.com/",
+      "DATE": "Invoice Date: 22-Jan-1995",
+      "DISCOUNT": "DISCOUNT(1.84%): (-)  5.76",
+      "DUE_DATE": "Due Date : 06-Feb-2020",
+      "NUMBER": "INVOICE # INV49445805",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 312.84  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Vasquez\n95433 Michael Springs\nMedinaburgh, FL 27793 US\nTel:+(807)565-1269\nEmail:brandy95@example.org\nSite:https://butler.com/",
+      "DATE": "Date: 22-Jan-2003",
+      "DISCOUNT": "DISCOUNT(1.09%): (-)  5.95",
+      "DUE_DATE": "Due Date : 09-Aug-1994",
+      "NUMBER": "INVOICE ID 1Y1M3d-267",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 545.52  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Donald Stanley\n09167 Ronald Flats\nRomeroville, NV 68195 US\nTel:+(839)340-3333\nEmail:bethanywilson@example.com\nSite:https://torres.net/",
+      "DATE": "Date: 11-Jan-2022",
+      "DISCOUNT": "DISCOUNT(2.27%): (-)  9.93",
+      "DUE_DATE": "Due Date : 27-Jun-2016",
+      "NUMBER": "INVOICE # INV/15-78/969",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 437.36  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Smith\n303 Mahoney Plain Suite 839\nJamesport, TN 94715 US\nTel:+(134)992-7316\nEmail:thernandez@example.org\nSite:https://www.simmons.com/",
+      "DATE": "Invoice Date: 01-Jan-2018",
+      "DISCOUNT": "DISCOUNT(4.9%): (-)  13.47",
+      "DUE_DATE": "Due Date : 04-Sep-2012",
+      "NUMBER": "INVOICE # 5596-669",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 274.94  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Leon\n6840 Salazar Unions\nDeborahfurt, AK 72796 US\nTel:+(668)427-4734\nEmail:juarezalex@example.com\nSite:https://larsen.com/",
+      "DATE": "Date: 17-Jun-2018",
+      "DISCOUNT": "DISCOUNT(3.18%): (-)  13.46",
+      "DUE_DATE": "Due Date : 16-Dec-2014",
+      "NUMBER": "Invoice number 9344-555",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 423.37  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sarah Hernandez\n68159 Jessica Forges Apt. 965\nNancymouth, FM 60391 US\nTel:+(130)898-7278\nEmail:rodriguezchristopher@example.net\nSite:http://www.lowe.com/",
+      "DATE": "Date: 01-Oct-2016",
+      "DISCOUNT": "DISCOUNT(3.36%): (-)  30.3",
+      "DUE_DATE": "Due Date : 12-May-2002",
+      "NUMBER": "INVOICE # INV/31-95/543",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 901.88  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gina Cortez\n410 Michelle Plains Apt. 152\nNew Charlesport, KY 11668 US\nTel:+(131)211-5136\nEmail:pamela89@example.org\nSite:http://www.smith.com/",
+      "DATE": "Invoice Date: 18-Jan-2014",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  29.22",
+      "DUE_DATE": "Due Date : 10-Mar-2021",
+      "NUMBER": "INVOICE ID 3782-265",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 954.99  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tammy Soto\n9654 Eric Pines\nMarytown, TX 07683 US\nTel:+(853)368-1099\nEmail:csanchez@example.org\nSite:https://mcdowell.com/",
+      "DATE": "Invoice Date: 25-Apr-1999",
+      "DISCOUNT": "DISCOUNT(1.06%): (-)  6.66",
+      "DUE_DATE": "Due Date : 20-Jun-2015",
+      "NUMBER": "Invoice number 2Y9M4d-394",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 628.66  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Webb\n9476 Fleming Neck Suite 192\nNorth Amy, NC 68101 US\nTel:+(426)206-3603\nEmail:aellis@example.org\nSite:http://www.cooley.com/",
+      "DATE": "Invoice Date: 14-Apr-2009",
+      "DISCOUNT": "DISCOUNT(4.3%): (-)  60.2",
+      "DUE_DATE": "Due Date : 02-Dec-2009",
+      "NUMBER": "INVOICE ID 8Y2M5d-463",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1399.90  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Maddox\n43604 Holmes Forges\nLake Jamie, MI 82076 US\nTel:+(588)322-9736\nEmail:paul03@example.net\nSite:http://coleman-oliver.com/",
+      "DATE": "Invoice Date: 01-Oct-1995",
+      "DISCOUNT": "DISCOUNT(1.04%): (-)  7.7",
+      "DUE_DATE": "Due Date : 19-Aug-2004",
+      "NUMBER": "Invoice number 8Y3M3d-290",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 740.01  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amanda Montes\n91543 Christopher Knoll Suite 014\nNelsonhaven, CT 45452 US\nTel:+(272)852-4329\nEmail:nelsonsamuel@example.net\nSite:https://www.green.com/",
+      "DATE": "Invoice Date: 30-Dec-2020",
+      "DISCOUNT": "DISCOUNT(3.66%): (-)  14.93",
+      "DUE_DATE": "Due Date : 12-Feb-1996",
+      "NUMBER": "INVOICE ID 7Y8M7d-146",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 407.97  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Eric Ross\n610 Martinez Spur\nMichaelfurt, NH 09050 US\nTel:+(692)020-2731\nEmail:anthonyleonard@example.com\nSite:https://guerra.biz/",
+      "DATE": "Invoice Date: 21-Jan-2014",
+      "DISCOUNT": "DISCOUNT(2.43%): (-)  9.93",
+      "DUE_DATE": "Due Date : 06-Sep-2003",
+      "NUMBER": "INVOICE # INV37273261",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 408.67  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Rice\n897 Wendy Lock Suite 161\nMoranside, ND 56831 US\nTel:+(504)187-6795\nEmail:ryanjermaine@example.com\nSite:http://evans.com/",
+      "DATE": "Date: 19-Sep-2019",
+      "DISCOUNT": "DISCOUNT(4.33%): (-)  43.63",
+      "DUE_DATE": "Due Date : 07-Nov-2009",
+      "NUMBER": "Invoice number INV/78-23/135",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1007.62  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jon Hall\n30920 Meyer Stravenue Suite 282\nMurphyfurt, WI 50404 US\nTel:+(589)844-9666\nEmail:davidevans@example.com\nSite:http://www.thompson-bailey.com/",
+      "DATE": "Date: 07-Nov-2006",
+      "DISCOUNT": "DISCOUNT(2.55%): (-)  14.51",
+      "DUE_DATE": "Due Date : 31-Jul-1996",
+      "NUMBER": "INVOICE ID INV69595261",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 569.02  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Garcia\n527 Smith Lane\nEast Mark, AL 57109 US\nTel:+(599)628-0758\nEmail:valerieconner@example.net\nSite:https://www.johnson.com/",
+      "DATE": "Invoice Date: 25-Dec-2008",
+      "DISCOUNT": "DISCOUNT(1.79%): (-)  14.8",
+      "DUE_DATE": "Due Date : 14-Jan-2011",
+      "NUMBER": "INVOICE ID INV/50-64/056",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 826.66  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Elizabeth Garcia\n0110 Marshall Corner Apt. 736\nNorth Billy, CT 70050 US\nTel:+(296)826-4436\nEmail:michaeljacobs@example.com\nSite:https://www.young.com/",
+      "DATE": "Date: 08-Feb-2006",
+      "DISCOUNT": "DISCOUNT(2.26%): (-)  13.73",
+      "DUE_DATE": "Due Date : 26-Apr-2004",
+      "NUMBER": "INVOICE # 6Y3M2d-958",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 607.66  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Smith\n96176 Williams Square Apt. 225\nPenaville, PA 94614 US\nTel:+(553)764-2054\nEmail:hunterlori@example.net\nSite:http://williams-martinez.com/",
+      "DATE": "Invoice Date: 06-Sep-2019",
+      "DISCOUNT": "DISCOUNT(3.6%): (-)  8.16",
+      "DUE_DATE": "Due Date : 09-Sep-1994",
+      "NUMBER": "INVOICE ID 9268-308",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 226.63  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Berry\n231 Frazier Row\nHarrismouth, GU 02344 US\nTel:+(700)405-8278\nEmail:sarahbecker@example.com\nSite:http://thomas.net/",
+      "DATE": "Date: 24-Oct-2015",
+      "DISCOUNT": "DISCOUNT(3.52%): (-)  3.55",
+      "DUE_DATE": "Due Date : 14-Jan-2019",
+      "NUMBER": "Invoice number 8289-234",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 100.77  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Monique Sullivan\n56348 Mark Mount Suite 235\nJohnsontown, PR 59933 US\nTel:+(625)360-0489\nEmail:pruittdarren@example.net\nSite:http://elliott.info/",
+      "DATE": "Invoice Date: 30-Nov-2017",
+      "DISCOUNT": "DISCOUNT(2.18%): (-)  22.03",
+      "DUE_DATE": "Due Date : 19-Aug-2005",
+      "NUMBER": "Invoice number 5Y4M1d-727",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1010.34  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Felicia Carr\n3472 Wright Mills Apt. 532\nSouth Matthew, FM 06696 US\nTel:+(165)064-8283\nEmail:kevin89@example.net\nSite:https://www.kelly-king.com/",
+      "DATE": "Invoice Date: 13-Aug-2021",
+      "DISCOUNT": "DISCOUNT(2.16%): (-)  6.57",
+      "DUE_DATE": "Due Date : 05-Jan-2020",
+      "NUMBER": "INVOICE # 4808-998",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 304.38  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bryan Moran\n951 Corey Locks Apt. 595\nPort Juliahaven, AS 88195 US\nTel:+(891)628-5917\nEmail:nlewis@example.org\nSite:https://stephens.biz/",
+      "DATE": "Invoice Date: 01-Feb-1997",
+      "DISCOUNT": "DISCOUNT(2.72%): (-)  10.72",
+      "DUE_DATE": "Due Date : 04-Sep-2003",
+      "NUMBER": "INVOICE # INV75749490",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 394.21  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Wolfe\n1610 Lauren Field Apt. 883\nKaylaborough, OR 84315 US\nTel:+(004)688-8751\nEmail:goodjustin@example.com\nSite:http://www.wallace-grant.com/",
+      "DATE": "Date: 28-Apr-2010",
+      "DISCOUNT": "DISCOUNT(3.21%): (-)  12.74",
+      "DUE_DATE": "Due Date : 08-May-1994",
+      "NUMBER": "Invoice number INV/68-81/973",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 396.80  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Adkins\n302 Brandy Prairie Suite 393\nBerrybury, LA 69773 US\nTel:+(113)638-2959\nEmail:josephstark@example.org\nSite:http://www.miles.com/",
+      "DATE": "Date: 26-Sep-2013",
+      "DISCOUNT": "DISCOUNT(2.71%): (-)  6.16",
+      "DUE_DATE": "Due Date : 08-Jan-2008",
+      "NUMBER": "Invoice number INV07775458",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 227.18  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Williams\n6193 Long Gateway Suite 870\nHarveychester, FM 36572 US\nTel:+(226)038-9327\nEmail:victoriabrown@example.org\nSite:http://www.martin.com/",
+      "DATE": "Invoice Date: 09-May-2011",
+      "DISCOUNT": "DISCOUNT(2.03%): (-)  9.49",
+      "DUE_DATE": "Due Date : 15-Jul-1998",
+      "NUMBER": "INVOICE ID 4645-699",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 467.71  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Lewis\n5135 Singh Expressway\nRamirezburgh, IA 49123 US\nTel:+(181)901-4399\nEmail:katie09@example.org\nSite:http://www.mitchell.com/",
+      "DATE": "Invoice Date: 22-Jun-1996",
+      "DISCOUNT": "DISCOUNT(1.51%): (-)  15.87",
+      "DUE_DATE": "Due Date : 18-Sep-2003",
+      "NUMBER": "Invoice number 6971-054",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1051.30  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jared Gilbert\n63731 Brown Ferry\nNorth Austin, MP 16885 US\nTel:+(864)733-3046\nEmail:anthonyharvey@example.org\nSite:https://smith.com/",
+      "DATE": "Date: 12-Jun-2011",
+      "DISCOUNT": "DISCOUNT(2.33%): (-)  18.87",
+      "DUE_DATE": "Due Date : 22-Jul-2004",
+      "NUMBER": "INVOICE ID INV59614042",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 809.95  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Sanchez\n07457 Jones Hollow\nWest Timothy, FM 34156 US\nTel:+(686)091-8624\nEmail:michael40@example.org\nSite:http://www.dominguez-sullivan.com/",
+      "DATE": "Date: 23-Dec-2021",
+      "DISCOUNT": "DISCOUNT(1.68%): (-)  11.31",
+      "DUE_DATE": "Due Date : 27-Mar-2008",
+      "NUMBER": "INVOICE # 0385-559",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 673.14  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dr. Kevin Werner\n71583 Bernard Mountains\nEast Davidborough, GU 49545 US\nTel:+(042)437-3962\nEmail:jamesweber@example.net\nSite:https://james.com/",
+      "DATE": "Date: 12-Sep-2004",
+      "DISCOUNT": "DISCOUNT(2.39%): (-)  22.87",
+      "DUE_DATE": "Due Date : 16-Aug-1999",
+      "NUMBER": "Invoice number INV/64-25/503",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 956.90  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bryan King\n028 Amanda Fork Apt. 171\nCrawfordfurt, MN 51318 US\nTel:+(401)861-2624\nEmail:emoore@example.org\nSite:https://cole.biz/",
+      "DATE": "Date: 13-Nov-1998",
+      "DISCOUNT": "DISCOUNT(3.76%): (-)  31.18",
+      "DUE_DATE": "Due Date : 05-Jul-2011",
+      "NUMBER": "Invoice number 2005-028",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 829.28  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Austin Farmer\n0330 Amanda Isle\nHuntside, MN 96534 US\nTel:+(473)094-6283\nEmail:knappphilip@example.org\nSite:https://www.marshall.info/",
+      "DATE": "Invoice Date: 31-May-2002",
+      "DISCOUNT": "DISCOUNT(1.66%): (-)  12.44",
+      "DUE_DATE": "Due Date : 26-Oct-2017",
+      "NUMBER": "INVOICE ID INV/83-89/193",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 749.53  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Garner\n14653 Randy Mission\nSouth Melanie, TN 72409 US\nTel:+(826)551-0449\nEmail:cameron95@example.org\nSite:http://collins.com/",
+      "DATE": "Date: 18-Dec-2008",
+      "DISCOUNT": "DISCOUNT(3.67%): (-)  66.59",
+      "DUE_DATE": "Due Date : 19-Apr-2017",
+      "NUMBER": "INVOICE # INV/79-95/443",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1814.31  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brenda Cabrera\n6082 William Cape\nNew Valerieburgh, PW 56786 US\nTel:+(853)742-5116\nEmail:jessicayoung@example.net\nSite:https://yu-warren.com/",
+      "DATE": "Date: 24-Jul-2003",
+      "DISCOUNT": "DISCOUNT(4.65%): (-)  9.41",
+      "DUE_DATE": "Due Date : 12-Feb-2004",
+      "NUMBER": "INVOICE ID 2055-845",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 202.46  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Schneider\n90397 Chelsey Camp\nEast Rodney, WA 34981 US\nTel:+(145)241-4949\nEmail:morganjeremy@example.com\nSite:https://wallace.org/",
+      "DATE": "Invoice Date: 04-Jan-2013",
+      "DISCOUNT": "DISCOUNT(1.41%): (-)  13.22",
+      "DUE_DATE": "Due Date : 21-Jun-2005",
+      "NUMBER": "INVOICE ID INV/99-24/601",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 937.85  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Baker\n595 Burke Gardens Apt. 892\nSergioshire, WI 79343 US\nTel:+(611)689-6785\nEmail:tgriffith@example.com\nSite:http://www.briggs.biz/",
+      "DATE": "Invoice Date: 22-Sep-1995",
+      "DISCOUNT": "DISCOUNT(1.5%): (-)  4.55",
+      "DUE_DATE": "Due Date : 17-Oct-2013",
+      "NUMBER": "INVOICE ID INV/85-96/152",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 303.45  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Cummings\n7598 Jones Centers\nLaurafort, VT 65738 US\nTel:+(926)565-3973\nEmail:nicholas60@example.net\nSite:https://www.villa.com/",
+      "DATE": "Invoice Date: 20-Jun-2018",
+      "DISCOUNT": "DISCOUNT(1.91%): (-)  3.55",
+      "DUE_DATE": "Due Date : 28-Aug-2019",
+      "NUMBER": "Invoice number 8784-445",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 186.12  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nathan Fritz\n75977 Nicole Motorway Apt. 044\nPort Duane, PR 22109 US\nTel:+(414)575-6656\nEmail:zacharyhoward@example.net\nSite:http://abbott.biz/",
+      "DATE": "Date: 19-Mar-2022",
+      "DISCOUNT": "DISCOUNT(3.47%): (-)  7.37",
+      "DUE_DATE": "Due Date : 05-Apr-1997",
+      "NUMBER": "INVOICE # INV76357354",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 212.40  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Felicia Howell\n51342 Garrison Squares\nNelsonburgh, PA 68093 US\nTel:+(375)745-7400\nEmail:ehamilton@example.com\nSite:https://may-thompson.biz/",
+      "DATE": "Invoice Date: 02-Sep-2022",
+      "DISCOUNT": "DISCOUNT(3.53%): (-)  19.12",
+      "DUE_DATE": "Due Date : 26-Feb-2013",
+      "NUMBER": "INVOICE ID 4Y5M9d-742",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 541.59  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julie Burnett\n4401 Ramos Fork Apt. 055\nPort Alisonport, MH 19849 US\nTel:+(977)197-5950\nEmail:liubernard@example.org\nSite:http://wright-blair.com/",
+      "DATE": "Date: 27-Apr-1995",
+      "DISCOUNT": "DISCOUNT(3.01%): (-)  42.59",
+      "DUE_DATE": "Due Date : 01-Jul-2013",
+      "NUMBER": "INVOICE ID INV04595517",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1414.97  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rhonda Johnson\n47339 Madeline Center\nMartinezmouth, ND 84018 US\nTel:+(199)226-6468\nEmail:dwayne60@example.com\nSite:https://www.choi.biz/",
+      "DATE": "Invoice Date: 29-Jan-2019",
+      "DISCOUNT": "DISCOUNT(2.72%): (-)  17.72",
+      "DUE_DATE": "Due Date : 29-Jun-1993",
+      "NUMBER": "INVOICE # 2Y1M4d-354",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 651.36  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Molina\n55803 West Heights Apt. 948\nGinahaven, KS 71266 US\nTel:+(675)617-5564\nEmail:kristin53@example.com\nSite:https://bailey.com/",
+      "DATE": "Invoice Date: 21-Feb-2019",
+      "DISCOUNT": "DISCOUNT(4.94%): (-)  37.24",
+      "DUE_DATE": "Due Date : 04-Feb-2018",
+      "NUMBER": "Invoice number 9Y1M2d-761",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 753.87  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Katherine Greer\n7770 Warren Tunnel\nLake Johnside, ME 39318 US\nTel:+(288)421-3238\nEmail:qcarter@example.org\nSite:https://dyer.com/",
+      "DATE": "Invoice Date: 05-Oct-2016",
+      "DISCOUNT": "DISCOUNT(3.09%): (-)  6.5",
+      "DUE_DATE": "Due Date : 19-Mar-2017",
+      "NUMBER": "INVOICE # 9453-733",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 210.34  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joel Davila\n508 Terry Pike\nJamestown, NM 49332 US\nTel:+(875)407-8421\nEmail:wmassey@example.org\nSite:http://smith-adams.info/",
+      "DATE": "Date: 17-Jul-2019",
+      "DISCOUNT": "DISCOUNT(2.1%): (-)  25.83",
+      "DUE_DATE": "Due Date : 12-Mar-2012",
+      "NUMBER": "INVOICE ID INV/04-68/722",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1229.86  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Jones\n2983 Ramirez Isle Apt. 211\nNicholasside, MH 27449 US\nTel:+(137)588-1057\nEmail:ashley58@example.org\nSite:http://www.schmidt.biz/",
+      "DATE": "Date: 23-Aug-2016",
+      "DISCOUNT": "DISCOUNT(3.86%): (-)  30.79",
+      "DUE_DATE": "Due Date : 27-Oct-2008",
+      "NUMBER": "INVOICE # 4107-469",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 797.75  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Thompson III\n39841 Jacob Mount\nEast Bridgetstad, WY 50949 US\nTel:+(218)065-8027\nEmail:shelia59@example.org\nSite:https://www.price.com/",
+      "DATE": "Invoice Date: 08-Aug-1994",
+      "DISCOUNT": "DISCOUNT(1.15%): (-)  9.19",
+      "DUE_DATE": "Due Date : 19-May-1997",
+      "NUMBER": "Invoice number INV23728386",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 799.10  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kyle Walton\n708 Ashley Station\nHebertburgh, NV 86433 US\nTel:+(449)182-6316\nEmail:sjames@example.net\nSite:http://mendez-howard.com/",
+      "DATE": "Invoice Date: 22-Aug-2013",
+      "DISCOUNT": "DISCOUNT(2.72%): (-)  20.85",
+      "DUE_DATE": "Due Date : 09-Aug-2021",
+      "NUMBER": "INVOICE ID INV/29-12/606",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 766.55  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Villarreal\n71452 Castaneda Locks\nOwenview, MP 01930 US\nTel:+(276)491-3695\nEmail:zrice@example.net\nSite:https://may-harris.info/",
+      "DATE": "Date: 12-Oct-1993",
+      "DISCOUNT": "DISCOUNT(2.12%): (-)  13.94",
+      "DUE_DATE": "Due Date : 03-Mar-2017",
+      "NUMBER": "Invoice number INV/29-71/989",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 657.70  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ronald Stein\n30262 Bailey Junction\nKennethtown, WA 36022 US\nTel:+(448)216-0218\nEmail:william87@example.net\nSite:http://ferrell-rogers.com/",
+      "DATE": "Date: 23-Sep-2018",
+      "DISCOUNT": "DISCOUNT(1.44%): (-)  5.08",
+      "DUE_DATE": "Due Date : 12-Feb-2012",
+      "NUMBER": "Invoice number 6867-137",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 352.94  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jesse Nelson\n400 Horton Trafficway\nChristopherberg, NJ 82870 US\nTel:+(712)740-1419\nEmail:marshallpaul@example.com\nSite:http://aguilar.com/",
+      "DATE": "Invoice Date: 22-Dec-2006",
+      "DISCOUNT": "DISCOUNT(2.06%): (-)  10.15",
+      "DUE_DATE": "Due Date : 30-Dec-1995",
+      "NUMBER": "Invoice number 9697-695",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 492.68  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:George Parker\n2342 Timothy Trail\nFloresport, NY 82313 US\nTel:+(345)892-4005\nEmail:ismith@example.com\nSite:https://mcgee.biz/",
+      "DATE": "Date: 14-Oct-1997",
+      "DISCOUNT": "DISCOUNT(4.92%): (-)  38.92",
+      "DUE_DATE": "Due Date : 23-Dec-2021",
+      "NUMBER": "INVOICE ID 4786-587",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 791.01  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Copeland\n69853 Katherine Shore Suite 820\nNew Timothychester, LA 17242 US\nTel:+(256)693-3137\nEmail:jlivingston@example.net\nSite:http://www.proctor-davis.com/",
+      "DATE": "Invoice Date: 19-Dec-2007",
+      "DISCOUNT": "DISCOUNT(3.43%): (-)  12.01",
+      "DUE_DATE": "Due Date : 24-Feb-2017",
+      "NUMBER": "Invoice number INV79121663",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 350.08  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Rodriguez\n0394 Harris Ways\nCindyfurt, MT 31934 US\nTel:+(887)623-7277\nEmail:petersonrobert@example.org\nSite:http://www.richards.info/",
+      "DATE": "Invoice Date: 01-Sep-2001",
+      "DISCOUNT": "DISCOUNT(3.45%): (-)  36.38",
+      "DUE_DATE": "Due Date : 03-Dec-2000",
+      "NUMBER": "INVOICE # 8276-706",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1054.43  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Isaiah Willis\n27536 Michelle Plaza\nNew Rebeccafurt, NM 43251 US\nTel:+(849)801-5564\nEmail:xsantana@example.com\nSite:http://johnson.com/",
+      "DATE": "Date: 04-Oct-2013",
+      "DISCOUNT": "DISCOUNT(2.03%): (-)  22.42",
+      "DUE_DATE": "Due Date : 29-Jun-2010",
+      "NUMBER": "INVOICE # INV/62-23/091",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1104.48  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Lambert\n733 Velazquez Wall Suite 420\nPort Toddtown, MT 92189 US\nTel:+(059)508-4438\nEmail:brandon92@example.net\nSite:https://www.ali-kerr.net/",
+      "DATE": "Invoice Date: 08-Nov-2014",
+      "DISCOUNT": "DISCOUNT(4.46%): (-)  22.94",
+      "DUE_DATE": "Due Date : 08-Jun-2006",
+      "NUMBER": "INVOICE ID INV/05-54/025",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 514.28  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Johnny Adams\n305 David Branch\nNew Franciscofurt, GU 50466 US\nTel:+(368)655-3167\nEmail:dgarcia@example.org\nSite:https://diaz.org/",
+      "DATE": "Invoice Date: 28-May-2011",
+      "DISCOUNT": "DISCOUNT(3.26%): (-)  29.73",
+      "DUE_DATE": "Due Date : 07-Nov-2004",
+      "NUMBER": "INVOICE ID INV00739514",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 911.89  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Jones\n708 Claire Groves Suite 444\nMichaelfort, FM 84566 US\nTel:+(795)439-5620\nEmail:jack70@example.org\nSite:https://www.young-arnold.net/",
+      "DATE": "Date: 16-Jul-2014",
+      "DISCOUNT": "DISCOUNT(2.36%): (-)  16.31",
+      "DUE_DATE": "Due Date : 11-Dec-2013",
+      "NUMBER": "INVOICE # 3Y6M7d-062",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 690.90  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tamara Baker\n05662 Mack Cliffs Apt. 055\nPort Tammyton, MH 75854 US\nTel:+(170)870-1490\nEmail:cooperkathleen@example.net\nSite:http://roy.com/",
+      "DATE": "Invoice Date: 06-Dec-1996",
+      "DISCOUNT": "DISCOUNT(2.33%): (-)  18.07",
+      "DUE_DATE": "Due Date : 24-Sep-1997",
+      "NUMBER": "INVOICE # 2Y2M5d-227",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 775.33  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Williams\n16896 Smith Street\nLake Scott, MD 92462 US\nTel:+(839)423-8834\nEmail:john81@example.net\nSite:http://finley.com/",
+      "DATE": "Date: 29-Jul-1995",
+      "DISCOUNT": "DISCOUNT(3.41%): (-)  43.14",
+      "DUE_DATE": "Due Date : 22-Oct-1998",
+      "NUMBER": "INVOICE ID INV/73-45/125",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1265.04  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Evans\n381 Jasmine Freeway\nWest Bethany, DC 97115 US\nTel:+(856)465-3564\nEmail:yconway@example.com\nSite:https://swanson-richard.com/",
+      "DATE": "Date: 11-Aug-2007",
+      "DISCOUNT": "DISCOUNT(1.37%): (-)  22.7",
+      "DUE_DATE": "Due Date : 06-Jul-2008",
+      "NUMBER": "Invoice number INV74071604",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1656.58  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Armstrong\n6117 Romero Pine Apt. 977\nNew Johnfurt, MP 77995 US\nTel:+(219)171-1069\nEmail:butlerjohn@example.net\nSite:https://howard-beltran.com/",
+      "DATE": "Invoice Date: 28-Jun-2009",
+      "DISCOUNT": "DISCOUNT(3.72%): (-)  19.35",
+      "DUE_DATE": "Due Date : 23-Feb-2009",
+      "NUMBER": "Invoice number INV17465851",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 520.19  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Baldwin\n98921 Christopher Union Apt. 252\nKevinstad, OR 76975 US\nTel:+(027)621-4788\nEmail:sonia94@example.net\nSite:http://www.banks.net/",
+      "DATE": "Date: 09-Jun-2013",
+      "DISCOUNT": "DISCOUNT(1.77%): (-)  17.51",
+      "DUE_DATE": "Due Date : 14-Oct-1994",
+      "NUMBER": "INVOICE ID INV/68-64/726",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 989.00  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sydney Gutierrez\n125 Maria Cliffs Suite 287\nDavidland, AL 40237 US\nTel:+(046)605-2357\nEmail:allenzachary@example.org\nSite:https://www.campbell-kim.com/",
+      "DATE": "Date: 06-Dec-2013",
+      "DISCOUNT": "DISCOUNT(1.69%): (-)  6.05",
+      "DUE_DATE": "Due Date : 12-Sep-2008",
+      "NUMBER": "Invoice number INV34081938",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 357.84  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Malone\n719 Regina Shore Suite 737\nNew Scottmouth, OH 85244 US\nTel:+(224)676-8092\nEmail:gilbertmonica@example.net\nSite:http://www.bender.com/",
+      "DATE": "Date: 18-Jun-2018",
+      "DISCOUNT": "DISCOUNT(2.68%): (-)  6.42",
+      "DUE_DATE": "Due Date : 12-May-1996",
+      "NUMBER": "INVOICE ID 7702-215",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 239.61  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sara Holt\n847 Daniel Path Suite 665\nAmandaborough, MP 02714 US\nTel:+(042)167-2530\nEmail:tarabrown@example.com\nSite:https://www.bender.com/",
+      "DATE": "Invoice Date: 16-Feb-2012",
+      "DISCOUNT": "DISCOUNT(2.52%): (-)  21.71",
+      "DUE_DATE": "Due Date : 23-Aug-2022",
+      "NUMBER": "Invoice number INV/54-94/743",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 861.35  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremy Yang\n912 Charles Forest\nJoshuaburgh, NM 55912 US\nTel:+(785)695-8087\nEmail:timothy94@example.net\nSite:https://www.wise.biz/",
+      "DATE": "Date: 18-Jan-2023",
+      "DISCOUNT": "DISCOUNT(1.59%): (-)  5.44",
+      "DUE_DATE": "Due Date : 01-Dec-2004",
+      "NUMBER": "INVOICE # 3789-599",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 341.98  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Micheal Lane\n589 Danielle Estates Suite 423\nWest Ricky, AS 35313 US\nTel:+(783)101-9811\nEmail:nathan32@example.com\nSite:http://coleman.com/",
+      "DATE": "Date: 15-Feb-1993",
+      "DISCOUNT": "DISCOUNT(1.63%): (-)  8.48",
+      "DUE_DATE": "Due Date : 08-Nov-1998",
+      "NUMBER": "INVOICE # INV/74-59/643",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 520.47  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Ryan\n7084 Justin Station\nWest Amy, PW 40134 US\nTel:+(600)982-4706\nEmail:wbowman@example.net\nSite:https://white.biz/",
+      "DATE": "Date: 27-Jun-2013",
+      "DISCOUNT": "DISCOUNT(1.7%): (-)  10.79",
+      "DUE_DATE": "Due Date : 05-Jul-2012",
+      "NUMBER": "INVOICE ID INV/06-46/199",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 634.46  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Curry\n1152 Erica Inlet Apt. 929\nEast Brittany, TX 00991 US\nTel:+(922)628-7902\nEmail:crystalfrazier@example.org\nSite:http://neal-riley.com/",
+      "DATE": "Invoice Date: 10-May-2007",
+      "DISCOUNT": "DISCOUNT(3.38%): (-)  4.13",
+      "DUE_DATE": "Due Date : 11-Dec-2003",
+      "NUMBER": "INVOICE # 9Y4M7d-111",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 122.30  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Diaz\n340 Ricardo Turnpike Suite 215\nKennethfurt, AL 11921 US\nTel:+(082)076-8026\nEmail:floydgregory@example.org\nSite:https://www.hogan.com/",
+      "DATE": "Invoice Date: 17-Nov-1996",
+      "DISCOUNT": "DISCOUNT(4.52%): (-)  27.27",
+      "DUE_DATE": "Due Date : 24-Jan-2019",
+      "NUMBER": "INVOICE # INV/40-59/420",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 603.39  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Teresa Watkins\n22052 Mitchell Union\nWest Carolmouth, WA 86118 US\nTel:+(407)225-6012\nEmail:laura41@example.net\nSite:http://dominguez-garcia.com/",
+      "DATE": "Date: 02-Jun-2003",
+      "DISCOUNT": "DISCOUNT(2.42%): (-)  25.2",
+      "DUE_DATE": "Due Date : 26-Jul-1994",
+      "NUMBER": "INVOICE # INV/57-57/223",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1041.28  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Powell\n4946 Martin Cape Suite 706\nFordburgh, NE 69189 US\nTel:+(818)345-6129\nEmail:david59@example.org\nSite:http://www.valencia-brown.com/",
+      "DATE": "Invoice Date: 02-Jan-1999",
+      "DISCOUNT": "DISCOUNT(1.13%): (-)  2.04",
+      "DUE_DATE": "Due Date : 28-Nov-2003",
+      "NUMBER": "INVOICE # INV/95-59/166",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 180.44  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Lopez\n080 Steven Camp\nNew Stephenhaven, SD 98636 US\nTel:+(449)756-0237\nEmail:ashea@example.org\nSite:http://chandler-robinson.biz/",
+      "DATE": "Invoice Date: 12-Jan-2002",
+      "DISCOUNT": "DISCOUNT(4.61%): (-)  17.28",
+      "DUE_DATE": "Due Date : 14-Aug-2008",
+      "NUMBER": "INVOICE ID INV/65-62/908",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 374.92  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :April Fernandez\n85873 James Skyway\nScottland, PW 92933 US\nTel:+(989)465-1831\nEmail:gaysandra@example.net\nSite:http://lewis.com/",
+      "DATE": "Invoice Date: 16-Oct-2005",
+      "DISCOUNT": "DISCOUNT(4.61%): (-)  44.58",
+      "DUE_DATE": "Due Date : 16-Nov-2022",
+      "NUMBER": "INVOICE ID INV88260448",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 967.13  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Greg Norris\n5132 Banks Trafficway Suite 787\nLake Matthewhaven, LA 47850 US\nTel:+(547)355-8035\nEmail:gravesdennis@example.net\nSite:http://www.moon-mercer.net/",
+      "DATE": "Invoice Date: 30-Jun-2002",
+      "DISCOUNT": "DISCOUNT(4.76%): (-)  42.3",
+      "DUE_DATE": "Due Date : 30-Apr-2021",
+      "NUMBER": "INVOICE ID INV66987979",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 888.65  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mariah Green\n14967 Young Causeway\nIsaacchester, KY 06737 US\nTel:+(921)996-7385\nEmail:npatterson@example.net\nSite:http://bates.com/",
+      "DATE": "Invoice Date: 06-Jun-2007",
+      "DISCOUNT": "DISCOUNT(3.36%): (-)  1.22",
+      "DUE_DATE": "Due Date : 25-Jun-1996",
+      "NUMBER": "Invoice number 4816-125",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 36.41  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tyler Parks\n694 Gray Curve Suite 402\nWest Mary, OH 25941 US\nTel:+(643)099-9272\nEmail:leslierobinson@example.org\nSite:http://stevens-peters.org/",
+      "DATE": "Invoice Date: 07-Jun-1993",
+      "DISCOUNT": "DISCOUNT(3.61%): (-)  5.91",
+      "DUE_DATE": "Due Date : 29-Mar-2015",
+      "NUMBER": "INVOICE ID INV/46-17/272",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 163.71  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anita Hughes\n8104 Henderson Light Apt. 151\nSouth Eileenville, GA 99469 US\nTel:+(640)265-5004\nEmail:jimbell@example.com\nSite:https://www.kirby-berry.com/",
+      "DATE": "Invoice Date: 28-Aug-2007",
+      "DISCOUNT": "DISCOUNT(2.41%): (-)  13.45",
+      "DUE_DATE": "Due Date : 23-Mar-2017",
+      "NUMBER": "Invoice number INV41848471",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 558.07  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Smith\n373 Donaldson Canyon Suite 132\nPort Willie, ND 65544 US\nTel:+(542)031-2276\nEmail:williamsbrenda@example.org\nSite:http://green-jones.com/",
+      "DATE": "Invoice Date: 25-Jul-2015",
+      "DISCOUNT": "DISCOUNT(2.48%): (-)  21.39",
+      "DUE_DATE": "Due Date : 21-Jun-1998",
+      "NUMBER": "Invoice number INV26387518",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 862.41  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Morrison\n77831 Pruitt Valley\nMelissafort, WY 79982 US\nTel:+(292)871-2355\nEmail:tkim@example.com\nSite:http://stanley.com/",
+      "DATE": "Invoice Date: 29-Jun-2004",
+      "DISCOUNT": "DISCOUNT(1.68%): (-)  13.92",
+      "DUE_DATE": "Due Date : 05-Aug-2012",
+      "NUMBER": "INVOICE # INV/37-23/797",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 828.47  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jacqueline Rodgers\n4157 Wilson Wells\nChristopherfurt, MH 38854 US\nTel:+(671)456-3029\nEmail:ustrong@example.com\nSite:https://brown-parker.com/",
+      "DATE": "Invoice Date: 05-Sep-2008",
+      "DISCOUNT": "DISCOUNT(2.49%): (-)  27.44",
+      "DUE_DATE": "Due Date : 16-Jun-2020",
+      "NUMBER": "INVOICE # INV/77-81/899",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1102.11  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wanda Zimmerman\n9943 Douglas Glens\nTranburgh, MI 27181 US\nTel:+(627)063-7924\nEmail:zacharyanderson@example.org\nSite:https://smith-mccarthy.biz/",
+      "DATE": "Date: 30-Mar-2020",
+      "DISCOUNT": "DISCOUNT(1.13%): (-)  8.87",
+      "DUE_DATE": "Due Date : 01-May-2005",
+      "NUMBER": "Invoice number 6Y6M8d-617",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 784.92  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Wilson\n450 Reed Via Apt. 498\nElijahfurt, KY 04772 US\nTel:+(327)917-5466\nEmail:adriana35@example.org\nSite:http://johnson-ward.com/",
+      "DATE": "Date: 14-May-1993",
+      "DISCOUNT": "DISCOUNT(4.23%): (-)  39.2",
+      "DUE_DATE": "Due Date : 25-Apr-1994",
+      "NUMBER": "INVOICE # INV/39-69/047",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 926.69  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Potts\n279 Lee Hill Apt. 929\nErinmouth, AS 49380 US\nTel:+(886)787-7479\nEmail:vincent78@example.net\nSite:http://www.sharp-george.net/",
+      "DATE": "Date: 06-Jul-2014",
+      "DISCOUNT": "DISCOUNT(4.9%): (-)  38.35",
+      "DUE_DATE": "Due Date : 23-Aug-2007",
+      "NUMBER": "Invoice number 8Y5M3d-167",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 782.58  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Mayer\n527 Jay Fall\nGeorgeshire, PW 09573 US\nTel:+(836)288-7798\nEmail:kylecervantes@example.net\nSite:https://willis.biz/",
+      "DATE": "Invoice Date: 29-Aug-2001",
+      "DISCOUNT": "DISCOUNT(3.66%): (-)  3.29",
+      "DUE_DATE": "Due Date : 25-Sep-1995",
+      "NUMBER": "Invoice number 7Y8M4d-915",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 89.80  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Austin\n4472 Diana Lodge Suite 432\nJacobsonton, AR 61764 US\nTel:+(369)673-5607\nEmail:hardinashley@example.com\nSite:http://www.smith.com/",
+      "DATE": "Date: 15-Apr-1993",
+      "DISCOUNT": "DISCOUNT(2.44%): (-)  16.55",
+      "DUE_DATE": "Due Date : 20-Jun-2014",
+      "NUMBER": "Invoice number INV17074640",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 678.20  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rachel Doyle\n8720 Bryan Trail Apt. 210\nNew Paulborough, PA 61362 US\nTel:+(292)096-1162\nEmail:pcarney@example.com\nSite:https://tucker.org/",
+      "DATE": "Invoice Date: 28-Aug-2015",
+      "DISCOUNT": "DISCOUNT(4.58%): (-)  36.16",
+      "DUE_DATE": "Due Date : 19-Jun-2007",
+      "NUMBER": "INVOICE # INV/58-26/571",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 789.52  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Thomas Boyd\n8198 Edward Locks Apt. 574\nNew Nicole, DE 74020 US\nTel:+(350)183-0617\nEmail:karla07@example.org\nSite:https://www.smith-wells.net/",
+      "DATE": "Date: 01-Mar-2010",
+      "DISCOUNT": "DISCOUNT(4.2%): (-)  19.46",
+      "DUE_DATE": "Due Date : 07-Jun-2016",
+      "NUMBER": "INVOICE ID 0545-170",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 463.40  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Donald Wheeler\n97419 Pearson Mountains\nRichardland, IN 89336 US\nTel:+(794)230-3930\nEmail:jonesdawn@example.net\nSite:https://gonzalez-smith.com/",
+      "DATE": "Date: 09-Aug-1996",
+      "DISCOUNT": "DISCOUNT(3.21%): (-)  13.82",
+      "DUE_DATE": "Due Date : 26-Feb-1993",
+      "NUMBER": "INVOICE ID INV31271613",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 430.50  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Allen\n03944 Anderson Stream Apt. 956\nNorth Elizabeth, MD 91520 US\nTel:+(988)516-1821\nEmail:ohanson@example.net\nSite:http://munoz.org/",
+      "DATE": "Date: 29-Aug-2007",
+      "DISCOUNT": "DISCOUNT(2.62%): (-)  21.04",
+      "DUE_DATE": "Due Date : 03-Oct-2015",
+      "NUMBER": "INVOICE ID INV50536279",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 803.10  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christine Jackson\n97321 Jason Fork Apt. 224\nNorth Jessicastad, ME 50315 US\nTel:+(487)580-1302\nEmail:mejiaamber@example.net\nSite:https://bowers.org/",
+      "DATE": "Date: 23-May-2021",
+      "DISCOUNT": "DISCOUNT(2.67%): (-)  15.74",
+      "DUE_DATE": "Due Date : 29-Jun-2001",
+      "NUMBER": "INVOICE # 6Y8M9d-692",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 589.49  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Haley Reyes\n4983 Matthew Parkways\nLake Alexander, PA 64112 US\nTel:+(273)608-3962\nEmail:billy94@example.net\nSite:https://ramos-gibson.com/",
+      "DATE": "Date: 09-Mar-2001",
+      "DISCOUNT": "DISCOUNT(4.46%): (-)  28.66",
+      "DUE_DATE": "Due Date : 11-Jan-2001",
+      "NUMBER": "INVOICE # 4Y4M6d-894",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 642.69  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cassidy Frazier\n608 Laura Knolls Suite 890\nPort Joshuaton, AK 85858 US\nTel:+(223)158-5620\nEmail:hallmichael@example.net\nSite:https://www.atkins-small.com/",
+      "DATE": "Date: 29-Nov-1999",
+      "DISCOUNT": "DISCOUNT(2.13%): (-)  16.71",
+      "DUE_DATE": "Due Date : 11-Oct-2017",
+      "NUMBER": "INVOICE ID INV/43-75/954",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 784.30  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Palmer\n960 Derrick Canyon\nStephenshire, CA 15714 US\nTel:+(569)246-9124\nEmail:iclay@example.org\nSite:http://www.payne.com/",
+      "DATE": "Invoice Date: 03-Mar-2007",
+      "DISCOUNT": "DISCOUNT(1.01%): (-)  12.96",
+      "DUE_DATE": "Due Date : 17-Jul-1997",
+      "NUMBER": "Invoice number 2Y5M6d-186",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1283.16  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paul Brown\n08751 Sherri View Suite 860\nEast Stevenchester, FM 34490 US\nTel:+(964)664-8370\nEmail:slane@example.org\nSite:https://www.chapman-clark.net/",
+      "DATE": "Invoice Date: 17-Nov-1996",
+      "DISCOUNT": "DISCOUNT(4.58%): (-)  48.25",
+      "DUE_DATE": "Due Date : 21-May-2001",
+      "NUMBER": "Invoice number 5200-474",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1053.46  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Mccarthy\n510 Martin Ford Suite 495\nBryantville, NJ 08107 US\nTel:+(423)490-8491\nEmail:davisstephanie@example.org\nSite:https://page.com/",
+      "DATE": "Date: 05-Apr-2019",
+      "DISCOUNT": "DISCOUNT(4.33%): (-)  33.75",
+      "DUE_DATE": "Due Date : 27-Apr-1994",
+      "NUMBER": "INVOICE ID 5097-016",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 779.34  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Gonzalez\n971 Virginia Road\nSouth Seanport, OH 39010 US\nTel:+(236)735-7841\nEmail:nelsonangelica@example.org\nSite:http://owens.com/",
+      "DATE": "Invoice Date: 07-Sep-2021",
+      "DISCOUNT": "DISCOUNT(3.28%): (-)  17.9",
+      "DUE_DATE": "Due Date : 23-Mar-2017",
+      "NUMBER": "Invoice number 5478-113",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 545.61  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jane Lopez\n2699 Silva Well\nMcdonaldville, OH 92545 US\nTel:+(717)258-6561\nEmail:chenmarcus@example.org\nSite:https://www.brady.info/",
+      "DATE": "Date: 02-Sep-2006",
+      "DISCOUNT": "DISCOUNT(1.82%): (-)  15.55",
+      "DUE_DATE": "Due Date : 10-Jul-2009",
+      "NUMBER": "Invoice number INV/37-96/830",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 854.17  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Frederick Williams\n15554 Stevens Drive\nDouglasfort, MS 61497 US\nTel:+(450)528-3379\nEmail:johnharris@example.net\nSite:http://blankenship.com/",
+      "DATE": "Date: 19-Nov-2014",
+      "DISCOUNT": "DISCOUNT(3.58%): (-)  18.11",
+      "DUE_DATE": "Due Date : 31-Mar-2014",
+      "NUMBER": "INVOICE # INV56293466",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 505.96  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Pittman\n70746 Jeremy Branch Apt. 652\nLake Julie, MP 94010 US\nTel:+(329)667-1881\nEmail:matthew88@example.com\nSite:https://www.little.com/",
+      "DATE": "Invoice Date: 20-Aug-2012",
+      "DISCOUNT": "DISCOUNT(3.9%): (-)  26.84",
+      "DUE_DATE": "Due Date : 27-Apr-2007",
+      "NUMBER": "Invoice number INV57972445",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 688.18  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diane Kelly\n14847 Ferguson Garden\nShermanfurt, DC 27955 US\nTel:+(932)511-5029\nEmail:pauldiaz@example.com\nSite:http://www.rogers.com/",
+      "DATE": "Date: 04-Nov-2010",
+      "DISCOUNT": "DISCOUNT(4.17%): (-)  4.78",
+      "DUE_DATE": "Due Date : 02-Mar-2003",
+      "NUMBER": "INVOICE # 6Y7M3d-109",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 114.56  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Derek Sullivan\n7290 Ashley Springs Apt. 360\nBrittanystad, NV 58559 US\nTel:+(281)624-2330\nEmail:brittany85@example.net\nSite:http://turner.org/",
+      "DATE": "Invoice Date: 01-Oct-2007",
+      "DISCOUNT": "DISCOUNT(2.25%): (-)  12.98",
+      "DUE_DATE": "Due Date : 03-Dec-2002",
+      "NUMBER": "INVOICE ID 6Y8M3d-670",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 576.81  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Smith\n25963 Colton Brook\nLake Elizabeth, WY 85162 US\nTel:+(043)652-2069\nEmail:david39@example.net\nSite:http://soto.com/",
+      "DATE": "Invoice Date: 01-Aug-2006",
+      "DISCOUNT": "DISCOUNT(4.01%): (-)  8.73",
+      "DUE_DATE": "Due Date : 12-Nov-2017",
+      "NUMBER": "INVOICE # 5865-267",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 217.67  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christina Gardner\n551 Williams Rest\nPort Michelle, NM 32090 US\nTel:+(532)139-5221\nEmail:deanna50@example.net\nSite:https://www.stone.net/",
+      "DATE": "Date: 12-May-2010",
+      "DISCOUNT": "DISCOUNT(1.91%): (-)  9.9",
+      "DUE_DATE": "Due Date : 30-Jun-2008",
+      "NUMBER": "INVOICE ID INV57369743",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 518.10  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Shepherd\n193 White Rue Suite 097\nAguilarport, PW 76286 US\nTel:+(168)470-8280\nEmail:veronicaarnold@example.org\nSite:https://harvey-ferguson.info/",
+      "DATE": "Date: 22-Oct-2003",
+      "DISCOUNT": "DISCOUNT(2.04%): (-)  22.23",
+      "DUE_DATE": "Due Date : 16-Oct-1999",
+      "NUMBER": "INVOICE # INV/69-48/593",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1089.69  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cynthia Cain\n8698 Gilmore Canyon Suite 573\nLake David, PR 78875 US\nTel:+(002)616-5057\nEmail:johndodson@example.org\nSite:https://johnson.org/",
+      "DATE": "Date: 21-Aug-2011",
+      "DISCOUNT": "DISCOUNT(3.21%): (-)  7.1",
+      "DUE_DATE": "Due Date : 28-Sep-2000",
+      "NUMBER": "INVOICE # INV/04-01/796",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 221.26  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Philip Hernandez\n92995 Sanchez Square Suite 355\nWest Samuelton, VA 88767 US\nTel:+(862)938-3263\nEmail:lisa82@example.org\nSite:http://www.brown-wu.org/",
+      "DATE": "Invoice Date: 10-Apr-2003",
+      "DISCOUNT": "DISCOUNT(1.79%): (-)  16.19",
+      "DUE_DATE": "Due Date : 19-May-2015",
+      "NUMBER": "INVOICE # INV04426083",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 904.68  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Watson\n655 Jillian Locks\nJosephville, AS 77118 US\nTel:+(855)910-8142\nEmail:twilliams@example.org\nSite:http://www.perry.com/",
+      "DATE": "Invoice Date: 28-Dec-2003",
+      "DISCOUNT": "DISCOUNT(4.35%): (-)  12.89",
+      "DUE_DATE": "Due Date : 11-May-1994",
+      "NUMBER": "INVOICE ID INV44213657",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 296.43  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Morgan Whitaker\n7713 Huerta Crossing Suite 173\nThomasmouth, ND 65183 US\nTel:+(626)298-2805\nEmail:njensen@example.org\nSite:https://www.moore.biz/",
+      "DATE": "Date: 01-Mar-2002",
+      "DISCOUNT": "DISCOUNT(4.29%): (-)  28.58",
+      "DUE_DATE": "Due Date : 26-Jul-1995",
+      "NUMBER": "Invoice number 5Y3M2d-532",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 666.17  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Angela Horn\n1745 Gibson Ville Apt. 469\nDeborahberg, OR 32777 US\nTel:+(382)849-2214\nEmail:aarnold@example.org\nSite:http://www.mack.biz/",
+      "DATE": "Date: 24-Jun-2011",
+      "DISCOUNT": "DISCOUNT(4.18%): (-)  18.26",
+      "DUE_DATE": "Due Date : 11-Apr-2019",
+      "NUMBER": "INVOICE ID INV/04-86/459",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 436.83  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Laurie Ware\n5319 Spence Turnpike\nWest Thomasfurt, WA 02318 US\nTel:+(195)611-4801\nEmail:tracie39@example.org\nSite:https://www.morgan.net/",
+      "DATE": "Date: 01-Jul-1998",
+      "DISCOUNT": "DISCOUNT(1.57%): (-)  9.7",
+      "DUE_DATE": "Due Date : 28-Apr-2007",
+      "NUMBER": "Invoice number INV03156355",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 618.11  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Destiny Hernandez\n937 Shannon Station\nRobertstad, MA 63630 US\nTel:+(394)232-5582\nEmail:nicolegonzalez@example.com\nSite:https://martin.com/",
+      "DATE": "Date: 05-Jan-2003",
+      "DISCOUNT": "DISCOUNT(4.79%): (-)  46.03",
+      "DUE_DATE": "Due Date : 23-Jul-2014",
+      "NUMBER": "INVOICE ID 7845-052",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 961.02  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Mann\n129 Cindy Center\nAndrewmouth, OR 22544 US\nTel:+(922)185-9065\nEmail:russellstafford@example.net\nSite:https://www.hebert-bentley.com/",
+      "DATE": "Date: 18-Jul-2013",
+      "DISCOUNT": "DISCOUNT(2.7%): (-)  27.76",
+      "DUE_DATE": "Due Date : 29-Dec-2013",
+      "NUMBER": "Invoice number INV46295668",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1028.31  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeffrey Jarvis\n61144 Newton Pass Apt. 174\nLake Johntown, TN 53549 US\nTel:+(637)820-9485\nEmail:mkim@example.com\nSite:http://joyce-schmidt.org/",
+      "DATE": "Invoice Date: 01-Sep-2000",
+      "DISCOUNT": "DISCOUNT(2.12%): (-)  7.26",
+      "DUE_DATE": "Due Date : 15-Feb-1993",
+      "NUMBER": "INVOICE ID 1097-265",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 342.48  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Walters\n000 Alyssa Vista\nEast Erikton, CA 80585 US\nTel:+(898)989-0423\nEmail:michealboyer@example.net\nSite:https://www.russell.com/",
+      "DATE": "Invoice Date: 19-Aug-2014",
+      "DISCOUNT": "DISCOUNT(4.26%): (-)  13.29",
+      "DUE_DATE": "Due Date : 20-Jan-2017",
+      "NUMBER": "INVOICE ID INV40469385",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 311.98  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alex Allen\n2118 Bautista Islands Apt. 152\nNew Cassandraside, CT 58302 US\nTel:+(837)235-7102\nEmail:tbrown@example.com\nSite:https://garcia.info/",
+      "DATE": "Invoice Date: 23-Sep-2001",
+      "DISCOUNT": "DISCOUNT(2.23%): (-)  9.3",
+      "DUE_DATE": "Due Date : 07-Jan-1999",
+      "NUMBER": "Invoice number 2217-052",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 417.20  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Alexander\n065 Thomas Curve Apt. 651\nJasonport, AZ 12309 US\nTel:+(389)604-3490\nEmail:fsmith@example.org\nSite:http://kennedy.com/",
+      "DATE": "Date: 06-Jan-2004",
+      "DISCOUNT": "DISCOUNT(1.37%): (-)  16.31",
+      "DUE_DATE": "Due Date : 30-Nov-2022",
+      "NUMBER": "Invoice number 3Y8M1d-728",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1190.86  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Chambers\n5494 Cynthia Mills\nPort Annaburgh, MO 53910 US\nTel:+(437)207-3232\nEmail:patelthomas@example.com\nSite:https://www.robinson-little.net/",
+      "DATE": "Invoice Date: 19-Oct-2000",
+      "DISCOUNT": "DISCOUNT(4.44%): (-)  23.14",
+      "DUE_DATE": "Due Date : 11-Jul-2003",
+      "NUMBER": "Invoice number 8560-121",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 521.13  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patrick Cross\n7689 Martinez Springs Apt. 472\nNew Nicholas, WY 00608 US\nTel:+(786)730-9905\nEmail:montesamanda@example.org\nSite:https://www.brown-thompson.org/",
+      "DATE": "Date: 28-Mar-2014",
+      "DISCOUNT": "DISCOUNT(2.6%): (-)  11.26",
+      "DUE_DATE": "Due Date : 15-Feb-2015",
+      "NUMBER": "INVOICE # 2Y6M2d-703",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 432.98  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Reese\n0007 Christopher Drive\nLake Jillborough, MS 05494 US\nTel:+(408)772-2492\nEmail:ajenkins@example.net\nSite:https://hall-jackson.com/",
+      "DATE": "Invoice Date: 12-Jun-1996",
+      "DISCOUNT": "DISCOUNT(4.64%): (-)  31.76",
+      "DUE_DATE": "Due Date : 16-May-2014",
+      "NUMBER": "INVOICE ID 7957-043",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 684.54  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Martin\n12501 Jacobson Trafficway\nNew Jenniferview, OK 18524 US\nTel:+(661)693-0512\nEmail:charles94@example.org\nSite:https://www.benton.biz/",
+      "DATE": "Invoice Date: 11-Jun-2021",
+      "DISCOUNT": "DISCOUNT(3.0%): (-)  12.42",
+      "DUE_DATE": "Due Date : 03-Mar-2004",
+      "NUMBER": "INVOICE ID 7Y3M1d-121",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 414.09  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Vickie Manning\n72320 Kevin Prairie\nJacksonville, CT 77051 US\nTel:+(127)968-6851\nEmail:wkirk@example.net\nSite:https://www.green-morgan.com/",
+      "DATE": "Date: 10-Dec-2001",
+      "DISCOUNT": "DISCOUNT(3.73%): (-)  24.12",
+      "DUE_DATE": "Due Date : 14-Mar-2001",
+      "NUMBER": "INVOICE ID 7724-071",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 646.62  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template15_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Randy Stephenson\n741 Burns Terrace\nSloanchester, TN 18744 US\nTel:+(900)276-6994\nEmail:thomasalyssa@example.com\nSite:http://www.carter.com/",
+      "DATE": "Date: 22-Oct-2001",
+      "DISCOUNT": "DISCOUNT(1.16%): (-)  11.76",
+      "DUE_DATE": "Due Date : 04-Sep-2018",
+      "NUMBER": "Invoice number INV/38-30/338",
+      "SELLER_ADDRESS": "Address:744 Hernandez Hollow Apt. 459\nRossville, UT 53295 US",
+      "SELLER_EMAIL": "Email:stephenfoster@example.net",
+      "SUB_TOTAL": "SUB_TOTAL : 1013.47  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "image": "Template49_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alan Burgess\n36366 Ashley Hill\nDavidstad, MH 28727 US\nTel:+(611)544-3595\nEmail:james74@example.net\nSite:https://www.wheeler.com/",
+      "BILL_TO": "BILL_TO:\nRobert Adams\n85207 James Lodge\nLake Austinshire, MO 21133 US\nTel:+(172)730-9609\nEmail:hartpeter@example.net\nSite:http://roach.com/",
+      "DATE": "Date: 01-Dec-2009",
+      "NUMBER": "INVOICE # INV/49-76/493",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 455.11  USD",
+      "TOTAL": "BALANCE DUE : 468.43 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixty-\n-eight point four three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Martinez\n3593 Montgomery Fords Apt. 751\nWest Raymond, NV 88240 US\nTel:+(520)394-0621\nEmail:henryturner@example.com\nSite:http://www.knapp-garcia.com/",
+      "BILL_TO": "BILL_TO:\nKevin Rodriguez\n2888 Rachel Ridge\nEdwardberg, NM 16593 US\nTel:+(512)869-6411\nEmail:denise79@example.org\nSite:http://thomas-wright.org/",
+      "DATE": "Invoice Date: 21-Mar-2014",
+      "NUMBER": "INVOICE ID 1Y7M4d-068",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 405.84  USD",
+      "TOTAL": "BALANCE DUE : 423.48 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and twenty-\n-three point four eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Duncan\n85790 Sandra Viaduct Suite 155\nNew Brianbury, AR 64779 US\nTel:+(378)056-5809\nEmail:erinsmith@example.com\nSite:http://www.rogers.info/",
+      "BILL_TO": "BILL_TO:\nRyan Terry\n5347 Moody Center Apt. 820\nSouth Natasha, ME 44492 US\nTel:+(858)059-0612\nEmail:simmonsshannon@example.net\nSite:https://rhodes.net/",
+      "DATE": "Date: 20-Feb-2014",
+      "NUMBER": "INVOICE # 6368-865",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1206.21  EUR",
+      "TOTAL": "BALANCE DUE : 1273.85 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred and -\nseventy-three point eight five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Arthur Turner\n0924 Jones Fork\nRobintown, ME 71466 US\nTel:+(084)581-0690\nEmail:rjackson@example.org\nSite:https://www.collins.net/",
+      "BILL_TO": "BILL_TO:\nRachel Lopez\n67091 Miller Plains Suite 922\nSheryltown, FL 19070 US\nTel:+(759)806-2401\nEmail:laura55@example.org\nSite:https://cortez.org/",
+      "DATE": "Date: 27-Dec-1998",
+      "NUMBER": "INVOICE # INV/50-30/536",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 517.63  USD",
+      "TOTAL": "BALANCE DUE : 523.54 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-three point five four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sonya Patrick\n410 Roman Valley\nWest Rileymouth, AS 78203 US\nTel:+(494)101-4561\nEmail:nathaniel60@example.com\nSite:http://www.morrison.com/",
+      "BILL_TO": "BILL_TO:\nMegan Thornton\n876 White Pines\nNicoleshire, SD 65625 US\nTel:+(585)226-6546\nEmail:nfrancis@example.com\nSite:https://cortez-williams.com/",
+      "DATE": "Invoice Date: 05-Jan-2009",
+      "NUMBER": "INVOICE # INV66384599",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 490.78  USD",
+      "TOTAL": "BALANCE DUE : 514.12 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and fo-\nurteen point one two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Small\n0726 Solomon Light\nNorth Matthewmouth, NC 06238 US\nTel:+(076)868-8594\nEmail:laurenweaver@example.net\nSite:http://www.kennedy-potts.com/",
+      "BILL_TO": "BILL_TO:\nChristopher Harris\n50681 Allen Islands\nNorth Brian, NE 78299 US\nTel:+(145)705-0675\nEmail:kathy04@example.net\nSite:https://andrews.com/",
+      "DATE": "Invoice Date: 04-Jan-2017",
+      "NUMBER": "Invoice number 2Y5M7d-039",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 876.64  EUR",
+      "TOTAL": "BALANCE DUE : 903.67 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and th-\nree point six seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Candice Koch\n3114 Mcintosh Stravenue Apt. 997\nNew Michaelfort, GA 40639 US\nTel:+(737)207-6895\nEmail:gshelton@example.org\nSite:http://gibson.com/",
+      "BILL_TO": "BILL_TO:\nHannah Mckinney\n1506 Holland Manor Suite 684\nWest Ronaldview, WV 49672 US\nTel:+(855)597-9858\nEmail:daniel07@example.org\nSite:http://www.davis.net/",
+      "DATE": "Date: 06-Dec-2022",
+      "NUMBER": "Invoice number 3Y5M1d-320",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 805.29  USD",
+      "TOTAL": "BALANCE DUE : 839.17 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-nine point one seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mr. Steven Garcia\n008 Timothy Junction\nCraigside, LA 28198 US\nTel:+(588)945-2808\nEmail:ywallace@example.net\nSite:https://www.banks.biz/",
+      "BILL_TO": "BILL_TO:\nSabrina Woods\n7511 Bowers Haven Apt. 671\nNew Anthonymouth, LA 66094 US\nTel:+(643)581-4669\nEmail:uoliver@example.org\nSite:http://www.brown-cooper.info/",
+      "DATE": "Invoice Date: 04-Mar-2022",
+      "NUMBER": "INVOICE # 8032-248",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1189.62  USD",
+      "TOTAL": "BALANCE DUE : 1211.44 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred -\nand eleven point four four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Powell\n099 Moore Viaduct Apt. 515\nHarveyland, OK 94472 US\nTel:+(770)426-2751\nEmail:cartermeredith@example.com\nSite:http://church-hawkins.biz/",
+      "BILL_TO": "BILL_TO:\nLisa Medina\n79727 Robert Gateway Suite 496\nJasonton, AK 07993 US\nTel:+(984)631-9000\nEmail:gatesmelinda@example.com\nSite:https://allen.com/",
+      "DATE": "Invoice Date: 03-Jan-2005",
+      "NUMBER": "INVOICE ID INV/65-18/902",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 344.57  $",
+      "TOTAL": "BALANCE DUE : 351.05 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fif-\nty-one point zero five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Lopez\n430 Stafford Lake\nLake Laura, MO 62592 US\nTel:+(325)309-5093\nEmail:qmack@example.net\nSite:http://www.howard-mccormick.com/",
+      "BILL_TO": "BILL_TO:\nJeffrey Ward\n85517 Erickson Circles Apt. 294\nLake James, PW 16940 US\nTel:+(325)169-9824\nEmail:jacksonjon@example.net\nSite:https://smith-jones.net/",
+      "DATE": "Date: 08-Jul-2017",
+      "NUMBER": "INVOICE ID INV/49-18/536",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 387.53  USD",
+      "TOTAL": "BALANCE DUE : 387.99 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and eight-\ny-seven point nine nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Caitlin Evans\n832 Elizabeth Shoal\nWest Kathy, CT 25139 US\nTel:+(950)794-1944\nEmail:caseybarbara@example.net\nSite:http://austin.com/",
+      "BILL_TO": "BILL_TO:\nSarah Bryant\n24553 Weaver Island\nSalinaschester, IL 78120 US\nTel:+(526)422-8347\nEmail:lauriecooper@example.com\nSite:https://www.diaz-long.com/",
+      "DATE": "Invoice Date: 18-Jan-2011",
+      "NUMBER": "INVOICE # INV/32-77/615",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 589.89  USD",
+      "TOTAL": "BALANCE DUE : 600.80 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred-\npoint eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Rodriguez\n6597 Lewis Crossing\nFrazierport, MO 54920 US\nTel:+(162)487-6857\nEmail:randallmiller@example.org\nSite:https://miller-watkins.com/",
+      "BILL_TO": "BILL_TO:\nDevin Hall\n983 Baker Mall Suite 895\nRussellland, NY 35992 US\nTel:+(719)404-6221\nEmail:ygarcia@example.org\nSite:https://hanson-reese.org/",
+      "DATE": "Date: 03-Sep-1998",
+      "NUMBER": "INVOICE ID INV/87-76/099",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 396.56  EUR",
+      "TOTAL": "BALANCE DUE : 405.20 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred an-\nd five point two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Courtney Aguirre\n7988 Judith Junction\nTheresafort, NV 02583 US\nTel:+(925)734-2164\nEmail:russellalvarez@example.org\nSite:https://simpson-chavez.com/",
+      "BILL_TO": "BILL_TO:\nDaniel Sellers\n547 Kaitlin Island Suite 017\nNew Matthew, MS 69236 US\nTel:+(287)218-3532\nEmail:gregory35@example.net\nSite:https://johnson.com/",
+      "DATE": "Date: 22-Jul-2011",
+      "NUMBER": "INVOICE # INV/79-00/596",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1076.47  $",
+      "TOTAL": "BALANCE DUE : 1129.64 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd twenty-nine point six four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Penny Edwards\n39164 Bruce Ramp Suite 587\nWest Jessicaberg, LA 28277 US\nTel:+(496)846-3929\nEmail:palmerhelen@example.org\nSite:http://www.adams.com/",
+      "BILL_TO": "BILL_TO:\nBianca Prince\n5071 Weaver Parks Apt. 117\nBakerchester, TN 28929 US\nTel:+(490)165-2880\nEmail:rbriggs@example.net\nSite:http://schmidt.com/",
+      "DATE": "Date: 22-May-2017",
+      "NUMBER": "INVOICE ID 4Y5M5d-387",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 266.41  EUR",
+      "TOTAL": "BALANCE DUE : 275.94 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sevent-\ny-five point nine four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kenneth Miller\n763 Santiago Radial\nWest Amyville, IN 60538 US\nTel:+(876)668-8492\nEmail:trodriguez@example.com\nSite:http://www.garza.net/",
+      "BILL_TO": "BILL_TO:\nShelia Wallace\n973 Jennifer Isle\nHeatherbury, IA 04694 US\nTel:+(207)752-3072\nEmail:lorettamcbride@example.org\nSite:http://white-mcintosh.com/",
+      "DATE": "Date: 26-Apr-2017",
+      "NUMBER": "INVOICE ID 5245-651",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 193.16  USD",
+      "TOTAL": "BALANCE DUE : 198.27 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninety-\n-eight point two seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandi Sharp\n5599 Miller Crescent\nDennismouth, ID 55223 US\nTel:+(264)175-4330\nEmail:uharris@example.org\nSite:http://baker.com/",
+      "BILL_TO": "BILL_TO:\nEmily Huffman MD\n20115 Macdonald Meadows\nSouth Chloeborough, MO 78272 US\nTel:+(333)892-7213\nEmail:jamesjason@example.com\nSite:https://porter.net/",
+      "DATE": "Date: 11-Jun-2007",
+      "NUMBER": "INVOICE # INV53432803",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 687.37  USD",
+      "TOTAL": "BALANCE DUE : 717.34 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnteen point three four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cindy Barnett\n5584 Maria Overpass\nNorth Charles, HI 61655 US\nTel:+(546)089-5439\nEmail:khall@example.org\nSite:http://leonard.com/",
+      "BILL_TO": "BILL_TO:\nTrevor Boyd\n325 Bennett Parks Apt. 155\nNew Alexanderberg, AS 04618 US\nTel:+(470)226-2633\nEmail:andrewjones@example.com\nSite:https://www.mckee.com/",
+      "DATE": "Invoice Date: 05-Jul-2022",
+      "NUMBER": "Invoice number 9Y7M3d-567",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 483.34  USD",
+      "TOTAL": "BALANCE DUE : 487.95 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-seven point nine five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jonathan Nichols\n13901 Ortiz Bridge\nSouth Richardland, NJ 79536 US\nTel:+(695)471-7081\nEmail:dominguezsheri@example.com\nSite:https://moore-johnson.com/",
+      "BILL_TO": "BILL_TO:\nDavid Shepard\n9216 Marks Loop Suite 019\nPort Davidmouth, WI 66660 US\nTel:+(380)310-8881\nEmail:ryoder@example.org\nSite:https://www.gonzalez-bennett.org/",
+      "DATE": "Invoice Date: 26-Sep-2010",
+      "NUMBER": "INVOICE # 9292-640",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 905.96  USD",
+      "TOTAL": "BALANCE DUE : 922.35 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and twent-\ny-two point three five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Edward Alvarado\n55768 Williams Branch\nSouth Patrickmouth, AR 45329 US\nTel:+(003)231-7057\nEmail:pagemegan@example.com\nSite:http://white.com/",
+      "BILL_TO": "BILL_TO:\nSean Williamson\n6648 Jennifer Corner Suite 467\nEast Jillhaven, MT 56804 US\nTel:+(421)903-7174\nEmail:john31@example.com\nSite:http://www.larson-lewis.org/",
+      "DATE": "Invoice Date: 14-Nov-2004",
+      "NUMBER": "INVOICE ID INV00025901",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 354.10  USD",
+      "TOTAL": "BALANCE DUE : 361.75 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-one point seven five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nancy Ramirez\n55438 Stacy Run\nZacharyberg, AS 56545 US\nTel:+(877)838-7430\nEmail:ymontes@example.net\nSite:http://turner.org/",
+      "BILL_TO": "BILL_TO:\nRyan Noble\n635 Serrano Meadows Suite 708\nPhillipsmouth, GU 23793 US\nTel:+(144)695-6243\nEmail:masseyjason@example.org\nSite:http://jones-williams.com/",
+      "DATE": "Invoice Date: 27-Jul-2014",
+      "NUMBER": "Invoice number 3358-110",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 521.87  $",
+      "TOTAL": "BALANCE DUE : 528.39 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and twenty-\n-eight point three nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rebecca Johnson\n94072 Ingram Rapid Suite 066\nNew Amymouth, RI 65376 US\nTel:+(624)357-0473\nEmail:lopezvictor@example.com\nSite:https://davis-hurley.com/",
+      "BILL_TO": "BILL_TO:\nDaniel Lopez\n484 Craig Tunnel Suite 983\nBonnieside, CO 72887 US\nTel:+(914)286-0086\nEmail:qoconnor@example.net\nSite:https://wilson.com/",
+      "DATE": "Date: 03-Feb-2002",
+      "NUMBER": "INVOICE # 2859-107",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 417.08  $",
+      "TOTAL": "BALANCE DUE : 433.33 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirty-\n-three point three three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cindy Austin\n72217 Dawn Inlet\nWaltersbury, OK 67765 US\nTel:+(807)468-2703\nEmail:danielle38@example.org\nSite:https://www.carey.com/",
+      "BILL_TO": "BILL_TO:\nJonathan Duffy\n66325 Brittany Junction\nRussellstad, ID 97774 US\nTel:+(339)951-5805\nEmail:davidgarcia@example.com\nSite:http://taylor.com/",
+      "DATE": "Invoice Date: 05-Jan-2012",
+      "NUMBER": "INVOICE # INV06085506",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 919.26  USD",
+      "TOTAL": "BALANCE DUE : 939.09 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and thirt-\ny-nine point zero nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Edward Small Jr.\n557 Shawn Mills\nJosephton, HI 63243 US\nTel:+(498)865-8376\nEmail:lynchcharles@example.net\nSite:http://shah.com/",
+      "BILL_TO": "BILL_TO:\nRachel Dalton\n7692 Paul Burg Apt. 381\nNorth Cynthiaport, GU 95872 US\nTel:+(357)023-2672\nEmail:sturner@example.com\nSite:http://martinez.net/",
+      "DATE": "Invoice Date: 13-Nov-2017",
+      "NUMBER": "Invoice number INV65924684",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 733.70  USD",
+      "TOTAL": "BALANCE DUE : 733.78 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirty-\n-three point seven eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mr. Paul Kerr\n33358 Bryan Passage\nEast Nina, FM 59614 US\nTel:+(327)106-6558\nEmail:mccartygabrielle@example.net\nSite:https://www.levy-hayes.info/",
+      "BILL_TO": "BILL_TO:\nMichael Mason\n7142 Hannah Dam\nLake Sara, WY 11121 US\nTel:+(825)842-3180\nEmail:charleshaney@example.org\nSite:http://rodriguez-hardy.net/",
+      "DATE": "Invoice Date: 26-Oct-2020",
+      "NUMBER": "INVOICE # 9785-196",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1021.76  USD",
+      "TOTAL": "BALANCE DUE : 1067.33 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and sixty--\nseven point three three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patricia Walker\n957 Charles Flat Suite 016\nWest Ericaton, DC 10505 US\nTel:+(132)558-0799\nEmail:shirleycooper@example.org\nSite:https://www.roberts.com/",
+      "BILL_TO": "BILL_TO:\nCheryl Baker\n590 Michael Garden\nWest Jimmyside, PW 52561 US\nTel:+(345)452-9899\nEmail:riosjohn@example.net\nSite:http://washington.com/",
+      "DATE": "Invoice Date: 28-Aug-2017",
+      "NUMBER": "INVOICE # 8534-320",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 958.26  EUR",
+      "TOTAL": "BALANCE DUE : 990.84 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and nin-\nety point eight four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Mckenzie\n50497 Hansen Overpass\nNew Lindsay, OR 80922 US\nTel:+(276)823-1736\nEmail:brandysimpson@example.net\nSite:http://www.short-garcia.info/",
+      "BILL_TO": "BILL_TO:\nApril Robinson\n15216 Salinas Grove\nSouth Jamesmouth, ME 87700 US\nTel:+(332)297-2582\nEmail:yyoung@example.org\nSite:http://thomas-hendricks.com/",
+      "DATE": "Date: 10-Jul-2013",
+      "NUMBER": "Invoice number INV03065807",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 838.15  $",
+      "TOTAL": "BALANCE DUE : 862.04 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and six-\nty-two point zero four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mitchell Obrien DDS\n944 Jones Track Apt. 986\nNew Jacobfort, MA 17626 US\nTel:+(184)121-3562\nEmail:kylegilmore@example.com\nSite:http://www.wood.com/",
+      "BILL_TO": "BILL_TO:\nShane Bartlett\n797 Pamela Isle Apt. 652\nValerieville, IA 39644 US\nTel:+(250)382-0969\nEmail:moorebrandon@example.com\nSite:http://www.heath.com/",
+      "DATE": "Invoice Date: 05-Apr-2005",
+      "NUMBER": "INVOICE # INV38918410",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 414.66  USD",
+      "TOTAL": "BALANCE DUE : 415.39 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and fif-\nteen point three nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Donna Maxwell\n286 Julie Valleys Suite 991\nLake Troychester, LA 74214 US\nTel:+(220)755-1273\nEmail:aimeescott@example.org\nSite:http://www.robertson.com/",
+      "BILL_TO": "BILL_TO:\nMr. Travis Mcdonald\n277 Campbell Circle Apt. 667\nPort Christinachester, AK 42291 US\nTel:+(925)007-2497\nEmail:dennismelissa@example.org\nSite:http://wright.org/",
+      "DATE": "Invoice Date: 23-Oct-2017",
+      "NUMBER": "Invoice number 4Y3M2d-618",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 404.92  USD",
+      "TOTAL": "BALANCE DUE : 401.42 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and -\none point four two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Corey Harrison\n21880 Powell Turnpike\nNorth Stacystad, GA 90882 US\nTel:+(891)371-1172\nEmail:todd72@example.net\nSite:https://www.davis-hill.com/",
+      "BILL_TO": "BILL_TO:\nDavid Hogan\n24318 Scott Extension Apt. 342\nKristinport, FL 61911 US\nTel:+(336)176-6453\nEmail:courtney22@example.org\nSite:http://www.vaughan-miller.org/",
+      "DATE": "Invoice Date: 28-Apr-2020",
+      "NUMBER": "Invoice number 6Y6M7d-639",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 117.20  EUR",
+      "TOTAL": "BALANCE DUE : 119.05 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and nine-\nteen point zero five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Brown\n144 Rodriguez Falls\nCochranstad, MN 95296 US\nTel:+(924)140-9694\nEmail:lozanojuan@example.com\nSite:http://chavez.com/",
+      "BILL_TO": "BILL_TO:\nChristopher Vance\n295 Morales Court Suite 549\nNguyenhaven, WI 23791 US\nTel:+(687)779-3963\nEmail:ktaylor@example.org\nSite:https://munoz.com/",
+      "DATE": "Invoice Date: 18-Sep-1993",
+      "NUMBER": "INVOICE ID 2287-880",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 197.04  EUR",
+      "TOTAL": "BALANCE DUE : 204.16 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and f-\nour point one six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brendan Rivera\n296 Cox Locks\nEast Michael, ID 16343 US\nTel:+(168)009-9295\nEmail:bwilliams@example.org\nSite:http://burton.com/",
+      "BILL_TO": "BILL_TO:\nAnthony Vega\n0310 Amy Parks Apt. 247\nStephanieport, WA 41307 US\nTel:+(842)502-4095\nEmail:walkercarlos@example.org\nSite:https://perry.com/",
+      "DATE": "Date: 27-May-1993",
+      "NUMBER": "INVOICE ID INV/60-30/942",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1017.79  EUR",
+      "TOTAL": "BALANCE DUE : 1041.38 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and forty-\n-one point three eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joshua Bailey\n75864 Alvarez Villages\nSouth Jeremiah, IL 26915 US\nTel:+(210)111-3967\nEmail:elizabethjones@example.com\nSite:https://www.foster.com/",
+      "BILL_TO": "BILL_TO:\nOscar Wyatt\n8896 Pennington Oval\nWest Sonya, WY 17379 US\nTel:+(089)467-7113\nEmail:pbullock@example.net\nSite:https://ross.com/",
+      "DATE": "Date: 01-Jun-2008",
+      "NUMBER": "Invoice number 8Y4M7d-878",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1585.44  EUR",
+      "TOTAL": "BALANCE DUE : 1579.32 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hundred an-\nd seventy-nine point three two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Payne\n7849 Dylan Ville Suite 803\nNorth Latoya, ND 50650 US\nTel:+(430)906-9392\nEmail:nmoody@example.org\nSite:https://www.sharp.biz/",
+      "BILL_TO": "BILL_TO:\nKristen Wright\n6816 Tonya Skyway Suite 719\nCharlesstad, ND 53844 US\nTel:+(091)098-7244\nEmail:njones@example.org\nSite:http://davis-rodriguez.com/",
+      "DATE": "Invoice Date: 24-Mar-1999",
+      "NUMBER": "INVOICE # INV/15-49/141",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 111.72  EUR",
+      "TOTAL": "BALANCE DUE : 114.36 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and four-\nteen point three six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gary Delgado\n482 Megan Manors Suite 869\nPruittburgh, DE 73386 US\nTel:+(215)327-3468\nEmail:kevin72@example.org\nSite:http://www.powell.com/",
+      "BILL_TO": "BILL_TO:\nErik Beasley\n55684 Sarah Springs Apt. 309\nMargaretport, WA 87223 US\nTel:+(455)605-2340\nEmail:seanabbott@example.net\nSite:http://www.hammond-lindsey.com/",
+      "DATE": "Date: 18-Feb-1995",
+      "NUMBER": "INVOICE ID INV95558511",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 503.80  USD",
+      "TOTAL": "BALANCE DUE : 517.11 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sev-\nenteen point one one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Harrison DDS\n31592 Chad River\nCurtisville, OH 02862 US\nTel:+(519)369-4172\nEmail:debbie71@example.com\nSite:https://diaz.com/",
+      "BILL_TO": "BILL_TO:\nAdam Sandoval\n2311 Harmon Springs\nWest Heather, PW 64537 US\nTel:+(336)512-3771\nEmail:lopezanthony@example.org\nSite:https://harvey.com/",
+      "DATE": "Invoice Date: 09-Nov-2006",
+      "NUMBER": "Invoice number INV16740462",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 401.28  USD",
+      "TOTAL": "BALANCE DUE : 404.41 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and f-\nour point four one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alejandra Jensen\n5574 Jennifer Course Suite 084\nEast Nancyberg, MH 22757 US\nTel:+(363)627-1755\nEmail:qanderson@example.org\nSite:http://allen-smith.net/",
+      "BILL_TO": "BILL_TO:\nRaymond Richardson\n33217 Joseph Springs\nWest Joseph, MD 84473 US\nTel:+(943)565-9389\nEmail:joseph90@example.com\nSite:https://www.davis.org/",
+      "DATE": "Invoice Date: 26-Feb-2005",
+      "NUMBER": "INVOICE ID INV/32-70/818",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 750.10  $",
+      "TOTAL": "BALANCE DUE : 765.99 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-five point nine nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Larry Doyle\n33019 Tucker Courts\nEast Amy, ID 17691 US\nTel:+(687)166-0922\nEmail:arthurstephens@example.org\nSite:http://www.nash.com/",
+      "BILL_TO": "BILL_TO:\nMichael Burns\n450 Collins Gateway\nLake Michaelshire, NC 30821 US\nTel:+(995)151-6259\nEmail:robinsonrachel@example.com\nSite:https://www.henson.org/",
+      "DATE": "Invoice Date: 17-Dec-2016",
+      "NUMBER": "INVOICE ID INV/39-09/688",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 484.52  USD",
+      "TOTAL": "BALANCE DUE : 485.64 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-five point six four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paula Rubio\n5531 Sergio Island Suite 601\nKingside, KS 98102 US\nTel:+(627)655-0355\nEmail:shawmichelle@example.com\nSite:https://www.edwards.org/",
+      "BILL_TO": "BILL_TO:\nAmber Flores\n3687 Acevedo Freeway\nNorth Tiffanyville, IL 60343 US\nTel:+(057)120-0847\nEmail:qcasey@example.net\nSite:https://lloyd-steele.org/",
+      "DATE": "Invoice Date: 31-May-2016",
+      "NUMBER": "INVOICE ID INV/70-92/454",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 342.65  $",
+      "TOTAL": "BALANCE DUE : 348.78 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and forty-\n-eight point seven eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Frank Stewart\n57292 Sherman Coves Suite 761\nCarolynville, FM 65672 US\nTel:+(132)099-5257\nEmail:hansonmelissa@example.net\nSite:https://www.bishop.com/",
+      "BILL_TO": "BILL_TO:\nWendy Page\n770 Shelton Hill Suite 726\nEast Brian, ME 66600 US\nTel:+(224)762-6683\nEmail:eatondouglas@example.com\nSite:http://www.webster.com/",
+      "DATE": "Invoice Date: 17-Jun-1998",
+      "NUMBER": "INVOICE # INV02789060",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 508.01  $",
+      "TOTAL": "BALANCE DUE : 501.46 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and -\none point four six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Hoover\n2697 Martin Island\nWrightville, CT 64289 US\nTel:+(401)877-6133\nEmail:istevens@example.com\nSite:https://martin.biz/",
+      "BILL_TO": "BILL_TO:\nJennifer Davis\n8397 Maxwell Trail\nDeckermouth, MH 16456 US\nTel:+(845)700-8637\nEmail:spencermark@example.net\nSite:http://willis.com/",
+      "DATE": "Date: 07-Mar-2004",
+      "NUMBER": "INVOICE ID 9Y3M6d-525",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 516.78  $",
+      "TOTAL": "BALANCE DUE : 514.10 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and -\nfourteen point one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Virginia Gibson\n7614 Walker Canyon Apt. 209\nLake Diane, MN 93078 US\nTel:+(734)354-6740\nEmail:ugraham@example.net\nSite:https://robinson.net/",
+      "BILL_TO": "BILL_TO:\nAnthony Chambers\n1015 Garcia Burgs\nDavisbury, MP 63721 US\nTel:+(011)371-0947\nEmail:benjamin22@example.com\nSite:https://www.adkins.com/",
+      "DATE": "Date: 18-May-1999",
+      "NUMBER": "INVOICE # INV34174261",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 280.97  $",
+      "TOTAL": "BALANCE DUE : 293.86 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninety-\n-three point eight six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Foster\n992 Garcia Squares\nWadebury, ID 86555 US\nTel:+(482)649-5333\nEmail:erinward@example.org\nSite:https://www.curry.com/",
+      "BILL_TO": "BILL_TO:\nBrian Walls\n6483 Patel Junctions Apt. 936\nPort Christopherborough, WV 91964 US\nTel:+(748)128-1664\nEmail:matthewwilliams@example.org\nSite:http://hall.com/",
+      "DATE": "Date: 20-May-1996",
+      "NUMBER": "INVOICE ID 2Y7M4d-829",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 651.22  EUR",
+      "TOTAL": "BALANCE DUE : 682.82 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and eight-\ny-two point eight two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Curtis Joseph\n652 Young Island\nEast Seth, NC 22167 US\nTel:+(969)879-9179\nEmail:kristenrowe@example.com\nSite:http://mccullough.org/",
+      "BILL_TO": "BILL_TO:\nClifford Hunter\n26654 Amy Prairie\nNorth Taylorshire, ND 95947 US\nTel:+(007)141-0958\nEmail:adamcruz@example.net\nSite:http://www.carter-johnson.org/",
+      "DATE": "Date: 21-May-1998",
+      "NUMBER": "INVOICE # 2698-979",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 454.57  USD",
+      "TOTAL": "BALANCE DUE : 459.13 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and fift-\ny-nine point one three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephen Woodard\n96411 Rodney Harbor Suite 990\nLake Lindsey, NV 51502 US\nTel:+(099)993-5725\nEmail:tinadouglas@example.net\nSite:http://garrison.org/",
+      "BILL_TO": "BILL_TO:\nRonald Morrow\n953 Matthew Islands Apt. 721\nJoseburgh, MT 42976 US\nTel:+(442)953-3586\nEmail:crosbybrent@example.com\nSite:https://shepherd.com/",
+      "DATE": "Date: 10-Aug-2022",
+      "NUMBER": "INVOICE # 7191-408",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 759.43  EUR",
+      "TOTAL": "BALANCE DUE : 792.31 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and nine-\nty-two point three one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrea Smith\n36325 Jones Parkways Suite 661\nLake Robertville, MD 84564 US\nTel:+(994)686-5352\nEmail:sanderslindsey@example.net\nSite:http://www.navarro.com/",
+      "BILL_TO": "BILL_TO:\nDaniel Harris\n7509 Barnett Harbors Apt. 252\nJesseshire, AK 74352 US\nTel:+(033)477-8445\nEmail:travis82@example.com\nSite:https://baxter.com/",
+      "DATE": "Invoice Date: 29-Nov-2008",
+      "NUMBER": "INVOICE ID 3606-974",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 429.61  $",
+      "TOTAL": "BALANCE DUE : 449.90 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fo-\nrty-nine point nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cynthia Jones\n0696 Carr Station\nCliffordshire, OR 88300 US\nTel:+(517)837-0317\nEmail:natashahall@example.net\nSite:https://www.thomas-powell.biz/",
+      "BILL_TO": "BILL_TO:\nMelissa Hancock\n087 Davidson Mission\nAnthonyport, OK 95684 US\nTel:+(628)847-2163\nEmail:ywagner@example.net\nSite:http://www.stephenson.com/",
+      "DATE": "Invoice Date: 05-Mar-2010",
+      "NUMBER": "Invoice number 7Y2M2d-454",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 530.04  $",
+      "TOTAL": "BALANCE DUE : 529.84 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-nine point eight four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather Key\n91389 Barbara Estates Apt. 299\nVanessaberg, WA 24266 US\nTel:+(979)961-0014\nEmail:gene49@example.com\nSite:https://www.taylor.com/",
+      "BILL_TO": "BILL_TO:\nJoy Rollins\n1563 Harris Land Apt. 656\nHayesberg, ND 59080 US\nTel:+(011)635-1240\nEmail:andrewduffy@example.org\nSite:https://www.davila.com/",
+      "DATE": "Date: 05-May-1996",
+      "NUMBER": "Invoice number INV/53-81/275",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 853.59  USD",
+      "TOTAL": "BALANCE DUE : 870.62 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and s-\neventy point six two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Alvarez\n2409 Emily Wells Suite 323\nNorth Sandra, WA 25798 US\nTel:+(718)620-6226\nEmail:rhenry@example.net\nSite:https://andrews.com/",
+      "BILL_TO": "BILL_TO:\nMelanie Morgan\n230 Suzanne Bypass Suite 855\nDebrafurt, MH 39316 US\nTel:+(482)345-6265\nEmail:qwilliams@example.org\nSite:https://huffman-gordon.com/",
+      "DATE": "Invoice Date: 05-Dec-2017",
+      "NUMBER": "INVOICE ID INV56038885",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 373.61  $",
+      "TOTAL": "BALANCE DUE : 391.07 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-one point zero seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Rosario\n701 Steve Heights\nMorgantown, WV 63317 US\nTel:+(176)300-1072\nEmail:warnerkimberly@example.org\nSite:http://www.evans-brown.com/",
+      "BILL_TO": "BILL_TO:\nLeslie Acosta\n72190 Dominguez Roads Suite 342\nLake Alexanderville, CO 36406 US\nTel:+(838)304-0203\nEmail:browndaniel@example.com\nSite:https://ballard.org/",
+      "DATE": "Invoice Date: 07-May-2022",
+      "NUMBER": "INVOICE # INV57402818",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 302.34  $",
+      "TOTAL": "BALANCE DUE : 319.00 $",
+      "TOTAL_WORDS": "Total in words:  three hundred-\nand nineteen",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rachel Wilson\n0575 Lewis Burgs Apt. 989\nSouth Sally, MS 54227 US\nTel:+(380)300-4899\nEmail:simshenry@example.net\nSite:http://www.vazquez.com/",
+      "BILL_TO": "BILL_TO:\nGina Palmer\n943 Rice Manors Apt. 943\nDianeburgh, NH 47065 US\nTel:+(286)376-9264\nEmail:christine39@example.com\nSite:http://www.anderson.com/",
+      "DATE": "Date: 10-Feb-2013",
+      "NUMBER": "INVOICE # INV99876512",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 462.34  $",
+      "TOTAL": "BALANCE DUE : 477.87 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and seventy-\n-seven point eight seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Weaver\n76828 Kathleen Loaf\nPort Josephchester, NY 21282 US\nTel:+(409)930-7685\nEmail:benjaminwest@example.net\nSite:http://rivera.com/",
+      "BILL_TO": "BILL_TO:\nGrace Harris\n0564 Bates Land Apt. 120\nSarahport, SD 06739 US\nTel:+(499)491-8648\nEmail:steinbeth@example.org\nSite:http://roy.net/",
+      "DATE": "Date: 06-Dec-2003",
+      "NUMBER": "INVOICE ID INV40645042",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 291.39  $",
+      "TOTAL": "BALANCE DUE : 291.66 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and nine-\nty-one point six six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alexa Cohen\n788 Johnson Common\nColechester, FL 90002 US\nTel:+(104)448-8792\nEmail:cathy57@example.com\nSite:https://www.griffith.com/",
+      "BILL_TO": "BILL_TO:\nNancy Knight\n544 Fry Stream Suite 242\nLeeland, OK 29938 US\nTel:+(163)501-2965\nEmail:galvanamanda@example.net\nSite:https://shah.com/",
+      "DATE": "Date: 25-Apr-2012",
+      "NUMBER": "Invoice number 9083-363",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 392.24  EUR",
+      "TOTAL": "BALANCE DUE : 393.51 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-three point five one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jessica Jenkins DDS\n262 Gonzalez Turnpike\nBushborough, SC 70455 US\nTel:+(072)209-8441\nEmail:wilsonadam@example.org\nSite:https://green-marshall.net/",
+      "BILL_TO": "BILL_TO:\nDanielle Cruz\n59551 Townsend Gateway Suite 733\nWest Rayhaven, NH 93858 US\nTel:+(962)544-0322\nEmail:zjones@example.org\nSite:https://lowe-cummings.com/",
+      "DATE": "Date: 16-Sep-2019",
+      "NUMBER": "Invoice number 6145-609",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 121.48  EUR",
+      "TOTAL": "BALANCE DUE : 124.65 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and twent-\ny-four point six five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julie Townsend\n6602 Cowan Branch Apt. 941\nCollinstown, CA 80844 US\nTel:+(098)854-7892\nEmail:griffinlaura@example.net\nSite:https://www.olson-baldwin.com/",
+      "BILL_TO": "BILL_TO:\nMary Khan\n027 Holland Springs\nPort Sara, VI 98724 US\nTel:+(127)396-1156\nEmail:umcneil@example.net\nSite:https://gordon-stanley.com/",
+      "DATE": "Invoice Date: 18-Dec-2000",
+      "NUMBER": "INVOICE ID 7880-569",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 544.94  USD",
+      "TOTAL": "BALANCE DUE : 564.31 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-four point three one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Johnson\n252 Scott Crossroad\nMelaniefort, MS 39954 US\nTel:+(675)019-7115\nEmail:dholmes@example.org\nSite:http://turner-palmer.com/",
+      "BILL_TO": "BILL_TO:\nAlexander Jones\n112 Contreras Throughway Apt. 815\nNorth Nancyberg, NH 41550 US\nTel:+(122)933-9933\nEmail:parkscourtney@example.org\nSite:http://www.harris-pollard.com/",
+      "DATE": "Invoice Date: 13-Dec-1998",
+      "NUMBER": "INVOICE ID 8Y9M1d-119",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 354.78  USD",
+      "TOTAL": "BALANCE DUE : 361.85 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-one point eight five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tim Craig\n5822 Kenneth Squares Apt. 161\nPort Mitchell, MN 40339 US\nTel:+(539)201-6410\nEmail:vsteele@example.net\nSite:http://cowan.com/",
+      "BILL_TO": "BILL_TO:\nMichael Chen\n20669 Justin Isle Apt. 403\nRodriguezburgh, ND 28919 US\nTel:+(738)848-3427\nEmail:donnacook@example.net\nSite:http://www.weaver.biz/",
+      "DATE": "Invoice Date: 10-Oct-2012",
+      "NUMBER": "INVOICE ID 1958-706",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 97.79  USD",
+      "TOTAL": "BALANCE DUE : 101.85 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and on-\ne point eight five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeanette Munoz\n72925 Wright Spring Suite 104\nLake Belindaton, OR 10765 US\nTel:+(358)401-3744\nEmail:hannah64@example.com\nSite:http://www.gibson.com/",
+      "BILL_TO": "BILL_TO:\nCaroline Black\n6006 Richard Lake\nPort Brian, NY 16096 US\nTel:+(963)629-1792\nEmail:cfreeman@example.com\nSite:https://lewis.com/",
+      "DATE": "Date: 22-Jul-2000",
+      "NUMBER": "INVOICE # INV/66-75/580",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 639.88  $",
+      "TOTAL": "BALANCE DUE : 660.78 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and six-\nty point seven eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy Rodgers\n371 Stone Tunnel Apt. 891\nMillerland, PW 03308 US\nTel:+(838)470-4227\nEmail:cathy62@example.com\nSite:https://www.roberts.com/",
+      "BILL_TO": "BILL_TO:\nJames Jenkins\n032 Kimberly Ferry Suite 283\nStephanieshire, ME 08365 US\nTel:+(051)494-4944\nEmail:jeanette15@example.net\nSite:https://www.bradley-allen.com/",
+      "DATE": "Date: 02-May-2021",
+      "NUMBER": "INVOICE # INV/64-56/511",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 125.00  USD",
+      "TOTAL": "BALANCE DUE : 131.74 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirt-\ny-one point seven four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Martin\n86636 Catherine Squares Apt. 565\nSouth Joseburgh, LA 02945 US\nTel:+(200)289-3423\nEmail:gmelton@example.com\nSite:http://nelson.com/",
+      "BILL_TO": "BILL_TO:\nScott Perry\n489 Michael Ville Apt. 243\nSouth Josephborough, NE 69078 US\nTel:+(890)387-8327\nEmail:brittany01@example.org\nSite:https://ray-avila.com/",
+      "DATE": "Date: 22-May-2011",
+      "NUMBER": "INVOICE # INV/07-95/323",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 622.53  USD",
+      "TOTAL": "BALANCE DUE : 638.08 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and thirty-\n-eight point zero eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Zachary Stewart\n7420 Whitney View Apt. 161\nJesseborough, IN 38994 US\nTel:+(669)522-1566\nEmail:albertfleming@example.net\nSite:http://www.knox.com/",
+      "BILL_TO": "BILL_TO:\nRobert Rollins\n7177 Holder Lake\nMontgomeryborough, NV 77760 US\nTel:+(292)400-4803\nEmail:deleonlisa@example.com\nSite:https://bradford.com/",
+      "DATE": "Invoice Date: 29-Sep-2016",
+      "NUMBER": "INVOICE ID INV34329539",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 265.16  USD",
+      "TOTAL": "BALANCE DUE : 271.64 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-one point six four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kenneth Hernandez\n3976 Kelly Mall\nPort Jamieview, KS 96504 US\nTel:+(162)347-3566\nEmail:rperez@example.com\nSite:https://avila.com/",
+      "BILL_TO": "BILL_TO:\nDouglas Gordon\n1247 Amanda Hills\nDavidberg, WI 06660 US\nTel:+(728)943-5073\nEmail:andersonjeremy@example.org\nSite:https://www.perry-nelson.info/",
+      "DATE": "Date: 03-Mar-2009",
+      "NUMBER": "Invoice number 4833-890",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1097.08  USD",
+      "TOTAL": "BALANCE DUE : 1098.16 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and nine-\nty-eight point one six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Teresa Brooks\n3377 Wood Rapid\nWest Karla, WA 33122 US\nTel:+(090)082-9620\nEmail:stevendavis@example.org\nSite:https://reeves.com/",
+      "BILL_TO": "BILL_TO:\nSharon Moore\n26876 Devin Meadow\nGrayview, MS 52817 US\nTel:+(062)495-1848\nEmail:roberto40@example.org\nSite:https://www.jones-johnston.net/",
+      "DATE": "Date: 28-Jun-1997",
+      "NUMBER": "Invoice number INV/76-01/394",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 567.06  EUR",
+      "TOTAL": "BALANCE DUE : 578.68 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-eight point six eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carly Huang\n3346 Garcia Junction\nLake Sean, MN 70385 US\nTel:+(378)160-0958\nEmail:carol81@example.com\nSite:http://wilson.com/",
+      "BILL_TO": "BILL_TO:\nTeresa Gray\n41460 Schwartz Cape Apt. 144\nLake Jeffrey, DE 79038 US\nTel:+(337)018-4036\nEmail:jessicabray@example.com\nSite:http://nguyen.biz/",
+      "DATE": "Date: 16-Apr-2009",
+      "NUMBER": "INVOICE # INV30405745",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1058.68  USD",
+      "TOTAL": "BALANCE DUE : 1095.51 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and nine-\nty-five point five one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anna Flores\n7825 Joseph Causeway\nWest Phyllis, RI 58101 US\nTel:+(338)774-9816\nEmail:debramarquez@example.com\nSite:http://www.moore-nelson.biz/",
+      "BILL_TO": "BILL_TO:\nRebecca Nichols\n9887 Reed Prairie Suite 646\nNew Seanhaven, FM 59313 US\nTel:+(446)869-8866\nEmail:upetersen@example.org\nSite:http://young.org/",
+      "DATE": "Invoice Date: 18-Mar-2020",
+      "NUMBER": "Invoice number 2986-979",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1019.34  EUR",
+      "TOTAL": "BALANCE DUE : 1008.97 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and ei-\nght point nine seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Barbara Elliott\n2014 Ronald Inlet Apt. 240\nCardenasside, MT 55664 US\nTel:+(595)162-5688\nEmail:summerskatie@example.net\nSite:https://www.thomas.com/",
+      "BILL_TO": "BILL_TO:\nChristopher Stone\n0186 Michelle Forks\nGoodmanstad, OK 34017 US\nTel:+(374)752-2844\nEmail:maria52@example.org\nSite:https://daniels.com/",
+      "DATE": "Invoice Date: 11-May-2020",
+      "NUMBER": "INVOICE # 5Y9M3d-261",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 320.88  $",
+      "TOTAL": "BALANCE DUE : 325.99 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and twen-\nty-five point nine nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Howard Brown\n128 Alexa Lane\nPort Craigport, MD 84399 US\nTel:+(941)646-0441\nEmail:catherineblankenship@example.net\nSite:https://www.schaefer.net/",
+      "BILL_TO": "BILL_TO:\nRegina Lee\n160 Jennifer Harbor\nPort Joannmouth, WV 20532 US\nTel:+(184)198-2494\nEmail:cyoung@example.net\nSite:https://rodriguez-jensen.net/",
+      "DATE": "Invoice Date: 10-Sep-1995",
+      "NUMBER": "INVOICE # 5Y6M6d-029",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 254.70  USD",
+      "TOTAL": "BALANCE DUE : 258.32 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fifty-\n-eight point three two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Elizabeth Brown\n926 Grace Avenue\nLake Douglas, ME 69510 US\nTel:+(959)713-7348\nEmail:peterbrown@example.org\nSite:http://www.lee-elliott.info/",
+      "BILL_TO": "BILL_TO:\nMichele Fleming\n9678 Richards Rue\nLake Russellville, PA 32748 US\nTel:+(549)931-3326\nEmail:kristin91@example.org\nSite:http://www.torres-carney.com/",
+      "DATE": "Invoice Date: 31-Aug-1997",
+      "NUMBER": "INVOICE ID INV/84-80/509",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 632.67  EUR",
+      "TOTAL": "BALANCE DUE : 640.60 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and-\nforty point six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Leon\n7635 Tasha Square\nPort Daniel, KS 10827 US\nTel:+(403)842-8359\nEmail:sarahosborne@example.org\nSite:http://www.dorsey.com/",
+      "BILL_TO": "BILL_TO:\nKimberly Mason\n57994 Gonzalez Islands\nChangbury, CO 17766 US\nTel:+(990)633-6317\nEmail:gturner@example.net\nSite:http://turner.com/",
+      "DATE": "Date: 22-Jun-1996",
+      "NUMBER": "INVOICE ID INV/82-61/022",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 690.89  USD",
+      "TOTAL": "BALANCE DUE : 719.84 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and nin-\neteen point eight four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Arias\n33469 Ortiz Road Apt. 384\nEast Janice, WV 53803 US\nTel:+(300)271-9166\nEmail:justindurham@example.com\nSite:http://donovan.com/",
+      "BILL_TO": "BILL_TO:\nKimberly Davis\n15536 Smith Brooks\nLake Danatown, IL 06204 US\nTel:+(612)053-0160\nEmail:jennifer44@example.net\nSite:https://galvan.biz/",
+      "DATE": "Invoice Date: 06-Sep-2014",
+      "NUMBER": "INVOICE # 3Y6M8d-995",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 520.28  $",
+      "TOTAL": "BALANCE DUE : 526.85 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-six point eight five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Harry Burgess\n2426 Sara Manor Apt. 638\nHenryport, MI 47130 US\nTel:+(154)787-5046\nEmail:murphyanthony@example.net\nSite:https://www.wall.com/",
+      "BILL_TO": "BILL_TO:\nLauren Williams\n8149 Manning Flats\nJamesbury, SC 82404 US\nTel:+(578)900-0689\nEmail:perrykimberly@example.net\nSite:http://schultz.com/",
+      "DATE": "Date: 10-Mar-2021",
+      "NUMBER": "INVOICE # 7486-736",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 600.52  EUR",
+      "TOTAL": "BALANCE DUE : 624.66 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and twen-\nty-four point six six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jonathan Myers\n285 Michael Via Apt. 630\nFloresbury, KY 08594 US\nTel:+(567)691-1749\nEmail:paige88@example.net\nSite:https://brandt.com/",
+      "BILL_TO": "BILL_TO:\nJason Hartman\n336 Watkins Track Apt. 690\nEast Richardborough, AL 98743 US\nTel:+(735)781-9515\nEmail:ncasey@example.com\nSite:https://camacho.net/",
+      "DATE": "Date: 22-Oct-1999",
+      "NUMBER": "Invoice number INV76613880",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 367.71  USD",
+      "TOTAL": "BALANCE DUE : 376.14 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and seve-\nnty-six point one four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sergio Hopkins\n379 Case Flats\nLake Emilyside, OR 59087 US\nTel:+(039)829-7373\nEmail:jamie77@example.com\nSite:http://www.williams.org/",
+      "BILL_TO": "BILL_TO:\nMs. Natalie Bradley\n1918 Myers Key\nMorrisside, MP 01781 US\nTel:+(662)684-3372\nEmail:pruittshane@example.net\nSite:http://www.taylor.net/",
+      "DATE": "Invoice Date: 25-Jul-2019",
+      "NUMBER": "INVOICE ID INV49047902",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 352.24  $",
+      "TOTAL": "BALANCE DUE : 360.23 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and s-\nixty point two three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Phyllis Edwards\n858 Bryant Shores\nSloantown, TX 21824 US\nTel:+(447)264-4757\nEmail:fisherryan@example.org\nSite:https://www.henry.com/",
+      "BILL_TO": "BILL_TO:\nJerry Torres\n125 Anthony Trail Apt. 385\nAlexstad, LA 57718 US\nTel:+(022)783-7680\nEmail:ahenderson@example.net\nSite:https://www.wilson.biz/",
+      "DATE": "Date: 07-Dec-1996",
+      "NUMBER": "INVOICE # 4538-481",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 146.91  $",
+      "TOTAL": "BALANCE DUE : 151.39 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fifty-\n-one point three nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Acevedo\n28713 Hart Fort Suite 267\nStewarttown, MI 55458 US\nTel:+(676)857-8030\nEmail:grodriguez@example.org\nSite:http://barnes.info/",
+      "BILL_TO": "BILL_TO:\nJoseph Wagner\n8712 Lopez Junction\nMitchellberg, TN 24864 US\nTel:+(810)120-0605\nEmail:vanderson@example.org\nSite:https://www.wyatt-hester.com/",
+      "DATE": "Date: 27-Aug-2002",
+      "NUMBER": "Invoice number INV/65-23/967",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1242.79  USD",
+      "TOTAL": "BALANCE DUE : 1262.37 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd sixty-two point three seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. William Schmidt\n075 Heather Cliff Suite 804\nThomasborough, UT 97938 US\nTel:+(932)075-9681\nEmail:hernandezmark@example.com\nSite:https://bennett-taylor.info/",
+      "BILL_TO": "BILL_TO:\nDebbie Mack\n4814 Jeff View Suite 223\nNew Cynthiashire, GA 16086 US\nTel:+(005)353-3398\nEmail:zscott@example.org\nSite:https://www.cortez-vargas.org/",
+      "DATE": "Date: 23-Jul-2004",
+      "NUMBER": "INVOICE # INV99168810",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 677.82  $",
+      "TOTAL": "BALANCE DUE : 677.75 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and seventy-\n-seven point seven five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Adriana Ryan\n240 Julie Fork\nCynthiaberg, VT 41484 US\nTel:+(120)280-7502\nEmail:sethclayton@example.net\nSite:http://sawyer.com/",
+      "BILL_TO": "BILL_TO:\nJames Simon\n82957 Mark Landing Apt. 943\nRobinsonport, AR 99107 US\nTel:+(994)575-4047\nEmail:ahood@example.org\nSite:https://harris.com/",
+      "DATE": "Date: 06-Sep-2017",
+      "NUMBER": "INVOICE # INV/44-80/494",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 287.69  $",
+      "TOTAL": "BALANCE DUE : 293.37 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninety--\nthree point three seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Berger\n70807 Andrea Row\nLake Kevin, NJ 16069 US\nTel:+(965)279-0639\nEmail:weissmaurice@example.com\nSite:https://www.moore-stephenson.org/",
+      "BILL_TO": "BILL_TO:\nVincent Phillips\n487 Patrick Ferry Apt. 471\nWest Joshuamouth, NV 00786 US\nTel:+(261)223-2006\nEmail:tim03@example.org\nSite:https://www.brown.org/",
+      "DATE": "Date: 06-Jan-2020",
+      "NUMBER": "Invoice number INV/87-33/616",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 289.54  USD",
+      "TOTAL": "BALANCE DUE : 295.57 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninety-\n-five point five seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Beverly King\n2861 Claudia Spurs\nPort Nicolechester, RI 67029 US\nTel:+(197)009-4415\nEmail:ifry@example.net\nSite:https://thomas-walker.com/",
+      "BILL_TO": "BILL_TO:\nLisa Smith\n18189 Francisco Well\nSouth Allen, MP 97425 US\nTel:+(430)078-1886\nEmail:jamessuarez@example.org\nSite:https://perez.com/",
+      "DATE": "Invoice Date: 20-Jun-1999",
+      "NUMBER": "INVOICE # INV/59-42/589",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 451.94  EUR",
+      "TOTAL": "BALANCE DUE : 464.65 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-four point six five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Katherine Pennington\n39586 King Tunnel Apt. 613\nSpearsfort, SC 94619 US\nTel:+(292)248-7579\nEmail:buchananmark@example.org\nSite:https://www.moore.info/",
+      "BILL_TO": "BILL_TO:\nHeather Trevino\n8168 Jones Glens Suite 043\nPort Lisahaven, FL 99057 US\nTel:+(945)593-9647\nEmail:jeffreyjensen@example.org\nSite:https://www.bryant-bradford.com/",
+      "DATE": "Invoice Date: 12-Feb-2000",
+      "NUMBER": "Invoice number INV/80-30/622",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 252.60  $",
+      "TOTAL": "BALANCE DUE : 254.07 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and fifty-\n-four point zero seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Allison Kelly\n9346 Jose Shore\nLake Allisonchester, MN 78152 US\nTel:+(526)402-1423\nEmail:marybyrd@example.net\nSite:http://marsh.com/",
+      "BILL_TO": "BILL_TO:\nLee Bush\n231 Robinson Harbors Apt. 945\nBentleyhaven, AK 96046 US\nTel:+(884)308-6570\nEmail:isnyder@example.org\nSite:http://www.rice.com/",
+      "DATE": "Invoice Date: 05-Jul-2019",
+      "NUMBER": "INVOICE # 1908-138",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 554.35  EUR",
+      "TOTAL": "BALANCE DUE : 570.55 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and sev-\nenty point five five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Greene\n5121 Lawrence Neck\nMichaelbury, WA 78957 US\nTel:+(687)218-2007\nEmail:tammyhampton@example.com\nSite:http://www.thomas-moore.com/",
+      "BILL_TO": "BILL_TO:\nTravis Jarvis\n0260 Diaz Square Apt. 748\nAndrewburgh, MA 61101 US\nTel:+(503)495-3829\nEmail:traci13@example.net\nSite:https://www.martin-thomas.com/",
+      "DATE": "Date: 31-Jan-2006",
+      "NUMBER": "INVOICE ID INV/38-61/998",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 67.43  EUR",
+      "TOTAL": "BALANCE DUE : 69.49 EUR",
+      "TOTAL_WORDS": "Total in words:  sixty-nine po-\nint four nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Arthur Foster\n315 Devin Pike Suite 729\nNorth Morgan, OH 47472 US\nTel:+(474)036-7580\nEmail:anthony65@example.org\nSite:https://www.reed.com/",
+      "BILL_TO": "BILL_TO:\nAndrew Thornton\n3615 Patty Mills\nLake Ian, SC 83742 US\nTel:+(430)051-3098\nEmail:tonylee@example.org\nSite:https://shea.com/",
+      "DATE": "Invoice Date: 12-Jun-2019",
+      "NUMBER": "Invoice number 9Y3M1d-831",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 915.80  EUR",
+      "TOTAL": "BALANCE DUE : 955.74 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fifty-\n-five point seven four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathy Miller\n2093 Angela Shores\nEast Chelseaside, OR 88847 US\nTel:+(965)046-9710\nEmail:carmen32@example.com\nSite:http://www.johnston-stein.com/",
+      "BILL_TO": "BILL_TO:\nAllen Thomas\n6342 Kennedy Ridges\nNorth Vickie, LA 55924 US\nTel:+(888)314-8856\nEmail:qwu@example.net\nSite:https://www.gilmore-brown.com/",
+      "DATE": "Invoice Date: 17-Aug-2013",
+      "NUMBER": "Invoice number INV/32-55/530",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 382.79  EUR",
+      "TOTAL": "BALANCE DUE : 385.08 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and eight-\ny-five point zero eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Navarro\n806 Mary Drives Apt. 975\nHarryside, WI 70993 US\nTel:+(287)795-0854\nEmail:linsarah@example.org\nSite:http://www.flores.com/",
+      "BILL_TO": "BILL_TO:\nAustin Holmes Jr.\n867 Daniel Neck Suite 318\nBrownmouth, GA 99260 US\nTel:+(055)190-3658\nEmail:barbara74@example.net\nSite:https://www.romero-graves.net/",
+      "DATE": "Date: 02-Nov-2002",
+      "NUMBER": "INVOICE # INV/24-22/367",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 716.67  $",
+      "TOTAL": "BALANCE DUE : 739.22 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thi-\nrty-nine point two two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mr. Don Smith\n08763 Beck Roads\nWest Shannon, VA 86480 US\nTel:+(586)625-2219\nEmail:greenesamantha@example.com\nSite:http://www.faulkner.info/",
+      "BILL_TO": "BILL_TO:\nStacey Diaz\n409 Gary Shoals Apt. 219\nElizabethville, CO 50978 US\nTel:+(625)663-6879\nEmail:katelyn43@example.com\nSite:http://rogers.com/",
+      "DATE": "Invoice Date: 05-Oct-2017",
+      "NUMBER": "INVOICE # INV01036008",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 796.88  USD",
+      "TOTAL": "BALANCE DUE : 829.78 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twent-\ny-nine point seven eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Moran\n5404 Sandy Plains Apt. 291\nSouth Michael, ME 34122 US\nTel:+(754)794-5690\nEmail:bryan26@example.com\nSite:http://www.rowland-rodriguez.com/",
+      "BILL_TO": "BILL_TO:\nShelby Forbes\n463 David Lodge Apt. 177\nNew Caroline, ME 28962 US\nTel:+(489)111-7062\nEmail:gallaghermelissa@example.com\nSite:https://munoz-gutierrez.com/",
+      "DATE": "Date: 12-Jul-2003",
+      "NUMBER": "INVOICE # 5714-920",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 642.84  USD",
+      "TOTAL": "BALANCE DUE : 638.53 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and thirty-\n-eight point five three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Holland\n3995 Harris Trail Apt. 986\nBarryfort, NH 24026 US\nTel:+(707)701-6508\nEmail:kellybrown@example.org\nSite:http://young.com/",
+      "BILL_TO": "BILL_TO:\nMartha Elliott\n53005 Dawson Greens\nLopezbury, AZ 73087 US\nTel:+(532)108-6171\nEmail:morenolisa@example.net\nSite:http://bernard.com/",
+      "DATE": "Invoice Date: 26-Sep-2007",
+      "NUMBER": "INVOICE # 2867-890",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1324.45  $",
+      "TOTAL": "BALANCE DUE : 1323.07 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred an-\nd twenty-three point zero seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Moore\n27342 Sean Ridge Apt. 090\nMercedesstad, AZ 53373 US\nTel:+(493)603-2479\nEmail:debra35@example.org\nSite:http://horne.com/",
+      "BILL_TO": "BILL_TO:\nIan Taylor\n5130 Davis Ports Suite 111\nEast Kayla, WY 28846 US\nTel:+(522)905-4414\nEmail:scottstephenson@example.org\nSite:https://cortez-williams.biz/",
+      "DATE": "Date: 27-Jan-2018",
+      "NUMBER": "INVOICE ID INV/50-95/211",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 162.38  $",
+      "TOTAL": "BALANCE DUE : 164.76 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and sixty-\n-four point seven six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ebony Little\n671 Alvarado Viaduct Suite 435\nPort Megan, TN 95518 US\nTel:+(587)849-4507\nEmail:douglas95@example.net\nSite:http://booth.net/",
+      "BILL_TO": "BILL_TO:\nJesse Goodwin\n0847 Moore Cliff\nWestville, ID 64537 US\nTel:+(997)568-2549\nEmail:benjaminrosales@example.net\nSite:http://www.riddle.net/",
+      "DATE": "Invoice Date: 20-Oct-2018",
+      "NUMBER": "Invoice number INV/39-04/404",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 977.88  USD",
+      "TOTAL": "BALANCE DUE : 987.21 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-seven point two one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Steve Jensen\n2891 Timothy Causeway Apt. 024\nLake Ashleyton, SD 46459 US\nTel:+(207)943-6592\nEmail:brooke36@example.net\nSite:http://davis.org/",
+      "BILL_TO": "BILL_TO:\nAngela Hicks\n43868 Norman Views\nReneemouth, MD 12336 US\nTel:+(308)364-6934\nEmail:laraapril@example.net\nSite:http://www.stewart.net/",
+      "DATE": "Date: 01-May-2021",
+      "NUMBER": "Invoice number 8005-812",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 823.50  USD",
+      "TOTAL": "BALANCE DUE : 836.92 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thi-\nrty-six point nine two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Carrillo DDS\n124 Curry Streets\nMatthewport, FL 46381 US\nTel:+(877)320-1633\nEmail:mullinsmichael@example.org\nSite:http://west.com/",
+      "BILL_TO": "BILL_TO:\nMegan Scott\n5285 Gregory Fort\nJanettown, GA 39158 US\nTel:+(171)041-9902\nEmail:michael50@example.com\nSite:http://hensley.com/",
+      "DATE": "Date: 22-Oct-2020",
+      "NUMBER": "INVOICE ID INV/95-88/105",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 322.54  EUR",
+      "TOTAL": "BALANCE DUE : 322.26 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and twe-\nnty-two point two six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Smith\n41745 David View\nNew Mario, VT 87614 US\nTel:+(426)964-6584\nEmail:bondamy@example.com\nSite:https://www.guzman.com/",
+      "BILL_TO": "BILL_TO:\nJamie Duncan\n08712 Dustin Manor Suite 365\nEast Travis, NE 30497 US\nTel:+(614)817-7016\nEmail:gwright@example.com\nSite:https://bell-thomas.com/",
+      "DATE": "Date: 17-Nov-2003",
+      "NUMBER": "INVOICE ID INV88729247",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 824.00  $",
+      "TOTAL": "BALANCE DUE : 862.00 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred-\nand sixty-two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sharon Rowe\n6659 April Junction\nJessicamouth, MP 63555 US\nTel:+(283)917-9252\nEmail:xdelgado@example.org\nSite:http://www.brooks-morgan.com/",
+      "BILL_TO": "BILL_TO:\nRichard Fisher\n91473 Riley Valleys Suite 124\nEast John, TN 01069 US\nTel:+(359)947-1491\nEmail:scottwade@example.com\nSite:http://callahan-anderson.net/",
+      "DATE": "Invoice Date: 16-Aug-2004",
+      "NUMBER": "INVOICE # 7Y4M7d-461",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 694.01  USD",
+      "TOTAL": "BALANCE DUE : 690.94 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and nin-\nety point nine four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Monica Simpson\n067 Melissa Road Suite 936\nEast Michaelshire, NE 03899 US\nTel:+(522)315-6877\nEmail:karenstein@example.com\nSite:https://hampton.net/",
+      "BILL_TO": "BILL_TO:\nRenee Hanson\n395 Danielle Ridges\nBrownshire, CA 01094 US\nTel:+(839)282-2141\nEmail:robertoblack@example.net\nSite:http://www.newton.info/",
+      "DATE": "Invoice Date: 30-Mar-2005",
+      "NUMBER": "INVOICE # INV/70-44/189",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 585.78  USD",
+      "TOTAL": "BALANCE DUE : 577.23 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-seven point two three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Nguyen\n061 Joshua Valley Suite 511\nRichmondmouth, HI 46583 US\nTel:+(207)306-9483\nEmail:danieltravis@example.com\nSite:http://choi.biz/",
+      "BILL_TO": "BILL_TO:\nGwendolyn Nelson\n63814 Rodriguez Hill\nDavismouth, OR 73737 US\nTel:+(075)874-8244\nEmail:michael93@example.net\nSite:https://robinson.com/",
+      "DATE": "Date: 23-Oct-2020",
+      "NUMBER": "INVOICE ID INV/96-73/334",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 319.06  USD",
+      "TOTAL": "BALANCE DUE : 321.83 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and twent-\ny-one point eight three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Laurie Johnson\n7573 Kimberly Flats Suite 672\nSouth Darrellmouth, DE 40483 US\nTel:+(874)350-9333\nEmail:contrerascharles@example.net\nSite:https://www.brooks.com/",
+      "BILL_TO": "BILL_TO:\nAshley Mcfarland\n4951 James Junction Suite 817\nNew Derekburgh, MT 49798 US\nTel:+(877)662-3285\nEmail:lynn77@example.net\nSite:https://www.johnson.org/",
+      "DATE": "Date: 18-Apr-2013",
+      "NUMBER": "INVOICE # 4294-948",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1281.36  $",
+      "TOTAL": "BALANCE DUE : 1328.70 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred -\nand twenty-eight point seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen Martin\n519 Baldwin Stream\nEast Taylor, PW 96279 US\nTel:+(068)563-5928\nEmail:ydiaz@example.com\nSite:http://www.gonzalez.com/",
+      "BILL_TO": "BILL_TO:\nMr. Richard Hale Jr.\n0153 Richard View Suite 329\nWest Whitney, KS 08535 US\nTel:+(999)340-7687\nEmail:tina46@example.com\nSite:https://www.johnson.com/",
+      "DATE": "Date: 14-Dec-1998",
+      "NUMBER": "INVOICE ID 6Y3M1d-415",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 372.06  EUR",
+      "TOTAL": "BALANCE DUE : 375.50 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and se-\nventy-five point five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Shaw\n42684 Kathy Walk\nNorth Charlesview, IA 49927 US\nTel:+(673)665-2711\nEmail:dustingomez@example.net\nSite:https://rodriguez.com/",
+      "BILL_TO": "BILL_TO:\nChad Coleman\n38300 Donna Park\nGainesborough, NY 65366 US\nTel:+(241)997-4781\nEmail:jefferycruz@example.org\nSite:http://williams.com/",
+      "DATE": "Date: 24-May-1999",
+      "NUMBER": "INVOICE ID INV70571812",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 337.21  USD",
+      "TOTAL": "BALANCE DUE : 339.67 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-nine point six seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Hodges\n45418 Gerald Light\nTonyastad, SD 52727 US\nTel:+(023)780-7710\nEmail:smiles@example.org\nSite:http://www.snyder.com/",
+      "BILL_TO": "BILL_TO:\nJessica Davis\n93018 Robert Harbor\nRamirezfort, CT 93761 US\nTel:+(126)802-6219\nEmail:vaughnlaura@example.org\nSite:https://www.pearson-castro.com/",
+      "DATE": "Date: 23-Jan-2017",
+      "NUMBER": "Invoice number 1676-750",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 577.40  $",
+      "TOTAL": "BALANCE DUE : 573.21 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-three point two one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brooke Vincent\n2641 Shelton Mount\nPort Keithland, LA 30982 US\nTel:+(957)525-0597\nEmail:bwilkerson@example.com\nSite:http://perez-wagner.org/",
+      "BILL_TO": "BILL_TO:\nKimberly Edwards\n4113 Tyler Radial\nCampbellview, MA 16147 US\nTel:+(079)101-6623\nEmail:mcmahonmichelle@example.com\nSite:https://www.perry-salazar.com/",
+      "DATE": "Date: 17-Apr-2002",
+      "NUMBER": "INVOICE ID 6Y4M3d-587",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 689.14  EUR",
+      "TOTAL": "BALANCE DUE : 703.06 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and t-\nhree point zero six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bill Berg\n990 Williams Shoals\nNew Stanleyborough, KY 27038 US\nTel:+(778)623-5112\nEmail:sharongonzalez@example.com\nSite:http://www.deleon.info/",
+      "BILL_TO": "BILL_TO:\nChristopher Walker MD\n658 Carmen Fields\nNorth Michaelbury, MT 24612 US\nTel:+(282)639-8186\nEmail:emilygonzales@example.net\nSite:https://spence-barker.com/",
+      "DATE": "Date: 09-Jul-2010",
+      "NUMBER": "Invoice number INV00798533",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 754.58  USD",
+      "TOTAL": "BALANCE DUE : 747.48 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and forty-\n-seven point four eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Gray\n033 Bradley Bypass\nJenniferstad, IN 59729 US\nTel:+(911)592-2248\nEmail:christopherpatterson@example.net\nSite:https://www.davis.org/",
+      "BILL_TO": "BILL_TO:\nDavid Mercer\n77436 Clarke Knoll Suite 301\nPort Taylor, AZ 34748 US\nTel:+(410)211-5399\nEmail:avilathomas@example.org\nSite:http://cook.com/",
+      "DATE": "Invoice Date: 17-Mar-2009",
+      "NUMBER": "INVOICE ID 7Y1M5d-316",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 438.72  USD",
+      "TOTAL": "BALANCE DUE : 435.70 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and thi-\nrty-five point seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance89.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Moore\n0485 Tracy Island\nNew Shannonton, NC 46566 US\nTel:+(115)202-7958\nEmail:lloydgeorge@example.net\nSite:https://salazar-maxwell.com/",
+      "BILL_TO": "BILL_TO:\nChristine Vaughn\n9938 Caleb Burg Apt. 801\nBriannaside, OK 07608 US\nTel:+(787)284-5691\nEmail:andersonchristopher@example.com\nSite:https://boyd-mcknight.net/",
+      "DATE": "Invoice Date: 02-Oct-2019",
+      "NUMBER": "Invoice number INV/13-51/495",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 140.41  USD",
+      "TOTAL": "BALANCE DUE : 146.04 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and fort-\ny-six point zero four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexa Hernandez\n74475 Anthony Wall\nNew Jasmine, MO 03954 US\nTel:+(347)385-9341\nEmail:chadjennings@example.net\nSite:http://cunningham.com/",
+      "BILL_TO": "BILL_TO:\nWanda Evans\n4411 Megan Estate\nEast Susan, GA 76706 US\nTel:+(478)395-6509\nEmail:kellyjesse@example.com\nSite:https://stewart.net/",
+      "DATE": "Date: 06-Dec-2007",
+      "NUMBER": "INVOICE # 6Y8M4d-425",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 250.72  EUR",
+      "TOTAL": "BALANCE DUE : 256.93 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and fifty-\n-six point nine three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gary Wong\n52324 Robert Roads\nSamanthaland, OK 35220 US\nTel:+(447)783-0178\nEmail:ghartman@example.net\nSite:http://robinson-warren.org/",
+      "BILL_TO": "BILL_TO:\nHeather Armstrong\n831 Mayo Crest Apt. 412\nWest Patty, NH 03505 US\nTel:+(079)844-2030\nEmail:yorkstephanie@example.net\nSite:https://shaffer-sandoval.biz/",
+      "DATE": "Invoice Date: 25-May-2012",
+      "NUMBER": "INVOICE ID 1605-824",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 591.68  $",
+      "TOTAL": "BALANCE DUE : 581.68 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and eigh-\nty-one point six eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Rosales\n713 Joshua Parkways\nWest Elizabeth, CA 69144 US\nTel:+(434)258-1937\nEmail:lisawallace@example.com\nSite:https://www.brennan.biz/",
+      "BILL_TO": "BILL_TO:\nTodd Vaughn\n711 Nguyen Court Suite 681\nSouth Johnchester, WI 73298 US\nTel:+(585)638-2301\nEmail:atkinsonadam@example.com\nSite:https://www.fitzgerald-jones.net/",
+      "DATE": "Invoice Date: 14-Apr-2007",
+      "NUMBER": "Invoice number INV/40-32/581",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 549.44  USD",
+      "TOTAL": "BALANCE DUE : 561.35 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-one point three five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather Jones\n22482 Reid Forks Suite 850\nPatriciahaven, MN 60911 US\nTel:+(167)549-3762\nEmail:zerickson@example.org\nSite:https://www.silva-johnson.info/",
+      "BILL_TO": "BILL_TO:\nSusan Gallagher\n03149 Schmitt Ports Apt. 840\nSouth Gabriel, RI 78550 US\nTel:+(360)060-8189\nEmail:moorejohn@example.com\nSite:https://acosta-stevenson.com/",
+      "DATE": "Date: 04-Dec-2009",
+      "NUMBER": "Invoice number INV28086043",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 695.96  EUR",
+      "TOTAL": "BALANCE DUE : 695.39 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninety-\n-five point three nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Valdez\n06114 Katrina Station Apt. 592\nWendymouth, AR 49749 US\nTel:+(356)666-0550\nEmail:carolyn28@example.net\nSite:https://ortega.net/",
+      "BILL_TO": "BILL_TO:\nMichelle Mueller\n94427 Rhonda Island\nJoelstad, PW 81250 US\nTel:+(730)511-3766\nEmail:lhudson@example.net\nSite:http://www.gomez.com/",
+      "DATE": "Date: 18-Sep-2017",
+      "NUMBER": "Invoice number 0988-964",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 801.78  EUR",
+      "TOTAL": "BALANCE DUE : 832.63 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-two point six three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Bush\n580 Thompson Locks\nMichaelstad, DE 31509 US\nTel:+(615)464-6331\nEmail:jeffreyfrey@example.org\nSite:https://jenkins-mccarthy.net/",
+      "BILL_TO": "BILL_TO:\nMichael Johns\n7857 Pierce Loaf Apt. 231\nWest Shawntown, ID 20653 US\nTel:+(678)712-8613\nEmail:timothy45@example.net\nSite:https://green.com/",
+      "DATE": "Invoice Date: 07-Dec-2016",
+      "NUMBER": "Invoice number INV/82-07/247",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 176.81  USD",
+      "TOTAL": "BALANCE DUE : 181.13 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and eight-\ny-one point one three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Rogers\n319 Daniels Fords\nRobinsonview, AK 02462 US\nTel:+(311)580-2188\nEmail:changgregory@example.net\nSite:https://cook-allen.info/",
+      "BILL_TO": "BILL_TO:\nWilliam Marshall\n87691 Shea Village Suite 054\nLake Williamberg, WI 31494 US\nTel:+(811)620-9231\nEmail:audreymcconnell@example.net\nSite:https://www.mercer-weber.com/",
+      "DATE": "Date: 08-Sep-2022",
+      "NUMBER": "INVOICE # 5Y7M1d-293",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 634.64  USD",
+      "TOTAL": "BALANCE DUE : 644.92 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fort-\ny-four point nine two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Lawson\n3949 Gallegos Extensions Apt. 392\nNew Nancyborough, RI 54931 US\nTel:+(661)805-1797\nEmail:david16@example.net\nSite:https://grant-melton.com/",
+      "BILL_TO": "BILL_TO:\nJennifer Obrien\n8484 Mack Roads\nFordland, NM 19501 US\nTel:+(779)280-7323\nEmail:nguyentimothy@example.org\nSite:https://clark-cox.org/",
+      "DATE": "Date: 23-Oct-1999",
+      "NUMBER": "INVOICE ID 4024-345",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 675.48  USD",
+      "TOTAL": "BALANCE DUE : 671.51 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and seven-\nty-one point five one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Hahn\n48350 Perez Drive Apt. 988\nNorth Matthewburgh, GA 61233 US\nTel:+(706)423-4915\nEmail:eileenjimenez@example.com\nSite:http://www.porter.com/",
+      "BILL_TO": "BILL_TO:\nJoann Ward\n660 Jessica Hill\nEast Davidville, RI 67113 US\nTel:+(595)558-0131\nEmail:uwood@example.org\nSite:http://www.hunter-jackson.com/",
+      "DATE": "Date: 16-Apr-2007",
+      "NUMBER": "INVOICE ID INV68923303",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 295.61  EUR",
+      "TOTAL": "BALANCE DUE : 297.30 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and nine-\nty-seven point three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Victoria Myers\n482 Thompson Roads Apt. 857\nElizabethmouth, MN 92789 US\nTel:+(352)176-4090\nEmail:jenniferbrown@example.org\nSite:https://www.barton.org/",
+      "BILL_TO": "BILL_TO:\nAndrew Davis\n99288 John Ways Suite 758\nMcdowellbury, SC 12374 US\nTel:+(539)809-3570\nEmail:patriciaharris@example.com\nSite:https://www.mcmahon.com/",
+      "DATE": "Invoice Date: 26-Dec-1995",
+      "NUMBER": "INVOICE # INV/64-41/508",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 149.43  USD",
+      "TOTAL": "BALANCE DUE : 151.84 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and fifty-\n-one point eight four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Welch\n992 Wright Brooks Apt. 833\nSouth Todd, MI 34511 US\nTel:+(782)983-3530\nEmail:browntaylor@example.com\nSite:https://www.cox.com/",
+      "BILL_TO": "BILL_TO:\nZachary Morgan\n103 Robin Brooks\nTaylorfort, MS 88256 US\nTel:+(394)194-0118\nEmail:ellisnicole@example.net\nSite:https://www.lopez.com/",
+      "DATE": "Date: 18-Dec-2016",
+      "NUMBER": "INVOICE ID 4082-117",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 361.38  EUR",
+      "TOTAL": "BALANCE DUE : 374.19 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and seve-\nnty-four point one nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Preston Mahoney\n0221 Torres Stream\nEast Katiechester, WY 31715 US\nTel:+(481)266-4624\nEmail:currycasey@example.com\nSite:http://www.diaz-randolph.org/",
+      "BILL_TO": "BILL_TO:\nThomas Porter\n728 Edwards Island Suite 262\nNorth Josephton, AK 18735 US\nTel:+(590)837-1085\nEmail:robynmurphy@example.org\nSite:http://www.miller.com/",
+      "DATE": "Date: 12-May-1999",
+      "NUMBER": "INVOICE # INV99463127",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 272.38  USD",
+      "TOTAL": "BALANCE DUE : 282.02 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and eigh-\nty-two point zero two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Bailey\n4289 Orozco Station\nNew Jameshaven, MH 56457 US\nTel:+(842)315-3054\nEmail:georgemanning@example.org\nSite:https://joseph.com/",
+      "BILL_TO": "BILL_TO:\nRobert Harris\n46417 Curtis Neck\nRomerotown, NY 82726 US\nTel:+(153)839-1080\nEmail:tiffany42@example.org\nSite:https://www.hernandez-wolfe.com/",
+      "DATE": "Date: 14-Mar-1996",
+      "NUMBER": "INVOICE # INV63662096",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 593.61  USD",
+      "TOTAL": "BALANCE DUE : 603.64 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and th-\nree point six four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kirsten Nixon\n6481 Perez Alley Apt. 745\nWest Nancybury, CA 53279 US\nTel:+(151)878-3167\nEmail:ogriffith@example.net\nSite:https://www.jones.com/",
+      "BILL_TO": "BILL_TO:\nDiana Wall\n4425 Jennifer Trafficway Apt. 862\nNorth Mariechester, MD 09034 US\nTel:+(803)024-0665\nEmail:eskinner@example.com\nSite:http://www.brewer.biz/",
+      "DATE": "Date: 21-Sep-1998",
+      "NUMBER": "INVOICE ID 7Y2M9d-297",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 852.89  $",
+      "TOTAL": "BALANCE DUE : 862.04 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and six-\nty-two point zero four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Willie Holloway\n56398 Jade Rest Apt. 368\nWilliamsmouth, AR 03202 US\nTel:+(161)407-7711\nEmail:wvalencia@example.com\nSite:http://williams-carpenter.org/",
+      "BILL_TO": "BILL_TO:\nLori Reyes\n66107 Wright Meadows Apt. 757\nPamelaside, WY 26465 US\nTel:+(220)136-5631\nEmail:bradfordshawn@example.net\nSite:http://calderon.info/",
+      "DATE": "Invoice Date: 19-Apr-2018",
+      "NUMBER": "Invoice number INV95502587",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 347.47  EUR",
+      "TOTAL": "BALANCE DUE : 357.82 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-seven point eight two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Watson\n67394 Hampton Hill\nNew Ashley, PA 54712 US\nTel:+(505)624-3245\nEmail:robertrobles@example.org\nSite:http://wilson-perez.net/",
+      "BILL_TO": "BILL_TO:\nLisa Cortez\n0240 Jason Cliffs\nRonaldmouth, WI 60825 US\nTel:+(890)516-9968\nEmail:amandabrooks@example.org\nSite:https://allen-strong.com/",
+      "DATE": "Date: 22-Sep-2003",
+      "NUMBER": "INVOICE ID INV/53-54/343",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 548.58  EUR",
+      "TOTAL": "BALANCE DUE : 554.48 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fifty-\n-four point four eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Krista Huffman\n75136 James Estates\nWest Ashley, NY 78894 US\nTel:+(849)045-7760\nEmail:shawna85@example.net\nSite:http://higgins.com/",
+      "BILL_TO": "BILL_TO:\nElizabeth Stephens\n271 Elizabeth Flats Suite 328\nSouth Coryview, MN 37095 US\nTel:+(706)669-4961\nEmail:mcneiljuan@example.net\nSite:https://www.burns.com/",
+      "DATE": "Date: 09-Sep-2003",
+      "NUMBER": "INVOICE ID 2Y2M7d-140",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 675.65  USD",
+      "TOTAL": "BALANCE DUE : 667.33 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty--\nseven point three three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen Duncan\n6694 Karen Well\nMichaelberg, RI 98928 US\nTel:+(236)196-7812\nEmail:jameshernandez@example.com\nSite:http://martin.com/",
+      "BILL_TO": "BILL_TO:\nRobin Cooper\n393 Tyler Flats\nEast Donnafurt, VI 09238 US\nTel:+(523)684-7865\nEmail:luke62@example.org\nSite:http://www.bartlett.com/",
+      "DATE": "Invoice Date: 30-Jan-1994",
+      "NUMBER": "INVOICE ID INV92593849",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 610.48  EUR",
+      "TOTAL": "BALANCE DUE : 623.69 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-three point six nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Linda Marshall\n2989 Maria Locks Apt. 612\nWarnerhaven, OH 11121 US\nTel:+(175)283-9938\nEmail:danielhamilton@example.org\nSite:http://hayes.net/",
+      "BILL_TO": "BILL_TO:\nShannon Kerr\n94944 Jeffrey Islands Suite 255\nHayesborough, KS 72807 US\nTel:+(354)455-7642\nEmail:holmesnathan@example.org\nSite:http://www.rose-berger.com/",
+      "DATE": "Date: 17-Jun-2001",
+      "NUMBER": "Invoice number 7686-971",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 225.36  USD",
+      "TOTAL": "BALANCE DUE : 225.81 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-five point eight one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anthony Spence\n9320 Jade Expressway\nLake Rebecca, AL 08303 US\nTel:+(906)849-2014\nEmail:benjamin55@example.org\nSite:http://gonzalez.com/",
+      "BILL_TO": "BILL_TO:\nBecky Hamilton\n2441 Barnes Junction\nCalebland, NY 23557 US\nTel:+(889)507-3712\nEmail:michaelconley@example.net\nSite:http://www.dougherty.biz/",
+      "DATE": "Invoice Date: 25-Jun-2004",
+      "NUMBER": "Invoice number 5Y6M1d-209",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 90.16  $",
+      "TOTAL": "BALANCE DUE : 94.07 $",
+      "TOTAL_WORDS": "Total in words:  ninety-four po-\nint zero seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Robinson\n233 Marshall Brooks\nAcostaberg, AS 37096 US\nTel:+(223)405-9306\nEmail:leah22@example.net\nSite:http://www.sharp.net/",
+      "BILL_TO": "BILL_TO:\nBrenda Bryant\n33285 Murray Loop\nFitzgeraldmouth, TX 68311 US\nTel:+(242)096-7874\nEmail:jacksonmccoy@example.net\nSite:http://www.farmer.net/",
+      "DATE": "Date: 22-Jun-1998",
+      "NUMBER": "Invoice number INV17556671",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 332.73  $",
+      "TOTAL": "BALANCE DUE : 342.89 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-two point eight nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Evans\n187 Duran Run\nNew Michelleside, FM 02419 US\nTel:+(862)350-8097\nEmail:flemingaimee@example.net\nSite:http://smith.com/",
+      "BILL_TO": "BILL_TO:\nNatalie Ayala\n16956 Jeremy Valley Suite 401\nLake Emilyberg, IN 76341 US\nTel:+(889)349-6438\nEmail:rosariojames@example.com\nSite:https://www.salazar.biz/",
+      "DATE": "Date: 25-Apr-2020",
+      "NUMBER": "INVOICE # INV/14-04/731",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 196.44  EUR",
+      "TOTAL": "BALANCE DUE : 202.41 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and t-\nwo point four one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Hatfield\n8619 Makayla Villages Apt. 998\nLake Patriciastad, MN 59097 US\nTel:+(978)436-3869\nEmail:mullinsrobert@example.com\nSite:http://www.fowler.info/",
+      "BILL_TO": "BILL_TO:\nJacob Marshall\n7658 Dawson Lakes Suite 688\nPort Ashleystad, FM 73630 US\nTel:+(165)003-6185\nEmail:usutton@example.com\nSite:http://hayes-prince.com/",
+      "DATE": "Invoice Date: 25-Oct-2006",
+      "NUMBER": "INVOICE ID INV/97-94/908",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1008.51  USD",
+      "TOTAL": "BALANCE DUE : 1037.88 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and thirty-\n-seven point eight eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Julie Hensley\n98050 Nelson Spurs Suite 648\nJohnsonburgh, MH 91520 US\nTel:+(799)321-1112\nEmail:jeromecarter@example.com\nSite:http://www.bond-campos.info/",
+      "BILL_TO": "BILL_TO:\nAaron Dorsey\n28509 Davis Cove\nBrendashire, HI 31425 US\nTel:+(626)169-9120\nEmail:ojones@example.org\nSite:http://fernandez.net/",
+      "DATE": "Invoice Date: 06-Sep-2010",
+      "NUMBER": "Invoice number INV64457769",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 631.08  $",
+      "TOTAL": "BALANCE DUE : 660.73 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and six-\nty point seven three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Vincent\n61428 Ashley Stream\nNathanmouth, WY 45570 US\nTel:+(718)094-9837\nEmail:clindsey@example.com\nSite:https://hammond.net/",
+      "BILL_TO": "BILL_TO:\nMonique Rivas MD\n862 Ashley Crossing\nRamseymouth, NV 37896 US\nTel:+(112)718-6092\nEmail:mathewsdavid@example.net\nSite:https://brown.org/",
+      "DATE": "Date: 09-Jun-1996",
+      "NUMBER": "Invoice number 9Y4M9d-908",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 610.68  $",
+      "TOTAL": "BALANCE DUE : 628.56 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-eight point five six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mrs. Patricia Montgomery DVM\n22618 Mark Rest Apt. 274\nHolmeston, CA 87384 US\nTel:+(886)697-1468\nEmail:sarahhanna@example.net\nSite:http://bowen.com/",
+      "BILL_TO": "BILL_TO:\nPatrick Long\n879 Garza Shore\nAmandaburgh, WV 24606 US\nTel:+(982)104-7616\nEmail:steven91@example.net\nSite:http://www.baker-murray.com/",
+      "DATE": "Date: 28-Apr-2009",
+      "NUMBER": "Invoice number 3Y1M3d-950",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 430.55  $",
+      "TOTAL": "BALANCE DUE : 437.17 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-seven point one seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Rose\n7904 Jacob Unions\nCatherineburgh, CO 00939 US\nTel:+(093)879-8353\nEmail:shepardlauren@example.com\nSite:http://obrien.biz/",
+      "BILL_TO": "BILL_TO:\nJennifer Reed\n97488 Robert Corner\nEast Christopher, SD 84964 US\nTel:+(393)074-4633\nEmail:vanessa68@example.org\nSite:http://www.mclaughlin.net/",
+      "DATE": "Date: 06-Jun-2019",
+      "NUMBER": "INVOICE # INV/69-38/248",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 421.31  EUR",
+      "TOTAL": "BALANCE DUE : 423.05 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and twent-\ny-three point zero five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeffrey Gonzalez\n356 Snyder Valley\nPort Juan, MH 08385 US\nTel:+(976)283-8071\nEmail:shudson@example.net\nSite:https://hall-mcgee.com/",
+      "BILL_TO": "BILL_TO:\nKimberly Robertson\n33188 Davis Cliff Suite 952\nDanielstad, KS 31001 US\nTel:+(352)217-5503\nEmail:thomaslarry@example.net\nSite:http://hernandez.com/",
+      "DATE": "Invoice Date: 30-Sep-2013",
+      "NUMBER": "INVOICE ID 1777-467",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 287.76  USD",
+      "TOTAL": "BALANCE DUE : 289.56 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\ny-nine point five six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tracey Perez\n4325 Caitlyn Ville Suite 215\nNew Douglaston, FL 01051 US\nTel:+(518)196-8238\nEmail:adamsjeffrey@example.com\nSite:http://howell-white.com/",
+      "BILL_TO": "BILL_TO:\nSteven Moreno\n0352 Caleb Ferry Apt. 439\nNorth Rhondaside, VT 26465 US\nTel:+(849)619-9274\nEmail:john86@example.org\nSite:https://armstrong.com/",
+      "DATE": "Date: 31-May-1999",
+      "NUMBER": "INVOICE ID INV/98-60/902",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 949.25  USD",
+      "TOTAL": "BALANCE DUE : 997.79 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and ninety-\n-seven point seven nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Taylor\n405 Laura Trafficway\nThorntonchester, ID 82998 US\nTel:+(561)664-8368\nEmail:mckayalexander@example.net\nSite:http://www.hernandez.com/",
+      "BILL_TO": "BILL_TO:\nMary Fernandez\n36925 Frazier Viaduct Apt. 693\nLewisborough, IL 34451 US\nTel:+(162)150-5838\nEmail:davistimothy@example.net\nSite:https://james.com/",
+      "DATE": "Date: 07-Sep-2012",
+      "NUMBER": "INVOICE ID INV/59-01/434",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1182.38  $",
+      "TOTAL": "BALANCE DUE : 1199.00 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hu-\nndred and ninety-nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tom Martin\n87970 Hernandez Road Apt. 402\nSouth Melissastad, NV 43846 US\nTel:+(809)185-3557\nEmail:ucobb@example.org\nSite:http://www.thompson-garcia.info/",
+      "BILL_TO": "BILL_TO:\nWilliam Bauer\n340 Mcintosh Estate Suite 774\nBallshire, MT 42235 US\nTel:+(031)518-1746\nEmail:uhoffman@example.com\nSite:http://patrick.com/",
+      "DATE": "Date: 28-Nov-2000",
+      "NUMBER": "INVOICE ID 3Y5M8d-178",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 948.21  USD",
+      "TOTAL": "BALANCE DUE : 969.99 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixt-\ny-nine point nine nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Mathews\n776 James Burgs\nSouth Don, KY 08404 US\nTel:+(458)942-1396\nEmail:pearsonkaren@example.net\nSite:https://bryant.info/",
+      "BILL_TO": "BILL_TO:\nKathleen Hughes\n46554 Karen Creek\nRobinsonmouth, RI 65853 US\nTel:+(508)685-2988\nEmail:barreraduane@example.net\nSite:http://www.gonzalez-burgess.com/",
+      "DATE": "Invoice Date: 24-Sep-2021",
+      "NUMBER": "INVOICE # 1Y3M4d-443",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 536.72  $",
+      "TOTAL": "BALANCE DUE : 562.66 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and six-\nty-two point six six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Oconnor\n5778 Patrick Pike\nAlvarezville, NM 16398 US\nTel:+(111)588-1489\nEmail:gwilliams@example.com\nSite:http://www.taylor-martinez.org/",
+      "BILL_TO": "BILL_TO:\nMary Frazier\n570 Walton Stream\nKellerstad, NM 43301 US\nTel:+(308)382-4025\nEmail:chelseabaldwin@example.net\nSite:http://www.young-wang.net/",
+      "DATE": "Date: 17-Jan-2018",
+      "NUMBER": "INVOICE ID 9Y5M5d-746",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 270.77  USD",
+      "TOTAL": "BALANCE DUE : 276.17 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-six point one seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joyce Brock\n67052 Kelly Land\nNew Christyport, AR 92366 US\nTel:+(086)834-1218\nEmail:nstephenson@example.org\nSite:https://martinez-rivera.info/",
+      "BILL_TO": "BILL_TO:\nTaylor Morris\n482 Thomas Villages Suite 570\nLake Javierfort, WI 42105 US\nTel:+(854)778-9767\nEmail:tranrebecca@example.com\nSite:http://www.spencer.com/",
+      "DATE": "Date: 21-Sep-2014",
+      "NUMBER": "INVOICE ID 5Y2M3d-620",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 448.86  EUR",
+      "TOTAL": "BALANCE DUE : 467.37 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixty--\nseven point three seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Davis\n51165 Shannon Forest Suite 282\nAnitabury, MN 39274 US\nTel:+(041)129-4210\nEmail:mary46@example.com\nSite:http://mills-french.org/",
+      "BILL_TO": "BILL_TO:\nKylie Callahan\n1832 Coleman Skyway Apt. 318\nStevensbury, AR 01767 US\nTel:+(949)773-0599\nEmail:annacurtis@example.net\nSite:http://lopez.info/",
+      "DATE": "Invoice Date: 18-Nov-2005",
+      "NUMBER": "INVOICE # 9993-739",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 201.84  USD",
+      "TOTAL": "BALANCE DUE : 203.13 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and th-\nree point one three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carla Fritz\n475 Thomas Island Suite 370\nNorth Shawnbury, MI 93748 US\nTel:+(880)646-9637\nEmail:mariayoung@example.org\nSite:http://hull.com/",
+      "BILL_TO": "BILL_TO:\nCharles Huynh\n58008 Joseph Fords Apt. 164\nNew Mariashire, MD 50068 US\nTel:+(258)168-4597\nEmail:john13@example.com\nSite:http://www.miller.info/",
+      "DATE": "Date: 26-Jun-2004",
+      "NUMBER": "INVOICE ID INV/90-83/188",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 469.94  $",
+      "TOTAL": "BALANCE DUE : 479.72 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and seven-\nty-nine point seven two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jessica Reid\n472 Peterson Run Suite 399\nPort Davidfort, CA 17316 US\nTel:+(184)670-0607\nEmail:tgibson@example.com\nSite:http://www.haynes.com/",
+      "BILL_TO": "BILL_TO:\nDaniel Taylor\n08331 Kane Village\nPhiliphaven, OK 78935 US\nTel:+(995)379-4757\nEmail:perezdavid@example.com\nSite:http://mason.com/",
+      "DATE": "Invoice Date: 12-Apr-2008",
+      "NUMBER": "INVOICE ID 8230-314",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 215.09  EUR",
+      "TOTAL": "BALANCE DUE : 220.75 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and twe-\nnty point seven five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Cruz\n22966 John Isle\nWilsonstad, PW 05238 US\nTel:+(149)151-5872\nEmail:davidwright@example.org\nSite:http://barry-hardy.com/",
+      "BILL_TO": "BILL_TO:\nJeremy Scott\n3630 Barbara Burgs\nFisherstad, WI 32536 US\nTel:+(164)811-6142\nEmail:thompsoneric@example.com\nSite:https://www.martinez.info/",
+      "DATE": "Invoice Date: 04-Aug-1996",
+      "NUMBER": "INVOICE # 5510-137",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 547.59  EUR",
+      "TOTAL": "BALANCE DUE : 539.54 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirt-\ny-nine point five four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cynthia Estrada\n328 Johnson Mountains Suite 536\nArthurtown, NY 23751 US\nTel:+(875)273-1398\nEmail:evanslawrence@example.com\nSite:https://dawson.info/",
+      "BILL_TO": "BILL_TO:\nRodney Bruce\n964 Robert Road\nWest Sara, HI 04504 US\nTel:+(696)471-3295\nEmail:christopherjackson@example.com\nSite:http://patton.com/",
+      "DATE": "Invoice Date: 05-Dec-2016",
+      "NUMBER": "INVOICE # INV71964904",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 302.61  $",
+      "TOTAL": "BALANCE DUE : 311.92 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and e-\nleven point nine two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Monique Russell\n71450 Love Way Suite 139\nLake Tammyton, NJ 38932 US\nTel:+(586)876-1260\nEmail:troy10@example.org\nSite:https://wong.com/",
+      "BILL_TO": "BILL_TO:\nChristie Porter\n5549 Bell Station\nSouth Theresaberg, NM 73237 US\nTel:+(562)703-2501\nEmail:johnny96@example.net\nSite:http://www.mcmahon.com/",
+      "DATE": "Date: 18-May-2015",
+      "NUMBER": "INVOICE # INV16851863",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 494.59  USD",
+      "TOTAL": "BALANCE DUE : 505.77 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and fi-\nve point seven seven",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeffrey Smith\n667 Thompson Route\nNew Robertville, PW 13236 US\nTel:+(269)561-5880\nEmail:garymcgrath@example.org\nSite:http://martin.com/",
+      "BILL_TO": "BILL_TO:\nErin Williams\n517 Garcia Ports Suite 656\nSouth Laura, NC 66385 US\nTel:+(410)343-7769\nEmail:eric22@example.net\nSite:http://www.vasquez.com/",
+      "DATE": "Date: 30-Oct-2004",
+      "NUMBER": "INVOICE # INV/63-34/497",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 43.08  USD",
+      "TOTAL": "BALANCE DUE : 44.35 USD",
+      "TOTAL_WORDS": "Total in words:  forty-four po-\nint three five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tammy Howell\n244 Michael Union Suite 070\nEast Michealshire, CT 76542 US\nTel:+(331)125-2207\nEmail:pmacias@example.net\nSite:https://peterson.com/",
+      "BILL_TO": "BILL_TO:\nCourtney Lee\n5014 Johns Road\nCourtneychester, PR 57250 US\nTel:+(979)034-5481\nEmail:mario08@example.com\nSite:http://www.webster.com/",
+      "DATE": "Invoice Date: 14-Dec-2015",
+      "NUMBER": "Invoice number INV/78-09/505",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 280.99  USD",
+      "TOTAL": "BALANCE DUE : 291.76 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninet-\ny-one point seven six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Guzman\n31834 Olson Lane\nHeathershire, NV 63168 US\nTel:+(507)025-3830\nEmail:henry09@example.com\nSite:https://www.fisher-oneill.com/",
+      "BILL_TO": "BILL_TO:\nDebra Hoover\n38947 Dawn Forks Apt. 110\nEast Robert, NE 45905 US\nTel:+(884)883-7977\nEmail:odonnelldaniel@example.org\nSite:https://spencer.com/",
+      "DATE": "Date: 10-Apr-2017",
+      "NUMBER": "INVOICE # 8Y5M5d-463",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 943.00  EUR",
+      "TOTAL": "BALANCE DUE : 964.14 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixt-\ny-four point one four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mark King\n87979 Jennifer Terrace Apt. 617\nPort Nicoleshire, DC 67462 US\nTel:+(699)137-5874\nEmail:sarahsullivan@example.com\nSite:http://soto.com/",
+      "BILL_TO": "BILL_TO:\nMonique Mathews\n018 Castillo Vista\nEdwardside, KS 81400 US\nTel:+(951)596-4216\nEmail:hayesheather@example.net\nSite:http://www.benson.biz/",
+      "DATE": "Date: 01-Apr-1993",
+      "NUMBER": "Invoice number 5521-919",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 652.40  $",
+      "TOTAL": "BALANCE DUE : 647.22 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fort-\ny-seven point two two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ruth Phillips\n9399 David Forges\nPort Amber, WA 71720 US\nTel:+(889)860-0077\nEmail:linda00@example.com\nSite:http://howell.com/",
+      "BILL_TO": "BILL_TO:\nNicole Curtis\n24082 Miller Heights\nLisamouth, VI 40654 US\nTel:+(984)926-3119\nEmail:hamiltontoni@example.com\nSite:http://www.rodriguez-evans.com/",
+      "DATE": "Invoice Date: 07-Jul-2005",
+      "NUMBER": "INVOICE # INV/88-30/825",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 392.81  $",
+      "TOTAL": "BALANCE DUE : 398.39 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and ninet-\ny-eight point three nine",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Robinson\n970 Anita Spring\nNew Emily, IA 59604 US\nTel:+(650)619-4234\nEmail:elizabeth94@example.com\nSite:http://www.wright.com/",
+      "BILL_TO": "BILL_TO:\nTimothy Bailey\n5893 Lauren Plaza Suite 997\nLake Jamesburgh, WI 75687 US\nTel:+(619)880-7525\nEmail:jennifer20@example.com\nSite:https://www.hernandez-johnson.info/",
+      "DATE": "Date: 26-Aug-2022",
+      "NUMBER": "Invoice number INV05990296",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 317.64  $",
+      "TOTAL": "BALANCE DUE : 314.76 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fou-\nrteen point seven six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Williams\n458 Ochoa Mission Suite 216\nGreenefort, WA 46862 US\nTel:+(272)002-3971\nEmail:ihernandez@example.org\nSite:http://sheppard.com/",
+      "BILL_TO": "BILL_TO:\nRichard Bailey\n08551 Jesse Lakes\nPort Bryan, AS 26025 US\nTel:+(514)675-6406\nEmail:johnsondavid@example.org\nSite:https://holden.com/",
+      "DATE": "Date: 22-Jan-1999",
+      "NUMBER": "Invoice number 6211-202",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 299.36  $",
+      "TOTAL": "BALANCE DUE : 302.60 $",
+      "TOTAL_WORDS": "Total in words:  three hundred a-\nnd two point six",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Roberto Holland\n5859 Amy Squares Apt. 569\nPort George, TX 98901 US\nTel:+(585)971-0984\nEmail:amy80@example.com\nSite:http://www.morgan.com/",
+      "BILL_TO": "BILL_TO:\nWesley Johnson\n001 Lisa Underpass Suite 014\nSouth Christianland, WA 58062 US\nTel:+(652)766-1354\nEmail:karnold@example.org\nSite:http://www.jefferson.com/",
+      "DATE": "Date: 12-Aug-2004",
+      "NUMBER": "INVOICE # 6Y2M9d-534",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 244.52  USD",
+      "TOTAL": "BALANCE DUE : 247.03 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and forty--\nseven point zero three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Miller\n378 Michael Mews\nWarnermouth, ND 93746 US\nTel:+(029)398-8419\nEmail:nolansandy@example.com\nSite:https://www.turner-sawyer.info/",
+      "BILL_TO": "BILL_TO:\nKelsey Thompson\n6265 Alexis Mission Suite 845\nBatestown, DC 14977 US\nTel:+(037)766-2475\nEmail:susan05@example.net\nSite:https://johnson.org/",
+      "DATE": "Invoice Date: 26-Mar-2019",
+      "NUMBER": "INVOICE # INV86467015",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1225.97  $",
+      "TOTAL": "BALANCE DUE : 1274.42 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd seventy-four point four two",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Manuel Hall\n70451 Loretta Inlet\nAdamport, SD 19992 US\nTel:+(991)830-0942\nEmail:michaeljames@example.com\nSite:https://www.brown.com/",
+      "BILL_TO": "BILL_TO:\nMarcus Welch\n15118 Susan Hill\nBryantshire, GA 32753 US\nTel:+(985)275-1912\nEmail:crystal87@example.com\nSite:https://www.lucas-robertson.biz/",
+      "DATE": "Date: 28-Aug-2016",
+      "NUMBER": "INVOICE ID INV88980362",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 600.24  USD",
+      "TOTAL": "BALANCE DUE : 617.45 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and seve-\nnteen point four five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Richard Williams\n98775 Weaver Shoal\nCourtneybury, MD 41181 US\nTel:+(331)422-2624\nEmail:arthurbarber@example.org\nSite:https://www.estrada.com/",
+      "BILL_TO": "BILL_TO:\nMelanie Wood\n944 Carolyn Spurs Apt. 077\nMendozamouth, WV 01765 US\nTel:+(841)670-9934\nEmail:loretta10@example.com\nSite:http://cole.com/",
+      "DATE": "Invoice Date: 10-Mar-2022",
+      "NUMBER": "INVOICE # INV/06-59/696",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 382.00  USD",
+      "TOTAL": "BALANCE DUE : 386.58 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-six point five eight",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tom Beck\n9271 Martinez Parks\nSouth Jon, NJ 26665 US\nTel:+(218)805-9061\nEmail:cray@example.net\nSite:https://www.holmes.net/",
+      "BILL_TO": "BILL_TO:\nRick Jones\n0473 Joann Stream\nNew Nicolechester, MH 78839 US\nTel:+(917)817-0339\nEmail:nelsonlisa@example.com\nSite:http://www.cross.info/",
+      "DATE": "Date: 28-Dec-1999",
+      "NUMBER": "Invoice number 6366-461",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 132.34  $",
+      "TOTAL": "BALANCE DUE : 135.00 $",
+      "TOTAL_WORDS": "Total in words:  one hundred a-\nnd thirty-five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Connor Payne\n156 King Expressway Suite 113\nEast Susan, WV 49190 US\nTel:+(405)207-9397\nEmail:sethgray@example.org\nSite:http://morales.net/",
+      "BILL_TO": "BILL_TO:\nBrittany Baker\n727 Evelyn Forges Apt. 088\nNorth Robertstad, ME 66262 US\nTel:+(302)931-4855\nEmail:mwarner@example.org\nSite:https://www.cox.info/",
+      "DATE": "Invoice Date: 28-Jan-2019",
+      "NUMBER": "Invoice number 3003-860",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 609.21  $",
+      "TOTAL": "BALANCE DUE : 624.24 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-four point two four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Antonio Munoz\n4381 Nelson Way\nFarleyfort, VA 29717 US\nTel:+(563)235-0889\nEmail:cassandrastone@example.com\nSite:https://thomas.info/",
+      "BILL_TO": "BILL_TO:\nKristin Morgan\n6900 Parks Ville Apt. 003\nPort Jessicamouth, VA 64934 US\nTel:+(951)377-7400\nEmail:ralphwang@example.com\nSite:http://barnes-vargas.com/",
+      "DATE": "Invoice Date: 29-Aug-2019",
+      "NUMBER": "INVOICE ID 9Y7M3d-217",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 1404.03  EUR",
+      "TOTAL": "BALANCE DUE : 1427.05 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred an-\nd twenty-seven point zero five",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Adam Nelson\n47949 Newton Crest Apt. 851\nEast Pamela, KS 56857 US\nTel:+(936)387-1211\nEmail:ochan@example.com\nSite:https://johnson.com/",
+      "BILL_TO": "BILL_TO:\nLisa Ryan\n7216 Clark Orchard Suite 503\nEast Tonyside, VA 92492 US\nTel:+(383)221-5345\nEmail:krivera@example.org\nSite:https://henson.com/",
+      "DATE": "Invoice Date: 28-Sep-1995",
+      "NUMBER": "Invoice number 8461-977",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 565.26  EUR",
+      "TOTAL": "BALANCE DUE : 555.14 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-five point one four",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Craig Joyce\n4346 Flores Mountain Suite 366\nSimpsonbury, NY 03035 US\nTel:+(892)963-8792\nEmail:luke44@example.com\nSite:http://www.snyder.net/",
+      "BILL_TO": "BILL_TO:\nMatthew Black\n6380 Walker Meadow\nEast Sabrinastad, WA 93155 US\nTel:+(192)501-3718\nEmail:rgray@example.net\nSite:http://www.miller-jackson.com/",
+      "DATE": "Date: 13-Jun-1993",
+      "NUMBER": "INVOICE ID 7596-496",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 242.67  USD",
+      "TOTAL": "BALANCE DUE : 244.91 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fort-\ny-four point nine one",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  },
+  {
+    "image": "Template49_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kelly Chandler\n44912 Nathan Via\nSalasshire, NE 84587 US\nTel:+(257)392-2502\nEmail:allennorton@example.net\nSite:https://brown.com/",
+      "BILL_TO": "BILL_TO:\nBrittany Ray\n16721 Kathy Forges\nEast Luis, NY 95072 US\nTel:+(448)811-5528\nEmail:maxwellwalter@example.org\nSite:https://www.sanders.com/",
+      "DATE": "Date: 17-Sep-1995",
+      "NUMBER": "INVOICE ID INV/71-05/045",
+      "SELLER_ADDRESS": "Address:28713 Hart Fort Suite 267\nStewarttown, MI 55458 US",
+      "SELLER_NAME": "Robinson-Carson",
+      "SUB_TOTAL": "SUB_TOTAL : 893.87  USD",
+      "TOTAL": "BALANCE DUE : 920.13 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and tw-\nenty point one three",
+      "GSTIN": "GSTIN 37LTOQASACEIZS"
+    }
+  }
+]

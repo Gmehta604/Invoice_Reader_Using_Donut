@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template23_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sarah Cisneros\n036 Kelly Vista Apt. 185\nGloriaview, IN 02888 US\nTel:+(007)141-6522\nEmail:pcollins@example.net\nSite:http://www.carter.com/",
+      "DATE": "Date: 14-Apr-2004",
+      "NUMBER": "INVOICE ID 6Y8M3d-868",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 657.83 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty--\nseven point eight three"
+    }
+  },
+  {
+    "image": "Template23_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Crystal Wang\n110 Michael Fork Apt. 426\nEast Davidfort, VT 47832 US\nTel:+(845)902-8252\nEmail:bellcrystal@example.net\nSite:https://www.reed-bowman.com/",
+      "DATE": "Date: 05-Jan-2016",
+      "NUMBER": "Invoice number 4Y9M6d-353",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 962.97 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixt-\ny-two point nine seven"
+    }
+  },
+  {
+    "image": "Template23_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kevin Bailey\n174 Paul Circle\nMariachester, WY 66714 US\nTel:+(689)566-5036\nEmail:joseph14@example.org\nSite:https://jackson.com/",
+      "DATE": "Date: 05-Jan-1995",
+      "NUMBER": "INVOICE # INV22078249",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 838.48 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thirt-\ny-eight point four eight"
+    }
+  },
+  {
+    "image": "Template23_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Mckinney\n667 Grant Drive Apt. 778\nMartinezside, IA 04125 US\nTel:+(015)807-4692\nEmail:upeterson@example.net\nSite:http://www.miller.com/",
+      "DATE": "Date: 27-Sep-2016",
+      "NUMBER": "INVOICE # 4Y9M3d-828",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 760.12 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\nsixty point one two"
+    }
+  },
+  {
+    "image": "Template23_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Brown\n1941 Heather Park\nNorth Jade, MN 68297 US\nTel:+(160)435-3026\nEmail:jenny98@example.org\nSite:https://miller-li.com/",
+      "DATE": "Date: 26-Sep-1998",
+      "NUMBER": "INVOICE ID INV98409151",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 775.12 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnty-five point one two"
+    }
+  },
+  {
+    "image": "Template23_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Benjamin Fox\n0364 Mcdaniel Circle Apt. 797\nPort Sarahmouth, NJ 96889 US\nTel:+(093)107-1600\nEmail:jessica87@example.net\nSite:https://hogan-gibson.org/",
+      "DATE": "Date: 24-Sep-2018",
+      "NUMBER": "INVOICE # INV14586726",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 701.19 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\none point one nine"
+    }
+  },
+  {
+    "image": "Template23_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Brooks\n439 Turner Ferry\nWest Jeremy, WA 90935 US\nTel:+(589)590-9274\nEmail:stephensandrew@example.com\nSite:http://wright.com/",
+      "DATE": "Invoice Date: 09-Dec-2017",
+      "NUMBER": "INVOICE ID 9427-114",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 596.23 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-six point two three"
+    }
+  },
+  {
+    "image": "Template23_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Virginia Whitaker\n06107 Ashley Circle\nLake Nathan, AS 22973 US\nTel:+(078)835-7238\nEmail:christine98@example.com\nSite:https://www.morris.com/",
+      "DATE": "Invoice Date: 03-Aug-1996",
+      "NUMBER": "Invoice number 3406-719",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1284.64 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd eighty-four point six four"
+    }
+  },
+  {
+    "image": "Template23_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:April Smith\n1611 Alicia Squares\nSouth Hannahmouth, FM 58691 US\nTel:+(358)518-6868\nEmail:melissawest@example.com\nSite:http://www.bullock-brown.info/",
+      "DATE": "Invoice Date: 10-Aug-2001",
+      "NUMBER": "Invoice number INV/98-30/068",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 821.09 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-one point zero nine"
+    }
+  },
+  {
+    "image": "Template23_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brenda Jackson\n162 Shane Keys Suite 662\nBarbaraville, NV 87218 US\nTel:+(072)064-0020\nEmail:qwiley@example.com\nSite:https://www.james.com/",
+      "DATE": "Invoice Date: 26-Aug-2009",
+      "NUMBER": "INVOICE # 4205-877",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 588.27 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and eight-\ny-eight point two seven"
+    }
+  },
+  {
+    "image": "Template23_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Rodriguez\n657 Rivas Drives Apt. 551\nNorth Sherrychester, WY 83720 US\nTel:+(286)481-7729\nEmail:bradyrandall@example.com\nSite:https://www.anthony-garcia.com/",
+      "DATE": "Date: 03-Jan-2004",
+      "NUMBER": "INVOICE ID 6558-169",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 470.49 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenty point four nine"
+    }
+  },
+  {
+    "image": "Template23_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Russell Wilson\n60800 Karen Light\nNew Thomasland, NJ 77600 US\nTel:+(521)694-6621\nEmail:ferickson@example.com\nSite:https://myers-chan.com/",
+      "DATE": "Invoice Date: 03-Mar-2007",
+      "NUMBER": "INVOICE ID 4Y4M6d-626",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 455.88 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fifty-\n-five point eight eight"
+    }
+  },
+  {
+    "image": "Template23_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Hudson\n80324 Manning Glens\nLake Chase, NV 99464 US\nTel:+(806)713-4491\nEmail:lturner@example.com\nSite:https://randolph.com/",
+      "DATE": "Date: 15-Jun-2018",
+      "NUMBER": "INVOICE # 8456-578",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 66.64 EUR",
+      "TOTAL_WORDS": "Total in words:  sixty-six po-\nint six four"
+    }
+  },
+  {
+    "image": "Template23_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Friedman\n16158 Garcia Vista Suite 332\nSaratown, OH 20421 US\nTel:+(111)222-4674\nEmail:reedroberta@example.net\nSite:https://yang.com/",
+      "DATE": "Invoice Date: 03-Oct-2014",
+      "NUMBER": "Invoice number 3459-001",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 483.20 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and ei-\nghty-three point two"
+    }
+  },
+  {
+    "image": "Template23_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Bradshaw\n618 Jerome Port Apt. 979\nEast Gabriel, NV 21298 US\nTel:+(254)037-6889\nEmail:hyoder@example.com\nSite:https://www.schaefer.com/",
+      "DATE": "Invoice Date: 25-Feb-2004",
+      "NUMBER": "INVOICE # 5741-318",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1288.52 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd eighty-eight point five two"
+    }
+  },
+  {
+    "image": "Template23_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacqueline Roberts\n533 Watson Ways Apt. 387\nEast Laura, IN 34132 US\nTel:+(679)627-0635\nEmail:kayla80@example.org\nSite:http://drake-cooper.net/",
+      "DATE": "Invoice Date: 07-Feb-2018",
+      "NUMBER": "INVOICE ID INV13312932",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 470.44 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenty point four four"
+    }
+  },
+  {
+    "image": "Template23_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dustin Nelson\n741 Elizabeth Point Suite 490\nLake Kimland, MD 68085 US\nTel:+(033)293-3170\nEmail:sarah81@example.org\nSite:http://castro-white.net/",
+      "DATE": "Invoice Date: 03-Jul-2016",
+      "NUMBER": "INVOICE # 7685-675",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 595.55 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninet-\ny-five point five five"
+    }
+  },
+  {
+    "image": "Template23_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bobby Lewis\n57801 Jesse Drive\nNew Kathy, NM 01112 US\nTel:+(484)039-2077\nEmail:joshua85@example.org\nSite:https://martinez-coleman.com/",
+      "DATE": "Invoice Date: 31-Oct-2006",
+      "NUMBER": "Invoice number INV33761478",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 515.02 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and fi-\nfteen point zero two"
+    }
+  },
+  {
+    "image": "Template23_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Edwards MD\n4603 Perry Parks\nWilliamstad, NM 50582 US\nTel:+(094)353-1001\nEmail:jason04@example.org\nSite:http://www.graves.com/",
+      "DATE": "Date: 28-Sep-2018",
+      "NUMBER": "Invoice number 2Y1M2d-890",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1408.56 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundre-\nd and eight point five six"
+    }
+  },
+  {
+    "image": "Template23_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kayla Anderson\n680 Andrew Square\nBradyport, MA 46985 US\nTel:+(359)106-6053\nEmail:eileen77@example.net\nSite:http://herring-richards.com/",
+      "DATE": "Invoice Date: 15-Mar-2021",
+      "NUMBER": "INVOICE ID 5Y8M2d-261",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 513.56 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and thi-\nrteen point five six"
+    }
+  },
+  {
+    "image": "Template23_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dr. Dean Perry Jr.\n339 Patrick Mill\nEdwardport, NC 61408 US\nTel:+(388)347-9843\nEmail:elizabeth90@example.org\nSite:http://www.wright.com/",
+      "DATE": "Invoice Date: 26-Sep-1996",
+      "NUMBER": "Invoice number 0794-978",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 730.40 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and-\nthirty point four"
+    }
+  },
+  {
+    "image": "Template23_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Katie Gaines\n52382 Ramirez Meadow Suite 454\nHannahtown, AK 41624 US\nTel:+(811)127-0806\nEmail:stephanieclark@example.org\nSite:http://www.gould.net/",
+      "DATE": "Invoice Date: 02-Sep-2013",
+      "NUMBER": "INVOICE ID 7Y9M4d-152",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 932.47 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and thirt-\ny-two point four seven"
+    }
+  },
+  {
+    "image": "Template23_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Lopez\n875 Turner Lakes Suite 704\nNew Brianbury, AK 72710 US\nTel:+(475)972-4122\nEmail:owenssierra@example.org\nSite:http://hansen.com/",
+      "DATE": "Date: 29-Jun-2018",
+      "NUMBER": "INVOICE ID INV/80-04/060",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 450.67 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and fi-\nfty point six seven"
+    }
+  },
+  {
+    "image": "Template23_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Margaret Mason\n9093 Deborah Loaf Suite 573\nNorth Heatherstad, MH 93634 US\nTel:+(899)735-8109\nEmail:lindseymary@example.org\nSite:http://www.harper-henry.com/",
+      "DATE": "Date: 01-Nov-1993",
+      "NUMBER": "INVOICE ID INV/55-79/918",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 627.39 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and twenty-\n-seven point three nine"
+    }
+  },
+  {
+    "image": "Template23_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anita Carter\n8942 Cruz Islands\nSarahhaven, MO 70588 US\nTel:+(370)716-9258\nEmail:paynecarmen@example.net\nSite:http://www.peterson.com/",
+      "DATE": "Date: 04-Feb-2006",
+      "NUMBER": "Invoice number INV19772540",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 540.26 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and f-\norty point two six"
+    }
+  },
+  {
+    "image": "Template23_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandi Smith\n5174 Wheeler Tunnel Suite 396\nAshleymouth, SC 16195 US\nTel:+(213)132-2514\nEmail:parrisheddie@example.org\nSite:https://smith.biz/",
+      "DATE": "Invoice Date: 16-Nov-2017",
+      "NUMBER": "INVOICE ID 0199-010",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 811.78 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and ele-\nven point seven eight"
+    }
+  },
+  {
+    "image": "Template23_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cameron Gomez\n176 Laura Isle\nWest Lori, AR 03040 US\nTel:+(618)659-4233\nEmail:stewarttodd@example.net\nSite:https://smith.org/",
+      "DATE": "Invoice Date: 13-Mar-2019",
+      "NUMBER": "INVOICE ID 5617-944",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 211.07 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and ele-\nven point zero seven"
+    }
+  },
+  {
+    "image": "Template23_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Fowler\n82937 Stephanie Springs\nJeffreyborough, AZ 97920 US\nTel:+(652)648-8495\nEmail:leblanckelly@example.net\nSite:http://www.maddox-weber.com/",
+      "DATE": "Invoice Date: 10-Apr-2016",
+      "NUMBER": "Invoice number INV/61-94/196",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 535.20 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and th-\nirty-five point two"
+    }
+  },
+  {
+    "image": "Template23_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Justin Dixon\n114 Becker Landing\nPort Kimberly, HI 14651 US\nTel:+(311)584-9083\nEmail:djones@example.net\nSite:https://www.wilcox.com/",
+      "DATE": "Date: 06-May-2022",
+      "NUMBER": "INVOICE ID INV95071122",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 397.19 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-seven point one nine"
+    }
+  },
+  {
+    "image": "Template23_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Whitney Brooks\n5231 Aaron Run\nWest Leahburgh, MO 56716 US\nTel:+(808)821-2250\nEmail:lori15@example.net\nSite:https://smith.com/",
+      "DATE": "Date: 03-Jan-2013",
+      "NUMBER": "INVOICE # 5Y4M6d-962",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 276.95 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-six point nine five"
+    }
+  },
+  {
+    "image": "Template23_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joy Velazquez\n200 Sara Bridge\nEast Sandra, MI 50875 US\nTel:+(279)802-9602\nEmail:ashleysamuel@example.com\nSite:https://www.robles-pearson.com/",
+      "DATE": "Date: 27-Oct-2000",
+      "NUMBER": "Invoice number 1868-904",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1308.00 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, thre-\ne hundred and eight"
+    }
+  },
+  {
+    "image": "Template23_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Colleen Dickerson\n494 Jones Isle Suite 514\nSouth Tamarabury, TN 55406 US\nTel:+(475)992-9660\nEmail:randall61@example.com\nSite:https://wilkins.biz/",
+      "DATE": "Date: 05-Mar-2008",
+      "NUMBER": "INVOICE # INV02858728",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1088.91 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and eight-\ny-eight point nine one"
+    }
+  },
+  {
+    "image": "Template23_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Catherine Perkins\n2131 Brittany Fords\nDebbieberg, WI 36252 US\nTel:+(459)104-4495\nEmail:perezdavid@example.org\nSite:https://www.casey.biz/",
+      "DATE": "Date: 29-Feb-2000",
+      "NUMBER": "INVOICE ID 3926-688",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 911.57 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and ele-\nven point five seven"
+    }
+  },
+  {
+    "image": "Template23_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Jacobs\n5138 Hall Hollow\nWest Matthewville, TN 41810 US\nTel:+(446)043-0348\nEmail:kellyrobles@example.net\nSite:https://green-lopez.biz/",
+      "DATE": "Date: 17-Jan-2009",
+      "NUMBER": "INVOICE # 7479-550",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1145.92 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd forty-five point nine two"
+    }
+  },
+  {
+    "image": "Template23_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Bowman\n9772 Ashley Extensions Suite 571\nSouth Laura, AK 19859 US\nTel:+(500)165-7314\nEmail:colin25@example.com\nSite:https://sanchez.com/",
+      "DATE": "Invoice Date: 28-Feb-2013",
+      "NUMBER": "Invoice number 3Y3M4d-004",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 507.25 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and s-\neven point two five"
+    }
+  },
+  {
+    "image": "Template23_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Robinson\n84881 Connor Corner\nBrownchester, AK 46995 US\nTel:+(731)829-9302\nEmail:pettyjohn@example.org\nSite:http://graham.org/",
+      "DATE": "Date: 08-Feb-2016",
+      "NUMBER": "INVOICE ID 6139-420",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 664.36 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty-\n-four point three six"
+    }
+  },
+  {
+    "image": "Template23_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Craig Miller\n166 Kathy Squares\nLake Justin, WA 39240 US\nTel:+(806)036-4860\nEmail:jeremy81@example.org\nSite:http://flynn.net/",
+      "DATE": "Date: 08-Aug-1997",
+      "NUMBER": "INVOICE # INV37944636",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 686.60 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and ei-\nghty-six point six"
+    }
+  },
+  {
+    "image": "Template23_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Janice Fleming\n4635 Miller Mountain Suite 419\nSpearsside, VI 08490 US\nTel:+(226)400-3155\nEmail:andersondavid@example.org\nSite:https://www.baker-warren.com/",
+      "DATE": "Date: 17-Mar-2000",
+      "NUMBER": "INVOICE ID INV/14-04/384",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 583.58 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and eighty-\n-three point five eight"
+    }
+  },
+  {
+    "image": "Template23_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Frank Watts\n3941 Veronica Lights Apt. 125\nWest Jeremyfurt, IA 01807 US\nTel:+(481)992-4833\nEmail:webbbethany@example.org\nSite:https://www.powers-smith.com/",
+      "DATE": "Invoice Date: 18-Nov-2001",
+      "NUMBER": "INVOICE # 8293-718",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 615.31 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fif-\nteen point three one"
+    }
+  },
+  {
+    "image": "Template23_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sherry Molina\n779 Philip Field Suite 744\nSolisstad, DE 27249 US\nTel:+(792)801-4891\nEmail:collincox@example.net\nSite:http://davis.com/",
+      "DATE": "Invoice Date: 29-Apr-2019",
+      "NUMBER": "INVOICE # INV95201403",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:smithjeffrey@example.net",
+      "SELLER_NAME": "King, Richards and Roy",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 308.51 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and e-\night point five one"
+    }
+  }
+]

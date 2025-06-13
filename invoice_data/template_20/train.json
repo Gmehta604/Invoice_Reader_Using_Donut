@@ -1,0 +1,1762 @@
+[
+  {
+    "image": "Template20_Instance118.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 3394-270",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 399.59  $",
+      "TOTAL": "TOTAL : 393.55 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 393.55 $"
+    }
+  },
+  {
+    "image": "Template20_Instance7.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV82171728",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 939.25  $",
+      "TOTAL": "TOTAL : 961.46 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 961.46 $"
+    }
+  },
+  {
+    "image": "Template20_Instance40.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 7928-070",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 911.05  USD",
+      "TOTAL": "TOTAL : 911.15 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 911.15 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance38.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/73-37/528",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 845.42  EUR",
+      "TOTAL": "TOTAL : 866.14 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 866.14 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance177.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5909-350",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 306.20  $",
+      "TOTAL": "TOTAL : 305.95 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 305.95 $"
+    }
+  },
+  {
+    "image": "Template20_Instance194.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 3Y6M5d-425",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 335.31  USD",
+      "TOTAL": "TOTAL : 349.32 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 349.32 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance124.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 8Y2M7d-750",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 505.74  $",
+      "TOTAL": "TOTAL : 512.58 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 512.58 $"
+    }
+  },
+  {
+    "image": "Template20_Instance173.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV58362929",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 433.78  USD",
+      "TOTAL": "TOTAL : 433.33 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 433.33 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance36.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 6Y6M8d-808",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 430.14  USD",
+      "TOTAL": "TOTAL : 437.51 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 437.51 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance128.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/03-29/279",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 231.10  EUR",
+      "TOTAL": "TOTAL : 232.89 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 232.89 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance143.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/78-49/920",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 351.61  EUR",
+      "TOTAL": "TOTAL : 365.31 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 365.31 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance5.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/76-21/011",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 766.33  USD",
+      "TOTAL": "TOTAL : 776.84 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 776.84 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance108.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 9Y5M9d-882",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1413.10  EUR",
+      "TOTAL": "TOTAL : 1462.58 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1462.58 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance132.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 9822-909",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 716.01  $",
+      "TOTAL": "TOTAL : 707.49 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 707.49 $"
+    }
+  },
+  {
+    "image": "Template20_Instance70.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV64437177",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1049.14  EUR",
+      "TOTAL": "TOTAL : 1050.09 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1050.09 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance34.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 6Y6M2d-393",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 428.56  USD",
+      "TOTAL": "TOTAL : 438.23 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 438.23 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance197.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 9Y2M2d-740",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 553.87  EUR",
+      "TOTAL": "TOTAL : 576.28 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 576.28 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance137.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV67231588",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1443.41  $",
+      "TOTAL": "TOTAL : 1488.51 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 1488.51 $"
+    }
+  },
+  {
+    "image": "Template20_Instance25.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV40158251",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 198.05  EUR",
+      "TOTAL": "TOTAL : 204.62 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 204.62 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance4.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5Y7M4d-969",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 622.57  USD",
+      "TOTAL": "TOTAL : 631.37 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 631.37 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance184.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/82-68/630",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 221.14  $",
+      "TOTAL": "TOTAL : 229.86 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 229.86 $"
+    }
+  },
+  {
+    "image": "Template20_Instance112.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 8136-748",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 636.34  EUR",
+      "TOTAL": "TOTAL : 646.14 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 646.14 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance96.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/31-24/930",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 858.68  USD",
+      "TOTAL": "TOTAL : 887.85 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 887.85 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance161.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 7014-607",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1203.27  USD",
+      "TOTAL": "TOTAL : 1222.22 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1222.22 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance179.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV71424650",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 370.02  $",
+      "TOTAL": "TOTAL : 379.82 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 379.82 $"
+    }
+  },
+  {
+    "image": "Template20_Instance89.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV51532086",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 506.76  $",
+      "TOTAL": "TOTAL : 523.36 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 523.36 $"
+    }
+  },
+  {
+    "image": "Template20_Instance81.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/12-93/614",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 297.12  EUR",
+      "TOTAL": "TOTAL : 306.86 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 306.86 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance94.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 4Y7M8d-439",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 878.38  EUR",
+      "TOTAL": "TOTAL : 899.21 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 899.21 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance74.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 3Y5M3d-113",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 499.87  $",
+      "TOTAL": "TOTAL : 499.32 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 499.32 $"
+    }
+  },
+  {
+    "image": "Template20_Instance8.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 6499-036",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 813.10  USD",
+      "TOTAL": "TOTAL : 857.34 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 857.34 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance37.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV77684713",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 921.54  $",
+      "TOTAL": "TOTAL : 941.02 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 941.02 $"
+    }
+  },
+  {
+    "image": "Template20_Instance53.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/26-92/170",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 884.26  USD",
+      "TOTAL": "TOTAL : 902.80 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 902.80 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance117.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/99-53/900",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 659.67  USD",
+      "TOTAL": "TOTAL : 680.19 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 680.19 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance152.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 4Y5M2d-812",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 123.70  $",
+      "TOTAL": "TOTAL : 123.58 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 123.58 $"
+    }
+  },
+  {
+    "image": "Template20_Instance193.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV49569360",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 752.00  USD",
+      "TOTAL": "TOTAL : 767.58 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 767.58 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance71.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV67931521",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 175.53  USD",
+      "TOTAL": "TOTAL : 173.39 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 173.39 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance85.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5775-137",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 714.92  USD",
+      "TOTAL": "TOTAL : 720.50 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 720.50 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance156.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/97-86/297",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 456.79  $",
+      "TOTAL": "TOTAL : 464.62 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 464.62 $"
+    }
+  },
+  {
+    "image": "Template20_Instance188.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV95203762",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 679.07  EUR",
+      "TOTAL": "TOTAL : 710.18 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 710.18 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance43.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 9Y6M6d-718",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1044.62  USD",
+      "TOTAL": "TOTAL : 1042.40 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 1042.40 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance103.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 8Y5M3d-599",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 889.89  $",
+      "TOTAL": "TOTAL : 914.00 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 914.00 $"
+    }
+  },
+  {
+    "image": "Template20_Instance191.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/55-33/192",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 302.71  $",
+      "TOTAL": "TOTAL : 303.93 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 303.93 $"
+    }
+  },
+  {
+    "image": "Template20_Instance75.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/07-96/586",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 643.38  $",
+      "TOTAL": "TOTAL : 636.95 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 636.95 $"
+    }
+  },
+  {
+    "image": "Template20_Instance9.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/53-25/332",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 463.24  USD",
+      "TOTAL": "TOTAL : 471.26 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 471.26 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance135.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/85-30/456",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 132.13  EUR",
+      "TOTAL": "TOTAL : 136.50 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 136.50 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance92.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 3510-647",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 718.08  EUR",
+      "TOTAL": "TOTAL : 721.06 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 721.06 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance120.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 1562-564",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 516.53  USD",
+      "TOTAL": "TOTAL : 532.39 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 532.39 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance174.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 3Y2M8d-018",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 347.20  EUR",
+      "TOTAL": "TOTAL : 355.07 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 355.07 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance187.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/54-75/455",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 316.67  EUR",
+      "TOTAL": "TOTAL : 323.98 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 323.98 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance148.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 2Y5M8d-780",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1069.60  USD",
+      "TOTAL": "TOTAL : 1128.22 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 1128.22 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance181.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 7058-949",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1052.73  USD",
+      "TOTAL": "TOTAL : 1037.24 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1037.24 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance111.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5207-225",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 798.99  EUR",
+      "TOTAL": "TOTAL : 820.12 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 820.12 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance86.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5088-214",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 343.16  $",
+      "TOTAL": "TOTAL : 348.11 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 348.11 $"
+    }
+  },
+  {
+    "image": "Template20_Instance49.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 9970-319",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 526.64  $",
+      "TOTAL": "TOTAL : 535.16 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 535.16 $"
+    }
+  },
+  {
+    "image": "Template20_Instance131.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV82574317",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 535.39  EUR",
+      "TOTAL": "TOTAL : 536.94 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 536.94 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance160.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 8Y2M4d-355",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 683.11  EUR",
+      "TOTAL": "TOTAL : 691.58 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 691.58 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance140.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 2Y2M1d-619",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1074.09  USD",
+      "TOTAL": "TOTAL : 1114.99 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 1114.99 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance114.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/64-55/532",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 621.93  USD",
+      "TOTAL": "TOTAL : 645.99 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 645.99 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance186.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 3225-815",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 81.69  USD",
+      "TOTAL": "TOTAL : 82.86 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 82.86 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance125.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 8Y2M1d-257",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 255.29  EUR",
+      "TOTAL": "TOTAL : 259.98 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 259.98 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance80.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 3Y5M1d-084",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 707.79  EUR",
+      "TOTAL": "TOTAL : 725.75 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 725.75 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance129.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 6Y7M7d-931",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 602.83  EUR",
+      "TOTAL": "TOTAL : 631.55 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 631.55 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance65.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 8245-203",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1329.63  EUR",
+      "TOTAL": "TOTAL : 1387.03 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 1387.03 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance21.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 8Y9M2d-899",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 409.52  $",
+      "TOTAL": "TOTAL : 421.60 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 421.60 $"
+    }
+  },
+  {
+    "image": "Template20_Instance77.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5Y2M9d-905",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 697.72  USD",
+      "TOTAL": "TOTAL : 720.10 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 720.10 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance178.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 0890-253",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 934.20  $",
+      "TOTAL": "TOTAL : 926.29 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 926.29 $"
+    }
+  },
+  {
+    "image": "Template20_Instance44.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/80-67/749",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 335.79  $",
+      "TOTAL": "TOTAL : 350.33 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 350.33 $"
+    }
+  },
+  {
+    "image": "Template20_Instance16.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 1Y2M7d-593",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 450.63  EUR",
+      "TOTAL": "TOTAL : 442.51 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 442.51 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance82.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/38-51/743",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 955.46  $",
+      "TOTAL": "TOTAL : 975.04 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 975.04 $"
+    }
+  },
+  {
+    "image": "Template20_Instance168.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 8Y8M2d-550",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 836.36  EUR",
+      "TOTAL": "TOTAL : 849.43 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 849.43 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance144.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV85235036",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 340.67  $",
+      "TOTAL": "TOTAL : 352.32 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 352.32 $"
+    }
+  },
+  {
+    "image": "Template20_Instance149.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 7Y3M2d-472",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1054.64  EUR",
+      "TOTAL": "TOTAL : 1076.45 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 1076.45 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance69.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 7021-449",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 640.17  USD",
+      "TOTAL": "TOTAL : 666.21 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 666.21 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance42.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5Y4M8d-977",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 703.04  $",
+      "TOTAL": "TOTAL : 723.58 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 723.58 $"
+    }
+  },
+  {
+    "image": "Template20_Instance18.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/44-66/223",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 326.88  EUR",
+      "TOTAL": "TOTAL : 332.40 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 332.40 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance104.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV56672027",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 415.61  USD",
+      "TOTAL": "TOTAL : 425.09 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 425.09 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance141.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV95050828",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 929.01  $",
+      "TOTAL": "TOTAL : 948.98 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 948.98 $"
+    }
+  },
+  {
+    "image": "Template20_Instance183.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV35523516",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 59.93  EUR",
+      "TOTAL": "TOTAL : 60.77 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 60.77 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance41.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5Y1M2d-985",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 808.86  EUR",
+      "TOTAL": "TOTAL : 848.81 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 848.81 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance32.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV84321322",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 444.74  $",
+      "TOTAL": "TOTAL : 442.94 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 442.94 $"
+    }
+  },
+  {
+    "image": "Template20_Instance72.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5Y5M3d-335",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1009.10  EUR",
+      "TOTAL": "TOTAL : 1059.47 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1059.47 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance169.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 3335-797",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1119.88  EUR",
+      "TOTAL": "TOTAL : 1159.59 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 1159.59 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance68.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/97-66/627",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 715.65  USD",
+      "TOTAL": "TOTAL : 725.67 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 725.67 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance79.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 9Y1M9d-391",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 827.80  $",
+      "TOTAL": "TOTAL : 856.02 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 856.02 $"
+    }
+  },
+  {
+    "image": "Template20_Instance78.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 0160-241",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 530.32  EUR",
+      "TOTAL": "TOTAL : 540.22 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 540.22 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance76.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/79-79/397",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1163.69  USD",
+      "TOTAL": "TOTAL : 1157.63 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 1157.63 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance146.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 0258-570",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 569.36  EUR",
+      "TOTAL": "TOTAL : 581.89 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 581.89 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance23.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/15-37/122",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 319.52  $",
+      "TOTAL": "TOTAL : 322.03 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 322.03 $"
+    }
+  },
+  {
+    "image": "Template20_Instance88.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/18-30/785",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 447.82  $",
+      "TOTAL": "TOTAL : 455.67 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 455.67 $"
+    }
+  },
+  {
+    "image": "Template20_Instance133.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV41917060",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 691.76  $",
+      "TOTAL": "TOTAL : 715.96 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 715.96 $"
+    }
+  },
+  {
+    "image": "Template20_Instance172.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 7989-548",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 250.38  EUR",
+      "TOTAL": "TOTAL : 255.02 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 255.02 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance147.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5Y7M5d-000",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 407.06  USD",
+      "TOTAL": "TOTAL : 421.46 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 421.46 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance190.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/99-14/958",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 784.64  EUR",
+      "TOTAL": "TOTAL : 789.62 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 789.62 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance196.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/38-32/565",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 568.23  USD",
+      "TOTAL": "TOTAL : 577.57 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 577.57 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance2.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 3435-337",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 274.77  EUR",
+      "TOTAL": "TOTAL : 280.62 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 280.62 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance99.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 7Y9M7d-150",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 814.10  EUR",
+      "TOTAL": "TOTAL : 831.82 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 831.82 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance67.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 4Y3M8d-513",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 898.30  USD",
+      "TOTAL": "TOTAL : 901.91 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 901.91 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance60.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 2213-191",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 520.26  USD",
+      "TOTAL": "TOTAL : 527.75 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 527.75 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance84.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 7Y6M6d-048",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 521.22  $",
+      "TOTAL": "TOTAL : 517.29 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 517.29 $"
+    }
+  },
+  {
+    "image": "Template20_Instance33.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 4Y7M4d-019",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 358.29  $",
+      "TOTAL": "TOTAL : 368.93 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 368.93 $"
+    }
+  },
+  {
+    "image": "Template20_Instance116.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV77086301",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1050.41  USD",
+      "TOTAL": "TOTAL : 1084.42 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 1084.42 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance100.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 2Y4M9d-441",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 206.58  $",
+      "TOTAL": "TOTAL : 215.26 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 215.26 $"
+    }
+  },
+  {
+    "image": "Template20_Instance151.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/34-30/999",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1247.77  USD",
+      "TOTAL": "TOTAL : 1281.11 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 1281.11 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance3.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 2Y9M3d-614",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 745.96  $",
+      "TOTAL": "TOTAL : 764.17 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 764.17 $"
+    }
+  },
+  {
+    "image": "Template20_Instance198.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 1Y6M4d-894",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 322.77  USD",
+      "TOTAL": "TOTAL : 331.22 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 331.22 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance115.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/34-54/157",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 798.36  USD",
+      "TOTAL": "TOTAL : 809.70 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 809.70 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance199.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5Y4M5d-560",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 681.73  $",
+      "TOTAL": "TOTAL : 687.81 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 687.81 $"
+    }
+  },
+  {
+    "image": "Template20_Instance95.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 7Y6M7d-859",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 711.66  $",
+      "TOTAL": "TOTAL : 718.69 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 718.69 $"
+    }
+  },
+  {
+    "image": "Template20_Instance163.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 9Y1M4d-126",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 767.26  USD",
+      "TOTAL": "TOTAL : 783.46 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 783.46 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance175.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV27895512",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 949.76  EUR",
+      "TOTAL": "TOTAL : 959.64 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 959.64 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance157.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/40-97/952",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 900.03  $",
+      "TOTAL": "TOTAL : 928.71 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 928.71 $"
+    }
+  },
+  {
+    "image": "Template20_Instance119.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV03758482",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 930.82  USD",
+      "TOTAL": "TOTAL : 957.03 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 957.03 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance145.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/28-46/951",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 714.25  $",
+      "TOTAL": "TOTAL : 727.32 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 727.32 $"
+    }
+  },
+  {
+    "image": "Template20_Instance73.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV34442987",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 654.60  USD",
+      "TOTAL": "TOTAL : 673.92 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 673.92 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance122.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 8Y5M2d-728",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 598.50  USD",
+      "TOTAL": "TOTAL : 621.17 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 621.17 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance165.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 6Y7M6d-469",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 522.06  USD",
+      "TOTAL": "TOTAL : 525.60 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 525.60 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance110.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/09-28/309",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 986.13  EUR",
+      "TOTAL": "TOTAL : 1010.05 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1010.05 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance93.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/65-26/697",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 797.38  $",
+      "TOTAL": "TOTAL : 795.72 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 795.72 $"
+    }
+  },
+  {
+    "image": "Template20_Instance31.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/38-01/783",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 655.26  EUR",
+      "TOTAL": "TOTAL : 648.05 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 648.05 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance121.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV72082758",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 598.19  $",
+      "TOTAL": "TOTAL : 598.46 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 598.46 $"
+    }
+  },
+  {
+    "image": "Template20_Instance176.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV34919848",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 880.63  $",
+      "TOTAL": "TOTAL : 907.69 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 907.69 $"
+    }
+  },
+  {
+    "image": "Template20_Instance150.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 6Y3M2d-417",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 319.28  EUR",
+      "TOTAL": "TOTAL : 322.94 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 322.94 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance195.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5673-078",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 506.62  $",
+      "TOTAL": "TOTAL : 525.64 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 525.64 $"
+    }
+  },
+  {
+    "image": "Template20_Instance48.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 0423-692",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1364.85  USD",
+      "TOTAL": "TOTAL : 1374.20 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1374.20 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance189.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/53-52/582",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 509.61  USD",
+      "TOTAL": "TOTAL : 525.62 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 525.62 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance98.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5927-982",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1073.07  USD",
+      "TOTAL": "TOTAL : 1073.30 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1073.30 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance113.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5096-919",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 122.66  EUR",
+      "TOTAL": "TOTAL : 123.46 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 123.46 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance90.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 4341-976",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 833.36  EUR",
+      "TOTAL": "TOTAL : 852.68 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 852.68 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance64.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 6108-805",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 892.49  $",
+      "TOTAL": "TOTAL : 913.83 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 913.83 $"
+    }
+  },
+  {
+    "image": "Template20_Instance13.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 7380-222",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1045.86  $",
+      "TOTAL": "TOTAL : 1097.95 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1097.95 $"
+    }
+  },
+  {
+    "image": "Template20_Instance136.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 7Y3M2d-842",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 493.76  EUR",
+      "TOTAL": "TOTAL : 517.51 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 517.51 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance123.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 3Y8M4d-132",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 192.99  $",
+      "TOTAL": "TOTAL : 193.45 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 193.45 $"
+    }
+  },
+  {
+    "image": "Template20_Instance62.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV15147551",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 919.45  USD",
+      "TOTAL": "TOTAL : 932.77 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 932.77 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance154.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV/00-17/039",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 764.96  $",
+      "TOTAL": "TOTAL : 775.83 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 775.83 $"
+    }
+  },
+  {
+    "image": "Template20_Instance19.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV63948374",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 340.31  $",
+      "TOTAL": "TOTAL : 350.77 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 350.77 $"
+    }
+  },
+  {
+    "image": "Template20_Instance130.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/84-31/710",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 777.42  USD",
+      "TOTAL": "TOTAL : 797.88 USD",
+      "AMOUNT_DUE": "BALANCE_DUE : 797.88 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance61.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 1939-394",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 543.33  $",
+      "TOTAL": "TOTAL : 553.46 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 553.46 $"
+    }
+  },
+  {
+    "image": "Template20_Instance109.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 8995-689",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 446.62  $",
+      "TOTAL": "TOTAL : 452.54 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 452.54 $"
+    }
+  },
+  {
+    "image": "Template20_Instance106.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV85907434",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 201.05  USD",
+      "TOTAL": "TOTAL : 202.40 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 202.40 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance91.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 1949-327",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 702.86  $",
+      "TOTAL": "TOTAL : 731.12 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 731.12 $"
+    }
+  },
+  {
+    "image": "Template20_Instance171.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5Y4M9d-584",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 601.90  EUR",
+      "TOTAL": "TOTAL : 606.69 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 606.69 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance17.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV86505661",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1044.48  EUR",
+      "TOTAL": "TOTAL : 1045.91 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1045.91 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance29.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 1461-279",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 787.58  USD",
+      "TOTAL": "TOTAL : 796.02 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 796.02 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance57.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV88451510",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1038.84  USD",
+      "TOTAL": "TOTAL : 1030.33 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1030.33 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance47.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 5Y1M3d-964",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 373.55  EUR",
+      "TOTAL": "TOTAL : 381.92 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 381.92 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance138.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 9Y2M2d-917",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 459.36  $",
+      "TOTAL": "TOTAL : 474.64 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 474.64 $"
+    }
+  },
+  {
+    "image": "Template20_Instance39.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 6Y3M3d-965",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 695.40  EUR",
+      "TOTAL": "TOTAL : 706.56 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 706.56 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance180.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV91315028",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 584.25  $",
+      "TOTAL": "TOTAL : 588.96 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 588.96 $"
+    }
+  },
+  {
+    "image": "Template20_Instance0.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # INV/24-52/636",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 287.81  $",
+      "TOTAL": "TOTAL : 299.40 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 299.40 $"
+    }
+  },
+  {
+    "image": "Template20_Instance15.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 4Y5M8d-961",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 499.03  $",
+      "TOTAL": "TOTAL : 514.95 $",
+      "AMOUNT_DUE": "DUE_AMOUNT : 514.95 $"
+    }
+  },
+  {
+    "image": "Template20_Instance97.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 8Y2M2d-038",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 959.74  EUR",
+      "TOTAL": "TOTAL : 966.78 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 966.78 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance28.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 5824-287",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 525.26  USD",
+      "TOTAL": "TOTAL : 547.51 USD",
+      "AMOUNT_DUE": "AMOUNT_DUE : 547.51 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance35.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID INV03648398",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 233.62  EUR",
+      "TOTAL": "TOTAL : 239.96 EUR",
+      "AMOUNT_DUE": "BALANCE_DUE : 239.96 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance58.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE # 8Y3M3d-337",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 279.75  USD",
+      "TOTAL": "TOTAL : 289.79 USD",
+      "AMOUNT_DUE": "DUE_AMOUNT : 289.79 USD"
+    }
+  },
+  {
+    "image": "Template20_Instance6.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 8Y8M8d-408",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 693.99  $",
+      "TOTAL": "TOTAL : 717.51 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 717.51 $"
+    }
+  },
+  {
+    "image": "Template20_Instance45.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV/98-37/055",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 938.30  $",
+      "TOTAL": "TOTAL : 969.14 $",
+      "AMOUNT_DUE": "BALANCE_DUE : 969.14 $"
+    }
+  },
+  {
+    "image": "Template20_Instance170.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number 9Y9M5d-087",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 751.09  EUR",
+      "TOTAL": "TOTAL : 759.69 EUR",
+      "AMOUNT_DUE": "AMOUNT_DUE : 759.69 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance51.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 9Y5M6d-010",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 264.48  EUR",
+      "TOTAL": "TOTAL : 270.67 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 270.67 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance14.jpg",
+    "ground_truth": {
+      "NUMBER": "INVOICE ID 5Y7M8d-702",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 502.95  EUR",
+      "TOTAL": "TOTAL : 526.43 EUR",
+      "AMOUNT_DUE": "DUE_AMOUNT : 526.43 EUR"
+    }
+  },
+  {
+    "image": "Template20_Instance30.jpg",
+    "ground_truth": {
+      "NUMBER": "Invoice number INV31436070",
+      "SELLER_ADDRESS": "Address:80626 Gates Plains Suite 320\nNancymouth, LA 58369 US",
+      "SELLER_NAME": "Foster, Wells and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 668.60  $",
+      "TOTAL": "TOTAL : 681.50 $",
+      "AMOUNT_DUE": "AMOUNT_DUE : 681.50 $"
+    }
+  }
+]

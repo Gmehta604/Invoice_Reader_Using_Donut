@@ -1,0 +1,2562 @@
+[
+  {
+    "image": "Template21_Instance92.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Apr-2003",
+      "DUE_DATE": "Due Date : 01-Dec-1999",
+      "NUMBER": "INVOICE # 1386-828",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.07%):  38.69 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 788.25 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eigh-\nty-eight point two five",
+      "SEND_TO": "SHIP_TO:\nKathleen York\n18251 Williams Mill\nPort Davidtown, TX 12869 US\nTel:+(316)326-1862\nEmail:angela33@example.org\nSite:https://vasquez-robertson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance15.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Mar-2000",
+      "DUE_DATE": "Due Date : 08-May-1995",
+      "NUMBER": "INVOICE ID 4Y4M2d-727",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.55%):  23.26 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 361.70 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and s-\nixty-one point seven",
+      "SEND_TO": "SHIP_TO:\nMorgan Ingram\n47256 Jones Locks Suite 722\nSouth Sarah, MP 43293 US\nTel:+(779)255-9106\nEmail:santossamuel@example.net\nSite:http://www.graves.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance2.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Jun-2002",
+      "DUE_DATE": "Due Date : 05-Feb-2009",
+      "NUMBER": "INVOICE # INV/37-20/115",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.43%):  37.26 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1100.20 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one-\nhundred point two",
+      "SEND_TO": "SHIP_TO:\nErica Smith\n18084 Timothy Lodge\nHerrerahaven, NM 36482 US\nTel:+(598)792-1765\nEmail:lisa91@example.org\nSite:https://harvey.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance89.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Jun-2004",
+      "DUE_DATE": "Due Date : 22-Feb-1998",
+      "NUMBER": "Invoice number INV/98-74/774",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.37%):  50.42 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 827.04 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twent-\ny-seven point zero four",
+      "SEND_TO": "SHIP_TO:\nLaura Gordon MD\n64813 Robert Parkways\nNorth Maryhaven, SD 19282 US\nTel:+(216)434-3878\nEmail:chandlercarrie@example.com\nSite:http://www.george.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance105.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Oct-1999",
+      "DUE_DATE": "Due Date : 11-Oct-2016",
+      "NUMBER": "Invoice number 5Y8M6d-551",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.65%):  28.32 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 776.36 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnty-six point three six",
+      "SEND_TO": "SHIP_TO:\nRyan Waller\n82685 Vazquez Court\nPort Jeanettehaven, MD 80942 US\nTel:+(939)402-1260\nEmail:nbooker@example.net\nSite:https://daniels-bond.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance112.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Mar-1996",
+      "DUE_DATE": "Due Date : 26-Apr-2003",
+      "NUMBER": "INVOICE # 2Y4M8d-690",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.87%):  14.49 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 383.14 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-three point one four",
+      "SEND_TO": "SHIP_TO:\nJasmine Salinas\n35405 Bryan Groves Apt. 542\nWest Scottstad, CA 89249 US\nTel:+(641)626-6801\nEmail:qsimpson@example.net\nSite:http://stephens-miller.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance36.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-May-2008",
+      "DUE_DATE": "Due Date : 12-May-2012",
+      "NUMBER": "INVOICE ID 5329-015",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.31%):  23.82 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 736.15 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thi-\nrty-six point one five",
+      "SEND_TO": "SHIP_TO:\nSharon Thompson\n308 Thomas Square Suite 626\nDavidmouth, FM 64620 US\nTel:+(271)336-1973\nEmail:garciamichaela@example.com\nSite:https://nelson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance6.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Jan-2018",
+      "DUE_DATE": "Due Date : 05-Jan-2009",
+      "NUMBER": "INVOICE ID INV/29-22/305",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.44%):  31.67 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 937.64 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and thirt-\ny-seven point six four",
+      "SEND_TO": "SHIP_TO:\nGregory Brown\n061 Vincent Curve\nHeatherport, AL 99067 US\nTel:+(587)245-1993\nEmail:rblankenship@example.org\nSite:https://www.douglas-hill.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance85.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Jul-1994",
+      "DUE_DATE": "Due Date : 26-Jan-1995",
+      "NUMBER": "Invoice number 8179-122",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.77%):  63.11 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1130.05 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred -\nand thirty point zero five",
+      "SEND_TO": "SHIP_TO:\nDr. Johnny Ewing\n666 Jenna Club Apt. 565\nPort Meagan, AK 38918 US\nTel:+(706)761-9427\nEmail:bmcintosh@example.org\nSite:http://www.hester-martin.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance135.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Jan-1995",
+      "DUE_DATE": "Due Date : 12-Dec-2020",
+      "NUMBER": "Invoice number 2668-799",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.39%):  85.43 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1376.03 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred an-\nd seventy-six point zero three",
+      "SEND_TO": "SHIP_TO:\nGarrett Kelly\n480 King Terrace\nHarrisport, VA 25626 US\nTel:+(104)491-5040\nEmail:sharonsanders@example.net\nSite:https://www.jones.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance94.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Sep-1996",
+      "DUE_DATE": "Due Date : 29-Aug-2020",
+      "NUMBER": "INVOICE ID INV19845144",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.99%):  17.47 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 303.45 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and t-\nhree point four five",
+      "SEND_TO": "SHIP_TO:\nJessica Lopez MD\n795 Diaz Crest Apt. 872\nBestchester, VA 01978 US\nTel:+(758)651-0463\nEmail:ncollier@example.org\nSite:http://leonard.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance150.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-Aug-2012",
+      "DUE_DATE": "Due Date : 04-Jun-1997",
+      "NUMBER": "INVOICE # 3353-994",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.17%):  26.85 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 534.71 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirt-\ny-four point seven one",
+      "SEND_TO": "SHIP_TO:\nDavid Williams\n73089 Austin Loaf\nNorth Kimberlyshire, WV 09531 US\nTel:+(421)724-5315\nEmail:jtravis@example.com\nSite:https://daniels.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance175.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Dec-2005",
+      "DUE_DATE": "Due Date : 31-Mar-1995",
+      "NUMBER": "INVOICE # INV00371490",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.14%):  49.06 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 836.89 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-six point eight nine",
+      "SEND_TO": "SHIP_TO:\nDouglas Norman\n44121 Velasquez Court Apt. 553\nKimberlyland, PW 81710 US\nTel:+(703)312-2146\nEmail:hsmith@example.com\nSite:http://smith.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance98.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Apr-2017",
+      "DUE_DATE": "Due Date : 16-Mar-2013",
+      "NUMBER": "INVOICE ID INV82681050",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.71%):  18.41 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 392.84 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-two point eight four",
+      "SEND_TO": "SHIP_TO:\nRoss Munoz\n68140 Sawyer Turnpike Suite 250\nNicolestad, OK 94489 US\nTel:+(867)667-8348\nEmail:goodwinlaura@example.net\nSite:http://www.howard-hess.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance104.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Nov-2002",
+      "DUE_DATE": "Due Date : 24-Jan-2005",
+      "NUMBER": "Invoice number 4Y1M5d-383",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.77%):  17.30 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 375.11 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and seve-\nnty-five point one one",
+      "SEND_TO": "SHIP_TO:\nSamantha Mccoy\n62107 Amber Well\nNorth Alanstad, ID 26659 US\nTel:+(487)399-6161\nEmail:elizabethmccoy@example.com\nSite:https://martinez-graves.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance10.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Aug-1996",
+      "DUE_DATE": "Due Date : 31-Mar-1996",
+      "NUMBER": "Invoice number INV86905520",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.45%):  17.13 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 494.72 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-four point seven two",
+      "SEND_TO": "SHIP_TO:\nElizabeth Blankenship\n9509 William Mill\nLake Davidville, SC 61910 US\nTel:+(539)040-1951\nEmail:rushstephen@example.net\nSite:http://hoffman-vang.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance121.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Sep-2005",
+      "DUE_DATE": "Due Date : 12-Feb-2013",
+      "NUMBER": "Invoice number INV/93-33/685",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.91%):  54.21 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 935.47 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and thirt-\ny-five point four seven",
+      "SEND_TO": "SHIP_TO:\nKristina Mejia\n36609 Benjamin Ports Suite 655\nPort Shaunview, NM 59748 US\nTel:+(615)974-2704\nEmail:gmaldonado@example.org\nSite:https://hill-clark.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance179.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-May-2000",
+      "DUE_DATE": "Due Date : 01-Dec-1994",
+      "NUMBER": "INVOICE # 6Y1M6d-995",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.21%):  48.79 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 950.87 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fif-\nty point eight seven",
+      "SEND_TO": "SHIP_TO:\nLisa Hicks\n2107 Richard Vista\nSuareztown, AS 66936 US\nTel:+(686)488-8150\nEmail:swansontiffany@example.org\nSite:https://moon.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance185.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Jul-2020",
+      "DUE_DATE": "Due Date : 25-Mar-2008",
+      "NUMBER": "INVOICE # INV/76-61/654",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.44%):  29.90 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 888.33 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and eighty-\n-eight point three three",
+      "SEND_TO": "SHIP_TO:\nJeremy Thomas\n5278 Fernandez Radial\nLake Mark, AK 31171 US\nTel:+(410)394-3960\nEmail:michael33@example.net\nSite:http://www.espinoza.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance122.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Apr-2008",
+      "DUE_DATE": "Due Date : 17-Jun-2009",
+      "NUMBER": "INVOICE ID INV/59-00/106",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.57%):  39.49 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 861.68 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and six-\nty-one point six eight",
+      "SEND_TO": "SHIP_TO:\nAnthony Wilson\n7464 Craig Bridge\nWest Jamestown, NM 86578 US\nTel:+(263)305-9216\nEmail:davisjohn@example.net\nSite:https://www.glass.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance87.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Nov-2020",
+      "DUE_DATE": "Due Date : 05-May-1998",
+      "NUMBER": "INVOICE # 7801-501",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.21%):  6.68 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 207.48 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sev-\nen point four eight",
+      "SEND_TO": "SHIP_TO:\nRobert Everett\n825 Deborah Viaduct\nEast Brandi, AK 79315 US\nTel:+(422)203-8963\nEmail:jlittle@example.org\nSite:https://www.brooks.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance14.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Jan-2023",
+      "DUE_DATE": "Due Date : 02-Aug-2000",
+      "NUMBER": "INVOICE ID 5Y8M8d-446",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.47%):  72.85 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1154.66 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd fifty-four point six six",
+      "SEND_TO": "SHIP_TO:\nThomas Chaney\n1578 Sarah Union\nNew Michael, GU 79699 US\nTel:+(030)097-2162\nEmail:bobby37@example.org\nSite:http://bell.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance34.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Mar-2010",
+      "DUE_DATE": "Due Date : 13-Oct-2014",
+      "NUMBER": "Invoice number INV89218595",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.57%):  45.54 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 845.80 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fo-\nrty-five point eight",
+      "SEND_TO": "SHIP_TO:\nMr. Jason Petty\n61660 Rebecca Corner Suite 909\nAllenburgh, NH 56822 US\nTel:+(996)456-3007\nEmail:kiddlauren@example.net\nSite:https://wade.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance77.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Nov-2020",
+      "DUE_DATE": "Due Date : 07-Dec-2017",
+      "NUMBER": "INVOICE # 3Y6M8d-003",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.67%):  10.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 197.93 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninety-\n-seven point nine three",
+      "SEND_TO": "SHIP_TO:\nJames Alexander\n25872 Washington Alley Suite 595\nNorth Cynthiaton, AK 12182 US\nTel:+(903)826-5307\nEmail:pchapman@example.net\nSite:https://www.hughes.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance39.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Oct-2000",
+      "DUE_DATE": "Due Date : 12-Mar-2012",
+      "NUMBER": "INVOICE # INV/33-44/564",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.89%):  20.82 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 433.35 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirty-\n-three point three five",
+      "SEND_TO": "SHIP_TO:\nRuth Davis\n144 Anderson Parks\nPerryland, WV 50874 US\nTel:+(475)339-0728\nEmail:travis56@example.com\nSite:https://www.lopez-sherman.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance99.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 27-Jan-1999",
+      "DUE_DATE": "Due Date : 28-Sep-2016",
+      "NUMBER": "INVOICE ID 5Y1M5d-031",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.11%):  14.98 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 368.25 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-eight point two five",
+      "SEND_TO": "SHIP_TO:\nMaurice Wu\n11728 French Shore\nEast Tonyaview, VI 20172 US\nTel:+(017)839-5163\nEmail:fbowen@example.net\nSite:http://www.hart.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance38.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Feb-2004",
+      "DUE_DATE": "Due Date : 23-Aug-2001",
+      "NUMBER": "INVOICE # 9Y2M9d-571",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.77%):  26.59 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 474.80 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenty-four point eight",
+      "SEND_TO": "SHIP_TO:\nTravis Shaffer\n880 Barry Common Apt. 920\nNorth Kelseyborough, AK 55900 US\nTel:+(457)576-6082\nEmail:rwhite@example.org\nSite:https://www.austin-massey.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance70.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Apr-1998",
+      "DUE_DATE": "Due Date : 22-May-2006",
+      "NUMBER": "INVOICE ID 8019-550",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.43%):  22.78 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 367.27 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-seven point two seven",
+      "SEND_TO": "SHIP_TO:\nJames Armstrong\n4025 Lisa Crescent Apt. 802\nNew Lesliemouth, MP 13133 US\nTel:+(343)234-3607\nEmail:hartmanjoshua@example.com\nSite:https://www.mitchell-mora.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance41.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Jun-1994",
+      "DUE_DATE": "Due Date : 03-Jan-1997",
+      "NUMBER": "INVOICE ID 1569-831",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.40%):  35.52 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 821.90 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and t-\nwenty-one point nine",
+      "SEND_TO": "SHIP_TO:\nErin Owens\n9210 Carrillo Extensions Apt. 840\nMayerborough, NH 11225 US\nTel:+(701)602-5166\nEmail:wesley56@example.org\nSite:https://peterson-clements.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance186.jpg",
+    "ground_truth": {
+      "DATE": "Date: 05-Jun-2005",
+      "DUE_DATE": "Due Date : 15-Aug-2011",
+      "NUMBER": "INVOICE ID INV77443367",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.27%):  17.57 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 537.15 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirt-\ny-seven point one five",
+      "SEND_TO": "SHIP_TO:\nJason Shaw\n87890 Bryan Trafficway Apt. 517\nJoelview, LA 72261 US\nTel:+(291)162-4658\nEmail:justin89@example.net\nSite:https://www.ray.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance30.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Jun-1997",
+      "DUE_DATE": "Due Date : 15-Feb-2003",
+      "NUMBER": "INVOICE ID 7Y1M8d-398",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.65%):  41.63 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1152.61 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred -\nand fifty-two point six one",
+      "SEND_TO": "SHIP_TO:\nJennifer Wolfe\n26522 Shelley Neck Apt. 976\nPort Jenniferhaven, RI 21490 US\nTel:+(664)624-6642\nEmail:oconnelljohn@example.com\nSite:http://www.rivera-vasquez.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance189.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Sep-2006",
+      "DUE_DATE": "Due Date : 18-Jun-2015",
+      "NUMBER": "INVOICE # INV82248526",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.83%):  13.49 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 241.70 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fo-\nrty-one point seven",
+      "SEND_TO": "SHIP_TO:\nSharon Ramirez\n36499 Kenneth Shoal Apt. 325\nNew Aaronland, CT 50605 US\nTel:+(879)026-3414\nEmail:jonathanowens@example.net\nSite:https://www.wright.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance157.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Oct-1998",
+      "DUE_DATE": "Due Date : 07-Jan-2016",
+      "NUMBER": "INVOICE # 3203-436",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.45%):  58.99 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1101.75 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred-\nand one point seven five",
+      "SEND_TO": "SHIP_TO:\nDavid Jackson\n74909 Alfred Inlet\nNorth Brian, MH 62389 US\nTel:+(352)720-8135\nEmail:valerie49@example.org\nSite:https://mendoza.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance178.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Aug-2003",
+      "DUE_DATE": "Due Date : 23-Mar-1994",
+      "NUMBER": "INVOICE ID 4241-516",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.60%):  24.82 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 698.08 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninety-\n-eight point zero eight",
+      "SEND_TO": "SHIP_TO:\nSteven Smith\n04943 Henderson Shore\nHaynesfort, CO 13605 US\nTel:+(646)628-2264\nEmail:michaelthomas@example.net\nSite:https://www.bishop.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance29.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Jul-2022",
+      "DUE_DATE": "Due Date : 27-May-2009",
+      "NUMBER": "Invoice number INV93133716",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.98%):  51.42 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1047.59 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and forty-\n-seven point five nine",
+      "SEND_TO": "SHIP_TO:\nJohnny Sellers\n19068 Shelton Burgs Apt. 342\nLake Lori, WY 30512 US\nTel:+(790)295-2768\nEmail:john80@example.org\nSite:http://flores.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance133.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Jan-1999",
+      "DUE_DATE": "Due Date : 23-Oct-2001",
+      "NUMBER": "Invoice number 1950-567",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.99%):  48.11 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 834.06 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-four point zero six",
+      "SEND_TO": "SHIP_TO:\nNicole Young MD\n39464 Matthew Estates\nJohnsonberg, WY 95057 US\nTel:+(670)258-0324\nEmail:stephanie26@example.com\nSite:https://weaver.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance0.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 31-May-1999",
+      "DUE_DATE": "Due Date : 03-Mar-2010",
+      "NUMBER": "INVOICE # 1Y5M9d-616",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.34%):  7.69 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 176.26 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and seve-\nnty-six point two six",
+      "SEND_TO": "SHIP_TO:\nAshley Moody\n958 Amy Inlet Suite 079\nNew Monicastad, OK 52428 US\nTel:+(665)812-6159\nEmail:iescobar@example.net\nSite:http://www.thomas.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance141.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-May-2007",
+      "DUE_DATE": "Due Date : 01-Feb-2000",
+      "NUMBER": "Invoice number 1962-389",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.19%):  33.11 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 663.70 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and six-\nty-three point seven",
+      "SEND_TO": "SHIP_TO:\nTroy Taylor\n9322 Oconnor Road\nMaynardburgh, UT 54870 US\nTel:+(766)052-7987\nEmail:alexisnichols@example.net\nSite:https://chang.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance131.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Aug-2002",
+      "DUE_DATE": "Due Date : 31-Jan-1999",
+      "NUMBER": "INVOICE # 9Y7M7d-375",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.21%):  24.70 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 485.98 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-five point nine eight",
+      "SEND_TO": "SHIP_TO:\nChad Green\n345 Brandy Mountains Apt. 930\nLake Amyberg, ME 98998 US\nTel:+(722)399-8992\nEmail:chelsea19@example.net\nSite:http://www.murphy.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance88.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Nov-2017",
+      "DUE_DATE": "Due Date : 07-Nov-2017",
+      "NUMBER": "Invoice number 4Y8M6d-419",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.19%):  23.28 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 737.93 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-seven point nine three",
+      "SEND_TO": "SHIP_TO:\nRoger Jackson\n38402 Tiffany Manor Apt. 840\nNew Kevinmouth, WI 99538 US\nTel:+(494)156-2939\nEmail:michael18@example.net\nSite:https://www.rose-heath.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance115.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 26-Jun-1997",
+      "DUE_DATE": "Due Date : 08-Apr-1995",
+      "NUMBER": "Invoice number INV68197653",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.42%):  1.63 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 48.81 $",
+      "TOTAL_WORDS": "Total in words:  forty-eight p-\noint eight one",
+      "SEND_TO": "SHIP_TO:\nAnne Bryant\n07318 Taylor Villages Apt. 479\nAngelaville, KY 27238 US\nTel:+(000)077-7991\nEmail:joshua59@example.com\nSite:http://willis-johnson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance32.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Jan-2016",
+      "DUE_DATE": "Due Date : 28-Sep-2011",
+      "NUMBER": "INVOICE # 7268-348",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.50%):  29.86 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 546.24 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and for-\nty-six point two four",
+      "SEND_TO": "SHIP_TO:\nSusan Miller\n6277 Neal Tunnel\nNorth Matthew, ND 89415 US\nTel:+(825)432-0553\nEmail:tatejessica@example.net\nSite:http://www.williams-grant.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance1.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Mar-2011",
+      "DUE_DATE": "Due Date : 17-Dec-2020",
+      "NUMBER": "INVOICE # INV/71-42/692",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.87%):  28.97 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 742.98 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fort-\ny-two point nine eight",
+      "SEND_TO": "SHIP_TO:\nAndrea Acevedo\n948 Jennings Union Suite 532\nPort Edgarmouth, VT 01697 US\nTel:+(530)372-0853\nEmail:xrobbins@example.net\nSite:http://www.mccormick.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance56.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-May-2003",
+      "DUE_DATE": "Due Date : 07-Jan-2019",
+      "NUMBER": "INVOICE ID 2Y8M8d-915",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.20%):  16.40 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 511.20 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and-\neleven point two",
+      "SEND_TO": "SHIP_TO:\nLaura Clarke\n86258 Kelly Way\nEricksonview, AR 64133 US\nTel:+(905)432-0376\nEmail:mpittman@example.org\nSite:https://bell.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance91.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Nov-2005",
+      "DUE_DATE": "Due Date : 17-Jul-2016",
+      "NUMBER": "INVOICE ID INV35411828",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.92%):  24.12 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 625.02 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-five point zero two",
+      "SEND_TO": "SHIP_TO:\nNatalie Mclean\n48972 Brown Junctions Suite 467\nEast Kevin, TX 24547 US\nTel:+(548)809-1825\nEmail:johncollins@example.org\nSite:https://wilson.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance11.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Oct-2000",
+      "DUE_DATE": "Due Date : 27-Apr-1999",
+      "NUMBER": "Invoice number 6Y3M7d-119",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.83%):  17.47 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 465.05 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-five point zero five",
+      "SEND_TO": "SHIP_TO:\nKelly Cunningham\n9837 Courtney Alley\nWest Joseph, WY 65721 US\nTel:+(972)698-1186\nEmail:john08@example.com\nSite:http://www.mayer-martin.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance167.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Dec-1999",
+      "DUE_DATE": "Due Date : 05-Jan-2014",
+      "NUMBER": "Invoice number 5Y9M1d-384",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.45%):  55.20 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1620.66 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, six hundred-\nand twenty point six six",
+      "SEND_TO": "SHIP_TO:\nMelinda Branch\n0686 Richard Skyway\nOchoaborough, AR 07788 US\nTel:+(807)437-7920\nEmail:sarah01@example.com\nSite:https://www.lawrence.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance49.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Dec-2002",
+      "DUE_DATE": "Due Date : 06-Feb-2005",
+      "NUMBER": "INVOICE # INV/74-45/873",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.41%):  23.31 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 677.43 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and seventy-\n-seven point four three",
+      "SEND_TO": "SHIP_TO:\nSamuel Kelly\n6296 Kelly Unions Suite 968\nEast Paul, FM 10868 US\nTel:+(651)402-0976\nEmail:steventhompson@example.org\nSite:http://reid.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance57.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-Apr-2017",
+      "DUE_DATE": "Due Date : 25-Jun-2013",
+      "NUMBER": "INVOICE # 1766-478",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.31%):  38.31 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 739.73 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-nine point seven three",
+      "SEND_TO": "SHIP_TO:\nDonna Hernandez\n75213 Santiago Mountain\nWhitehaven, GA 21888 US\nTel:+(438)500-9074\nEmail:natalie79@example.org\nSite:https://www.larson-parsons.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance144.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 27-May-2007",
+      "DUE_DATE": "Due Date : 07-Sep-2012",
+      "NUMBER": "INVOICE ID INV/24-70/505",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.06%):  28.64 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 710.49 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\nten point four nine",
+      "SEND_TO": "SHIP_TO:\nJoseph Harris\n1635 Allen Throughway Suite 449\nNew Kevin, NJ 36339 US\nTel:+(628)306-4695\nEmail:maryjohnson@example.com\nSite:https://www.carpenter-higgins.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance147.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Oct-2008",
+      "DUE_DATE": "Due Date : 25-Oct-2008",
+      "NUMBER": "Invoice number INV34314204",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.34%):  4.68 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 110.97 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and te-\nn point nine seven",
+      "SEND_TO": "SHIP_TO:\nDaniel Estrada\n7189 Claire Curve Apt. 674\nPort Tiffany, MP 90719 US\nTel:+(892)234-2431\nEmail:tchang@example.org\nSite:http://www.anthony-ramsey.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance83.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Dec-2004",
+      "DUE_DATE": "Due Date : 17-Jan-2000",
+      "NUMBER": "INVOICE # INV/17-14/928",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.42%):  34.98 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 650.86 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fi-\nfty point eight six",
+      "SEND_TO": "SHIP_TO:\nJuan Stevens\n00190 Kathy Springs Apt. 101\nPort Brenda, SD 99792 US\nTel:+(678)248-5698\nEmail:weisslisa@example.net\nSite:http://www.smith.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance25.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Jul-2006",
+      "DUE_DATE": "Due Date : 14-Sep-2015",
+      "NUMBER": "INVOICE # 4126-794",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.92%):  34.55 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 593.08 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninety-\n-three point zero eight",
+      "SEND_TO": "SHIP_TO:\nAndrea Diaz\n54901 Jennifer Trail\nJasonmouth, AZ 73078 US\nTel:+(529)636-6062\nEmail:barbara20@example.com\nSite:https://guerra-walker.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance19.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Jun-2011",
+      "DUE_DATE": "Due Date : 23-Feb-2007",
+      "NUMBER": "INVOICE ID 3521-863",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.75%):  24.15 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 644.30 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and for-\nty-four point three",
+      "SEND_TO": "SHIP_TO:\nJustin Larson\n161 Martin Lake Apt. 225\nNorth Michaelmouth, PA 20279 US\nTel:+(325)986-8958\nEmail:jeremy93@example.net\nSite:http://www.williams.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance181.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Dec-2021",
+      "DUE_DATE": "Due Date : 28-Mar-2014",
+      "NUMBER": "Invoice number INV89006816",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.33%):  73.39 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1688.13 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, six hundred and-\neighty-eight point one three",
+      "SEND_TO": "SHIP_TO:\nJames Solomon\n59288 Kenneth Heights\nKelleyfort, OK 67752 US\nTel:+(676)276-4149\nEmail:qpatel@example.org\nSite:http://www.perry-morales.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance109.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Jun-2010",
+      "DUE_DATE": "Due Date : 26-Apr-2007",
+      "NUMBER": "INVOICE # INV41351339",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.12%):  12.70 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 249.40 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fo-\nrty-nine point four",
+      "SEND_TO": "SHIP_TO:\nLori Meadows\n3117 Dana Route Suite 463\nShawnmouth, FM 64135 US\nTel:+(420)331-8511\nEmail:susan01@example.com\nSite:https://garcia.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance127.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Apr-2011",
+      "DUE_DATE": "Due Date : 03-Jul-2021",
+      "NUMBER": "INVOICE # INV12025312",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.22%):  18.74 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 446.79 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and fort-\ny-six point seven nine",
+      "SEND_TO": "SHIP_TO:\nAndrew Rodriguez\n9966 Valerie Crest\nAngelaton, IL 93715 US\nTel:+(577)619-7317\nEmail:patrickrodriguez@example.com\nSite:https://johnson.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance81.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Sep-2011",
+      "DUE_DATE": "Due Date : 01-Feb-2001",
+      "NUMBER": "Invoice number INV/99-86/366",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.63%):  22.64 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 489.67 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-nine point six seven",
+      "SEND_TO": "SHIP_TO:\nMichelle Pierce\n9341 Willis Drive Suite 960\nTeresatown, CT 66939 US\nTel:+(157)171-8767\nEmail:danielleshort@example.net\nSite:https://dalton.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance71.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Jun-2005",
+      "DUE_DATE": "Due Date : 06-May-2002",
+      "NUMBER": "INVOICE ID 9222-036",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.44%):  17.31 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 511.65 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and el-\neven point six five",
+      "SEND_TO": "SHIP_TO:\nPamela Vargas DDS\n0199 Alex Route\nFoleyhaven, AR 92909 US\nTel:+(221)171-3722\nEmail:russellweeks@example.net\nSite:https://www.baker-evans.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance58.jpg",
+    "ground_truth": {
+      "DATE": "Date: 04-Jan-2006",
+      "DUE_DATE": "Due Date : 16-May-2003",
+      "NUMBER": "Invoice number 0095-194",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.60%):  34.56 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 540.30 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and -\nforty point three",
+      "SEND_TO": "SHIP_TO:\nJennifer Cantu\n772 Cody Isle Apt. 385\nSouth Amandaside, CO 45192 US\nTel:+(621)762-7389\nEmail:warepatricia@example.org\nSite:http://www.brock.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance55.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Feb-2009",
+      "DUE_DATE": "Due Date : 14-Feb-1996",
+      "NUMBER": "INVOICE ID 8Y7M3d-748",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.27%):  22.16 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 529.86 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-nine point eight six",
+      "SEND_TO": "SHIP_TO:\nRonnie Ruiz\n823 Garcia Plains Apt. 569\nEast Dawn, KS 02930 US\nTel:+(536)347-8703\nEmail:nicolewilliams@example.net\nSite:https://www.hughes.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance151.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-Nov-2015",
+      "DUE_DATE": "Due Date : 28-Nov-2019",
+      "NUMBER": "Invoice number 8Y4M8d-013",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.46%):  12.84 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 202.82 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and t-\nwo point eight two",
+      "SEND_TO": "SHIP_TO:\nCatherine Salas\n523 Garcia Meadows\nPort Brianland, NC 54762 US\nTel:+(649)974-9515\nEmail:angela49@example.com\nSite:http://garcia.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance65.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Aug-1995",
+      "DUE_DATE": "Due Date : 05-Jun-2022",
+      "NUMBER": "Invoice number 1423-336",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.18%):  39.81 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 671.53 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-one point five three",
+      "SEND_TO": "SHIP_TO:\nCathy Thomas DVM\n68414 Noble Groves Suite 352\nEdwinport, AK 85134 US\nTel:+(726)241-6153\nEmail:davidlogan@example.net\nSite:http://www.berg.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance162.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Oct-2012",
+      "DUE_DATE": "Due Date : 06-Apr-2002",
+      "NUMBER": "INVOICE # 9814-245",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.95%):  57.65 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 869.90 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and s-\nixty-nine point nine",
+      "SEND_TO": "SHIP_TO:\nNatalie Lewis\n3321 Hamilton Groves Apt. 518\nHerreraborough, OH 57732 US\nTel:+(031)040-9793\nEmail:alexander79@example.com\nSite:http://www.allen.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance96.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Jun-2001",
+      "DUE_DATE": "Due Date : 28-Sep-2016",
+      "NUMBER": "INVOICE # INV/95-66/000",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.39%):  25.20 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 744.22 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and for-\nty-four point two two",
+      "SEND_TO": "SHIP_TO:\nJoshua Mercer\n7782 Bishop Fords Suite 553\nMichaelmouth, VA 50201 US\nTel:+(143)372-9711\nEmail:cathy22@example.net\nSite:http://ross-rodriguez.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance35.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Nov-2008",
+      "DUE_DATE": "Due Date : 30-May-1998",
+      "NUMBER": "Invoice number 8Y7M9d-579",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.81%):  37.24 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 566.50 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and s-\nixty-six point five",
+      "SEND_TO": "SHIP_TO:\nJoel Lee\n21588 Watson Gateway\nRobertoside, OH 74135 US\nTel:+(212)594-1565\nEmail:wcarter@example.org\nSite:https://www.wade-martinez.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance45.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Dec-2006",
+      "DUE_DATE": "Due Date : 27-Jan-2013",
+      "NUMBER": "INVOICE # 3548-045",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.32%):  5.51 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 167.53 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and sixty--\nseven point five three",
+      "SEND_TO": "SHIP_TO:\nDawn Russell\n062 Sarah Village\nNorth Kirkview, VI 87441 US\nTel:+(404)239-9838\nEmail:rodgerskayla@example.com\nSite:https://www.olsen.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance154.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-Jul-2014",
+      "DUE_DATE": "Due Date : 29-Jul-2010",
+      "NUMBER": "INVOICE # 3186-711",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.77%):  23.78 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 630.36 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and thi-\nrty point three six",
+      "SEND_TO": "SHIP_TO:\nJames Scott\n57156 Toni Grove Apt. 570\nKelseybury, MT 43099 US\nTel:+(606)181-1428\nEmail:baileycorey@example.com\nSite:https://www.armstrong-adams.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance180.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-May-2003",
+      "DUE_DATE": "Due Date : 31-Jan-1998",
+      "NUMBER": "INVOICE ID 6740-935",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.23%):  37.56 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 721.06 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twe-\nnty-one point zero six",
+      "SEND_TO": "SHIP_TO:\nZachary Shaffer\n41375 Gutierrez Loaf\nEast Denise, MN 96421 US\nTel:+(238)438-0469\nEmail:nancyjones@example.com\nSite:http://www.marquez-campbell.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance111.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Aug-2019",
+      "DUE_DATE": "Due Date : 08-Mar-2001",
+      "NUMBER": "Invoice number 1708-301",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.97%):  38.63 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 808.71 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and e-\night point seven one",
+      "SEND_TO": "SHIP_TO:\nBenjamin Brown\n0395 Christopher Route Apt. 473\nPort Tim, MS 34883 US\nTel:+(789)439-4250\nEmail:joseph12@example.com\nSite:http://blake-richards.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance20.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Jul-2015",
+      "DUE_DATE": "Due Date : 17-Jan-2009",
+      "NUMBER": "Invoice number 2888-478",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.47%):  86.74 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1406.69 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundr-\ned and six point six nine",
+      "SEND_TO": "SHIP_TO:\nChristine Jennings\n465 Webb Walk Suite 198\nWilliamborough, IA 73530 US\nTel:+(226)581-8337\nEmail:pauljohnson@example.net\nSite:https://gomez.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance120.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Oct-1998",
+      "DUE_DATE": "Due Date : 30-Sep-2010",
+      "NUMBER": "Invoice number 3Y5M6d-983",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.19%):  5.33 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 88.92 $",
+      "TOTAL_WORDS": "Total in words:  eighty-eight -\npoint nine two",
+      "SEND_TO": "SHIP_TO:\nEric Le\n7363 Jeffery Mission Apt. 733\nNorth Tina, MT 51845 US\nTel:+(996)797-7842\nEmail:xmartinez@example.net\nSite:http://chavez.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance184.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Jun-1999",
+      "DUE_DATE": "Due Date : 12-Jul-1994",
+      "NUMBER": "INVOICE ID 2Y9M6d-259",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.45%):  32.63 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 527.41 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-seven point four one",
+      "SEND_TO": "SHIP_TO:\nJose Harris\n2079 Pena Prairie Apt. 288\nNew Juan, VA 74348 US\nTel:+(231)366-5423\nEmail:elizabeth27@example.com\nSite:http://www.barnett.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance128.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 29-May-1999",
+      "DUE_DATE": "Due Date : 06-Dec-1993",
+      "NUMBER": "INVOICE ID 5326-206",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.80%):  23.77 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 419.03 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and nine-\nteen point zero three",
+      "SEND_TO": "SHIP_TO:\nSarah Campos\n027 Brian Manors Apt. 043\nLake Courtneyburgh, CT 76374 US\nTel:+(520)481-7136\nEmail:smithdavid@example.net\nSite:http://www.james-huynh.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance197.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Sep-2004",
+      "DUE_DATE": "Due Date : 26-Jan-2020",
+      "NUMBER": "INVOICE # 6Y6M9d-623",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.20%):  36.50 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 862.58 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sixt-\ny-two point five eight",
+      "SEND_TO": "SHIP_TO:\nJessica Thomas\n196 Leah Lakes Apt. 618\nNew Heatherhaven, MD 04915 US\nTel:+(045)517-6951\nEmail:andreamccormick@example.net\nSite:http://sanchez-reynolds.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance123.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Dec-2015",
+      "DUE_DATE": "Due Date : 17-Feb-2017",
+      "NUMBER": "INVOICE # 5Y2M3d-591",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.47%):  36.73 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 579.66 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and seve-\nnty-nine point six six",
+      "SEND_TO": "SHIP_TO:\nCarlos Ray\n26356 Jefferson Square\nNorth Scott, MA 18397 US\nTel:+(580)834-2833\nEmail:ashleyandrew@example.org\nSite:https://www.hill-swanson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance93.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Jun-2010",
+      "DUE_DATE": "Due Date : 06-Apr-2008",
+      "NUMBER": "INVOICE ID INV75979256",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.96%):  65.20 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 990.22 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and n-\ninety point two two",
+      "SEND_TO": "SHIP_TO:\nAmy Tucker\n17423 Mitchell Walks\nFranklinland, OH 17012 US\nTel:+(350)810-9896\nEmail:loripierce@example.com\nSite:http://www.coffey.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance73.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Jan-1999",
+      "DUE_DATE": "Due Date : 12-Apr-1995",
+      "NUMBER": "INVOICE ID 4Y6M1d-708",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.91%):  55.14 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 958.35 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fifty-\n-eight point three five",
+      "SEND_TO": "SHIP_TO:\nBrenda Mcgee\n853 Williams Tunnel\nLake Jeremyshire, OR 25886 US\nTel:+(106)596-5919\nEmail:matthew30@example.com\nSite:http://www.harris.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance3.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Jun-2007",
+      "DUE_DATE": "Due Date : 15-Oct-2007",
+      "NUMBER": "INVOICE ID 6Y4M9d-497",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.68%):  9.06 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 142.79 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-two point seven nine",
+      "SEND_TO": "SHIP_TO:\nGilbert Sanchez\n62014 Sullivan Drives\nMillerville, WY 09007 US\nTel:+(346)113-0362\nEmail:mccoydiana@example.net\nSite:http://www.scott.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance61.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Feb-2013",
+      "DUE_DATE": "Due Date : 07-Oct-2016",
+      "NUMBER": "INVOICE ID 5Y4M4d-645",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.58%):  20.36 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 581.79 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and eight-\ny-one point seven nine",
+      "SEND_TO": "SHIP_TO:\nKristin James\n2578 Underwood Springs Suite 797\nAliciachester, MP 45769 US\nTel:+(332)665-1331\nEmail:mark49@example.com\nSite:https://smith-ball.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance12.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Oct-2016",
+      "DUE_DATE": "Due Date : 01-Aug-2019",
+      "NUMBER": "INVOICE # 1Y6M4d-070",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.21%):  32.86 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1037.53 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and thirty-\n-seven point five three",
+      "SEND_TO": "SHIP_TO:\nDaniel Pearson\n20966 Foster Locks\nPort Debraview, DC 67873 US\nTel:+(917)910-1378\nEmail:vincent02@example.net\nSite:http://www.wallace-jones.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance53.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Jun-2009",
+      "DUE_DATE": "Due Date : 08-Jun-2010",
+      "NUMBER": "INVOICE ID INV/47-69/949",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.17%):  10.72 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 256.65 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and fift-\ny-six point six five",
+      "SEND_TO": "SHIP_TO:\nCasey Clark\n640 Hughes Fall\nSteeleton, WA 05705 US\nTel:+(082)747-5117\nEmail:mcclainrobert@example.com\nSite:https://www.alexander.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance66.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Dec-2018",
+      "DUE_DATE": "Due Date : 24-Nov-2014",
+      "NUMBER": "Invoice number INV05374322",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.59%):  29.97 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 658.31 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-eight point three one",
+      "SEND_TO": "SHIP_TO:\nAnna Garcia\n7226 Stevens Springs Suite 187\nLake Jamie, MP 23718 US\nTel:+(004)910-6547\nEmail:perkinsnicole@example.net\nSite:http://www.williams-smith.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance199.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Oct-2020",
+      "DUE_DATE": "Due Date : 29-Aug-2022",
+      "NUMBER": "INVOICE # INV/86-57/558",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.39%):  45.35 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 727.73 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twenty-\n-seven point seven three",
+      "SEND_TO": "SHIP_TO:\nTiffany Brown\n715 Walker Bridge Suite 617\nPort Joshuaville, WA 49508 US\nTel:+(021)261-5441\nEmail:alejandramartin@example.org\nSite:http://shepherd-dixon.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance195.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Nov-1996",
+      "DUE_DATE": "Due Date : 24-Sep-2022",
+      "NUMBER": "INVOICE ID INV/21-18/872",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.62%):  21.62 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 339.13 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-nine point one three",
+      "SEND_TO": "SHIP_TO:\nSteve Lopez\n17649 Young Glens Suite 840\nLake Sarah, CA 96375 US\nTel:+(041)992-5008\nEmail:kimberlymora@example.com\nSite:http://www.green.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance47.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Nov-2004",
+      "DUE_DATE": "Due Date : 27-Jan-2019",
+      "NUMBER": "INVOICE # INV87202058",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.12%):  8.81 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 277.83 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and seventy-\n-seven point eight three",
+      "SEND_TO": "SHIP_TO:\nMelvin Kennedy\n66165 Audrey Pike\nMichellechester, VT 61746 US\nTel:+(132)437-6146\nEmail:anna47@example.org\nSite:https://www.moore-lane.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance64.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Oct-2021",
+      "DUE_DATE": "Due Date : 15-May-2000",
+      "NUMBER": "INVOICE # 4108-233",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.17%):  40.64 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 677.01 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-seven point zero one",
+      "SEND_TO": "SHIP_TO:\nShannon Chambers\n995 Jones Trail Apt. 917\nNew Darlenehaven, MA 71509 US\nTel:+(114)284-3425\nEmail:alexanderlee@example.org\nSite:https://www.hutchinson.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance13.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Jul-1997",
+      "DUE_DATE": "Due Date : 17-Jun-1994",
+      "NUMBER": "INVOICE ID 9Y7M9d-683",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.53%):  55.16 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 876.50 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and se-\nventy-six point five",
+      "SEND_TO": "SHIP_TO:\nJacqueline Watkins\n20041 Rios Parkway Suite 468\nCindyville, WA 98014 US\nTel:+(142)705-3987\nEmail:pcombs@example.net\nSite:http://ball.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance37.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Feb-2014",
+      "DUE_DATE": "Due Date : 29-Oct-2016",
+      "NUMBER": "Invoice number INV10505375",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.58%):  22.50 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 348.89 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and forty-\n-eight point eight nine",
+      "SEND_TO": "SHIP_TO:\nCassandra Bray\n675 Cook Mountain\nMelissamouth, FM 09780 US\nTel:+(212)409-4233\nEmail:wallacechristopher@example.org\nSite:http://kemp.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance146.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Nov-2016",
+      "DUE_DATE": "Due Date : 05-Nov-2019",
+      "NUMBER": "Invoice number 3469-721",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.27%):  52.96 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 878.03 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sevent-\ny-eight point zero three",
+      "SEND_TO": "SHIP_TO:\nMelissa Holland\n5907 Tabitha Freeway\nPort Arianaside, SD 51912 US\nTel:+(118)159-6191\nEmail:dominguezchristopher@example.com\nSite:https://armstrong.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance113.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Nov-2006",
+      "DUE_DATE": "Due Date : 21-Sep-1999",
+      "NUMBER": "Invoice number 2Y2M3d-788",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.48%):  29.70 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 678.52 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-eight point five two",
+      "SEND_TO": "SHIP_TO:\nZachary Ewing\n947 Jon Valleys Apt. 692\nJennifermouth, AK 28376 US\nTel:+(648)794-7708\nEmail:amanda89@example.org\nSite:https://www.abbott.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance164.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 29-Nov-2007",
+      "DUE_DATE": "Due Date : 20-Dec-2002",
+      "NUMBER": "INVOICE # INV79077049",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.88%):  13.05 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 345.01 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and for-\nty-five point zero one",
+      "SEND_TO": "SHIP_TO:\nThomas Watson\n23119 Ricky Track Suite 304\nNicolemouth, MN 85547 US\nTel:+(105)485-2612\nEmail:paulkarina@example.net\nSite:https://www.miller-dalton.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance190.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Apr-1995",
+      "DUE_DATE": "Due Date : 15-Dec-2008",
+      "NUMBER": "INVOICE ID INV13410318",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.85%):  40.56 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1053.72 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and fifty-\n-three point seven two",
+      "SEND_TO": "SHIP_TO:\nLarry Martinez\n8273 Herrera Club\nLisafort, WI 67235 US\nTel:+(686)345-6898\nEmail:jessica17@example.org\nSite:http://www.baker.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance82.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Feb-2015",
+      "DUE_DATE": "Due Date : 30-Oct-2003",
+      "NUMBER": "Invoice number INV64148904",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.00%):  22.42 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 385.15 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-five point one five",
+      "SEND_TO": "SHIP_TO:\nJanet Holmes\n0750 Smith Rapids\nPort Kellyberg, MS 13292 US\nTel:+(813)014-0086\nEmail:nelsonmonica@example.org\nSite:http://wilson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance160.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Oct-2015",
+      "DUE_DATE": "Due Date : 18-Sep-1996",
+      "NUMBER": "INVOICE ID INV18058713",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.03%):  44.00 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 899.81 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nine-\nty-nine point eight one",
+      "SEND_TO": "SHIP_TO:\nAlicia Savage\n796 Jennifer Stream\nLake Paigeland, HI 06846 US\nTel:+(130)202-0418\nEmail:ublack@example.com\nSite:https://www.ryan.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance103.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Sep-2002",
+      "DUE_DATE": "Due Date : 04-Feb-2013",
+      "NUMBER": "INVOICE # INV89827468",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.22%):  35.78 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1114.98 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd fourteen point nine eight",
+      "SEND_TO": "SHIP_TO:\nAndrew Gomez\n548 Sarah Squares Suite 314\nEsparzachester, DC 20050 US\nTel:+(779)287-6027\nEmail:matthewtodd@example.net\nSite:http://rogers.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance168.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Oct-1994",
+      "DUE_DATE": "Due Date : 08-Sep-2015",
+      "NUMBER": "INVOICE # INV/64-37/985",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.07%):  36.04 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 738.63 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-eight point six three",
+      "SEND_TO": "SHIP_TO:\nZachary Delacruz\n031 Kirk Parkway Apt. 828\nJeffside, NV 05291 US\nTel:+(842)771-6095\nEmail:pmcneil@example.org\nSite:http://nguyen.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance44.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-Feb-2019",
+      "DUE_DATE": "Due Date : 12-Jul-2001",
+      "NUMBER": "INVOICE ID 1Y1M1d-085",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.05%):  30.72 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 776.31 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnty-six point three one",
+      "SEND_TO": "SHIP_TO:\nPatrick Blackburn\n11015 Roberts Dam\nLake Stevenchester, NH 23138 US\nTel:+(289)824-0051\nEmail:codyespinoza@example.org\nSite:https://dodson.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance166.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Sep-2012",
+      "DUE_DATE": "Due Date : 18-Dec-1994",
+      "NUMBER": "INVOICE ID INV48337135",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.90%):  19.43 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 405.71 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and f-\nive point seven one",
+      "SEND_TO": "SHIP_TO:\nElizabeth Hughes\n66000 Williams Springs Apt. 228\nLewisborough, MA 32473 US\nTel:+(035)985-2361\nEmail:perezleslie@example.net\nSite:https://ward-mathews.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance108.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-May-2007",
+      "DUE_DATE": "Due Date : 18-Jan-2016",
+      "NUMBER": "Invoice number 8Y8M5d-915",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.38%):  13.72 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 322.62 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and twe-\nnty-two point six two",
+      "SEND_TO": "SHIP_TO:\nJanice Castillo\n7315 Kimberly Island Suite 381\nKylemouth, WI 28053 US\nTel:+(304)801-2720\nEmail:eric17@example.com\nSite:http://www.gonzales.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance69.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Dec-2002",
+      "DUE_DATE": "Due Date : 05-Oct-1999",
+      "NUMBER": "INVOICE ID INV/09-61/106",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.15%):  31.40 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 618.69 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and eig-\nhteen point six nine",
+      "SEND_TO": "SHIP_TO:\nDavid Glover\n308 Tracy Passage\nPort Jessicaside, NE 25070 US\nTel:+(850)494-6195\nEmail:darius95@example.net\nSite:http://www.smith.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance169.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Apr-1993",
+      "DUE_DATE": "Due Date : 03-Nov-2008",
+      "NUMBER": "INVOICE ID 1Y8M4d-178",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.28%):  2.72 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 84.72 USD",
+      "TOTAL_WORDS": "Total in words:  eighty-four p-\noint seven two",
+      "SEND_TO": "SHIP_TO:\nChristopher Mayer Jr.\n49815 Pitts Stream\nLake Stephanie, CA 98763 US\nTel:+(467)465-5588\nEmail:martinezjohn@example.org\nSite:https://www.davis.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance24.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 31-Mar-2014",
+      "DUE_DATE": "Due Date : 06-Apr-2008",
+      "NUMBER": "Invoice number 9Y7M3d-591",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.91%):  39.99 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 590.67 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ni-\nnety point six seven",
+      "SEND_TO": "SHIP_TO:\nKayla Medina\n9964 Franco Burgs Suite 140\nMatthewville, CT 15326 US\nTel:+(162)710-5263\nEmail:justinwolfe@example.org\nSite:https://www.reynolds-harvey.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance9.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Aug-2003",
+      "DUE_DATE": "Due Date : 13-Nov-2004",
+      "NUMBER": "INVOICE ID 7Y9M8d-418",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.43%):  10.64 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 174.33 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and seventy-\n-four point three three",
+      "SEND_TO": "SHIP_TO:\nAlexander Padilla\n51780 Smith Unions\nPort Colleenside, WV 75968 US\nTel:+(836)243-6399\nEmail:stacyallen@example.com\nSite:https://price-cruz.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance78.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Jan-1995",
+      "DUE_DATE": "Due Date : 30-Dec-1999",
+      "NUMBER": "INVOICE ID INV/77-12/640",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.49%):  23.32 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 439.64 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thir-\nty-nine point six four",
+      "SEND_TO": "SHIP_TO:\nOlivia Johnson\n81423 Joseph Prairie Suite 913\nJosephtown, NM 20643 US\nTel:+(185)051-5955\nEmail:slester@example.org\nSite:https://townsend.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance97.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Jan-2000",
+      "DUE_DATE": "Due Date : 25-Feb-1996",
+      "NUMBER": "Invoice number 7813-520",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.47%):  14.64 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 431.89 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-one point eight nine",
+      "SEND_TO": "SHIP_TO:\nDr. Rhonda Shaw\n86820 Ian Summit Apt. 463\nPort Walter, RI 99870 US\nTel:+(264)986-7393\nEmail:charlesmontgomery@example.net\nSite:http://www.brown.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance140.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 03-Jun-2011",
+      "DUE_DATE": "Due Date : 25-Dec-2018",
+      "NUMBER": "INVOICE # 2253-675",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.21%):  16.12 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 498.52 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-eight point five two",
+      "SEND_TO": "SHIP_TO:\nLori Taylor\n932 Victoria Viaduct Suite 340\nSouth Clarence, IA 67994 US\nTel:+(742)467-8877\nEmail:huntstephanie@example.net\nSite:http://wong.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance52.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Aug-2018",
+      "DUE_DATE": "Due Date : 20-Jun-2009",
+      "NUMBER": "INVOICE # INV/77-77/909",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.98%):  48.25 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 728.84 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twent-\ny-eight point eight four",
+      "SEND_TO": "SHIP_TO:\nPatricia Ford\n413 Joshua Locks\nPort Jenniferstad, AK 74936 US\nTel:+(899)500-9221\nEmail:taylortiffany@example.org\nSite:http://mills.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance23.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Jul-2008",
+      "DUE_DATE": "Due Date : 01-Apr-2016",
+      "NUMBER": "INVOICE # 9582-074",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.97%):  19.22 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 388.21 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-eight point two one",
+      "SEND_TO": "SHIP_TO:\nGregory Potts\n21087 Smith Walk Apt. 220\nEast Meganburgh, MD 72226 US\nTel:+(117)860-6546\nEmail:john12@example.net\nSite:http://berg.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance192.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Nov-2010",
+      "DUE_DATE": "Due Date : 21-Oct-1993",
+      "NUMBER": "INVOICE # INV/58-30/370",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.58%):  29.89 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 854.08 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fift-\ny-four point zero eight",
+      "SEND_TO": "SHIP_TO:\nKaylee Castro\n6965 Taylor Lane Apt. 638\nStewartville, MH 36415 US\nTel:+(502)219-4678\nEmail:michelewebster@example.net\nSite:https://www.adams.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance161.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Dec-2011",
+      "DUE_DATE": "Due Date : 19-Nov-2006",
+      "NUMBER": "Invoice number 2374-120",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.77%):  12.31 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 335.45 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-five point four five",
+      "SEND_TO": "SHIP_TO:\nJacqueline Graham\n67805 Reid Plaza Apt. 807\nTrevorland, NC 03114 US\nTel:+(623)029-2282\nEmail:willie07@example.net\nSite:https://mason.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance117.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Nov-2000",
+      "DUE_DATE": "Due Date : 27-May-2022",
+      "NUMBER": "INVOICE ID INV60904968",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.36%):  29.10 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 860.42 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and s-\nixty point four two",
+      "SEND_TO": "SHIP_TO:\nCrystal Fletcher\n00692 Lambert Roads Apt. 818\nReevesberg, SD 00753 US\nTel:+(276)137-3678\nEmail:ybarr@example.com\nSite:https://www.rosales-parker.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance191.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Sep-2009",
+      "DUE_DATE": "Due Date : 30-Mar-2021",
+      "NUMBER": "INVOICE # INV/79-56/914",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.41%):  4.32 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 129.21 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and twen-\nty-nine point two one",
+      "SEND_TO": "SHIP_TO:\nErin Smith\n6307 Bowman Springs\nAmberstad, AS 43749 US\nTel:+(500)305-3113\nEmail:iward@example.net\nSite:http://phillips-myers.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance60.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Jun-2017",
+      "DUE_DATE": "Due Date : 30-Apr-2022",
+      "NUMBER": "INVOICE # INV64774594",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.86%):  23.60 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 616.00 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred-\nand sixteen",
+      "SEND_TO": "SHIP_TO:\nJordan Jones\n80836 Jared Road Apt. 140\nEast Maria, MD 91383 US\nTel:+(135)334-8702\nEmail:angela65@example.com\nSite:https://clayton.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance176.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Sep-2008",
+      "DUE_DATE": "Due Date : 12-Mar-2021",
+      "NUMBER": "INVOICE # 0399-854",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.07%):  23.46 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 592.67 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-two point six seven",
+      "SEND_TO": "SHIP_TO:\nKristi Williams\n3654 Barbara Passage Suite 371\nEast Michael, VT 99803 US\nTel:+(103)827-5840\nEmail:thompsonrebecca@example.net\nSite:https://www.smith.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance106.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Jul-2004",
+      "DUE_DATE": "Due Date : 01-Jun-1997",
+      "NUMBER": "INVOICE ID 0769-461",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.41%):  27.24 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 433.09 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-three point zero nine",
+      "SEND_TO": "SHIP_TO:\nMatthew Osborn\n27190 Shelly Ridges\nLisaton, NE 59824 US\nTel:+(218)136-2477\nEmail:collinferguson@example.org\nSite:http://diaz-smith.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance72.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Dec-2007",
+      "DUE_DATE": "Due Date : 11-May-2006",
+      "NUMBER": "Invoice number INV/87-67/071",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.36%):  21.95 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 668.76 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty-\n-eight point seven six",
+      "SEND_TO": "SHIP_TO:\nKatherine Durham\n171 Jones Branch\nJennatown, PR 91864 US\nTel:+(979)318-3102\nEmail:handerson@example.net\nSite:http://www.logan.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance4.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Aug-2004",
+      "DUE_DATE": "Due Date : 07-Nov-1999",
+      "NUMBER": "Invoice number INV33313481",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.47%):  40.80 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 664.18 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty-\n-four point one eight",
+      "SEND_TO": "SHIP_TO:\nFrank Garcia\n193 Nathaniel Crescent Apt. 189\nNorth Christyport, MA 82472 US\nTel:+(988)313-4406\nEmail:rwalker@example.net\nSite:http://oneal-erickson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance26.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-Jan-1997",
+      "DUE_DATE": "Due Date : 12-Jul-2000",
+      "NUMBER": "INVOICE # INV65420065",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.67%):  6.95 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 124.27 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and twent-\ny-four point two seven",
+      "SEND_TO": "SHIP_TO:\nAllison Davis\n822 Justin Village Apt. 634\nLake Amandaside, MT 09786 US\nTel:+(530)984-3378\nEmail:burkejennifer@example.net\nSite:https://chapman.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance148.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-May-2017",
+      "DUE_DATE": "Due Date : 23-Dec-2017",
+      "NUMBER": "INVOICE # INV09111587",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.89%):  50.52 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1055.64 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and fift-\ny-five point six four",
+      "SEND_TO": "SHIP_TO:\nChristine Rangel\n198 Robert Drives Suite 095\nHarrisberg, MT 26082 US\nTel:+(600)544-6352\nEmail:rhonda10@example.org\nSite:https://www.smith.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance193.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Jan-2022",
+      "DUE_DATE": "Due Date : 15-Nov-2010",
+      "NUMBER": "INVOICE # 5Y3M5d-602",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.44%):  38.20 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1130.50 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundr-\ned and thirty point five",
+      "SEND_TO": "SHIP_TO:\nRhonda Velazquez\n409 John Bridge Suite 607\nSouth Pamelaton, OK 88373 US\nTel:+(291)250-8825\nEmail:xguzman@example.net\nSite:http://wyatt.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance198.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Aug-2000",
+      "DUE_DATE": "Due Date : 12-May-2009",
+      "NUMBER": "INVOICE ID INV/04-85/245",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.14%):  14.68 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 472.39 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and seven-\nty-two point three nine",
+      "SEND_TO": "SHIP_TO:\nTodd Cunningham\n052 Eric Centers Apt. 049\nVictoriatown, TX 57020 US\nTel:+(736)431-9527\nEmail:uhill@example.org\nSite:https://www.williams-beasley.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance75.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Mar-2001",
+      "DUE_DATE": "Due Date : 10-Feb-2022",
+      "NUMBER": "INVOICE # 1Y7M1d-926",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.39%):  47.58 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1096.41 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and nine-\nty-six point four one",
+      "SEND_TO": "SHIP_TO:\nJordan Berg\n874 Benjamin Curve Suite 224\nTamaratown, GU 85897 US\nTel:+(909)086-6428\nEmail:nancyroberts@example.net\nSite:http://www.weaver-morales.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance54.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Feb-2011",
+      "DUE_DATE": "Due Date : 19-Apr-2015",
+      "NUMBER": "Invoice number INV/96-52/229",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.43%):  43.31 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 986.17 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-six point one seven",
+      "SEND_TO": "SHIP_TO:\nSarah Brown\n2752 George Avenue\nLorraineshire, MI 87246 US\nTel:+(693)169-5144\nEmail:kaitlin56@example.net\nSite:http://collins.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance136.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Jun-1995",
+      "DUE_DATE": "Due Date : 05-May-2018",
+      "NUMBER": "INVOICE ID 7Y1M2d-531",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.27%):  8.94 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 213.92 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and thi-\nrteen point nine two",
+      "SEND_TO": "SHIP_TO:\nKatherine Ortega\n158 Amanda Plaza Apt. 619\nBellfurt, VA 28683 US\nTel:+(748)148-3308\nEmail:howardwilliam@example.com\nSite:http://www.alexander-brown.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance95.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-May-1998",
+      "DUE_DATE": "Due Date : 08-Apr-2005",
+      "NUMBER": "Invoice number 2Y5M2d-904",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.14%):  15.66 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 380.86 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and ei-\nghty point eight six",
+      "SEND_TO": "SHIP_TO:\nCrystal Hoffman\n56625 Perkins Gardens\nLake Tamarafurt, SC 84302 US\nTel:+(898)738-1213\nEmail:sydney83@example.net\nSite:https://frey.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance102.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Nov-2002",
+      "DUE_DATE": "Due Date : 19-Dec-1995",
+      "NUMBER": "INVOICE ID INV69718160",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.79%):  30.49 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 820.40 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and-\ntwenty point four",
+      "SEND_TO": "SHIP_TO:\nLaura Martinez\n3843 Brandon Manors\nLorifort, KY 80604 US\nTel:+(245)475-2969\nEmail:aodom@example.net\nSite:http://www.campbell-palmer.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance43.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Mar-2022",
+      "DUE_DATE": "Due Date : 03-Jun-2007",
+      "NUMBER": "Invoice number 4385-061",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.35%):  10.66 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 174.17 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and sevent-\ny-four point one seven",
+      "SEND_TO": "SHIP_TO:\nKathleen Smith\n60868 Daugherty Lakes\nSouth Michele, AZ 46529 US\nTel:+(978)964-1441\nEmail:stacy59@example.com\nSite:http://ramirez.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance149.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 26-Jun-2003",
+      "DUE_DATE": "Due Date : 03-Nov-2018",
+      "NUMBER": "INVOICE # 6458-961",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.97%):  61.73 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 929.43 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and twent-\ny-nine point four three",
+      "SEND_TO": "SHIP_TO:\nAaron Robinson\n9856 Troy Ford Suite 742\nMooneymouth, MA 08775 US\nTel:+(173)309-1007\nEmail:andrewsmiguel@example.net\nSite:http://www.roberts.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance48.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-Jan-2014",
+      "DUE_DATE": "Due Date : 16-Jul-2000",
+      "NUMBER": "Invoice number 3Y1M5d-149",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.83%):  66.01 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1145.59 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd forty-five point five nine",
+      "SEND_TO": "SHIP_TO:\nMichael White\n6994 Diaz Locks Suite 180\nNorth Aliciamouth, IL 80837 US\nTel:+(006)470-2078\nEmail:rosedaniel@example.net\nSite:http://www.simpson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance46.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 29-Nov-2020",
+      "DUE_DATE": "Due Date : 28-Sep-2014",
+      "NUMBER": "INVOICE # INV81802307",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.84%):  45.93 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 694.24 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-four point two four",
+      "SEND_TO": "SHIP_TO:\nMeghan Jackson\n4567 Laura Gardens Apt. 530\nEast Heidishire, IA 30040 US\nTel:+(584)612-2148\nEmail:pcook@example.org\nSite:https://rivera-king.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance101.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Jan-2004",
+      "DUE_DATE": "Due Date : 17-Feb-2004",
+      "NUMBER": "Invoice number 2640-588",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.00%):  33.76 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 587.64 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and eight-\ny-seven point six four",
+      "SEND_TO": "SHIP_TO:\nTroy Nolan\n24516 Cheryl Ranch\nHernandezton, NE 23107 US\nTel:+(793)072-7451\nEmail:morganmendoza@example.com\nSite:http://jones-williams.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance155.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Jun-2008",
+      "DUE_DATE": "Due Date : 12-Mar-2016",
+      "NUMBER": "Invoice number 3711-776",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.04%):  33.57 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 833.32 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thirt-\ny-three point three two",
+      "SEND_TO": "SHIP_TO:\nMichael Wilkerson\n7694 Brown Court\nMezaborough, MD 15227 US\nTel:+(731)289-1109\nEmail:ajones@example.net\nSite:https://www.barker.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance107.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Jan-2003",
+      "DUE_DATE": "Due Date : 18-May-2014",
+      "NUMBER": "Invoice number INV60705039",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.74%):  33.58 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 717.53 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnteen point five three",
+      "SEND_TO": "SHIP_TO:\nSusan Dawson\n89767 Jeffrey Station\nWest Alexis, SC 96954 US\nTel:+(031)127-2340\nEmail:charlesjones@example.com\nSite:http://jenkins.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance28.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jun-2015",
+      "DUE_DATE": "Due Date : 29-May-2007",
+      "NUMBER": "INVOICE # 6Y1M8d-835",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.34%):  54.81 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1032.15 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and thir-\nty-two point one five",
+      "SEND_TO": "SHIP_TO:\nMichael Chapman\n94399 Garcia Track\nDawnfurt, SC 33868 US\nTel:+(168)425-5571\nEmail:johnsoncynthia@example.org\nSite:http://ford.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance79.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-Aug-2008",
+      "DUE_DATE": "Due Date : 29-Mar-1994",
+      "NUMBER": "INVOICE ID INV17292360",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.35%):  55.52 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1074.89 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and sevent-\ny-four point eight nine",
+      "SEND_TO": "SHIP_TO:\nAlicia Warner\n11835 White Ville Apt. 307\nNew Donald, NJ 59913 US\nTel:+(237)516-1212\nEmail:gsmith@example.com\nSite:https://carr-wells.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance139.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Mar-2003",
+      "DUE_DATE": "Due Date : 10-Mar-2001",
+      "NUMBER": "INVOICE # INV53173249",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.59%):  13.47 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 296.79 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninet-\ny-six point seven nine",
+      "SEND_TO": "SHIP_TO:\nJamie Coleman\n580 Matthew Heights Apt. 420\nKatiestad, OH 63393 US\nTel:+(955)083-0631\nEmail:jeanettehoover@example.net\nSite:http://smith-mendoza.net/"
+    }
+  },
+  {
+    "image": "Template21_Instance124.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Oct-2002",
+      "DUE_DATE": "Due Date : 03-May-2004",
+      "NUMBER": "Invoice number 6Y5M8d-730",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.11%):  23.95 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 410.91 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and -\nten point nine one",
+      "SEND_TO": "SHIP_TO:\nJames Anderson\n7544 Alicia Field\nPort Scott, KS 17595 US\nTel:+(785)329-8190\nEmail:joseph98@example.com\nSite:http://www.walls.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance90.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Jun-1993",
+      "DUE_DATE": "Due Date : 12-Jan-1998",
+      "NUMBER": "INVOICE # 6306-600",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.49%):  51.28 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 827.74 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twent-\ny-seven point seven four",
+      "SEND_TO": "SHIP_TO:\nMr. John White Jr.\n144 Bethany Trail Apt. 511\nAmandamouth, MH 56274 US\nTel:+(263)144-2799\nEmail:sara50@example.org\nSite:https://hopkins.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance194.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Jun-2004",
+      "DUE_DATE": "Due Date : 15-Sep-2021",
+      "NUMBER": "Invoice number INV73230473",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.83%):  69.46 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1042.41 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and for-\nty-two point four one",
+      "SEND_TO": "SHIP_TO:\nEric Johnson\n11274 Stacy Course Suite 015\nNorth Kenneth, DC 86396 US\nTel:+(293)904-2858\nEmail:xwalker@example.net\nSite:https://www.wilson.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance125.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Jul-2008",
+      "DUE_DATE": "Due Date : 28-Sep-2017",
+      "NUMBER": "Invoice number INV98773583",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.65%):  90.95 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1428.67 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred an-\nd twenty-eight point six seven",
+      "SEND_TO": "SHIP_TO:\nBrian Burke\n79207 Cody Spur\nMcdonaldburgh, DC 94921 US\nTel:+(258)500-5211\nEmail:robert76@example.net\nSite:https://www.tran-taylor.org/"
+    }
+  },
+  {
+    "image": "Template21_Instance42.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Dec-2020",
+      "DUE_DATE": "Due Date : 20-Jun-1994",
+      "NUMBER": "INVOICE ID INV88653763",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.55%):  40.00 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1142.82 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd forty-two point eight two",
+      "SEND_TO": "SHIP_TO:\nShirley Harmon\n44929 Shirley Highway\nSouth Heather, WY 19754 US\nTel:+(809)213-8353\nEmail:saunderskimberly@example.com\nSite:http://www.jackson-sanchez.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance76.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-Nov-1996",
+      "DUE_DATE": "Due Date : 12-Mar-2010",
+      "NUMBER": "INVOICE ID INV/69-50/796",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.34%):  25.68 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 606.07 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and si-\nx point zero seven",
+      "SEND_TO": "SHIP_TO:\nTracey Harris\n244 Ashley Ridge Apt. 949\nRebeccashire, HI 51272 US\nTel:+(521)476-4387\nEmail:sharpsuzanne@example.com\nSite:http://www.turner.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance114.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Jan-2020",
+      "DUE_DATE": "Due Date : 19-Aug-2021",
+      "NUMBER": "INVOICE ID 8Y3M4d-662",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.94%):  37.73 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 559.85 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fifty-\n-nine point eight five",
+      "SEND_TO": "SHIP_TO:\nAmy Garcia\n72356 Christopher Gardens\nEast Ivan, IA 40541 US\nTel:+(280)790-3397\nEmail:kristinahancock@example.com\nSite:http://mitchell.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance5.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Dec-1997",
+      "DUE_DATE": "Due Date : 12-Dec-2017",
+      "NUMBER": "INVOICE ID INV/82-43/636",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.27%):  66.47 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1553.53 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hundred an-\nd fifty-three point five three",
+      "SEND_TO": "SHIP_TO:\nNathan Gonzalez\n45197 Mccormick Tunnel\nLake Meghanhaven, KY 64153 US\nTel:+(162)560-3960\nEmail:kimberlymassey@example.org\nSite:http://ayala.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance116.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Oct-2015",
+      "DUE_DATE": "Due Date : 01-May-2015",
+      "NUMBER": "INVOICE ID INV99989465",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.77%):  32.89 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 710.87 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and t-\nen point eight seven",
+      "SEND_TO": "SHIP_TO:\nThomas Lang\n8595 Ellis Summit\nMarkshire, AR 86790 US\nTel:+(645)403-6807\nEmail:john21@example.org\nSite:http://martinez.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance177.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Feb-2019",
+      "DUE_DATE": "Due Date : 10-Feb-2009",
+      "NUMBER": "INVOICE ID 1357-522",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.58%):  53.32 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 842.98 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fort-\ny-two point nine eight",
+      "SEND_TO": "SHIP_TO:\nMatthew Stewart\n1876 Anderson Spring Apt. 225\nWilsonport, VT 28768 US\nTel:+(426)305-5403\nEmail:valdezjoshua@example.net\nSite:http://www.park.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance16.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-May-2021",
+      "DUE_DATE": "Due Date : 11-Nov-2014",
+      "NUMBER": "INVOICE # INV/06-88/645",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.10%):  28.60 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 921.45 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and twen-\nty-one point four five",
+      "SEND_TO": "SHIP_TO:\nKimberly Martinez\n9093 Jacobs Grove Suite 528\nNew Elizabeth, NH 96744 US\nTel:+(029)957-7634\nEmail:jeremythompson@example.com\nSite:https://conley-simmons.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance68.jpg",
+    "ground_truth": {
+      "DATE": "Date: 29-Nov-2007",
+      "DUE_DATE": "Due Date : 29-Jun-2016",
+      "NUMBER": "Invoice number INV83584843",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.71%):  38.77 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 604.49 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and fo-\nur point four nine",
+      "SEND_TO": "SHIP_TO:\nLatasha Bowen\n093 Jason Burgs Suite 658\nSouth Sarahchester, ND 15176 US\nTel:+(176)466-3666\nEmail:davenportjessica@example.net\nSite:https://www.perez-rollins.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance50.jpg",
+    "ground_truth": {
+      "DATE": "Date: 01-Mar-1996",
+      "DUE_DATE": "Due Date : 01-Jul-2011",
+      "NUMBER": "INVOICE ID 0227-464",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.80%):  26.14 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 463.77 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixty--\nthree point seven seven",
+      "SEND_TO": "SHIP_TO:\nMichael Donovan\n9539 Brooks Vista Suite 909\nJenningsville, GU 92738 US\nTel:+(223)460-8644\nEmail:walkerheather@example.org\nSite:http://www.frey.biz/"
+    }
+  },
+  {
+    "image": "Template21_Instance126.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Jan-2003",
+      "DUE_DATE": "Due Date : 26-Jun-2016",
+      "NUMBER": "Invoice number INV/53-11/438",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.17%):  37.49 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1180.07 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred -\nand eighty point zero seven",
+      "SEND_TO": "SHIP_TO:\nKatelyn Clay\n69508 Underwood Wall\nJosephland, NC 36698 US\nTel:+(370)360-9909\nEmail:moontony@example.net\nSite:https://knapp.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance156.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Dec-2004",
+      "DUE_DATE": "Due Date : 12-Aug-2012",
+      "NUMBER": "Invoice number 3Y4M4d-180",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.67%):  16.76 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 358.18 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-eight point one eight",
+      "SEND_TO": "SHIP_TO:\nRandy Brown\n83158 Nicholas Divide\nWestville, IN 48630 US\nTel:+(042)943-8148\nEmail:romerorhonda@example.org\nSite:https://www.lindsey.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance138.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 03-May-2004",
+      "DUE_DATE": "Due Date : 08-Aug-2010",
+      "NUMBER": "INVOICE ID INV38716404",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.34%):  17.76 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 524.90 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and tw-\nenty-four point nine",
+      "SEND_TO": "SHIP_TO:\nBenjamin Mack\n26810 Davis Key Apt. 126\nNorth Ashleymouth, CO 19029 US\nTel:+(625)871-2835\nEmail:gonzalezpenny@example.com\nSite:https://www.norris.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance17.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-Jan-2021",
+      "DUE_DATE": "Due Date : 24-Feb-1998",
+      "NUMBER": "INVOICE ID 6508-678",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (6.53%):  32.64 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 517.03 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and seve-\nnteen point zero three",
+      "SEND_TO": "SHIP_TO:\nDonald Gilbert\n83055 Leon Mount Apt. 414\nLake Kevin, IA 76590 US\nTel:+(882)988-0720\nEmail:annemoore@example.net\nSite:http://www.martinez.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance182.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 26-Jul-1999",
+      "DUE_DATE": "Due Date : 10-Oct-2001",
+      "NUMBER": "Invoice number INV/79-63/650",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.14%):  10.40 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 332.00 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred -\nand thirty-two",
+      "SEND_TO": "SHIP_TO:\nNicole King\n62716 Jason Ways Suite 505\nYatesport, AR 08676 US\nTel:+(425)468-5197\nEmail:mcarter@example.net\nSite:http://cook.info/"
+    }
+  },
+  {
+    "image": "Template21_Instance51.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-May-2007",
+      "DUE_DATE": "Due Date : 20-Apr-2005",
+      "NUMBER": "Invoice number INV/66-59/457",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.07%):  17.86 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 359.22 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fif-\nty-nine point two two",
+      "SEND_TO": "SHIP_TO:\nSarah Dawson\n72352 Craig Forks Apt. 513\nJacksonshire, AL 14452 US\nTel:+(544)613-5801\nEmail:eugene85@example.org\nSite:http://valenzuela.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance137.jpg",
+    "ground_truth": {
+      "DATE": "Date: 01-May-1994",
+      "DUE_DATE": "Due Date : 30-Sep-2001",
+      "NUMBER": "Invoice number 9Y5M3d-974",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (4.26%):  32.00 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 759.24 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fif-\nty-nine point two four",
+      "SEND_TO": "SHIP_TO:\nDonna Williams\n39936 Singleton Meadows\nNicholasberg, PA 16269 US\nTel:+(286)064-3643\nEmail:eric52@example.net\nSite:https://www.morgan.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance59.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 03-Aug-2015",
+      "DUE_DATE": "Due Date : 30-Mar-2006",
+      "NUMBER": "Invoice number INV/30-44/025",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.18%):  21.64 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 677.76 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-seven point seven six",
+      "SEND_TO": "SHIP_TO:\nAdam Warren\n1757 Bobby Union Suite 404\nSouth Shannonville, MH 30620 US\nTel:+(358)310-9584\nEmail:qmartin@example.org\nSite:https://fuller.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance129.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Jul-2003",
+      "DUE_DATE": "Due Date : 25-Aug-2011",
+      "NUMBER": "Invoice number 3Y3M3d-176",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (3.60%):  17.31 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 477.51 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and seven-\nty-seven point five one",
+      "SEND_TO": "SHIP_TO:\nStephanie Meyers\n039 Frances Ports Suite 037\nRobinsonmouth, DE 34575 US\nTel:+(962)577-8518\nEmail:qjoseph@example.com\nSite:http://gibbs.com/"
+    }
+  },
+  {
+    "image": "Template21_Instance174.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Jul-2017",
+      "DUE_DATE": "Due Date : 28-Sep-2006",
+      "NUMBER": "INVOICE ID INV11675361",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:045 David Walk Suite 362\nEast Robert, NV 70596 US",
+      "SELLER_NAME": "Murphy-Gallegos",
+      "TAX": "TAX:VAT (5.46%):  17.88 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 337.30 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and thi-\nrty-seven point three",
+      "SEND_TO": "SHIP_TO:\nPhyllis Burns\n369 Suzanne Rapid Apt. 623\nEast John, TN 62816 US\nTel:+(499)966-9675\nEmail:jonathon99@example.com\nSite:https://costa-wall.com/"
+    }
+  }
+]

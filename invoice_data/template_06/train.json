@@ -1,0 +1,2402 @@
+[
+  {
+    "image": "Template6_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew White\n187 Laurie Throughway Suite 418\nBarronfurt, WY 54072 US\nTel:+(212)431-8070\nEmail:awilkinson@example.com\nSite:https://johnston.com/",
+      "DATE": "Date: 16-Feb-2002",
+      "NUMBER": "INVOICE ID INV36598508",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :41",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1016.78  EUR",
+      "TAX": "TAX:VAT (5.36%):  54.55 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1028.12 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Craig Smith\n527 Kara Road Apt. 490\nLake Stacey, ID 69086 US\nTel:+(796)067-5755\nEmail:michealchristensen@example.net\nSite:http://anderson-cobb.com/",
+      "DATE": "Date: 17-Dec-2003",
+      "NUMBER": "Invoice number 6Y7M8d-684",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :71",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 230.18  USD",
+      "TAX": "TAX:VAT (5.22%):  12.01 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 234.32 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jonathan Hayes\n412 Kristopher Springs Apt. 725\nBrownmouth, OK 50085 US\nTel:+(316)292-1532\nEmail:spencerhunt@example.com\nSite:https://www.burke.org/",
+      "DATE": "Date: 17-May-2006",
+      "NUMBER": "INVOICE ID INV/47-06/919",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :50",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 486.39  EUR",
+      "TAX": "TAX:VAT (6.56%):  31.92 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 502.79 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kaitlin Kelley\n06353 Martinez Garden Apt. 331\nLake Catherine, OR 61139 US\nTel:+(584)249-9902\nEmail:smerritt@example.net\nSite:http://henderson-newman.com/",
+      "DATE": "Invoice Date: 09-Feb-1997",
+      "NUMBER": "Invoice number 5017-025",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :33",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 156.80  EUR",
+      "TAX": "TAX:VAT (4.05%):  6.36 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 158.96 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Destiny Savage\n7398 Miller Mount\nNorth Charles, AL 68252 US\nTel:+(825)883-3860\nEmail:dhodge@example.org\nSite:https://www.johnson-cox.com/",
+      "DATE": "Date: 01-Aug-1996",
+      "NUMBER": "INVOICE ID INV/77-90/640",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :25",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 44.02  USD",
+      "TAX": "TAX:VAT (5.89%):  2.59 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 44.78 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brandon Mason\n8911 Hudson Branch Suite 162\nNew Sean, AK 32515 US\nTel:+(528)595-8280\nEmail:trujillomonique@example.net\nSite:https://www.raymond-willis.com/",
+      "DATE": "Date: 29-Nov-2003",
+      "NUMBER": "INVOICE # INV/88-33/637",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :44",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 997.57  USD",
+      "TAX": "TAX:VAT (6.47%):  64.59 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1043.80 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Mcguire\n3976 Tyler Meadow\nWilliamtown, CA 93238 US\nTel:+(858)657-2599\nEmail:amy96@example.org\nSite:http://www.brown.com/",
+      "DATE": "Invoice Date: 13-Jul-2014",
+      "NUMBER": "Invoice number 2246-546",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 322.06  USD",
+      "TAX": "TAX:VAT (6.34%):  20.41 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 327.27 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Erica Wright\n4840 Whitney Mall Apt. 717\nMcintyremouth, NY 13912 US\nTel:+(080)131-9500\nEmail:samanthapatel@example.org\nSite:http://www.kennedy.com/",
+      "DATE": "Invoice Date: 27-Sep-2018",
+      "NUMBER": "Invoice number INV48089433",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :40",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 565.80  $",
+      "TAX": "TAX:VAT (4.62%):  26.13 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 583.56 $"
+    }
+  },
+  {
+    "image": "Template6_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Flores\n474 Kimberly Green\nNavarromouth, ND 89392 US\nTel:+(312)477-6593\nEmail:dyerpatrick@example.com\nSite:https://collins.info/",
+      "DATE": "Date: 21-Mar-2002",
+      "NUMBER": "Invoice number 3Y3M2d-793",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :65",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 898.84  EUR",
+      "TAX": "TAX:VAT (5.66%):  50.88 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 930.48 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Hall\n2273 Jessica Plains Apt. 330\nEast Karenfort, WI 10932 US\nTel:+(811)876-0085\nEmail:xwhite@example.com\nSite:http://hayes-roberts.biz/",
+      "DATE": "Date: 25-Jun-2003",
+      "NUMBER": "Invoice number 7Y5M1d-526",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :97",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 187.62  $",
+      "TAX": "TAX:VAT (3.16%):  5.93 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 184.96 $"
+    }
+  },
+  {
+    "image": "Template6_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Shelton\n543 Taylor Burg Suite 986\nMarkmouth, IA 17614 US\nTel:+(108)188-3608\nEmail:juliamartinez@example.org\nSite:http://clark.com/",
+      "DATE": "Invoice Date: 14-Jun-2014",
+      "NUMBER": "Invoice number INV/35-07/185",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :52",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 273.82  $",
+      "TAX": "TAX:VAT (4.20%):  11.50 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 273.98 $"
+    }
+  },
+  {
+    "image": "Template6_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :William Garcia\n62811 Irwin Land Apt. 339\nEmmaville, WY 85453 US\nTel:+(394)442-3550\nEmail:martinvictoria@example.org\nSite:http://www.hunter.com/",
+      "DATE": "Invoice Date: 14-Dec-2008",
+      "NUMBER": "INVOICE ID 4279-472",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :16",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 350.76  $",
+      "TAX": "TAX:VAT (3.94%):  13.80 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 353.79 $"
+    }
+  },
+  {
+    "image": "Template6_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paul Merritt\n6242 Hurst Avenue\nChristopherburgh, MN 50923 US\nTel:+(294)325-7679\nEmail:asullivan@example.org\nSite:http://www.parker.com/",
+      "DATE": "Date: 21-Jun-2010",
+      "NUMBER": "INVOICE ID 2Y6M9d-079",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :53",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 408.96  USD",
+      "TAX": "TAX:VAT (6.83%):  27.94 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 425.74 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julie Singleton\n775 Joel Walk Suite 337\nLake Michelle, NM 04057 US\nTel:+(828)208-7544\nEmail:eddieosborn@example.com\nSite:http://mullins.info/",
+      "DATE": "Date: 27-Jun-2016",
+      "NUMBER": "INVOICE # 4774-454",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 202.00  $",
+      "TAX": "TAX:VAT (3.49%):  7.04 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 206.13 $"
+    }
+  },
+  {
+    "image": "Template6_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Rodriguez\n5624 Lisa Plaza Apt. 324\nJessicaview, AL 37886 US\nTel:+(518)693-5364\nEmail:kristen17@example.org\nSite:https://schultz.net/",
+      "DATE": "Date: 17-Nov-1993",
+      "NUMBER": "Invoice number 0276-527",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :33",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 559.88  EUR",
+      "TAX": "TAX:VAT (5.92%):  33.14 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 568.67 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Devin Hammond\n0310 Bullock Ridges Suite 710\nWest Nicole, PW 92149 US\nTel:+(743)471-8986\nEmail:millermichelle@example.org\nSite:http://www.walsh-williams.net/",
+      "DATE": "Date: 03-Dec-2010",
+      "NUMBER": "INVOICE # INV33237299",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :05",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1098.70  $",
+      "TAX": "TAX:VAT (4.69%):  51.58 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1119.30 $"
+    }
+  },
+  {
+    "image": "Template6_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Woods\n94844 Bennett Rapids\nAndreburgh, KS 52828 US\nTel:+(885)048-6122\nEmail:smithjenna@example.com\nSite:http://mack-huynh.com/",
+      "DATE": "Invoice Date: 25-Aug-1995",
+      "NUMBER": "INVOICE ID 0821-026",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :92",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 650.10  EUR",
+      "TAX": "TAX:VAT (5.86%):  38.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 679.88 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Larsen\n431 Faith Mill\nEast Sonyafort, AR 28350 US\nTel:+(731)848-2911\nEmail:herreramichelle@example.com\nSite:https://beasley.info/",
+      "DATE": "Date: 30-Jan-2020",
+      "NUMBER": "INVOICE ID INV/05-88/649",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :59",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 622.66  EUR",
+      "TAX": "TAX:VAT (4.37%):  27.22 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 633.32 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Murphy\n82914 Summers Inlet\nWardton, UT 66627 US\nTel:+(437)188-2832\nEmail:morenojoshua@example.org\nSite:https://www.moore.com/",
+      "DATE": "Invoice Date: 30-Aug-2004",
+      "NUMBER": "INVOICE # 1298-681",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :66",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 709.44  USD",
+      "TAX": "TAX:VAT (4.66%):  33.03 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 722.96 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sheryl Brown\n15278 Yvette Mountain Apt. 312\nAndersonmouth, PA 14621 US\nTel:+(363)036-5852\nEmail:kaneandrew@example.net\nSite:https://www.hull.info/",
+      "DATE": "Invoice Date: 31-Jan-2007",
+      "NUMBER": "INVOICE ID INV/57-03/198",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 555.63  USD",
+      "TAX": "TAX:VAT (6.36%):  35.34 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 582.75 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Derrick Pope\n3177 Karen Falls Suite 182\nGardnershire, AL 12905 US\nTel:+(753)200-1213\nEmail:gregory07@example.org\nSite:http://fisher.info/",
+      "DATE": "Date: 06-May-2001",
+      "NUMBER": "INVOICE # 4861-534",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :68",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 759.38  USD",
+      "TAX": "TAX:VAT (6.55%):  49.75 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 793.87 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kayla Mendez\n24198 Harvey Trafficway\nSouth Ronnie, GU 62349 US\nTel:+(168)592-2881\nEmail:alice12@example.org\nSite:https://marshall.biz/",
+      "DATE": "Invoice Date: 25-Dec-2006",
+      "NUMBER": "INVOICE # 6649-587",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :63",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 412.04  EUR",
+      "TAX": "TAX:VAT (6.01%):  24.78 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 428.37 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mitchell Keller\n59405 Brown Lodge\nWest Teresaburgh, IA 35696 US\nTel:+(473)744-7123\nEmail:hoodjohn@example.com\nSite:http://www.snyder.net/",
+      "DATE": "Invoice Date: 01-May-2013",
+      "NUMBER": "Invoice number 4Y5M3d-492",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :46",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 640.25  EUR",
+      "TAX": "TAX:VAT (5.63%):  36.05 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 648.96 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Anderson\n859 Tammy Glen Apt. 026\nLake Elizabethside, AZ 62974 US\nTel:+(575)274-7320\nEmail:laura11@example.org\nSite:https://robinson-edwards.com/",
+      "DATE": "Date: 09-Sep-2004",
+      "NUMBER": "Invoice number INV33577713",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :38",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 689.20  EUR",
+      "TAX": "TAX:VAT (6.83%):  47.08 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 717.88 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Marisa Bowen\n10941 Brown Gateway Suite 203\nNew Jenniferburgh, HI 07646 US\nTel:+(871)505-0645\nEmail:gvasquez@example.org\nSite:https://www.gross.com/",
+      "DATE": "Date: 05-Dec-2001",
+      "NUMBER": "INVOICE ID INV47181899",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :91",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 202.64  $",
+      "TAX": "TAX:VAT (5.01%):  10.15 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 207.81 $"
+    }
+  },
+  {
+    "image": "Template6_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathryn Marquez\n926 Taylor Mount Suite 070\nSmithbury, GA 46280 US\nTel:+(997)724-2377\nEmail:danielsvictoria@example.net\nSite:https://trujillo-obrien.org/",
+      "DATE": "Invoice Date: 01-Sep-2008",
+      "NUMBER": "INVOICE # 3Y6M1d-870",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :86",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 408.65  USD",
+      "TAX": "TAX:VAT (5.92%):  24.17 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 425.87 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Susan Jones\n973 Kent Street Apt. 970\nLake Amanda, DC 94480 US\nTel:+(135)847-5820\nEmail:tom41@example.org\nSite:https://perkins.net/",
+      "DATE": "Invoice Date: 09-Oct-1993",
+      "NUMBER": "INVOICE ID 2Y3M2d-417",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :66",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 483.38  $",
+      "TAX": "TAX:VAT (4.32%):  20.88 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 485.21 $"
+    }
+  },
+  {
+    "image": "Template6_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Felicia Yates\n6129 Lopez Wall\nMcintyreview, WA 30506 US\nTel:+(487)054-8133\nEmail:kurt95@example.org\nSite:http://knight.com/",
+      "DATE": "Invoice Date: 22-Oct-2012",
+      "NUMBER": "Invoice number 1416-282",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :63",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1008.84  EUR",
+      "TAX": "TAX:VAT (3.35%):  33.76 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1009.31 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melinda Huynh\n84369 Jesse Lights\nLake Richard, OH 27839 US\nTel:+(467)004-9283\nEmail:jeanbrown@example.net\nSite:https://www.rich.com/",
+      "DATE": "Date: 17-Jul-2008",
+      "NUMBER": "INVOICE ID INV/79-11/186",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 242.39  EUR",
+      "TAX": "TAX:VAT (6.37%):  15.44 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 246.17 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Smith\n04082 Thomas Pike\nLongtown, MH 22557 US\nTel:+(153)803-2931\nEmail:cameron50@example.org\nSite:http://www.orr.com/",
+      "DATE": "Invoice Date: 12-Mar-2021",
+      "NUMBER": "INVOICE ID INV64012601",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :14",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 507.44  USD",
+      "TAX": "TAX:VAT (6.12%):  31.07 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 522.88 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Torres\n5223 Ariana Vista Suite 560\nSouth Tyler, AS 31060 US\nTel:+(569)936-9622\nEmail:lauren45@example.org\nSite:http://www.spencer-baxter.com/",
+      "DATE": "Invoice Date: 25-Jun-1994",
+      "NUMBER": "INVOICE # INV/80-84/868",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :12",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 703.79  USD",
+      "TAX": "TAX:VAT (4.82%):  33.95 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 718.81 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Costa\n93496 Wilson Corner\nDavisfurt, MN 17044 US\nTel:+(827)953-4071\nEmail:christophercrawford@example.net\nSite:http://mitchell.net/",
+      "DATE": "Date: 11-Feb-2009",
+      "NUMBER": "INVOICE # INV38169903",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :50",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1543.05  EUR",
+      "TAX": "TAX:VAT (5.83%):  89.96 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1564.34 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alicia Wade\n171 Kayla Views\nJamieshire, OR 98447 US\nTel:+(592)783-2401\nEmail:krista92@example.com\nSite:https://stephens.com/",
+      "DATE": "Invoice Date: 16-Jun-2006",
+      "NUMBER": "Invoice number 1Y8M6d-417",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :99",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 300.48  USD",
+      "TAX": "TAX:VAT (3.87%):  11.64 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 298.48 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Ortiz\n1746 Mendez Land Apt. 818\nRichardton, MO 21590 US\nTel:+(979)348-7159\nEmail:rachelwebb@example.org\nSite:https://www.baker-gill.com/",
+      "DATE": "Date: 16-Jun-1995",
+      "NUMBER": "INVOICE ID INV95927699",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :61",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 728.43  EUR",
+      "TAX": "TAX:VAT (4.12%):  30.05 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 732.62 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Macdonald\n8157 Chandler Junctions\nEast Alexandrafort, FM 97080 US\nTel:+(990)162-8978\nEmail:brittneymueller@example.com\nSite:http://www.jones.com/",
+      "DATE": "Invoice Date: 10-May-2015",
+      "NUMBER": "INVOICE # INV08376398",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :76",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 451.99  $",
+      "TAX": "TAX:VAT (5.18%):  23.42 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 465.15 $"
+    }
+  },
+  {
+    "image": "Template6_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Megan Cunningham\n611 Daniels Coves\nNelsonton, SD 41469 US\nTel:+(868)726-1578\nEmail:tschwartz@example.net\nSite:https://www.dominguez.info/",
+      "DATE": "Date: 16-Jul-2011",
+      "NUMBER": "INVOICE # INV/31-63/295",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :93",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 257.46  USD",
+      "TAX": "TAX:VAT (4.42%):  11.37 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 264.04 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Natalie Porter\n73181 Neal Islands\nLake Robertland, NH 76763 US\nTel:+(255)672-3487\nEmail:vargasmichele@example.com\nSite:https://barnes.com/",
+      "DATE": "Date: 23-Dec-2014",
+      "NUMBER": "INVOICE ID INV/39-56/698",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :12",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1160.72  $",
+      "TAX": "TAX:VAT (6.13%):  71.20 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1182.59 $"
+    }
+  },
+  {
+    "image": "Template6_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Victoria Spence\n034 Jenkins Land\nNorth Scottview, NC 41061 US\nTel:+(102)841-3102\nEmail:josephwong@example.com\nSite:http://warren.com/",
+      "DATE": "Date: 24-Apr-2020",
+      "NUMBER": "Invoice number INV21641571",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :94",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 438.66  USD",
+      "TAX": "TAX:VAT (4.77%):  20.92 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 453.48 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Ali\n36306 Dylan Light Apt. 874\nBondfort, CO 66474 US\nTel:+(645)806-1602\nEmail:hayesleah@example.org\nSite:https://pitts.org/",
+      "DATE": "Date: 14-Jul-2013",
+      "NUMBER": "INVOICE # INV/80-60/286",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :78",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 586.48  USD",
+      "TAX": "TAX:VAT (6.56%):  38.47 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 604.78 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gregory Arnold\n77599 Brian Shores Suite 510\nDebraberg, OK 07361 US\nTel:+(177)833-7977\nEmail:jesusthompson@example.com\nSite:https://www.ryan.com/",
+      "DATE": "Date: 26-Feb-2011",
+      "NUMBER": "Invoice number INV83109214",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :14",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 341.80  USD",
+      "TAX": "TAX:VAT (4.73%):  16.16 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 343.26 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Gonzalez\n2867 Austin Field Suite 777\nMichaelview, ND 92151 US\nTel:+(396)795-9197\nEmail:bpeters@example.com\nSite:http://marquez.com/",
+      "DATE": "Invoice Date: 17-Mar-2013",
+      "NUMBER": "INVOICE # INV/49-68/775",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :20",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1132.28  $",
+      "TAX": "TAX:VAT (6.69%):  75.74 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1179.03 $"
+    }
+  },
+  {
+    "image": "Template6_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tanner Hernandez\n641 Mitchell Glen\nNicolechester, ID 30279 US\nTel:+(308)033-7154\nEmail:christinalowe@example.net\nSite:http://coleman.com/",
+      "DATE": "Invoice Date: 13-Nov-1995",
+      "NUMBER": "INVOICE ID 6509-314",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :40",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1357.25  EUR",
+      "TAX": "TAX:VAT (4.34%):  58.88 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1370.25 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Tucker\n391 David Street\nRushshire, KY 45152 US\nTel:+(304)783-3083\nEmail:ruthglenn@example.net\nSite:https://adams-webb.com/",
+      "DATE": "Date: 30-Apr-2017",
+      "NUMBER": "INVOICE # INV/76-42/472",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :69",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1165.71  $",
+      "TAX": "TAX:VAT (6.42%):  74.79 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1208.44 $"
+    }
+  },
+  {
+    "image": "Template6_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jose Cross\n2770 James Islands Apt. 662\nSouth Michaelamouth, MP 45520 US\nTel:+(634)259-5051\nEmail:cynthiamendez@example.com\nSite:https://yates.org/",
+      "DATE": "Invoice Date: 20-Feb-2004",
+      "NUMBER": "INVOICE # INV01968201",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :31",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 736.26  USD",
+      "TAX": "TAX:VAT (4.31%):  31.74 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 752.24 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristy Garcia\n08438 Fox Manor Suite 559\nGarciaberg, KS 21066 US\nTel:+(287)463-2451\nEmail:kayla26@example.org\nSite:https://hayes.com/",
+      "DATE": "Date: 16-Feb-1993",
+      "NUMBER": "INVOICE # 6440-493",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :19",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 389.16  $",
+      "TAX": "TAX:VAT (5.45%):  21.19 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 404.01 $"
+    }
+  },
+  {
+    "image": "Template6_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Marcus Elliott\n36982 Lindsay Rue\nSouth Anthony, MA 64190 US\nTel:+(625)602-6935\nEmail:ymcclure@example.net\nSite:http://knox.com/",
+      "DATE": "Date: 20-Apr-2013",
+      "NUMBER": "INVOICE # 7Y3M3d-770",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :74",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 647.41  EUR",
+      "TAX": "TAX:VAT (4.02%):  26.03 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 644.63 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Rosales\n858 Olson Station Apt. 078\nLozanoberg, FM 61632 US\nTel:+(233)571-5952\nEmail:edward71@example.net\nSite:http://cox.com/",
+      "DATE": "Invoice Date: 17-Sep-2014",
+      "NUMBER": "INVOICE # INV63203637",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :95",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 687.77  EUR",
+      "TAX": "TAX:VAT (6.21%):  42.69 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 700.06 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Valerie Wilson\n560 Ayala Viaduct\nWest Heather, AS 73379 US\nTel:+(541)026-2687\nEmail:hendersonjohn@example.net\nSite:http://savage-meyer.com/",
+      "DATE": "Invoice Date: 15-Oct-2014",
+      "NUMBER": "INVOICE ID 6Y3M7d-254",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :03",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 572.42  EUR",
+      "TAX": "TAX:VAT (4.43%):  25.37 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 578.44 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Evan Roberts\n32824 Nicholas Rue Suite 275\nPort Angela, NV 86125 US\nTel:+(251)566-3660\nEmail:stevenbrady@example.net\nSite:https://www.robinson.biz/",
+      "DATE": "Date: 16-Jan-1994",
+      "NUMBER": "INVOICE ID 7859-726",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :73",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1364.29  $",
+      "TAX": "TAX:VAT (5.24%):  71.50 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1389.40 $"
+    }
+  },
+  {
+    "image": "Template6_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sharon Brown\n597 Pierce Harbor\nBarrfurt, FL 41266 US\nTel:+(530)086-2148\nEmail:fsmith@example.org\nSite:https://gray-waters.com/",
+      "DATE": "Date: 24-Oct-2013",
+      "NUMBER": "INVOICE ID 6993-304",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :10",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1201.63  USD",
+      "TAX": "TAX:VAT (6.92%):  83.15 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1242.48 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Dixon\n6942 Kyle Ways Apt. 063\nNorth Craig, ND 55485 US\nTel:+(633)492-7420\nEmail:pramirez@example.net\nSite:https://www.ortiz-murphy.biz/",
+      "DATE": "Invoice Date: 14-Jul-2012",
+      "NUMBER": "INVOICE # 2Y1M2d-920",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :39",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 586.86  USD",
+      "TAX": "TAX:VAT (5.49%):  32.25 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 611.83 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paula Lewis\n4489 Kimberly Brooks Apt. 125\nWest David, MO 88228 US\nTel:+(700)128-4601\nEmail:jorgeweaver@example.net\nSite:http://www.castro-tate.info/",
+      "DATE": "Invoice Date: 23-Jul-2017",
+      "NUMBER": "INVOICE # 7328-802",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :07",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 303.17  EUR",
+      "TAX": "TAX:VAT (6.57%):  19.92 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 315.42 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Gonzalez\n96474 Jordan Valley\nWest Jennifer, AS 88993 US\nTel:+(559)572-4041\nEmail:rodriguezmegan@example.org\nSite:https://schmidt-adkins.biz/",
+      "DATE": "Date: 01-Oct-1994",
+      "NUMBER": "Invoice number INV05838243",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 216.07  USD",
+      "TAX": "TAX:VAT (4.40%):  9.51 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 221.19 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Russell Roach\n602 Raymond Village\nNew Lonnieshire, AR 20352 US\nTel:+(077)779-0344\nEmail:robert62@example.org\nSite:http://www.roberts.com/",
+      "DATE": "Date: 03-Dec-2021",
+      "NUMBER": "INVOICE # 8214-523",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :25",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 839.40  $",
+      "TAX": "TAX:VAT (3.27%):  27.47 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 856.46 $"
+    }
+  },
+  {
+    "image": "Template6_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Howell\n3575 Eric Extensions\nWest Melissaberg, MO 41420 US\nTel:+(149)079-3697\nEmail:kaylakramer@example.com\nSite:https://gallagher-wallace.com/",
+      "DATE": "Invoice Date: 14-Mar-2000",
+      "NUMBER": "INVOICE ID 1Y3M8d-829",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 176.38  USD",
+      "TAX": "TAX:VAT (5.58%):  9.84 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 182.53 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Wells\n79800 Jennifer Creek Suite 838\nRodriguezborough, MP 59325 US\nTel:+(889)804-7949\nEmail:coryknight@example.com\nSite:http://www.vasquez-kim.com/",
+      "DATE": "Date: 19-Aug-2003",
+      "NUMBER": "INVOICE # 2Y1M1d-263",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :90",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 443.14  EUR",
+      "TAX": "TAX:VAT (4.52%):  20.05 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 442.89 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Maxwell\n5917 James Street Suite 939\nStanleyton, MP 54481 US\nTel:+(781)393-1503\nEmail:ssharp@example.com\nSite:http://www.roth.org/",
+      "DATE": "Invoice Date: 12-Jul-2008",
+      "NUMBER": "Invoice number 3674-324",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :72",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1179.18  USD",
+      "TAX": "TAX:VAT (6.08%):  71.71 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1218.46 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Valentine\n934 Amy Flat Apt. 640\nWest Andrea, SD 61224 US\nTel:+(537)100-8728\nEmail:julia30@example.org\nSite:https://clements.info/",
+      "DATE": "Invoice Date: 27-Jan-2009",
+      "NUMBER": "INVOICE # INV/80-81/849",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 888.25  USD",
+      "TAX": "TAX:VAT (5.21%):  46.29 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 906.56 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Samuel Sanders\n8101 Mason Flat\nCourtneychester, ND 23121 US\nTel:+(846)361-9982\nEmail:benjaminparsons@example.net\nSite:https://smith-blevins.com/",
+      "DATE": "Date: 22-Mar-2010",
+      "NUMBER": "INVOICE ID 2Y7M3d-772",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 388.10  USD",
+      "TAX": "TAX:VAT (6.09%):  23.64 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 403.55 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amber Jones\n42513 Ortiz Dale\nNew Bryan, MS 52533 US\nTel:+(334)149-9967\nEmail:marygarner@example.net\nSite:https://jordan.com/",
+      "DATE": "Date: 11-Apr-2001",
+      "NUMBER": "INVOICE # INV/25-06/063",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :64",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1062.99  USD",
+      "TAX": "TAX:VAT (6.38%):  67.85 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1087.15 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Krista Williams MD\n91205 Myers Junction\nNixonberg, ND 33500 US\nTel:+(765)284-6974\nEmail:joseph65@example.net\nSite:http://www.tucker-pitts.com/",
+      "DATE": "Invoice Date: 11-Apr-2017",
+      "NUMBER": "INVOICE ID INV93439967",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :12",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 770.03  EUR",
+      "TAX": "TAX:VAT (4.74%):  36.50 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 776.96 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Leslie Carroll\n214 Richard Turnpike Suite 260\nScottton, MS 41626 US\nTel:+(415)891-7518\nEmail:ajones@example.com\nSite:https://anderson.com/",
+      "DATE": "Date: 23-Jan-2012",
+      "NUMBER": "INVOICE ID INV/14-28/532",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :11",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 204.71  USD",
+      "TAX": "TAX:VAT (4.50%):  9.22 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 210.02 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Krystal Fowler\n97589 Victor Extensions\nPort John, MS 48393 US\nTel:+(632)313-1862\nEmail:emilystanley@example.com\nSite:https://www.jordan.info/",
+      "DATE": "Date: 02-Nov-2016",
+      "NUMBER": "INVOICE # INV/50-30/367",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :57",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 234.36  $",
+      "TAX": "TAX:VAT (5.72%):  13.42 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 236.13 $"
+    }
+  },
+  {
+    "image": "Template6_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Russell Jones\n429 Kenneth Ville\nColeview, ND 37754 US\nTel:+(405)682-6248\nEmail:kingjonathan@example.com\nSite:http://www.whitaker.org/",
+      "DATE": "Invoice Date: 30-Sep-2019",
+      "NUMBER": "Invoice number INV64242065",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :64",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 161.71  USD",
+      "TAX": "TAX:VAT (3.82%):  6.17 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 164.68 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jasmine Hayes\n7020 Stewart Common\nMichaelborough, AR 83309 US\nTel:+(829)656-4654\nEmail:matthewbaker@example.org\nSite:http://www.woodard.com/",
+      "DATE": "Date: 16-Dec-2022",
+      "NUMBER": "INVOICE # 8371-395",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :19",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 195.36  EUR",
+      "TAX": "TAX:VAT (6.16%):  12.04 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 203.57 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Christensen\n57343 Ryan Mountain\nNorth Monique, ND 95442 US\nTel:+(432)872-5085\nEmail:karendeleon@example.org\nSite:http://www.newman-hernandez.org/",
+      "DATE": "Invoice Date: 10-Sep-1994",
+      "NUMBER": "INVOICE ID 9Y1M7d-250",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :65",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1186.14  USD",
+      "TAX": "TAX:VAT (5.71%):  67.72 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1225.75 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diana Glass\n72366 David Well\nSwansonfurt, MI 76765 US\nTel:+(781)980-3791\nEmail:kathrynvance@example.com\nSite:https://www.davis.com/",
+      "DATE": "Invoice Date: 05-Sep-2021",
+      "NUMBER": "INVOICE ID INV/05-28/492",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :05",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 839.50  $",
+      "TAX": "TAX:VAT (3.41%):  28.63 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 831.86 $"
+    }
+  },
+  {
+    "image": "Template6_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Chelsea Caldwell\n8579 French Fords Suite 222\nEricton, NM 03229 US\nTel:+(867)783-0878\nEmail:davidarcher@example.net\nSite:http://www.watson.com/",
+      "DATE": "Invoice Date: 25-Oct-2001",
+      "NUMBER": "Invoice number INV/15-87/343",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 491.35  $",
+      "TAX": "TAX:VAT (6.76%):  33.24 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 505.43 $"
+    }
+  },
+  {
+    "image": "Template6_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Eric Stuart\n152 Lewis Station\nSouth Renee, NH 75942 US\nTel:+(094)397-7980\nEmail:reynoldschristina@example.net\nSite:http://www.smith.org/",
+      "DATE": "Date: 10-Jun-2010",
+      "NUMBER": "Invoice number 4Y3M4d-472",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :95",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 847.59  $",
+      "TAX": "TAX:VAT (6.60%):  55.97 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 871.01 $"
+    }
+  },
+  {
+    "image": "Template6_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Roth\n130 Ford Plaza Apt. 080\nJamesland, NE 72019 US\nTel:+(454)823-0058\nEmail:smithgregory@example.com\nSite:https://www.levy-morrison.com/",
+      "DATE": "Date: 20-Jun-2014",
+      "NUMBER": "Invoice number INV/76-89/064",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :74",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 246.15  $",
+      "TAX": "TAX:VAT (6.96%):  17.13 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 260.60 $"
+    }
+  },
+  {
+    "image": "Template6_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carl Wilson\n3754 Adams Wall Suite 737\nSpencerberg, NY 85997 US\nTel:+(016)570-7654\nEmail:victor19@example.com\nSite:https://landry-morgan.org/",
+      "DATE": "Invoice Date: 07-Dec-2016",
+      "NUMBER": "Invoice number INV08661183",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 378.72  $",
+      "TAX": "TAX:VAT (3.52%):  13.31 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 387.75 $"
+    }
+  },
+  {
+    "image": "Template6_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ariel Davis\n20828 Franklin Lights Apt. 278\nEast Kim, VT 04239 US\nTel:+(567)358-1943\nEmail:andrew16@example.org\nSite:http://campbell.com/",
+      "DATE": "Invoice Date: 14-Apr-2006",
+      "NUMBER": "INVOICE # INV81774961",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :37",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1290.12  USD",
+      "TAX": "TAX:VAT (4.01%):  51.79 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1288.63 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Derrick Carrillo\n24312 Sandra Vista Suite 624\nJenniferborough, OR 97129 US\nTel:+(326)542-9746\nEmail:danielmitchell@example.net\nSite:http://perez-edwards.com/",
+      "DATE": "Date: 29-May-2009",
+      "NUMBER": "Invoice number INV/71-97/647",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :69",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 443.32  EUR",
+      "TAX": "TAX:VAT (5.06%):  22.44 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 453.35 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christina Wilson\n85458 Cuevas Pines Suite 018\nWest Rodneychester, PW 96821 US\nTel:+(331)159-3025\nEmail:suzannepierce@example.net\nSite:http://martin-campbell.com/",
+      "DATE": "Invoice Date: 12-Feb-2008",
+      "NUMBER": "INVOICE # INV/31-32/189",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :04",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 392.96  EUR",
+      "TAX": "TAX:VAT (6.91%):  27.15 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 413.70 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brianna Clarke\n589 Andrew Mission\nYoungshire, ME 31998 US\nTel:+(339)577-0754\nEmail:rgrimes@example.com\nSite:http://www.villanueva-ward.biz/",
+      "DATE": "Date: 04-Jul-1998",
+      "NUMBER": "INVOICE ID INV69755626",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :36",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 650.17  EUR",
+      "TAX": "TAX:VAT (3.06%):  19.93 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 661.58 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Gibbs\n82097 Moore Branch Suite 397\nDominguezstad, MN 67956 US\nTel:+(586)838-0851\nEmail:xbryant@example.org\nSite:http://www.lamb.biz/",
+      "DATE": "Invoice Date: 17-Aug-2016",
+      "NUMBER": "Invoice number 9Y7M2d-047",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :68",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 892.06  $",
+      "TAX": "TAX:VAT (4.30%):  38.35 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 908.29 $"
+    }
+  },
+  {
+    "image": "Template6_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cynthia Harris\n45866 Boone Vista Suite 057\nWest Phyllis, ID 76268 US\nTel:+(977)147-4427\nEmail:christopher41@example.net\nSite:http://www.king-lawrence.info/",
+      "DATE": "Date: 25-Jun-1996",
+      "NUMBER": "INVOICE ID 2691-707",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 154.10  EUR",
+      "TAX": "TAX:VAT (4.29%):  6.61 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 158.12 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joe Avila\n15995 Russell Drive\nPort Linda, MA 65200 US\nTel:+(655)926-2958\nEmail:sanderskimberly@example.net\nSite:http://smith-waller.biz/",
+      "DATE": "Date: 28-Sep-2018",
+      "NUMBER": "Invoice number INV96894145",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :68",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 446.98  EUR",
+      "TAX": "TAX:VAT (3.26%):  14.55 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 443.56 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brooke Hernandez\n77831 Rodriguez Pine Suite 829\nNorth Mariahton, PW 62659 US\nTel:+(433)446-2307\nEmail:greensummer@example.net\nSite:https://www.stuart.org/",
+      "DATE": "Invoice Date: 29-Oct-1995",
+      "NUMBER": "Invoice number INV/91-63/792",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 803.66  $",
+      "TAX": "TAX:VAT (6.06%):  48.70 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 839.10 $"
+    }
+  },
+  {
+    "image": "Template6_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Lawson\n7490 Hernandez Glen\nLake Jessica, MO 08586 US\nTel:+(582)920-3006\nEmail:steven94@example.org\nSite:http://www.king.biz/",
+      "DATE": "Date: 17-Aug-2020",
+      "NUMBER": "Invoice number 4581-373",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :68",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 193.03  $",
+      "TAX": "TAX:VAT (3.34%):  6.45 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 191.10 $"
+    }
+  },
+  {
+    "image": "Template6_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Howell\n265 Stein Ways\nStephanieland, GA 09762 US\nTel:+(707)312-5229\nEmail:traci21@example.com\nSite:https://daniel.com/",
+      "DATE": "Date: 07-May-2011",
+      "NUMBER": "INVOICE ID INV76560791",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :89",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 373.58  $",
+      "TAX": "TAX:VAT (4.18%):  15.61 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 374.51 $"
+    }
+  },
+  {
+    "image": "Template6_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joel Robertson\n87354 Jackson Mission Apt. 088\nWest Kennethfort, GA 22907 US\nTel:+(433)048-9658\nEmail:kimberly70@example.org\nSite:http://mcguire.biz/",
+      "DATE": "Invoice Date: 12-Dec-2008",
+      "NUMBER": "Invoice number INV15055922",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :13",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 332.56  $",
+      "TAX": "TAX:VAT (4.94%):  16.44 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 344.48 $"
+    }
+  },
+  {
+    "image": "Template6_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carmen Reeves\n1954 Wilson Mall\nTurnerside, MH 21563 US\nTel:+(898)084-6146\nEmail:rbarton@example.net\nSite:https://anderson-wong.com/",
+      "DATE": "Date: 24-May-2020",
+      "NUMBER": "INVOICE ID 2Y3M1d-504",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :51",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1132.97  $",
+      "TAX": "TAX:VAT (3.59%):  40.63 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1139.38 $"
+    }
+  },
+  {
+    "image": "Template6_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Loretta Johnson\n2634 Grant Hill\nMcgrathmouth, NV 79025 US\nTel:+(126)466-9734\nEmail:tshaw@example.net\nSite:http://www.diaz.com/",
+      "DATE": "Invoice Date: 15-Mar-2019",
+      "NUMBER": "Invoice number INV11559879",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :68",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 361.33  $",
+      "TAX": "TAX:VAT (4.75%):  17.16 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 363.57 $"
+    }
+  },
+  {
+    "image": "Template6_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Snyder\n88055 Odom Rapid\nWest Brandy, WY 20718 US\nTel:+(222)317-3464\nEmail:hutchinsonjennifer@example.net\nSite:http://nguyen-doyle.com/",
+      "DATE": "Invoice Date: 09-Feb-2007",
+      "NUMBER": "INVOICE ID INV95822576",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :76",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 163.20  $",
+      "TAX": "TAX:VAT (3.38%):  5.51 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 166.15 $"
+    }
+  },
+  {
+    "image": "Template6_Instance84.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Brown\n139 Cynthia Summit Apt. 083\nWest Michelle, NC 08014 US\nTel:+(714)449-3709\nEmail:davidwilliams@example.org\nSite:https://www.chambers-chambers.info/",
+      "DATE": "Invoice Date: 14-Apr-2000",
+      "NUMBER": "INVOICE ID INV13371165",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :52",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 262.72  USD",
+      "TAX": "TAX:VAT (3.73%):  9.81 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 264.36 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gregory Johnson\n3386 Fernandez Divide Apt. 673\nJanetview, NC 96361 US\nTel:+(330)958-5167\nEmail:jason73@example.org\nSite:https://www.jacobs-johnson.info/",
+      "DATE": "Invoice Date: 12-Jun-2007",
+      "NUMBER": "INVOICE # INV/57-83/209",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :47",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 731.61  $",
+      "TAX": "TAX:VAT (6.98%):  51.06 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 753.92 $"
+    }
+  },
+  {
+    "image": "Template6_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Ross\n71223 Hart Valley Apt. 267\nWest Melissa, AK 24202 US\nTel:+(998)456-6198\nEmail:ttyler@example.org\nSite:https://mcconnell.info/",
+      "DATE": "Date: 29-Dec-2017",
+      "NUMBER": "Invoice number 5Y3M3d-811",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :30",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 423.67  USD",
+      "TAX": "TAX:VAT (5.82%):  24.64 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 439.54 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mark Bates\n394 Frederick Brooks\nKevinburgh, NH 27502 US\nTel:+(259)089-0789\nEmail:gabriel07@example.com\nSite:http://www.baxter.com/",
+      "DATE": "Invoice Date: 11-Nov-2003",
+      "NUMBER": "INVOICE # INV37237195",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :14",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 70.40  $",
+      "TAX": "TAX:VAT (4.92%):  3.46 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 70.81 $"
+    }
+  },
+  {
+    "image": "Template6_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mrs. Stephanie Rodriguez\n1121 Susan Harbors Apt. 660\nPort Jacobland, FM 31815 US\nTel:+(298)253-8631\nEmail:mercedes81@example.org\nSite:https://young.net/",
+      "DATE": "Date: 14-Jun-2011",
+      "NUMBER": "Invoice number INV/53-26/697",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :08",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 196.76  USD",
+      "TAX": "TAX:VAT (6.13%):  12.07 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 201.69 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Antonio Sanchez\n558 Julia Cape Apt. 937\nHallside, AS 71016 US\nTel:+(235)623-2576\nEmail:ddavidson@example.com\nSite:https://edwards.com/",
+      "DATE": "Date: 17-Sep-2018",
+      "NUMBER": "INVOICE ID INV/91-30/581",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :28",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 672.20  $",
+      "TAX": "TAX:VAT (3.30%):  22.20 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 687.14 $"
+    }
+  },
+  {
+    "image": "Template6_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Choi\n824 Miller Plaza\nPort Shawn, AR 94451 US\nTel:+(112)217-5397\nEmail:hardyjessica@example.net\nSite:http://hale.com/",
+      "DATE": "Invoice Date: 03-May-2004",
+      "NUMBER": "INVOICE ID INV85494422",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :69",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 712.45  EUR",
+      "TAX": "TAX:VAT (3.95%):  28.12 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 707.16 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Jones\n9259 Ortega Rest Suite 719\nWest Timothy, NY 34357 US\nTel:+(047)014-5937\nEmail:garrettsanchez@example.org\nSite:http://bennett-davis.com/",
+      "DATE": "Date: 18-Oct-2009",
+      "NUMBER": "Invoice number INV77337945",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :75",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 425.21  USD",
+      "TAX": "TAX:VAT (3.10%):  13.18 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 421.04 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Herrera\n005 Conner Parkways Apt. 784\nSouth Sara, OK 61384 US\nTel:+(259)823-9767\nEmail:brandonmarquez@example.org\nSite:https://sanchez.com/",
+      "DATE": "Invoice Date: 10-Mar-2004",
+      "NUMBER": "INVOICE ID INV30425838",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :25",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 645.88  EUR",
+      "TAX": "TAX:VAT (3.20%):  20.64 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 647.34 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Zachary Perez\n030 David Pines\nJosephhaven, UT 74872 US\nTel:+(882)172-5633\nEmail:martinteresa@example.com\nSite:http://young.net/",
+      "DATE": "Date: 04-Jan-2018",
+      "NUMBER": "INVOICE ID INV/78-57/112",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :04",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 320.36  USD",
+      "TAX": "TAX:VAT (6.22%):  19.94 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 333.96 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michele Grimes\n094 May Junction\nWest Matthewville, SD 57329 US\nTel:+(317)792-1151\nEmail:garciagregory@example.org\nSite:http://reeves.com/",
+      "DATE": "Date: 10-Dec-2017",
+      "NUMBER": "INVOICE ID 7Y3M9d-658",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :89",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 450.46  $",
+      "TAX": "TAX:VAT (4.98%):  22.45 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 458.18 $"
+    }
+  },
+  {
+    "image": "Template6_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Russell King\n425 Jason Junction Apt. 418\nNew Tyler, FM 05250 US\nTel:+(871)602-3346\nEmail:vfranco@example.com\nSite:https://www.flores.biz/",
+      "DATE": "Date: 31-Oct-2020",
+      "NUMBER": "Invoice number INV41566815",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :14",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 646.42  $",
+      "TAX": "TAX:VAT (6.79%):  43.88 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 681.64 $"
+    }
+  },
+  {
+    "image": "Template6_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Bryant\n51525 Larry Plains\nDuranbury, AK 71973 US\nTel:+(680)027-1207\nEmail:amandaharper@example.com\nSite:https://www.miller.org/",
+      "DATE": "Invoice Date: 19-Nov-2022",
+      "NUMBER": "Invoice number INV/58-68/810",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :57",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 731.16  EUR",
+      "TAX": "TAX:VAT (3.31%):  24.18 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 721.05 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Crystal Gilbert\n8143 Joseph Spur Apt. 399\nSouth Randallstad, AL 31798 US\nTel:+(152)859-3861\nEmail:martinezcrystal@example.net\nSite:http://white.org/",
+      "DATE": "Date: 20-Jun-1995",
+      "NUMBER": "INVOICE ID 2Y9M6d-879",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :85",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 806.89  USD",
+      "TAX": "TAX:VAT (3.05%):  24.61 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 818.35 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anthony Palmer\n62475 Kenneth Green\nMitchellstad, ID 11365 US\nTel:+(127)412-8986\nEmail:freemansydney@example.org\nSite:https://www.bush-floyd.com/",
+      "DATE": "Date: 18-Apr-1998",
+      "NUMBER": "INVOICE # INV46447197",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :46",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 413.14  USD",
+      "TAX": "TAX:VAT (4.72%):  19.52 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 414.94 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Tran\n6741 Ronald Manor Suite 845\nStevensburgh, WI 71827 US\nTel:+(911)682-1764\nEmail:bmartinez@example.net\nSite:http://www.glover-hoffman.biz/",
+      "DATE": "Date: 16-Jan-2006",
+      "NUMBER": "INVOICE # 2902-359",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :96",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 469.20  USD",
+      "TAX": "TAX:VAT (5.77%):  27.09 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 483.06 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Wall\n126 Frazier Ford Apt. 193\nNorth Meganstad, ID 26052 US\nTel:+(455)146-9395\nEmail:teresastout@example.org\nSite:http://obrien.net/",
+      "DATE": "Date: 14-Apr-1994",
+      "NUMBER": "INVOICE ID 7Y1M2d-887",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :25",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 585.57  USD",
+      "TAX": "TAX:VAT (4.55%):  26.64 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 596.75 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Scott Hunt\n97757 Matthew Village Suite 231\nLake Ashley, SC 47240 US\nTel:+(144)787-1923\nEmail:christian67@example.com\nSite:http://www.bailey-briggs.com/",
+      "DATE": "Date: 18-Jan-2023",
+      "NUMBER": "INVOICE ID INV63830019",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 835.46  EUR",
+      "TAX": "TAX:VAT (6.97%):  58.20 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 858.49 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Austin Martin\n2816 Daniel Extension Suite 276\nWagnerview, UT 85960 US\nTel:+(633)384-0715\nEmail:graybrandy@example.net\nSite:http://www.mcgee-weiss.com/",
+      "DATE": "Date: 24-Oct-2020",
+      "NUMBER": "INVOICE ID 1Y2M6d-164",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :32",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 538.12  EUR",
+      "TAX": "TAX:VAT (6.52%):  35.10 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 560.25 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Kelley\n4305 Stafford Plains Apt. 290\nHaysmouth, NV 76557 US\nTel:+(997)867-3344\nEmail:carlsonalison@example.com\nSite:https://wang.net/",
+      "DATE": "Invoice Date: 12-Nov-2017",
+      "NUMBER": "INVOICE ID 7Y8M9d-967",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :42",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 851.33  EUR",
+      "TAX": "TAX:VAT (6.87%):  58.45 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 883.05 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Henry\n8243 Hunter Divide Apt. 240\nRaymondmouth, WY 96587 US\nTel:+(221)691-9752\nEmail:rebeccadurham@example.com\nSite:https://fitzgerald.org/",
+      "DATE": "Invoice Date: 04-Aug-2010",
+      "NUMBER": "INVOICE # INV69243822",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :13",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 261.61  $",
+      "TAX": "TAX:VAT (6.74%):  17.63 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 267.18 $"
+    }
+  },
+  {
+    "image": "Template6_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dillon Anderson MD\n0174 Espinoza Mountain\nNew Dustinland, MD 43614 US\nTel:+(185)530-5453\nEmail:charlesgreer@example.net\nSite:http://barnett.com/",
+      "DATE": "Date: 08-Mar-2010",
+      "NUMBER": "INVOICE ID 6846-025",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :64",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 941.01  USD",
+      "TAX": "TAX:VAT (6.24%):  58.71 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 978.17 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Debbie White\n4520 Vega Stream Apt. 421\nSouth Cheryl, GU 09989 US\nTel:+(098)824-5215\nEmail:howardmoore@example.com\nSite:http://espinoza-orr.biz/",
+      "DATE": "Date: 20-Apr-2018",
+      "NUMBER": "INVOICE ID INV52279855",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :90",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 104.51  USD",
+      "TAX": "TAX:VAT (4.98%):  5.21 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 105.72 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen James\n1575 Lauren Meadow Suite 750\nEast Stephenland, OK 97160 US\nTel:+(972)612-1613\nEmail:torressarah@example.com\nSite:https://higgins.org/",
+      "DATE": "Invoice Date: 28-Sep-2021",
+      "NUMBER": "Invoice number 8974-628",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :18",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 887.86  USD",
+      "TAX": "TAX:VAT (4.46%):  39.61 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 916.02 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephen Rasmussen\n13544 Christine Street Apt. 748\nMackenzieport, TX 06354 US\nTel:+(663)662-2608\nEmail:tonyagonzales@example.net\nSite:http://montoya.com/",
+      "DATE": "Date: 24-May-2001",
+      "NUMBER": "Invoice number 2228-490",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :92",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 776.88  USD",
+      "TAX": "TAX:VAT (4.57%):  35.52 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 800.20 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Webb\n572 Jenna Square Apt. 229\nWest Jessica, MO 56411 US\nTel:+(539)340-8108\nEmail:karen66@example.com\nSite:http://www.williams.com/",
+      "DATE": "Date: 02-Jul-2022",
+      "NUMBER": "Invoice number 5Y3M4d-934",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :86",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 315.96  USD",
+      "TAX": "TAX:VAT (6.85%):  21.64 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 328.06 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Harris\n641 Mary Rapids Suite 812\nNew Davidfurt, VA 24907 US\nTel:+(581)047-8058\nEmail:whitneysparks@example.com\nSite:http://harris-kim.com/",
+      "DATE": "Date: 04-Sep-2019",
+      "NUMBER": "INVOICE # INV/77-45/710",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :66",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 411.83  USD",
+      "TAX": "TAX:VAT (3.04%):  12.54 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 419.68 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mr. Jeremy Shepard\n66990 Morgan Passage Apt. 551\nAlexandraville, AS 98469 US\nTel:+(992)907-7978\nEmail:jperez@example.com\nSite:https://www.martinez.com/",
+      "DATE": "Invoice Date: 04-Jun-2017",
+      "NUMBER": "Invoice number 4418-922",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :40",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 881.17  EUR",
+      "TAX": "TAX:VAT (5.94%):  52.36 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 913.53 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Ramos\n41301 Benjamin Terrace Suite 724\nNorth Brian, MH 18709 US\nTel:+(745)146-2790\nEmail:boyererin@example.com\nSite:http://www.taylor.com/",
+      "DATE": "Date: 01-Jan-2008",
+      "NUMBER": "Invoice number 7Y2M3d-215",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 445.80  USD",
+      "TAX": "TAX:VAT (5.56%):  24.80 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 455.98 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Lang\n455 Chase Alley\nTimothyport, PW 67141 US\nTel:+(886)250-8246\nEmail:warrenbrown@example.com\nSite:https://www.fox-woods.com/",
+      "DATE": "Date: 15-Nov-2004",
+      "NUMBER": "Invoice number 9599-370",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :74",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 408.02  USD",
+      "TAX": "TAX:VAT (6.52%):  26.59 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 421.15 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeffrey Davis\n0015 Bailey Path Apt. 068\nLewisstad, AL 34289 US\nTel:+(031)333-8619\nEmail:annette52@example.org\nSite:https://www.reynolds-kennedy.biz/",
+      "DATE": "Invoice Date: 07-Mar-2018",
+      "NUMBER": "Invoice number INV00430847",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :15",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 534.94  USD",
+      "TAX": "TAX:VAT (3.73%):  19.96 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 543.51 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carolyn Brown\n644 Castillo Radial\nSmithfurt, AR 00583 US\nTel:+(487)940-6781\nEmail:barbara54@example.com\nSite:https://morgan.biz/",
+      "DATE": "Invoice Date: 21-Oct-2017",
+      "NUMBER": "Invoice number 1592-121",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :69",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 450.47  $",
+      "TAX": "TAX:VAT (4.78%):  21.55 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 460.04 $"
+    }
+  },
+  {
+    "image": "Template6_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Graves\n4773 Davis Corners\nSloanside, AL 72609 US\nTel:+(050)118-7030\nEmail:erica20@example.com\nSite:https://ballard-ray.com/",
+      "DATE": "Date: 27-Sep-1999",
+      "NUMBER": "Invoice number 9Y8M5d-580",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :13",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 672.19  $",
+      "TAX": "TAX:VAT (4.67%):  31.36 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 691.38 $"
+    }
+  },
+  {
+    "image": "Template6_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mike Serrano\n73590 Gomez Light\nMarkstad, KY 84765 US\nTel:+(720)127-9571\nEmail:timothy89@example.net\nSite:https://travis.com/",
+      "DATE": "Invoice Date: 26-Dec-1996",
+      "NUMBER": "INVOICE ID INV90864171",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :77",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 205.51  $",
+      "TAX": "TAX:VAT (6.39%):  13.13 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 208.82 $"
+    }
+  },
+  {
+    "image": "Template6_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dennis Shannon\n326 Marsh Locks\nLandryport, HI 09976 US\nTel:+(456)597-1020\nEmail:katrina02@example.com\nSite:https://www.duran-hopkins.net/",
+      "DATE": "Invoice Date: 16-Nov-2000",
+      "NUMBER": "INVOICE # 8798-526",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 491.64  EUR",
+      "TAX": "TAX:VAT (3.98%):  19.57 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 500.69 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rachel Nguyen\n91339 Gardner Inlet Suite 310\nGinatown, MP 35893 US\nTel:+(496)685-4939\nEmail:vcompton@example.org\nSite:http://munoz.info/",
+      "DATE": "Invoice Date: 05-Nov-2013",
+      "NUMBER": "INVOICE # INV/72-53/482",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :21",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 118.01  $",
+      "TAX": "TAX:VAT (5.92%):  6.98 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 119.86 $"
+    }
+  },
+  {
+    "image": "Template6_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rebecca Ross\n5619 Hicks Forks\nCynthiashire, WA 90879 US\nTel:+(672)569-9335\nEmail:josephsaunders@example.com\nSite:https://www.estes.com/",
+      "DATE": "Date: 08-Sep-1998",
+      "NUMBER": "Invoice number 8447-893",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :55",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 233.51  $",
+      "TAX": "TAX:VAT (3.71%):  8.67 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 230.92 $"
+    }
+  },
+  {
+    "image": "Template6_Instance170.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rita Martinez\n743 Kerr Vista\nHowardfort, IA 57845 US\nTel:+(432)825-1664\nEmail:guzmanstephanie@example.org\nSite:https://howard.com/",
+      "DATE": "Date: 17-Oct-1993",
+      "NUMBER": "INVOICE # INV95313560",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :82",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 628.33  EUR",
+      "TAX": "TAX:VAT (3.03%):  19.03 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 638.06 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Mendoza\n768 Meyer Stravenue\nMcintoshfort, GA 33706 US\nTel:+(127)171-0630\nEmail:hector38@example.net\nSite:http://www.smith-carroll.com/",
+      "DATE": "Invoice Date: 22-Apr-2010",
+      "NUMBER": "INVOICE # INV27509750",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 828.27  $",
+      "TAX": "TAX:VAT (3.83%):  31.72 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 829.34 $"
+    }
+  },
+  {
+    "image": "Template6_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Mcgrath\n0457 Franco Field Apt. 841\nPort Samanthamouth, VA 30338 US\nTel:+(563)207-8813\nEmail:catherinepetersen@example.net\nSite:http://lewis.net/",
+      "DATE": "Date: 03-Aug-2008",
+      "NUMBER": "Invoice number 6Y6M2d-559",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :95",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 209.98  $",
+      "TAX": "TAX:VAT (4.69%):  9.85 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 210.09 $"
+    }
+  },
+  {
+    "image": "Template6_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Harold Thompson\n688 Steven Drive Suite 636\nPort Ritamouth, MI 46855 US\nTel:+(716)185-2581\nEmail:mdickson@example.com\nSite:https://sanchez.info/",
+      "DATE": "Date: 08-Mar-2013",
+      "NUMBER": "INVOICE ID INV07971032",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :73",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 691.28  USD",
+      "TAX": "TAX:VAT (3.26%):  22.52 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 701.56 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Hunter Reyes\n906 Gloria Run\nShawnborough, CT 39417 US\nTel:+(790)764-6214\nEmail:williamraymond@example.org\nSite:http://christian-smith.com/",
+      "DATE": "Invoice Date: 10-Oct-2010",
+      "NUMBER": "INVOICE ID INV/62-97/674",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :97",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 902.04  USD",
+      "TAX": "TAX:VAT (5.19%):  46.83 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 915.77 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Valdez\n3343 Valenzuela Mountain\nWest Phillipport, OH 38545 US\nTel:+(542)926-0123\nEmail:spenceramanda@example.com\nSite:http://www.johnson-torres.net/",
+      "DATE": "Date: 03-Sep-2008",
+      "NUMBER": "INVOICE # 2Y1M6d-761",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :72",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 560.74  USD",
+      "TAX": "TAX:VAT (4.39%):  24.62 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 572.86 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Susan Tran\n9106 Holloway Manor\nBakerstad, TN 09809 US\nTel:+(038)679-1798\nEmail:kelly75@example.com\nSite:https://potts.org/",
+      "DATE": "Invoice Date: 05-Aug-2008",
+      "NUMBER": "INVOICE # 4Y5M4d-170",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :76",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 420.40  EUR",
+      "TAX": "TAX:VAT (5.27%):  22.17 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 422.52 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Juarez\n5749 Amber Underpass Suite 929\nBraunport, SD 16774 US\nTel:+(602)513-9578\nEmail:tami32@example.net\nSite:https://santos.com/",
+      "DATE": "Invoice Date: 30-Mar-2011",
+      "NUMBER": "INVOICE # INV90079386",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :09",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 256.80  USD",
+      "TAX": "TAX:VAT (4.70%):  12.07 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 258.11 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Catherine Mitchell\n46142 Cordova Corner\nWest Markland, WA 76039 US\nTel:+(207)898-0331\nEmail:morenostephen@example.net\nSite:https://www.williams.com/",
+      "DATE": "Date: 02-Feb-1999",
+      "NUMBER": "INVOICE ID 9Y5M9d-202",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :56",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 466.78  EUR",
+      "TAX": "TAX:VAT (5.73%):  26.76 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 473.98 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Heath\n9290 Craig Squares Apt. 711\nLindseyshire, AK 61920 US\nTel:+(414)062-9267\nEmail:michael24@example.org\nSite:http://klein.com/",
+      "DATE": "Date: 18-Jul-1996",
+      "NUMBER": "INVOICE ID 6Y8M7d-296",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :81",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1224.70  USD",
+      "TAX": "TAX:VAT (4.40%):  53.89 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1261.81 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexandra Price\n01085 Samantha Prairie Suite 571\nNorth Nicole, MI 38110 US\nTel:+(486)664-3588\nEmail:ucampos@example.net\nSite:https://rivas.net/",
+      "DATE": "Date: 08-Mar-1996",
+      "NUMBER": "Invoice number INV/23-16/364",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :31",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 256.19  $",
+      "TAX": "TAX:VAT (4.01%):  10.26 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 258.07 $"
+    }
+  },
+  {
+    "image": "Template6_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Elizabeth Anderson\n981 Cochran River Suite 622\nNorth Tammy, CA 80638 US\nTel:+(953)822-5461\nEmail:uhawkins@example.com\nSite:http://owen.info/",
+      "DATE": "Invoice Date: 20-Jun-2008",
+      "NUMBER": "Invoice number 4Y5M2d-834",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :57",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 289.05  USD",
+      "TAX": "TAX:VAT (5.33%):  15.41 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 295.53 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joanna Wilkinson\n23867 Samantha Junctions\nPhillipstad, SD 54170 US\nTel:+(903)960-2862\nEmail:rodriguezperry@example.org\nSite:http://clark.biz/",
+      "DATE": "Date: 15-Jun-2018",
+      "NUMBER": "INVOICE # 3817-517",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :59",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 880.57  USD",
+      "TAX": "TAX:VAT (5.98%):  52.70 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 912.75 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dan Hurley\n90096 Li Stravenue\nRoberthaven, DC 25337 US\nTel:+(442)080-0441\nEmail:sandrabyrd@example.com\nSite:https://www.decker-howell.com/",
+      "DATE": "Invoice Date: 17-Jan-2006",
+      "NUMBER": "INVOICE ID INV/89-02/137",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :49",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 213.41  $",
+      "TAX": "TAX:VAT (3.14%):  6.70 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 211.08 $"
+    }
+  },
+  {
+    "image": "Template6_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Ramirez\n3116 Angelica Squares Apt. 472\nBrownland, IA 54365 US\nTel:+(611)289-8797\nEmail:msanchez@example.com\nSite:http://rivera.org/",
+      "DATE": "Invoice Date: 04-Jun-2014",
+      "NUMBER": "Invoice number 6403-879",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :07",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 307.02  $",
+      "TAX": "TAX:VAT (5.62%):  17.26 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 320.72 $"
+    }
+  },
+  {
+    "image": "Template6_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Porter\n743 Megan Place Suite 579\nSheabury, VI 31186 US\nTel:+(033)917-7946\nEmail:abigailespinoza@example.org\nSite:http://webster.org/",
+      "DATE": "Date: 25-Oct-2018",
+      "NUMBER": "INVOICE # 7800-657",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :86",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 261.35  USD",
+      "TAX": "TAX:VAT (6.85%):  17.89 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 276.47 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Evans\n549 Parrish Tunnel\nEast Robertfurt, VI 58957 US\nTel:+(454)303-5149\nEmail:krivers@example.com\nSite:https://www.rodriguez.info/",
+      "DATE": "Date: 01-Oct-1999",
+      "NUMBER": "INVOICE ID 2Y2M7d-204",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :76",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 118.04  EUR",
+      "TAX": "TAX:VAT (4.11%):  4.86 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 118.56 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Susan Davis\n684 Wilson Street Suite 208\nMcintyreview, SC 75114 US\nTel:+(910)428-2117\nEmail:butlerteresa@example.net\nSite:http://moore.com/",
+      "DATE": "Invoice Date: 07-Nov-2022",
+      "NUMBER": "Invoice number 2Y1M6d-062",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :59",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1269.41  USD",
+      "TAX": "TAX:VAT (6.36%):  80.74 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1334.92 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ellen Williamson\n2751 Huerta Unions Suite 222\nWest Anthonyburgh, VT 84126 US\nTel:+(273)514-2666\nEmail:josehart@example.com\nSite:https://bruce-massey.com/",
+      "DATE": "Invoice Date: 17-May-2021",
+      "NUMBER": "INVOICE # INV/12-35/301",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :53",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 780.07  $",
+      "TAX": "TAX:VAT (5.91%):  46.12 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 812.69 $"
+    }
+  },
+  {
+    "image": "Template6_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Jimenez\n14000 Chaney Falls Apt. 349\nSouth Hannahfort, ID 32998 US\nTel:+(597)767-2591\nEmail:mmorales@example.com\nSite:https://www.flores.biz/",
+      "DATE": "Invoice Date: 15-Mar-2012",
+      "NUMBER": "INVOICE ID INV/99-13/333",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :25",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 820.23  USD",
+      "TAX": "TAX:VAT (4.02%):  33.01 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 834.13 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bradley Kelly\n941 Angel Views\nLake James, GU 86435 US\nTel:+(036)380-3822\nEmail:alan75@example.com\nSite:https://www.cobb-robinson.org/",
+      "DATE": "Date: 12-Aug-2012",
+      "NUMBER": "Invoice number 5Y5M4d-619",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :21",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 491.68  $",
+      "TAX": "TAX:VAT (5.77%):  28.36 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 515.02 $"
+    }
+  },
+  {
+    "image": "Template6_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nancy Sanders\n0774 Collier Gateway Suite 350\nRachelton, MI 98823 US\nTel:+(071)161-0455\nEmail:juarezsean@example.net\nSite:https://www.holt-holland.com/",
+      "DATE": "Date: 21-Sep-1999",
+      "NUMBER": "INVOICE ID INV52715783",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :32",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 506.50  EUR",
+      "TAX": "TAX:VAT (5.33%):  26.97 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 511.29 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christian Smith\n7170 Rubio Trafficway\nEast Lynn, WV 35481 US\nTel:+(543)270-3753\nEmail:tylermorgan@example.net\nSite:https://www.rojas.net/",
+      "DATE": "Invoice Date: 16-Jan-2013",
+      "NUMBER": "INVOICE # 5488-846",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :40",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 126.54  USD",
+      "TAX": "TAX:VAT (5.52%):  6.98 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 129.71 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Wilson\n777 Amber View Apt. 926\nWest Tanyastad, CA 87581 US\nTel:+(163)057-7179\nEmail:lunacaitlin@example.com\nSite:https://gomez-davis.com/",
+      "DATE": "Invoice Date: 14-Jun-2003",
+      "NUMBER": "INVOICE ID INV/98-69/201",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :88",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 53.94  $",
+      "TAX": "TAX:VAT (3.05%):  1.65 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 53.57 $"
+    }
+  },
+  {
+    "image": "Template6_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patricia Perkins\n93602 Marc Vista Suite 409\nLake Amandachester, NM 18719 US\nTel:+(226)867-2256\nEmail:isullivan@example.net\nSite:https://joseph.com/",
+      "DATE": "Date: 29-Jun-2004",
+      "NUMBER": "Invoice number INV/94-82/796",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :14",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 211.25  EUR",
+      "TAX": "TAX:VAT (4.20%):  8.88 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 217.93 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Stanton\n1252 John Stravenue\nTurnerberg, RI 22190 US\nTel:+(762)421-8474\nEmail:kayla39@example.net\nSite:http://gordon.org/",
+      "DATE": "Date: 22-May-2016",
+      "NUMBER": "Invoice number INV36384769",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :68",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 755.73  $",
+      "TAX": "TAX:VAT (6.13%):  46.34 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 790.43 $"
+    }
+  },
+  {
+    "image": "Template6_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Margaret Lewis\n1241 Megan Cove Apt. 411\nSouth Teresashire, CO 39172 US\nTel:+(737)045-6470\nEmail:nrandall@example.com\nSite:https://henderson-browning.biz/",
+      "DATE": "Invoice Date: 07-Mar-2019",
+      "NUMBER": "Invoice number INV/64-57/096",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :04",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 611.60  EUR",
+      "TAX": "TAX:VAT (5.41%):  33.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 619.56 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Haley Hall\n542 Morris Ridge\nBrownhaven, NE 18734 US\nTel:+(398)583-8147\nEmail:woodslarry@example.org\nSite:https://tran.com/",
+      "DATE": "Date: 03-Nov-2007",
+      "NUMBER": "INVOICE # 4387-542",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :15",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 677.06  $",
+      "TAX": "TAX:VAT (4.30%):  29.11 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 686.54 $"
+    }
+  },
+  {
+    "image": "Template6_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Smith\n94935 Johnson Expressway Apt. 901\nLake Rebecca, IA 43267 US\nTel:+(612)769-0659\nEmail:justin97@example.net\nSite:http://johnson-tyler.com/",
+      "DATE": "Date: 04-Feb-1995",
+      "NUMBER": "INVOICE ID 7Y3M7d-731",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :55",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 398.85  $",
+      "TAX": "TAX:VAT (6.19%):  24.68 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 419.46 $"
+    }
+  },
+  {
+    "image": "Template6_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carlos Burke\n23930 Krista Loaf\nSouth Jason, NH 30146 US\nTel:+(309)071-4854\nEmail:jodi95@example.net\nSite:http://www.anderson.com/",
+      "DATE": "Invoice Date: 10-Sep-2015",
+      "NUMBER": "INVOICE # INV47896174",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :30",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 453.16  EUR",
+      "TAX": "TAX:VAT (4.09%):  18.54 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 464.09 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Danielle Sutton\n797 King Rest Apt. 123\nPerezside, NY 27239 US\nTel:+(491)072-3510\nEmail:rickharvey@example.net\nSite:https://www.cook-sheppard.com/",
+      "DATE": "Date: 12-Dec-2000",
+      "NUMBER": "Invoice number INV07701744",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 569.14  USD",
+      "TAX": "TAX:VAT (4.49%):  25.55 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 579.04 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Todd Lewis\n53045 Smith Crossroad Apt. 348\nKristenmouth, WA 77320 US\nTel:+(707)561-0439\nEmail:davischase@example.com\nSite:https://neal.biz/",
+      "DATE": "Invoice Date: 21-May-2013",
+      "NUMBER": "Invoice number INV47083674",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :47",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 660.18  EUR",
+      "TAX": "TAX:VAT (5.65%):  37.32 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 688.92 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Victor Roy\n9950 Myers Ford Apt. 050\nNicolechester, CO 53953 US\nTel:+(451)619-3253\nEmail:bryantmatthew@example.com\nSite:https://www.nunez.com/",
+      "DATE": "Date: 19-Jan-2015",
+      "NUMBER": "INVOICE # 8745-693",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :55",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 112.41  $",
+      "TAX": "TAX:VAT (5.25%):  5.90 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 114.65 $"
+    }
+  },
+  {
+    "image": "Template6_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jimmy Frank\n2950 Mitchell Radial Apt. 627\nEast Anna, MO 41129 US\nTel:+(888)322-9320\nEmail:joycerobinson@example.org\nSite:https://sexton.com/",
+      "DATE": "Invoice Date: 02-May-2007",
+      "NUMBER": "INVOICE # INV82325784",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :71",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 191.52  $",
+      "TAX": "TAX:VAT (3.98%):  7.61 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 192.81 $"
+    }
+  },
+  {
+    "image": "Template6_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gregory Marshall\n118 Shannon Mill Apt. 465\nStewartville, AZ 60290 US\nTel:+(776)115-6836\nEmail:ajones@example.com\nSite:http://www.lam-haney.biz/",
+      "DATE": "Invoice Date: 08-Mar-2004",
+      "NUMBER": "INVOICE ID 0194-762",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :16",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 314.51  $",
+      "TAX": "TAX:VAT (3.58%):  11.27 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 314.21 $"
+    }
+  },
+  {
+    "image": "Template6_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samuel Ward\n99646 Martin Trace\nPort Kimberly, OK 78752 US\nTel:+(035)610-4124\nEmail:jowens@example.net\nSite:http://torres.com/",
+      "DATE": "Date: 23-Oct-2009",
+      "NUMBER": "Invoice number INV/73-16/106",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :07",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 1068.50  EUR",
+      "TAX": "TAX:VAT (4.02%):  42.99 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1075.91 EUR"
+    }
+  },
+  {
+    "image": "Template6_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Henry\n5392 Crawford Place Suite 492\nPort Paulland, MO 06134 US\nTel:+(383)556-2455\nEmail:reneegarrison@example.net\nSite:https://www.marshall.com/",
+      "DATE": "Date: 30-Dec-2006",
+      "NUMBER": "INVOICE ID INV81139917",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :67",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 68.58  USD",
+      "TAX": "TAX:VAT (3.70%):  2.54 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 69.23 USD"
+    }
+  },
+  {
+    "image": "Template6_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Hughes\n45736 Clark Corners Apt. 078\nLake Savannah, NE 98114 US\nTel:+(119)116-4424\nEmail:blewis@example.net\nSite:https://benjamin.org/",
+      "DATE": "Invoice Date: 17-Jul-2022",
+      "NUMBER": "INVOICE # 1983-369",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :39",
+      "SELLER_NAME": "Phillips, Thomas and Malone",
+      "SUB_TOTAL": "SUB_TOTAL : 366.32  USD",
+      "TAX": "TAX:VAT (6.21%):  22.75 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 374.97 USD"
+    }
+  }
+]

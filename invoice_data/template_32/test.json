@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template32_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lauren Lamb\n254 Acosta Spring Suite 022\nJustinhaven, FL 77742 US\nTel:+(895)609-5308\nEmail:cynthiamoore@example.org\nSite:http://www.golden.com/",
+      "DATE": "Date: 01-Nov-1999",
+      "NUMBER": "Invoice number INV/79-11/188",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 429.28  $",
+      "TOTAL": "TOTAL : 433.66 $"
+    }
+  },
+  {
+    "image": "Template32_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tina Clarke\n8617 Cooper Crest\nMitchellchester, NY 30000 US\nTel:+(115)796-1318\nEmail:tammywalker@example.org\nSite:https://www.wilson-hill.com/",
+      "DATE": "Date: 21-Aug-1998",
+      "NUMBER": "Invoice number 8220-971",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 1000.56  $",
+      "TOTAL": "TOTAL : 1031.06 $"
+    }
+  },
+  {
+    "image": "Template32_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jason Gonzalez DDS\n39272 Douglas Walk\nCaitlinville, SD 34972 US\nTel:+(448)123-4096\nEmail:linda60@example.net\nSite:https://www.young.org/",
+      "DATE": "Invoice Date: 31-Jan-2018",
+      "NUMBER": "Invoice number 3Y2M4d-557",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 149.80  EUR",
+      "TOTAL": "TOTAL : 149.60 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Monica Brown\n682 Johnson Trail\nSamanthaville, VT 52362 US\nTel:+(561)768-5356\nEmail:rreid@example.net\nSite:https://schultz.com/",
+      "DATE": "Invoice Date: 30-May-2004",
+      "NUMBER": "INVOICE ID 4Y3M4d-335",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 303.47  $",
+      "TOTAL": "TOTAL : 312.78 $"
+    }
+  },
+  {
+    "image": "Template32_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mrs. Anita Hays\n060 Anita Neck Suite 667\nEast Debra, AK 91671 US\nTel:+(912)763-5304\nEmail:david44@example.net\nSite:http://www.boone.com/",
+      "DATE": "Date: 12-Jul-2002",
+      "NUMBER": "Invoice number INV90262584",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 222.27  EUR",
+      "TOTAL": "TOTAL : 225.54 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tyler Romero\n02841 Debra Land Apt. 666\nPeterchester, IN 08604 US\nTel:+(491)232-7576\nEmail:taylor61@example.org\nSite:http://coleman.com/",
+      "DATE": "Date: 22-Aug-2011",
+      "NUMBER": "Invoice number INV/05-88/044",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 634.34  EUR",
+      "TOTAL": "TOTAL : 648.50 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Mann\n8428 Oscar Curve\nNew Lynnland, ND 88356 US\nTel:+(656)767-3741\nEmail:annetteharris@example.org\nSite:http://www.wolfe-boyd.biz/",
+      "DATE": "Date: 15-Jul-2015",
+      "NUMBER": "Invoice number 0047-224",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 442.08  EUR",
+      "TOTAL": "TOTAL : 447.45 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rita Smith MD\n94871 Amber Row\nDanielview, ID 86935 US\nTel:+(512)827-2392\nEmail:paul91@example.com\nSite:http://www.butler-johnson.com/",
+      "DATE": "Invoice Date: 12-Sep-2008",
+      "NUMBER": "Invoice number 2642-018",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 753.52  EUR",
+      "TOTAL": "TOTAL : 780.46 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Keith\n3925 Linda Flats\nSouth Amanda, UT 98531 US\nTel:+(201)630-7984\nEmail:tammy93@example.net\nSite:https://www.nguyen.com/",
+      "DATE": "Invoice Date: 02-Jan-2012",
+      "NUMBER": "Invoice number INV/27-32/488",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 972.38  USD",
+      "TOTAL": "TOTAL : 984.91 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Susan Wilson\n64602 Harris Pines\nSharonview, VI 11081 US\nTel:+(060)009-1860\nEmail:ujames@example.net\nSite:https://www.gonzalez-jones.biz/",
+      "DATE": "Invoice Date: 21-Sep-2005",
+      "NUMBER": "Invoice number INV/69-89/199",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 177.65  $",
+      "TOTAL": "TOTAL : 183.96 $"
+    }
+  },
+  {
+    "image": "Template32_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Zhang\n42696 Lopez Groves\nMayberg, NM 30725 US\nTel:+(573)180-1092\nEmail:kristen72@example.org\nSite:http://holt.info/",
+      "DATE": "Invoice Date: 11-Apr-1993",
+      "NUMBER": "INVOICE # INV05356779",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 311.52  USD",
+      "TOTAL": "TOTAL : 316.32 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Williams\n671 Christian Island Suite 550\nBowenborough, VT 36276 US\nTel:+(158)966-4059\nEmail:harold52@example.org\nSite:https://nicholson.info/",
+      "DATE": "Date: 23-Nov-2015",
+      "NUMBER": "INVOICE # 8Y2M7d-952",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 755.04  USD",
+      "TOTAL": "TOTAL : 777.84 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Johnson\n618 Justin Knoll Apt. 423\nJosephmouth, MT 13276 US\nTel:+(914)827-3251\nEmail:holderrichard@example.org\nSite:https://rodriguez-johnson.org/",
+      "DATE": "Date: 19-Jul-2000",
+      "NUMBER": "INVOICE # INV/14-81/747",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 693.48  EUR",
+      "TOTAL": "TOTAL : 721.52 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jordan Kent\n1528 Elliott Court Suite 186\nJessicamouth, OK 37640 US\nTel:+(585)945-9598\nEmail:larsentara@example.org\nSite:https://turner.com/",
+      "DATE": "Invoice Date: 13-Aug-2011",
+      "NUMBER": "INVOICE # INV/46-29/149",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 358.78  EUR",
+      "TOTAL": "TOTAL : 371.56 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Jones\n532 Ramos Drive Suite 309\nAvilachester, ID 87066 US\nTel:+(494)735-1584\nEmail:johnsonspencer@example.com\nSite:http://www.smith.com/",
+      "DATE": "Date: 18-Jun-2011",
+      "NUMBER": "Invoice number 6Y9M2d-977",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 930.39  $",
+      "TOTAL": "TOTAL : 933.73 $"
+    }
+  },
+  {
+    "image": "Template32_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathryn Newton\n973 Michelle Parkways\nStephensonfurt, FL 10271 US\nTel:+(238)336-8485\nEmail:michael17@example.org\nSite:http://smith.biz/",
+      "DATE": "Date: 11-Mar-2001",
+      "NUMBER": "Invoice number 7Y9M9d-923",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 588.11  EUR",
+      "TOTAL": "TOTAL : 589.27 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Stanley\n561 Matthew Port\nPattersonmouth, ND 58758 US\nTel:+(872)347-8309\nEmail:salazarsean@example.org\nSite:http://castaneda.biz/",
+      "DATE": "Invoice Date: 01-Nov-1993",
+      "NUMBER": "Invoice number INV/63-56/700",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 699.04  EUR",
+      "TOTAL": "TOTAL : 712.79 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Shawn Wright\n96263 Morales Drives Apt. 771\nPort Ricardoport, CO 07915 US\nTel:+(974)012-8698\nEmail:stephenwilliams@example.org\nSite:https://www.turner.info/",
+      "DATE": "Invoice Date: 03-Jul-2003",
+      "NUMBER": "Invoice number 6Y8M5d-618",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 879.49  $",
+      "TOTAL": "TOTAL : 890.41 $"
+    }
+  },
+  {
+    "image": "Template32_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bailey Graham\n825 Benjamin Plain\nShellystad, SD 33079 US\nTel:+(979)254-1343\nEmail:floresmelissa@example.net\nSite:https://www.byrd-martin.com/",
+      "DATE": "Invoice Date: 19-Mar-2002",
+      "NUMBER": "INVOICE ID INV/35-37/289",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 225.05  EUR",
+      "TOTAL": "TOTAL : 229.91 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Charles Morrison\n51399 Trujillo Unions\nJeromeland, GU 70272 US\nTel:+(644)025-0229\nEmail:emarquez@example.org\nSite:http://www.hicks-jensen.com/",
+      "DATE": "Date: 08-Dec-2004",
+      "NUMBER": "INVOICE # INV78256276",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 813.75  EUR",
+      "TOTAL": "TOTAL : 806.86 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Darlene Browning\n130 Grimes Ramp\nPort Kenneth, HI 99760 US\nTel:+(059)373-9947\nEmail:rosegarrett@example.com\nSite:https://www.cunningham.com/",
+      "DATE": "Date: 29-Dec-2018",
+      "NUMBER": "Invoice number 6Y8M5d-971",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 477.85  EUR",
+      "TOTAL": "TOTAL : 485.37 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Cohen\n403 Evans Shores Suite 649\nAndrewborough, ID 58757 US\nTel:+(664)668-3005\nEmail:maysteven@example.org\nSite:https://www.montgomery.biz/",
+      "DATE": "Invoice Date: 27-Sep-2022",
+      "NUMBER": "INVOICE ID INV76922609",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 451.34  EUR",
+      "TOTAL": "TOTAL : 462.94 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bradley Benton\n9861 Klein Ville Apt. 704\nEast Isaac, WA 16230 US\nTel:+(787)355-7628\nEmail:misty22@example.com\nSite:http://www.madden.com/",
+      "DATE": "Invoice Date: 14-Feb-2013",
+      "NUMBER": "Invoice number INV/67-90/220",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 1005.60  USD",
+      "TOTAL": "TOTAL : 1026.73 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Taylor Walker\n6756 Michelle Views\nMichaeltown, PA 13562 US\nTel:+(563)717-9690\nEmail:dickersonjoshua@example.com\nSite:http://bell.org/",
+      "DATE": "Date: 23-Mar-2015",
+      "NUMBER": "INVOICE # 8Y9M2d-896",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 604.47  $",
+      "TOTAL": "TOTAL : 613.74 $"
+    }
+  },
+  {
+    "image": "Template32_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Pamela Callahan\n0053 Wilson Forge Apt. 012\nReyeshaven, IN 59222 US\nTel:+(743)234-6463\nEmail:derek28@example.com\nSite:https://www.gordon.com/",
+      "DATE": "Invoice Date: 17-Dec-1996",
+      "NUMBER": "INVOICE ID INV83316756",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 728.93  USD",
+      "TOTAL": "TOTAL : 721.45 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Dudley\n3499 Freeman Forge\nNorth Brett, MN 42543 US\nTel:+(632)986-5662\nEmail:adamgraham@example.com\nSite:https://johnson.com/",
+      "DATE": "Date: 04-Nov-1994",
+      "NUMBER": "Invoice number 5Y9M5d-467",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 963.44  $",
+      "TOTAL": "TOTAL : 994.39 $"
+    }
+  },
+  {
+    "image": "Template32_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Harris\n8420 Christopher Grove\nSouth Douglas, FM 80788 US\nTel:+(344)042-7641\nEmail:sarahstanton@example.org\nSite:http://www.welch.biz/",
+      "DATE": "Invoice Date: 29-Oct-2000",
+      "NUMBER": "Invoice number 6Y8M4d-191",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 415.30  EUR",
+      "TOTAL": "TOTAL : 413.96 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Wilson\n1255 Robert Via\nLake Mandy, AS 67177 US\nTel:+(643)555-3996\nEmail:johnramsey@example.com\nSite:http://www.fisher.com/",
+      "DATE": "Date: 09-Jan-2022",
+      "NUMBER": "Invoice number INV78583325",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 225.72  $",
+      "TOTAL": "TOTAL : 230.56 $"
+    }
+  },
+  {
+    "image": "Template32_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nancy Wells\n9468 Matthew Valleys\nJoshuafurt, AS 98685 US\nTel:+(900)044-2253\nEmail:baxteramy@example.org\nSite:http://lynn.com/",
+      "DATE": "Date: 12-Mar-2014",
+      "NUMBER": "Invoice number INV62152001",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 367.70  $",
+      "TOTAL": "TOTAL : 371.22 $"
+    }
+  },
+  {
+    "image": "Template32_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Erin Gonzalez\n583 Elizabeth Divide\nFletcherside, MS 38123 US\nTel:+(967)462-9780\nEmail:kathleenwilson@example.net\nSite:https://www.cruz-gonzales.com/",
+      "DATE": "Date: 29-Feb-2020",
+      "NUMBER": "INVOICE # INV47547849",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 401.19  USD",
+      "TOTAL": "TOTAL : 405.97 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Shelton\n8120 Wright Pine\nLake Dennisview, IN 16978 US\nTel:+(975)493-7115\nEmail:ngreene@example.org\nSite:http://rice.com/",
+      "DATE": "Date: 08-Feb-2005",
+      "NUMBER": "INVOICE # INV77684627",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 630.52  EUR",
+      "TOTAL": "TOTAL : 640.27 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristina Lopez\n305 Susan Route\nEast Samanthamouth, MS 00708 US\nTel:+(553)911-1077\nEmail:cmorgan@example.org\nSite:http://www.joseph.com/",
+      "DATE": "Invoice Date: 23-Dec-1993",
+      "NUMBER": "INVOICE ID INV63452940",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 490.05  USD",
+      "TOTAL": "TOTAL : 491.44 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Natalie Crawford\n53052 Castillo Points\nJamesfurt, UT 38616 US\nTel:+(826)828-5520\nEmail:erica09@example.com\nSite:https://www.martin-warner.biz/",
+      "DATE": "Invoice Date: 13-Nov-2002",
+      "NUMBER": "Invoice number 2683-891",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 309.11  EUR",
+      "TOTAL": "TOTAL : 318.89 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Rivera\n883 Stephen Valley\nNorth Kimberlystad, ND 23060 US\nTel:+(926)802-1737\nEmail:krystal97@example.org\nSite:http://www.jones.com/",
+      "DATE": "Date: 24-Jan-2013",
+      "NUMBER": "INVOICE ID INV/22-81/504",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 747.86  $",
+      "TOTAL": "TOTAL : 748.86 $"
+    }
+  },
+  {
+    "image": "Template32_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Jordan MD\n971 Diaz Valleys\nBakermouth, NV 24647 US\nTel:+(468)524-7359\nEmail:robert70@example.net\nSite:https://www.grant.com/",
+      "DATE": "Invoice Date: 04-May-2016",
+      "NUMBER": "INVOICE ID 4Y5M5d-259",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 1259.47  EUR",
+      "TOTAL": "TOTAL : 1252.82 EUR"
+    }
+  },
+  {
+    "image": "Template32_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Richard Yang\n7787 Singh Falls\nNew Johnview, IA 80719 US\nTel:+(803)801-2087\nEmail:spencedenise@example.org\nSite:https://white.com/",
+      "DATE": "Invoice Date: 07-Mar-2000",
+      "NUMBER": "INVOICE # INV91853227",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 495.02  USD",
+      "TOTAL": "TOTAL : 521.84 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Shannon\n2377 Powell Light\nPort Victoria, FM 25826 US\nTel:+(893)194-3035\nEmail:emily22@example.org\nSite:http://house-rivas.com/",
+      "DATE": "Date: 12-Sep-2018",
+      "NUMBER": "INVOICE # 5Y7M7d-738",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 516.65  USD",
+      "TOTAL": "TOTAL : 531.13 USD"
+    }
+  },
+  {
+    "image": "Template32_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jamie Mills\n74522 Cheryl Wells\nPort Jessicashire, MP 14328 US\nTel:+(074)072-2566\nEmail:nmcdonald@example.org\nSite:http://www.sexton.info/",
+      "DATE": "Invoice Date: 11-Mar-1998",
+      "NUMBER": "INVOICE ID INV00337660",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 168.52  $",
+      "TOTAL": "TOTAL : 170.84 $"
+    }
+  },
+  {
+    "image": "Template32_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Donna Morales\n3346 Williams Brooks Apt. 185\nJosephhaven, NY 49771 US\nTel:+(052)866-5892\nEmail:donald48@example.com\nSite:http://www.sanders.com/",
+      "DATE": "Invoice Date: 18-Jun-2010",
+      "NUMBER": "INVOICE ID 9Y5M2d-843",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 370.67  $",
+      "TOTAL": "TOTAL : 376.39 $"
+    }
+  },
+  {
+    "image": "Template32_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Romero\n942 Kaitlin Valley\nKennethmouth, NJ 28165 US\nTel:+(299)216-4225\nEmail:sharonmoreno@example.net\nSite:https://www.noble-vasquez.org/",
+      "DATE": "Date: 10-Mar-1993",
+      "NUMBER": "INVOICE # 2Y3M4d-791",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:5190 Perry Passage\nKellyburgh, RI 60615 US",
+      "SELLER_EMAIL": "Email:marymoore@example.org",
+      "SELLER_NAME": "Miller Inc",
+      "SUB_TOTAL": "SUB_TOTAL : 623.27  USD",
+      "TOTAL": "TOTAL : 649.94 USD"
+    }
+  }
+]

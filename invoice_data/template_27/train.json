@@ -1,0 +1,1762 @@
+[
+  {
+    "image": "Template27_Instance188.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKathleen Gibson\n86137 Laura Island Apt. 732\nKaylabury, SD 51047 US\nTel:+(369)557-1457\nEmail:kristi23@example.com\nSite:http://king-arnold.com/",
+      "DATE": "Date: 30-Dec-1995",
+      "NUMBER": "INVOICE # 4537-486",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nErin Fuller\n13376 Martinez Avenue Suite 282\nTonybury, NC 83811 US\nTel:+(126)028-2269\nEmail:williamsjames@example.org\nSite:http://www.hughes-butler.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance149.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDanielle Chandler\n999 Ashley Walk Apt. 316\nColemouth, WY 83060 US\nTel:+(058)986-3265\nEmail:qshaffer@example.com\nSite:http://www.barnett.com/",
+      "DATE": "Date: 21-May-2018",
+      "NUMBER": "INVOICE # 3905-091",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nPenny Roberts\n82348 Ruiz Fords\nEast Jacob, WA 12913 US\nTel:+(493)459-1828\nEmail:wnash@example.org\nSite:http://www.williams.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance178.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichelle Henry\n4471 Cross Extension Apt. 233\nBrownmouth, MN 62999 US\nTel:+(021)685-7467\nEmail:icrawford@example.com\nSite:https://stanton.com/",
+      "DATE": "Date: 18-Feb-2004",
+      "NUMBER": "INVOICE ID 4749-006",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDave Brown\n2385 Smith Squares Suite 907\nNorth Savannahchester, WI 29478 US\nTel:+(719)739-6212\nEmail:ataylor@example.net\nSite:https://williams-wade.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance128.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKelli Edwards\n56136 Curtis Hollow\nJenniferton, TN 91719 US\nTel:+(555)264-0598\nEmail:alexanderpeterson@example.net\nSite:https://www.barrett.info/",
+      "DATE": "Date: 03-Sep-2015",
+      "NUMBER": "INVOICE ID INV/97-58/665",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKrystal Holmes\n499 Amy Greens Apt. 434\nLake Brenda, PA 90400 US\nTel:+(819)541-0126\nEmail:brittany66@example.net\nSite:https://smith.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance84.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSophia Walker\n65142 Douglas Ferry Apt. 800\nLawrenceside, MD 71749 US\nTel:+(044)179-8613\nEmail:kimberly90@example.com\nSite:https://peterson-ali.net/",
+      "DATE": "Invoice Date: 20-Sep-2015",
+      "NUMBER": "INVOICE ID INV/44-84/011",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nLori Robinson\n444 Roy Mountain Suite 747\nMichaelside, NM 76473 US\nTel:+(484)503-5870\nEmail:melissacarrillo@example.com\nSite:https://www.waters-davis.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance1.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEric Campbell\n4437 Cynthia Cove\nWest Bradley, VA 14131 US\nTel:+(961)573-0623\nEmail:bryantbrandon@example.net\nSite:http://www.mendoza-zamora.biz/",
+      "DATE": "Date: 13-Jan-1994",
+      "NUMBER": "INVOICE ID INV/47-24/571",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJames Clark\n32820 Tammy Gateway Suite 856\nNew Nicoleshire, MT 84928 US\nTel:+(548)548-6095\nEmail:gbautista@example.com\nSite:https://www.aguirre-vargas.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance93.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHeather Rubio\n276 Cassie Fords Suite 239\nSouth Allenview, MA 20859 US\nTel:+(947)410-5186\nEmail:sbrowning@example.org\nSite:https://www.jones-gonzalez.com/",
+      "DATE": "Date: 10-Nov-2020",
+      "NUMBER": "INVOICE ID 7484-320",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nShelby Hernandez\n7820 Cohen Orchard\nSouth Alexis, WY 15149 US\nTel:+(995)988-0686\nEmail:colemancrystal@example.net\nSite:http://noble-schwartz.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance173.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRobert Boyd\n6160 Patrick Fields\nPort Destiny, MD 80915 US\nTel:+(634)084-0276\nEmail:jonathanmurphy@example.net\nSite:https://mann.com/",
+      "DATE": "Invoice Date: 10-Jul-2019",
+      "NUMBER": "Invoice number 8253-744",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHannah Sutton\n580 Jose Flats Apt. 685\nNelsonburgh, AK 35991 US\nTel:+(096)979-9796\nEmail:ckirk@example.net\nSite:http://www.jenkins.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance172.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBruce Weaver\n3731 Bonilla Viaduct Suite 717\nNew Zachary, RI 52227 US\nTel:+(303)299-5188\nEmail:bennettkristin@example.org\nSite:https://blackwell.info/",
+      "DATE": "Invoice Date: 13-Dec-2013",
+      "NUMBER": "Invoice number INV38525803",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nCheryl Lewis\n65071 Leonard Mills\nJasonbury, HI 72714 US\nTel:+(953)223-8491\nEmail:nicholas65@example.org\nSite:https://vargas.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance162.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVictor Robinson\n7043 Brown Walks\nWest Danieltown, FM 92787 US\nTel:+(138)852-2095\nEmail:sfleming@example.net\nSite:http://evans.com/",
+      "DATE": "Date: 01-May-2002",
+      "NUMBER": "Invoice number 3288-826",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHunter Little\n75549 Duncan Drive Suite 253\nJeffreyview, MH 15108 US\nTel:+(993)959-0080\nEmail:davisvalerie@example.com\nSite:https://www.huber-lambert.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance33.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDonna Anderson\n9996 James Club Apt. 798\nNorth Marcusshire, ME 49126 US\nTel:+(611)740-1861\nEmail:wpearson@example.net\nSite:http://www.hinton.com/",
+      "DATE": "Date: 02-Aug-2010",
+      "NUMBER": "INVOICE # INV47851606",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAngela Davis\n47613 Lopez Mountain Suite 083\nJessicafurt, NM 90634 US\nTel:+(716)545-9466\nEmail:ocampbell@example.net\nSite:http://king.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance167.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKathy Calhoun\n135 Ricardo Brook Apt. 692\nEast Michaelfort, FM 96940 US\nTel:+(296)359-6270\nEmail:lisacarter@example.org\nSite:http://www.howard.com/",
+      "DATE": "Date: 29-Aug-2017",
+      "NUMBER": "INVOICE ID 7Y7M7d-552",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDavid Anderson\n51883 Medina Brook\nNew Tiffany, NY 14763 US\nTel:+(454)267-4968\nEmail:warrenvirginia@example.com\nSite:http://pratt.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance13.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJordan Wilkins\n7520 Ellis Bypass Suite 528\nAngelaview, AK 73774 US\nTel:+(191)223-3374\nEmail:debrajohnson@example.org\nSite:http://www.swanson-miller.com/",
+      "DATE": "Invoice Date: 02-Nov-1997",
+      "NUMBER": "Invoice number INV/47-25/017",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nNancy Green\n59249 Linda Village Suite 266\nEvelynstad, MN 87924 US\nTel:+(122)941-0067\nEmail:bwade@example.org\nSite:http://www.torres-jordan.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance168.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCarolyn Williams\n2448 Brandon Junction\nMichaelborough, KY 88908 US\nTel:+(789)791-1616\nEmail:cassandrabowen@example.org\nSite:https://www.harvey.net/",
+      "DATE": "Invoice Date: 24-Jul-2004",
+      "NUMBER": "Invoice number 5860-385",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAmber Chung\n08258 Gilbert Mews\nKarenmouth, NV 99533 US\nTel:+(840)546-3631\nEmail:esoto@example.org\nSite:http://www.garcia.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance73.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAlyssa Miller\n16125 Gina Ways Suite 111\nNew Stacy, WV 37081 US\nTel:+(114)506-3492\nEmail:millernicole@example.net\nSite:https://www.martin.biz/",
+      "DATE": "Date: 29-Jan-2006",
+      "NUMBER": "INVOICE # 7291-357",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nErica Harris\n8186 Christopher Freeway Apt. 798\nBryantberg, PR 82320 US\nTel:+(990)073-4887\nEmail:justinoconnor@example.net\nSite:http://www.garcia.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance90.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMelanie Gray\n007 Jessica Valley Suite 619\nEast Glenn, MP 14024 US\nTel:+(179)897-3594\nEmail:johnjones@example.com\nSite:https://www.clark.com/",
+      "DATE": "Invoice Date: 18-Oct-1999",
+      "NUMBER": "Invoice number INV70790085",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nNancy Holland\n8995 Jason Common Suite 784\nElizabethfurt, NY 34952 US\nTel:+(678)633-4024\nEmail:allenbaker@example.com\nSite:https://www.lewis.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance35.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJuan Goodman\n120 Dakota Unions\nLake Seanview, AR 95253 US\nTel:+(536)532-4490\nEmail:emily27@example.net\nSite:https://smith.info/",
+      "DATE": "Invoice Date: 15-Oct-2013",
+      "NUMBER": "INVOICE # INV12364631",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDrew Nguyen\n17025 Kim Prairie\nJamesmouth, PW 04712 US\nTel:+(871)839-9181\nEmail:danielsmith@example.org\nSite:http://rogers.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance7.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrian Miller\n230 Christopher Parkway Apt. 320\nEast Suzanne, WV 13980 US\nTel:+(976)178-2236\nEmail:masseydorothy@example.net\nSite:http://sanchez.net/",
+      "DATE": "Date: 29-Aug-2002",
+      "NUMBER": "Invoice number INV/72-97/395",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTina Lewis\n09161 Scott Spur Suite 337\nFitzgeraldmouth, OR 12008 US\nTel:+(674)649-9500\nEmail:chunt@example.net\nSite:https://aguilar-cooley.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance122.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNicole Tanner\n88241 James Neck\nTravismouth, FM 60756 US\nTel:+(297)886-3287\nEmail:ashleywebb@example.net\nSite:https://frazier.com/",
+      "DATE": "Invoice Date: 18-Sep-2018",
+      "NUMBER": "Invoice number INV/69-25/898",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nChelsea Wilcox\n3196 Hunter Loaf\nNorth Christine, FL 48432 US\nTel:+(413)673-5571\nEmail:davilarichard@example.com\nSite:http://day-gonzalez.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance0.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJason Roberts\n645 Claudia Expressway Suite 600\nSouth Anthonyland, OH 99813 US\nTel:+(414)326-1227\nEmail:daviserika@example.net\nSite:http://www.howard.com/",
+      "DATE": "Date: 15-Oct-2015",
+      "NUMBER": "INVOICE ID INV/55-97/351",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nPaul Moore\n63493 Howell Track\nEast Keithport, TX 25755 US\nTel:+(699)626-1040\nEmail:xbarry@example.net\nSite:https://phillips.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance26.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJasmine Parker\n432 Johnny Inlet Suite 769\nPort Marcus, VA 31230 US\nTel:+(675)879-0977\nEmail:tina03@example.com\nSite:https://smith.com/",
+      "DATE": "Date: 22-Mar-1999",
+      "NUMBER": "INVOICE ID 4607-752",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAlison Weber\n59549 Maureen Views\nNorth Micheletown, AL 63957 US\nTel:+(115)635-6877\nEmail:cindyhansen@example.net\nSite:https://www.morgan-moore.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance110.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJordan Smith\n13837 Kara Gardens\nSouth Robert, PR 39955 US\nTel:+(913)554-0005\nEmail:ejohnson@example.com\nSite:http://lopez-clark.com/",
+      "DATE": "Invoice Date: 19-Jun-2005",
+      "NUMBER": "INVOICE # 2Y5M6d-211",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJessica Tyler\n492 Martinez Causeway Suite 670\nGonzalezstad, PR 41072 US\nTel:+(649)010-4009\nEmail:katherine38@example.org\nSite:https://kennedy.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance12.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKelly Rodriguez\n79797 Debbie Summit Suite 588\nDanielburgh, TN 60501 US\nTel:+(735)652-1205\nEmail:yatkinson@example.net\nSite:http://www.hensley.com/",
+      "DATE": "Invoice Date: 02-Apr-2017",
+      "NUMBER": "INVOICE # 4Y9M1d-591",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJames Kidd\n1928 Harry Plain\nEmmabury, NM 08868 US\nTel:+(688)048-2526\nEmail:hramsey@example.org\nSite:http://griffin.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance98.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNancy Smith\n73371 Owens Common\nCamposville, AZ 13115 US\nTel:+(948)751-0399\nEmail:nathanreynolds@example.net\nSite:http://buckley-williams.com/",
+      "DATE": "Invoice Date: 04-Dec-2004",
+      "NUMBER": "Invoice number INV/71-65/832",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nErin Hicks\n04581 Harris Oval\nEstradaberg, MS 02466 US\nTel:+(296)759-6017\nEmail:kanderson@example.net\nSite:https://schmidt.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance195.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJacqueline Watts DVM\n33496 Karen Ferry Suite 940\nNorth Scotttown, NM 39355 US\nTel:+(875)915-3703\nEmail:pattyelliott@example.net\nSite:https://www.reyes.info/",
+      "DATE": "Date: 28-Apr-1995",
+      "NUMBER": "INVOICE ID INV/97-11/280",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nEmily Yoder\n193 Cabrera Glens Suite 293\nEast Brandon, AK 26954 US\nTel:+(770)657-6272\nEmail:powellshawn@example.com\nSite:https://www.green.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance132.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmber Lee\n53542 Mckinney Road Apt. 391\nEast Kevin, IA 00883 US\nTel:+(010)689-2997\nEmail:lisaingram@example.org\nSite:http://www.davis.com/",
+      "DATE": "Date: 30-Dec-1998",
+      "NUMBER": "Invoice number INV29332531",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nVanessa Smith\n321 Scott Plaza\nNorth Danielchester, NY 20450 US\nTel:+(196)650-3820\nEmail:wpope@example.org\nSite:https://www.anderson.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance65.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Collier\n356 Yvette Crossroad Apt. 763\nMichaelmouth, VA 41922 US\nTel:+(147)361-4092\nEmail:aedwards@example.net\nSite:http://hobbs.info/",
+      "DATE": "Date: 24-Jun-2006",
+      "NUMBER": "INVOICE # 1Y8M9d-038",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJessica Garrett\n2670 Miller Shore\nStokesburgh, NH 13947 US\nTel:+(782)022-2626\nEmail:jacksondaniel@example.com\nSite:http://evans.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance58.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Rodriguez\n2671 Pham Mission Suite 001\nNew Elizabeth, PR 34698 US\nTel:+(668)131-9610\nEmail:kelly00@example.org\nSite:https://www.martinez.com/",
+      "DATE": "Date: 30-May-2019",
+      "NUMBER": "INVOICE # 4Y2M8d-732",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJoshua Crawford\n957 Mcdowell Branch Suite 342\nPort Ashlee, TX 37435 US\nTel:+(024)382-3042\nEmail:levi15@example.net\nSite:http://welch.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance189.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMelissa Shah PhD\n658 French Springs\nJamesfort, PR 47541 US\nTel:+(308)193-7481\nEmail:johnhaley@example.net\nSite:http://jones.com/",
+      "DATE": "Invoice Date: 03-Sep-2006",
+      "NUMBER": "INVOICE # INV00716928",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJohn Pratt\n725 Jennifer View\nChadfurt, ID 97751 US\nTel:+(549)733-8464\nEmail:jlewis@example.org\nSite:https://huynh.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance156.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMarcia Lee\n52824 Robert Dale Apt. 600\nBrownshire, MD 94117 US\nTel:+(801)179-4306\nEmail:stephanie30@example.com\nSite:https://sanchez.biz/",
+      "DATE": "Date: 02-Sep-2001",
+      "NUMBER": "INVOICE # 8Y4M7d-761",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nCrystal Lewis\n3301 Emily Crescent Apt. 604\nAngelaside, DC 77646 US\nTel:+(540)544-3093\nEmail:james31@example.net\nSite:http://www.potts-floyd.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance60.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDana Anderson DDS\n04142 Mindy Stream\nSouth Dalton, ND 25455 US\nTel:+(466)654-9053\nEmail:zacharyanderson@example.org\nSite:https://www.collier.com/",
+      "DATE": "Invoice Date: 25-May-2017",
+      "NUMBER": "Invoice number INV/70-39/184",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDawn Coleman\n050 Lawrence Stravenue\nAyalaland, WI 72959 US\nTel:+(762)484-7913\nEmail:tlopez@example.net\nSite:https://www.aguilar-cameron.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance169.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMisty Merritt\n81391 Johnson Burg Apt. 445\nNorth Matthew, OR 57533 US\nTel:+(369)896-8738\nEmail:fordjonathan@example.org\nSite:http://www.robinson.com/",
+      "DATE": "Date: 13-Apr-2000",
+      "NUMBER": "Invoice number INV/26-37/989",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMr. Kristopher Le DDS\n5351 Thomas Mall\nWest Amandahaven, AL 48029 US\nTel:+(127)170-6955\nEmail:crussell@example.org\nSite:http://www.kent.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance43.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDawn Hartman\n6712 Randall Crossing\nNew Rachelhaven, KS 70432 US\nTel:+(215)143-2287\nEmail:washingtonjessica@example.org\nSite:http://brown.com/",
+      "DATE": "Invoice Date: 11-Oct-2014",
+      "NUMBER": "INVOICE ID 3395-103",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nNicholas Booker\n5900 Christopher Roads\nJeffreymouth, UT 06281 US\nTel:+(225)191-8063\nEmail:mirandalisa@example.org\nSite:https://smith.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance32.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTerry Warren\n50923 Robert Lock Suite 120\nOrozcoland, VT 77414 US\nTel:+(499)155-1585\nEmail:jessebailey@example.org\nSite:https://www.martin-davies.com/",
+      "DATE": "Invoice Date: 13-Nov-1994",
+      "NUMBER": "INVOICE ID 8260-960",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRachael Randolph\n73739 Ronald Pass\nThompsonfurt, MA 24363 US\nTel:+(047)715-7011\nEmail:ncox@example.com\nSite:http://www.harris.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance49.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNicole Welch\n19315 Vicki Pine\nRileystad, WY 06553 US\nTel:+(715)745-5882\nEmail:johngray@example.org\nSite:http://brewer.com/",
+      "DATE": "Date: 18-Oct-2014",
+      "NUMBER": "INVOICE ID 4337-082",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAndrea Copeland\n815 Proctor Summit Suite 541\nEast Tinafurt, MN 39922 US\nTel:+(236)562-7306\nEmail:ryan55@example.com\nSite:http://may-bartlett.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance91.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTeresa Richardson\n1434 Hudson Knolls Suite 706\nSouth Jacobfort, OR 76049 US\nTel:+(509)878-5901\nEmail:kimberlybowman@example.org\nSite:http://gillespie-harris.info/",
+      "DATE": "Invoice Date: 27-May-2015",
+      "NUMBER": "INVOICE # INV/22-30/635",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nElizabeth Brown\n6658 James Place\nSouth Janiceland, GA 75655 US\nTel:+(040)144-4848\nEmail:sarah87@example.com\nSite:https://www.cameron-schmidt.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance143.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCassandra Melton\n14063 Devin Corner Apt. 874\nBrookefort, AL 67887 US\nTel:+(818)102-2464\nEmail:ggriffin@example.com\nSite:http://www.thomas.com/",
+      "DATE": "Invoice Date: 26-Jun-1999",
+      "NUMBER": "INVOICE ID 9Y7M7d-678",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMike Taylor\n555 Marshall Crescent Apt. 506\nFuenteshaven, NE 89310 US\nTel:+(443)511-4686\nEmail:hayesjessica@example.net\nSite:http://le.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance117.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTracy Bates\n65243 Smith Mall\nNew Lisa, MH 69722 US\nTel:+(248)315-2420\nEmail:blakerobert@example.org\nSite:https://www.massey.org/",
+      "DATE": "Date: 12-Feb-2020",
+      "NUMBER": "INVOICE ID INV26074896",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJames Juarez\n0751 Timothy Place\nSouth Daniel, ME 13389 US\nTel:+(315)840-3667\nEmail:helen73@example.com\nSite:http://green-ray.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance134.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristina Henry\n19638 Tamara Stream Apt. 629\nGordonborough, ID 61511 US\nTel:+(722)897-3620\nEmail:silvagary@example.net\nSite:https://www.meyer.com/",
+      "DATE": "Date: 31-Aug-2014",
+      "NUMBER": "INVOICE ID 5839-516",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJulian White\n4737 Abigail Cove\nNew Heather, AK 45852 US\nTel:+(022)984-5026\nEmail:andersonjeffrey@example.net\nSite:https://www.fritz.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance180.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAngela Mcguire\n551 Laura Common\nElizabethview, UT 65966 US\nTel:+(111)801-7223\nEmail:elizabethwhite@example.com\nSite:http://www.hernandez.com/",
+      "DATE": "Invoice Date: 03-Jun-2019",
+      "NUMBER": "INVOICE ID 4097-127",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRachel Clayton\n348 Daryl Village\nMichaeltown, MI 70174 US\nTel:+(771)394-4870\nEmail:cindy63@example.org\nSite:http://cook.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance154.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChase Cline\n203 Malone Road Suite 089\nWest Stephen, SD 53647 US\nTel:+(922)646-9614\nEmail:tvasquez@example.net\nSite:https://www.jacobs.com/",
+      "DATE": "Date: 20-May-2019",
+      "NUMBER": "INVOICE # 3163-208",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJoseph Morales\n799 Heather Mission\nGregoryfort, MH 25865 US\nTel:+(597)556-4972\nEmail:wyatt73@example.org\nSite:https://ross.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance57.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDiane Holmes\n1649 Park Brook Suite 438\nKevinland, NC 49308 US\nTel:+(565)323-8507\nEmail:austin34@example.org\nSite:http://www.grant-beard.com/",
+      "DATE": "Invoice Date: 17-Nov-2013",
+      "NUMBER": "INVOICE ID 1Y1M3d-053",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nNathan George\n41675 Davis Knolls Apt. 954\nPort Susan, NV 40312 US\nTel:+(189)660-6742\nEmail:ashley88@example.com\nSite:https://www.bailey-campbell.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance11.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Garrison\n771 Burke Mountains Apt. 246\nFowlerchester, OH 24438 US\nTel:+(758)254-2635\nEmail:allenchad@example.org\nSite:https://www.pope.biz/",
+      "DATE": "Invoice Date: 29-Jul-2018",
+      "NUMBER": "INVOICE ID INV49166206",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMartin Wise\n1248 Davis Points Suite 415\nBeckyhaven, IL 83824 US\nTel:+(748)258-2879\nEmail:mosleyrebecca@example.org\nSite:http://www.hall.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance125.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHarry Page\n07316 David Rue Apt. 685\nPort Steven, KY 98905 US\nTel:+(270)703-6124\nEmail:kpeters@example.net\nSite:http://www.kelley-willis.com/",
+      "DATE": "Date: 18-Jul-2022",
+      "NUMBER": "Invoice number 7037-048",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJonathan Oneal\n5838 Tracy Circle\nLake Ianburgh, RI 32546 US\nTel:+(565)452-4067\nEmail:ebrady@example.com\nSite:http://www.santos.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance101.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLori Smith\n34033 Stacy Hollow\nHensleyburgh, HI 69826 US\nTel:+(122)895-4631\nEmail:rachel26@example.org\nSite:https://scott.org/",
+      "DATE": "Invoice Date: 23-Apr-2014",
+      "NUMBER": "INVOICE # INV/03-50/201",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAndrew Shaffer\n207 Juan Turnpike\nNew Michaelberg, UT 97513 US\nTel:+(701)053-0513\nEmail:washingtonjoy@example.com\nSite:http://www.king-farley.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance164.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAnthony Campbell\n8831 William Prairie\nEricafort, GA 78921 US\nTel:+(656)766-4516\nEmail:lambderrick@example.net\nSite:https://www.bailey.org/",
+      "DATE": "Date: 16-Nov-2018",
+      "NUMBER": "INVOICE # 5Y2M4d-623",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHeather Mullins\n17662 Barbara Ramp Apt. 817\nWest Dannyland, MI 99562 US\nTel:+(688)322-1320\nEmail:robertliu@example.org\nSite:http://willis.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance46.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTravis Powell\n22096 Loretta Oval\nLake Thomas, MN 22531 US\nTel:+(949)288-4440\nEmail:joseph54@example.org\nSite:https://brown-thomas.com/",
+      "DATE": "Invoice Date: 11-Feb-2005",
+      "NUMBER": "INVOICE # INV/41-89/228",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nSteven Elliott\n66579 Glenn Hollow\nHillview, NE 08826 US\nTel:+(091)235-5880\nEmail:ccastro@example.com\nSite:https://castillo-rios.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance8.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChad Barton\n7054 Hubbard Station Suite 811\nDorothyport, UT 89375 US\nTel:+(707)607-4987\nEmail:llopez@example.org\nSite:https://www.summers-wang.com/",
+      "DATE": "Invoice Date: 20-Nov-2008",
+      "NUMBER": "INVOICE ID INV/37-50/541",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nCharles Swanson\n076 Harris Plains Suite 102\nKochmouth, MT 65046 US\nTel:+(805)356-1294\nEmail:ndunlap@example.org\nSite:http://wagner.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance55.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDavid Barr\n239 Margaret Dam\nWest Loribury, AZ 03604 US\nTel:+(176)310-5123\nEmail:joshua85@example.com\nSite:https://duncan-hernandez.biz/",
+      "DATE": "Invoice Date: 15-Apr-2008",
+      "NUMBER": "INVOICE ID INV/21-50/531",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nLisa Mooney\n5742 Ryan Key\nPort Christopher, AS 62873 US\nTel:+(414)022-5849\nEmail:chasejesse@example.net\nSite:http://www.jackson-chambers.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance25.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKyle Gregory\n9010 Richardson Ford\nPort Laurenview, WV 38320 US\nTel:+(040)140-2054\nEmail:mathew83@example.net\nSite:http://cuevas.com/",
+      "DATE": "Invoice Date: 27-Aug-1995",
+      "NUMBER": "INVOICE ID 6Y9M7d-435",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBrandon Burns\n4167 Reeves Mountain\nLake Harry, LA 94172 US\nTel:+(433)341-8705\nEmail:megan18@example.org\nSite:http://hart.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance124.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSarah Hughes\n350 Miranda Green\nWest Stephanie, ME 50152 US\nTel:+(684)391-5497\nEmail:mckinneynicole@example.net\nSite:https://thomas.com/",
+      "DATE": "Date: 16-Jun-2002",
+      "NUMBER": "INVOICE ID INV/38-86/158",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nShannon Pierce\n97695 Howard Station\nNew Michaelton, WV 93451 US\nTel:+(596)496-1553\nEmail:csanchez@example.org\nSite:https://ruiz-smith.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance155.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHannah Gomez\n65356 Jessica Shores\nLake Anthonyfort, AL 61985 US\nTel:+(399)422-5253\nEmail:smithsusan@example.net\nSite:http://www.gibson-kelly.com/",
+      "DATE": "Invoice Date: 02-Aug-2020",
+      "NUMBER": "INVOICE # INV96862923",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nStacey Clark\n118 Zachary Neck\nKristieland, AK 58822 US\nTel:+(652)600-9043\nEmail:coxtracey@example.com\nSite:http://www.griffin.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance199.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristopher Smith MD\n312 Rosales Extensions\nEast Kevin, MP 02149 US\nTel:+(635)719-4293\nEmail:comptonkatherine@example.com\nSite:https://www.lewis.com/",
+      "DATE": "Invoice Date: 24-Dec-2004",
+      "NUMBER": "Invoice number 5Y1M7d-454",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRussell Jones\n7945 Thomas Village\nSouth Lauren, ND 52521 US\nTel:+(129)116-8508\nEmail:jared20@example.net\nSite:http://barron.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance59.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohn Flores\n702 Cody Forest Suite 412\nCurtisfurt, WA 48745 US\nTel:+(092)141-8856\nEmail:xjones@example.org\nSite:https://long.biz/",
+      "DATE": "Date: 17-Feb-2016",
+      "NUMBER": "INVOICE ID 6Y7M1d-667",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJennifer Herrera\n43251 Martin Isle\nDavidmouth, OR 06426 US\nTel:+(432)836-0888\nEmail:rlindsey@example.com\nSite:https://butler.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance97.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAngela Avery\n20681 Nicholas Station Suite 668\nEast Amandafurt, MD 13003 US\nTel:+(722)822-1731\nEmail:tonymeza@example.com\nSite:http://young.com/",
+      "DATE": "Date: 24-Nov-2002",
+      "NUMBER": "Invoice number 8Y8M3d-645",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHolly Zavala\n7957 Susan Fields Apt. 855\nSeanstad, IN 72720 US\nTel:+(304)791-1282\nEmail:brettmiller@example.org\nSite:https://www.conner.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance106.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTroy Warner\n8693 Brittany Landing\nDawsonstad, ME 21573 US\nTel:+(897)835-7635\nEmail:jchapman@example.org\nSite:https://johnson.com/",
+      "DATE": "Invoice Date: 30-Mar-2006",
+      "NUMBER": "INVOICE # 4049-647",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nFelicia Santana\n250 Summers Keys\nWest Annette, HI 52696 US\nTel:+(677)673-6952\nEmail:ramoslinda@example.net\nSite:https://gonzalez.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance108.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWalter Mcclure\n630 Griffin Island\nSouth Ashley, IL 81826 US\nTel:+(376)133-8735\nEmail:jeff51@example.org\nSite:https://www.hull.org/",
+      "DATE": "Date: 15-Nov-2004",
+      "NUMBER": "INVOICE ID INV07651561",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJennifer Rivera\n5422 Willis Underpass\nLake Elizabeth, MN 02777 US\nTel:+(599)232-6965\nEmail:ijones@example.com\nSite:http://tate-schwartz.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance151.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohn Reid\n5678 Avila Landing\nJeremyborough, NE 75038 US\nTel:+(504)104-5685\nEmail:wnoble@example.org\nSite:https://cruz.com/",
+      "DATE": "Invoice Date: 25-Jan-2014",
+      "NUMBER": "Invoice number INV83377069",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMatthew Diaz\n0808 Mason Junction\nJohnstonbury, NE 79129 US\nTel:+(764)532-8719\nEmail:josephconner@example.com\nSite:http://www.berg.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance56.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJustin Matthews\n492 Kristina Fork Suite 346\nSouth Daniel, NH 10638 US\nTel:+(169)596-9931\nEmail:elizabethward@example.com\nSite:https://roberts-hardin.com/",
+      "DATE": "Invoice Date: 07-May-1994",
+      "NUMBER": "INVOICE # INV76462383",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMichael Abbott\n81199 Kimberly Green Suite 077\nLake Ryanberg, NC 15840 US\nTel:+(333)410-9381\nEmail:allen83@example.net\nSite:http://www.scott.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance4.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nShelley Peterson\n2307 Richards Mill\nRobinsonfurt, DC 27469 US\nTel:+(794)421-5928\nEmail:mrose@example.org\nSite:https://morales.com/",
+      "DATE": "Date: 12-Aug-1993",
+      "NUMBER": "INVOICE ID INV05959394",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTracy Simpson\n024 Brandon Plains\nWashingtonfurt, VA 70985 US\nTel:+(171)237-3675\nEmail:nsexton@example.org\nSite:http://ramirez-hughes.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance111.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLindsey Liu\n4873 Donald Port\nAdamsport, HI 70680 US\nTel:+(041)022-4876\nEmail:kristinechristian@example.com\nSite:https://www.ibarra.com/",
+      "DATE": "Date: 07-Sep-2010",
+      "NUMBER": "Invoice number INV14179446",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDavid Wade\n8081 Matthews Mountain\nDavisborough, PW 66185 US\nTel:+(663)356-5513\nEmail:georgemorales@example.net\nSite:http://www.castillo.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance68.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGabrielle Lopez\n25393 Samantha Fort\nSinghburgh, MA 93427 US\nTel:+(248)037-9643\nEmail:nortonnicholas@example.net\nSite:https://whitehead.info/",
+      "DATE": "Date: 21-May-2009",
+      "NUMBER": "Invoice number INV72886702",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJacqueline Roberts\n8981 Herman Harbors\nNorth Hailey, OK 87533 US\nTel:+(112)239-5967\nEmail:sanchezpatricia@example.com\nSite:http://www.baxter-washington.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance37.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVictoria Johnson\n60624 Corey Shoal Apt. 635\nContrerasville, PW 68765 US\nTel:+(714)250-3236\nEmail:leedavid@example.com\nSite:https://www.mccormick.net/",
+      "DATE": "Invoice Date: 22-Nov-2013",
+      "NUMBER": "INVOICE ID 1449-798",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTimothy Ortiz\n9270 Dunlap Tunnel Suite 892\nNew Jose, SC 21202 US\nTel:+(796)332-7458\nEmail:nheath@example.net\nSite:http://lang.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance139.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAndrea Davidson\n37380 Molina Meadow\nLake Lisastad, ME 73522 US\nTel:+(405)789-6127\nEmail:wdixon@example.net\nSite:http://hamilton.info/",
+      "DATE": "Invoice Date: 06-Jun-2004",
+      "NUMBER": "Invoice number 4Y3M2d-088",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJoseph Ramos\n615 Daniel Burgs\nSouth Tracyside, CO 81404 US\nTel:+(724)320-5304\nEmail:cheyenne48@example.com\nSite:http://www.hooper.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance105.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDaniel Robinson\n61717 Elizabeth Light\nSouth Thomas, WV 01324 US\nTel:+(876)023-9879\nEmail:estesbrett@example.org\nSite:http://reed-price.net/",
+      "DATE": "Invoice Date: 26-Feb-2009",
+      "NUMBER": "INVOICE ID INV/60-83/003",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJoseph Burns\n676 Wilson Courts\nBrownville, AR 17289 US\nTel:+(034)365-5645\nEmail:alexanderjason@example.com\nSite:https://medina.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance99.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristopher Hall DDS\n77979 Lucas Vista\nNew William, GA 10577 US\nTel:+(827)389-1856\nEmail:mkelly@example.org\nSite:https://johnson.com/",
+      "DATE": "Date: 15-Apr-2018",
+      "NUMBER": "Invoice number INV/17-81/956",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nEmily Underwood\n4329 Samantha Skyway\nEast Christopher, TN 13235 US\nTel:+(380)357-6854\nEmail:debra87@example.org\nSite:https://hoffman.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance50.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRonnie Marks\n894 Justin Fort Suite 438\nHallshire, CT 45800 US\nTel:+(321)244-5338\nEmail:mrobinson@example.net\nSite:http://www.craig.net/",
+      "DATE": "Invoice Date: 18-Nov-2008",
+      "NUMBER": "Invoice number INV63456122",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nPaula Young\n67945 Melissa Fall\nCatherineview, AZ 04282 US\nTel:+(998)194-6939\nEmail:umay@example.net\nSite:http://www.lewis.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance186.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJodi Conrad\n5174 Sandra Estates\nLake Amymouth, CO 05117 US\nTel:+(370)096-1020\nEmail:scottbarnes@example.com\nSite:http://www.curry.com/",
+      "DATE": "Invoice Date: 09-Jan-2012",
+      "NUMBER": "INVOICE ID 0116-123",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMaureen Robinson\n991 Jocelyn Extensions\nRossville, SC 65792 US\nTel:+(618)533-7461\nEmail:leslieconway@example.org\nSite:https://cruz.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance83.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRita Gonzalez\n3770 Richard Plaza\nNew Dylanton, RI 38791 US\nTel:+(975)859-9244\nEmail:cordovabrenda@example.com\nSite:http://campbell.biz/",
+      "DATE": "Invoice Date: 24-Jun-2022",
+      "NUMBER": "INVOICE # INV/39-18/265",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMichael Pratt\n112 Leonard Locks Suite 219\nWest Bailey, CA 10013 US\nTel:+(095)165-7755\nEmail:fosterkristen@example.net\nSite:http://james.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance138.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTonya Jordan\n22244 Walker Brooks\nSouth Stevenbury, WI 05187 US\nTel:+(468)636-2567\nEmail:craig85@example.com\nSite:http://barr.com/",
+      "DATE": "Date: 07-Sep-2001",
+      "NUMBER": "INVOICE ID 6750-391",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nLori Campbell\n993 Butler Inlet\nMannstad, ND 63680 US\nTel:+(144)216-9336\nEmail:april40@example.net\nSite:https://www.allison.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance78.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEdward Johnson\n40382 Emily Vista Suite 508\nBethport, KS 51685 US\nTel:+(124)447-9603\nEmail:qvelasquez@example.org\nSite:http://bradshaw.com/",
+      "DATE": "Invoice Date: 20-Dec-2022",
+      "NUMBER": "INVOICE # INV02484682",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBrett Leonard\n3693 Alicia Crossroad\nNew Randy, NJ 28687 US\nTel:+(393)291-1187\nEmail:chloe96@example.com\nSite:http://abbott.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance131.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKara Ryan\n5362 Ernest Fords\nEast Ronald, TX 49220 US\nTel:+(041)773-0118\nEmail:taylorkayla@example.net\nSite:https://www.ramirez-escobar.com/",
+      "DATE": "Invoice Date: 17-May-2019",
+      "NUMBER": "INVOICE # INV/52-78/555",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nEdward Blevins\n700 Dawn Row Apt. 210\nPort Danielleside, MD 29893 US\nTel:+(369)267-8075\nEmail:smiller@example.org\nSite:https://www.chang.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance15.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAlexander Powers\n87894 James Landing Apt. 704\nNorth Ellen, TX 18596 US\nTel:+(089)263-2988\nEmail:smithsarah@example.net\nSite:https://powell.biz/",
+      "DATE": "Date: 03-Dec-2004",
+      "NUMBER": "Invoice number 5845-607",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMrs. Anne Mills MD\n597 Dakota Curve Suite 255\nSmithburgh, AK 90310 US\nTel:+(165)506-5842\nEmail:jessicaconner@example.com\nSite:https://www.lucas-ross.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance130.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmanda Williams\n03179 Hartman Trace Apt. 844\nEast Richardville, TX 11872 US\nTel:+(474)539-9750\nEmail:hpeters@example.org\nSite:https://www.mathews.biz/",
+      "DATE": "Invoice Date: 08-Mar-2004",
+      "NUMBER": "INVOICE # 6Y1M8d-149",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJoseph Morgan\n3881 Trujillo Rest Apt. 579\nPort Maryport, IL 44357 US\nTel:+(960)125-0141\nEmail:smithashley@example.org\nSite:https://www.morris.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance141.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDonald Pearson\n627 Rosario Shoal Apt. 015\nNew Louis, MI 57426 US\nTel:+(905)080-7605\nEmail:mcneillinda@example.com\nSite:http://www.bell-douglas.com/",
+      "DATE": "Invoice Date: 04-May-1996",
+      "NUMBER": "INVOICE # INV31227256",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRussell Thompson\n87670 Tran Forest Suite 408\nLake Thomasland, GU 71189 US\nTel:+(419)418-6627\nEmail:elizabethevans@example.com\nSite:http://wilson.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance187.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSteven Dougherty\n5661 Jacqueline Station Suite 418\nLake Gloriaburgh, GU 13459 US\nTel:+(101)246-0903\nEmail:djames@example.net\nSite:https://www.hernandez.com/",
+      "DATE": "Date: 30-Dec-2014",
+      "NUMBER": "INVOICE # INV47103806",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKelly Lynch\n122 Kiara Valleys Suite 712\nLarryland, NV 28288 US\nTel:+(142)064-0735\nEmail:kimjonathan@example.org\nSite:https://riley.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance194.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRaymond Kirby\n07560 Rachel Path\nPort Lauraview, NH 39964 US\nTel:+(062)535-6294\nEmail:icrawford@example.com\nSite:http://harris.org/",
+      "DATE": "Date: 27-Oct-1997",
+      "NUMBER": "Invoice number 5Y7M2d-310",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBecky Mitchell\n21783 Schmidt Falls Suite 076\nNorth Sarah, FL 48457 US\nTel:+(477)124-7383\nEmail:hphelps@example.net\nSite:https://fisher.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance22.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohnny Logan\n7658 Pena Road Apt. 364\nPort George, AZ 03421 US\nTel:+(814)979-4801\nEmail:jesse00@example.net\nSite:http://buchanan.com/",
+      "DATE": "Date: 08-Jan-2011",
+      "NUMBER": "INVOICE # INV54499792",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMike Ford\n728 Charles Extensions\nWest Brian, ND 80808 US\nTel:+(409)413-9427\nEmail:steven19@example.org\nSite:https://www.mcintosh.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance89.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKristina Thomas\n383 Owen Ford\nSouth Allen, TX 20712 US\nTel:+(161)445-0127\nEmail:christopherscott@example.net\nSite:http://myers.com/",
+      "DATE": "Invoice Date: 11-May-2016",
+      "NUMBER": "INVOICE ID 9Y8M8d-535",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAaron Carter\n669 Sims Mall Suite 651\nBushborough, DE 58881 US\nTel:+(638)323-4509\nEmail:fporter@example.net\nSite:http://bowman.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance18.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJon Mcintosh\n5658 Hamilton Villages\nSabrinabury, CT 21522 US\nTel:+(680)921-8077\nEmail:victoria39@example.org\nSite:https://bryant.org/",
+      "DATE": "Date: 18-Nov-2020",
+      "NUMBER": "Invoice number INV/40-19/985",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nCatherine Crawford\n87625 Mcguire Mission\nKarenport, VT 24001 US\nTel:+(630)096-7842\nEmail:moraleschristina@example.org\nSite:https://castillo-bryant.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance76.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLinda Hull\n568 Sheppard Alley\nRobinsonmouth, HI 90257 US\nTel:+(154)860-3561\nEmail:nancybutler@example.org\nSite:http://www.gibson.org/",
+      "DATE": "Date: 08-Oct-2013",
+      "NUMBER": "INVOICE ID INV51845266",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKimberly Bailey\n05116 Vincent Ridges Suite 801\nNew Joshua, DC 84784 US\nTel:+(538)451-8093\nEmail:pholt@example.net\nSite:http://www.bell-molina.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance42.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJacob Jimenez\n244 Patrick Squares Suite 294\nJoyceton, AR 36604 US\nTel:+(035)783-1508\nEmail:adambrown@example.com\nSite:https://www.le-anderson.com/",
+      "DATE": "Date: 16-Apr-1999",
+      "NUMBER": "INVOICE ID 2171-235",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMarcus King\n6992 Deborah Trafficway\nGreenbury, VA 60048 US\nTel:+(115)591-2820\nEmail:lvance@example.org\nSite:http://haas.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance30.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMary Allen\n33809 Jason Spur\nPort Dylanchester, NJ 26889 US\nTel:+(367)645-0895\nEmail:leah05@example.net\nSite:http://www.smith.net/",
+      "DATE": "Invoice Date: 21-May-2017",
+      "NUMBER": "INVOICE ID INV/12-77/059",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJohn Barnes\n395 Maria Lakes\nLeblancfurt, WI 57972 US\nTel:+(535)886-1390\nEmail:martincassandra@example.net\nSite:https://www.hood.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance45.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSharon Hays\n8737 Hernandez Pine Apt. 992\nAllenmouth, MN 85214 US\nTel:+(411)175-7795\nEmail:colemanfrank@example.org\nSite:http://www.mckinney-aguilar.com/",
+      "DATE": "Date: 19-Feb-2005",
+      "NUMBER": "Invoice number 9Y5M3d-498",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDustin Williams\n5430 Wall Green Apt. 659\nSouth Lindaland, WI 19861 US\nTel:+(060)586-4195\nEmail:sandersjohn@example.org\nSite:http://www.cabrera.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance126.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLisa Evans\n236 Braun Inlet Suite 625\nRobertburgh, IL 67772 US\nTel:+(739)959-5840\nEmail:bernardkelly@example.net\nSite:http://garcia.com/",
+      "DATE": "Invoice Date: 15-Mar-2006",
+      "NUMBER": "INVOICE ID INV64835217",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMichael Clarke\n83325 Breanna Shoals Suite 428\nValenzuelabury, GU 02420 US\nTel:+(367)589-7702\nEmail:melinda67@example.com\nSite:http://www.pearson.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance66.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAndrew Jones\n0255 Michael Path Suite 167\nRobertsberg, AR 05070 US\nTel:+(143)197-2937\nEmail:smithcharles@example.com\nSite:https://www.boyer.info/",
+      "DATE": "Date: 30-Apr-2002",
+      "NUMBER": "INVOICE # 9Y7M4d-732",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTyler Morgan\n48252 Tammy Place Apt. 244\nWest Stacey, PR 64011 US\nTel:+(242)211-2338\nEmail:marcus93@example.com\nSite:http://parker-thomas.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance48.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristopher Yu\n77941 Wesley Greens Suite 652\nNorth Michaelfurt, DE 21726 US\nTel:+(841)653-7815\nEmail:morenoalex@example.net\nSite:http://www.lynch.com/",
+      "DATE": "Invoice Date: 19-Sep-1999",
+      "NUMBER": "INVOICE ID INV/58-64/942",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJose Lamb\n880 Hunt Shoals\nWest Tiffany, KS 26853 US\nTel:+(720)062-3315\nEmail:joshuaparker@example.com\nSite:https://wilson.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance3.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nScott Smith\n8937 Brandon Unions\nEdwardston, IL 36905 US\nTel:+(824)535-8544\nEmail:rittermichael@example.com\nSite:https://www.powers-brown.info/",
+      "DATE": "Invoice Date: 21-Jan-1998",
+      "NUMBER": "INVOICE ID INV/17-60/131",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nSarah Galloway\n1624 Alyssa Terrace\nWalkerfort, AZ 55234 US\nTel:+(791)144-1323\nEmail:lisa07@example.com\nSite:http://www.bryant.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance165.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKaylee Martin\n346 Norton Parkways Suite 819\nCoopermouth, WY 26557 US\nTel:+(277)172-5793\nEmail:iyoung@example.net\nSite:http://may-henry.org/",
+      "DATE": "Date: 27-Apr-2001",
+      "NUMBER": "INVOICE # 2860-429",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKevin Harris\n123 Daniel Run Suite 693\nEast Jared, PR 78534 US\nTel:+(895)224-7109\nEmail:michaelbaker@example.org\nSite:http://holland.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance119.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEdward Watson\n92178 Melissa Gateway Apt. 805\nWrightview, KY 03063 US\nTel:+(215)943-0058\nEmail:susancarter@example.com\nSite:https://buchanan.com/",
+      "DATE": "Date: 10-Jan-2018",
+      "NUMBER": "INVOICE # INV/86-34/502",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nSarah Cook\n7548 Lawson Estates Apt. 240\nJoseburgh, MD 03466 US\nTel:+(482)299-3051\nEmail:baldwintyler@example.com\nSite:https://www.melendez.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance152.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMark Lam\n6013 Nathan Point\nSouth David, ND 52759 US\nTel:+(782)810-5296\nEmail:fmiller@example.com\nSite:https://www.jones-clay.com/",
+      "DATE": "Date: 01-Oct-2003",
+      "NUMBER": "INVOICE ID INV53127391",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nLauren Mcneil\n11272 Kyle Port Suite 760\nNorth Micheleton, IL 13386 US\nTel:+(898)964-6069\nEmail:dustinwang@example.org\nSite:https://garcia.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance72.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDavid Young\n87096 Marc Road\nTaylorhaven, RI 39843 US\nTel:+(891)684-7413\nEmail:gschmidt@example.org\nSite:https://www.moss.info/",
+      "DATE": "Invoice Date: 04-Jul-2012",
+      "NUMBER": "INVOICE ID INV53798220",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nSamuel Harris\n801 Booth Mill Suite 095\nPamelaville, TN 46957 US\nTel:+(228)093-7252\nEmail:david92@example.net\nSite:http://www.knight.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance118.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMatthew Thompson\n922 Travis Corners Apt. 410\nFrankmouth, AS 39028 US\nTel:+(099)482-7672\nEmail:dtorres@example.com\nSite:https://tyler.biz/",
+      "DATE": "Date: 22-Feb-2009",
+      "NUMBER": "INVOICE ID INV/60-26/221",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAshley Marshall\n360 Sherman Courts Apt. 416\nSouth Steven, NY 74876 US\nTel:+(067)638-5220\nEmail:rachelmendoza@example.net\nSite:http://lewis.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance64.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAnthony Mata\n697 Johnson Pine\nNorth Mark, GU 21353 US\nTel:+(076)813-4736\nEmail:meadowskristin@example.net\nSite:http://vasquez.com/",
+      "DATE": "Invoice Date: 10-Jun-2021",
+      "NUMBER": "INVOICE ID INV60258785",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHeather Phillips\n533 Curtis Prairie\nLake Sierra, VA 18943 US\nTel:+(531)679-9008\nEmail:sandovaljeremy@example.org\nSite:https://greer.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance182.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJimmy Wolf\n6158 Petty Valley Apt. 914\nSouth Pennychester, PA 15601 US\nTel:+(532)591-8850\nEmail:joegriffin@example.net\nSite:https://rodriguez.com/",
+      "DATE": "Date: 01-Jan-2012",
+      "NUMBER": "INVOICE # INV/27-35/309",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nSuzanne Clark\n3938 Mark Ranch\nLake Christopher, NH 31941 US\nTel:+(341)265-2079\nEmail:michellejackson@example.org\nSite:https://www.hendricks-mora.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance23.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAndrew Lee\n911 Allen Burg\nWest Deanstad, ID 92009 US\nTel:+(440)718-9632\nEmail:mariawagner@example.net\nSite:https://www.aguilar.com/",
+      "DATE": "Date: 05-Jul-2014",
+      "NUMBER": "INVOICE # 6Y3M7d-155",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nThomas Smith\n42216 Howell Extension\nPort Rickymouth, IL 19710 US\nTel:+(960)809-6229\nEmail:wooddana@example.org\nSite:http://valentine.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance177.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKayla Frazier\n3229 Anderson Villages Apt. 494\nLake Dawnchester, PW 77580 US\nTel:+(495)306-9546\nEmail:zhill@example.org\nSite:http://davenport.net/",
+      "DATE": "Invoice Date: 09-Apr-2018",
+      "NUMBER": "INVOICE ID 3Y1M7d-929",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nLouis Young\n822 Sharon Roads Apt. 502\nJimenezshire, IN 45062 US\nTel:+(948)355-1567\nEmail:kimberlyjackson@example.net\nSite:http://www.estes-riley.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance140.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSean Taylor\n83275 Hill Wells\nPort Mary, SD 17400 US\nTel:+(024)392-8000\nEmail:larmstrong@example.com\nSite:https://www.leon.com/",
+      "DATE": "Date: 26-Oct-2020",
+      "NUMBER": "INVOICE ID 7525-068",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nThomas Floyd\n3496 Carlson Parkways\nNorth Gregory, MH 28097 US\nTel:+(786)378-5641\nEmail:nramirez@example.com\nSite:http://shaw.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance144.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKathleen Love\n543 Meyer Island\nNorth Austin, NE 46949 US\nTel:+(145)812-3958\nEmail:davidschmitt@example.net\nSite:http://perez.com/",
+      "DATE": "Date: 06-Feb-2005",
+      "NUMBER": "Invoice number 2Y2M3d-265",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBrittany Williams\n6861 Reynolds Cove Suite 067\nWatkinshaven, VT 63854 US\nTel:+(954)563-7098\nEmail:williamarmstrong@example.com\nSite:http://www.jimenez-olsen.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance170.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDr. Brian Williams\n10693 Gabriela Fork Suite 967\nSouth Craig, MI 69450 US\nTel:+(594)138-0600\nEmail:diane23@example.net\nSite:http://www.martin-mann.com/",
+      "DATE": "Invoice Date: 12-Jun-2007",
+      "NUMBER": "Invoice number 7Y7M4d-723",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDana Patel\n486 Gregory Mount Suite 777\nEast Susan, IL 53292 US\nTel:+(924)181-1680\nEmail:bcameron@example.com\nSite:https://king-berry.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance67.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWilliam Turner\n586 Stephanie Mission\nCharlesside, NV 48991 US\nTel:+(290)543-8292\nEmail:charles74@example.net\nSite:http://www.preston.net/",
+      "DATE": "Invoice Date: 16-Mar-2009",
+      "NUMBER": "INVOICE # INV/55-39/392",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKelsey Lewis\n845 Smith Path\nNorth Adamshire, MA 92665 US\nTel:+(957)088-4694\nEmail:judyrangel@example.net\nSite:http://www.rhodes-castillo.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance28.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSara Price\n85890 Terrell Drive Apt. 427\nKimberlymouth, AL 60217 US\nTel:+(575)355-4020\nEmail:ytucker@example.com\nSite:http://www.reese.biz/",
+      "DATE": "Invoice Date: 26-Sep-2010",
+      "NUMBER": "INVOICE ID 7486-053",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMichael West\n587 Susan Inlet\nMcintyreland, CT 61967 US\nTel:+(987)423-2273\nEmail:qreed@example.net\nSite:http://moore.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance74.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAshley Herrera\n6355 Davis Falls\nNorth Jennifer, UT 37915 US\nTel:+(094)961-3267\nEmail:jandersen@example.net\nSite:https://www.stephens-acosta.net/",
+      "DATE": "Date: 07-Sep-2005",
+      "NUMBER": "INVOICE # INV79701450",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJoseph Reeves\n3930 Castro Pine Suite 980\nNew Christie, VT 24227 US\nTel:+(893)621-0707\nEmail:ffowler@example.org\nSite:https://www.brown.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance190.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMelissa Beard\n0765 Todd Shore Apt. 552\nJosemouth, DC 80738 US\nTel:+(687)886-8085\nEmail:dorseycindy@example.org\nSite:http://erickson-arnold.info/",
+      "DATE": "Date: 30-Apr-2022",
+      "NUMBER": "INVOICE ID 7Y2M3d-258",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAshley Conway\n699 Smith Falls Suite 037\nEast Hannah, MA 60060 US\nTel:+(372)791-1211\nEmail:carterjillian@example.org\nSite:http://www.luna-phillips.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance183.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKenneth Davis\n20246 Phillip Land\nAnnettemouth, PA 46421 US\nTel:+(021)623-6361\nEmail:jessehawkins@example.com\nSite:https://www.stark.info/",
+      "DATE": "Invoice Date: 31-Oct-2020",
+      "NUMBER": "INVOICE ID 3867-611",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBrittney Morgan\n747 Roberto Hills\nLake Julie, AK 72679 US\nTel:+(671)418-0469\nEmail:logansusan@example.org\nSite:http://www.villarreal-guerrero.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance113.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nElizabeth Moore\n96642 Wheeler Port\nSpencerport, VI 15434 US\nTel:+(233)613-3704\nEmail:sylvia80@example.com\nSite:https://www.holloway.com/",
+      "DATE": "Date: 08-Aug-2015",
+      "NUMBER": "Invoice number 8Y7M2d-214",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nGeorge Torres\n52352 Palmer Run Apt. 011\nAustinborough, GU 13465 US\nTel:+(802)587-7731\nEmail:sabrinaodom@example.com\nSite:http://anthony-brooks.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance44.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDave Herring\n569 Sarah Garden\nEast James, DE 28119 US\nTel:+(612)610-6704\nEmail:ifrye@example.org\nSite:http://kelly-alvarez.com/",
+      "DATE": "Invoice Date: 05-Feb-2002",
+      "NUMBER": "Invoice number INV97259561",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nGerald Cooper\n28628 Snyder Haven Suite 363\nGarciahaven, MA 85158 US\nTel:+(411)438-3219\nEmail:delgadojeanne@example.net\nSite:http://www.barton.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance120.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHeather Holloway\n85557 Kidd Valley Suite 594\nRosshaven, MN 43374 US\nTel:+(765)213-7324\nEmail:ricky87@example.net\nSite:https://www.wilson-ali.com/",
+      "DATE": "Date: 08-Feb-2015",
+      "NUMBER": "INVOICE ID INV64215840",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTodd Stephens\n16724 Rios Turnpike\nWest Terri, DC 48890 US\nTel:+(824)225-5586\nEmail:dgray@example.net\nSite:http://simmons-simmons.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance175.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohn Hernandez\n65653 Mendoza Highway Suite 906\nNorth Sherriton, OR 18211 US\nTel:+(994)305-0524\nEmail:samuel26@example.org\nSite:http://www.callahan-king.biz/",
+      "DATE": "Date: 27-Jan-2010",
+      "NUMBER": "Invoice number INV52569847",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDr. Kimberly Fields\n303 Curtis Circles Suite 791\nSouth Tamaraport, ME 99362 US\nTel:+(301)165-6008\nEmail:mirandatrujillo@example.com\nSite:http://reed-lee.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance179.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTiffany Harris\n2071 Rose Lodge\nSouth Amy, WY 89701 US\nTel:+(971)479-2701\nEmail:npayne@example.org\nSite:http://scott-bowman.com/",
+      "DATE": "Date: 01-Mar-2010",
+      "NUMBER": "Invoice number INV/88-50/359",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMatthew Sandoval\n81213 Dawn Inlet Apt. 693\nAlexanderville, AS 94423 US\nTel:+(637)009-2405\nEmail:marc23@example.net\nSite:https://www.martinez.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance39.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJonathan Williams\n5155 Estrada Camp Apt. 599\nDanielburgh, MO 31021 US\nTel:+(198)926-7893\nEmail:vlopez@example.com\nSite:http://www.stevenson-clements.info/",
+      "DATE": "Invoice Date: 06-Feb-2004",
+      "NUMBER": "INVOICE # 8716-738",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAndrea Whitehead\n09620 Williams Skyway\nNorth Williamfurt, WI 72650 US\nTel:+(769)484-8337\nEmail:hornryan@example.org\nSite:http://www.mccann.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance137.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNicholas Miller\n9379 Myers Valley Apt. 974\nPatrickbury, MA 26964 US\nTel:+(129)990-6519\nEmail:dfreeman@example.net\nSite:http://davis.net/",
+      "DATE": "Invoice Date: 03-Aug-2016",
+      "NUMBER": "Invoice number INV21017986",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRyan Smith\n06127 Monica Ford Suite 160\nLake Cindyside, WI 49889 US\nTel:+(675)739-2239\nEmail:henrysalazar@example.org\nSite:http://www.krueger.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance27.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKevin Maynard\n85837 Michael Garden\nNorth Michael, FL 00779 US\nTel:+(918)047-8689\nEmail:christopherhernandez@example.org\nSite:http://www.ray-campbell.com/",
+      "DATE": "Date: 08-May-1995",
+      "NUMBER": "INVOICE ID 4953-914",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKelly Kim\n8118 Chloe Prairie Suite 468\nJosephville, MA 08619 US\nTel:+(630)923-0201\nEmail:yguerrero@example.com\nSite:https://roman.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance2.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAngela Walter\n4435 Jessica Hollow\nDavidland, TX 66309 US\nTel:+(762)304-0445\nEmail:joshua41@example.org\nSite:https://www.ayala.biz/",
+      "DATE": "Invoice Date: 16-Sep-1998",
+      "NUMBER": "INVOICE ID INV38550496",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBrandon Reed\n16577 Dawn Corner Apt. 106\nLyonsstad, OK 44505 US\nTel:+(783)705-4730\nEmail:manuelmartinez@example.net\nSite:https://kennedy.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance184.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTerrence Griffin\n07503 Michael Stravenue\nSouth Monicafort, AL 09128 US\nTel:+(274)895-9345\nEmail:afinley@example.net\nSite:http://www.taylor-taylor.com/",
+      "DATE": "Date: 22-Apr-2008",
+      "NUMBER": "INVOICE # 1Y6M6d-994",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHoward Davenport\n806 Martin Trace\nJacobsbury, SD 29160 US\nTel:+(684)139-6021\nEmail:nortiz@example.net\nSite:http://www.banks.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance100.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGregory Martin\n4252 Rachel Mews Apt. 992\nNorth Jeffrey, OK 52847 US\nTel:+(085)485-4669\nEmail:jensenjamie@example.com\nSite:https://gibbs-hill.net/",
+      "DATE": "Invoice Date: 17-Jul-1997",
+      "NUMBER": "Invoice number INV/55-65/766",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAmber Calderon\n4071 Morgan Gardens Apt. 028\nWest Margaret, NJ 13728 US\nTel:+(353)805-6424\nEmail:gloria19@example.org\nSite:https://hawkins-higgins.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance157.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Ross\n42930 Gonzalez Station\nChristophershire, VT 80475 US\nTel:+(648)135-6931\nEmail:marilynwilson@example.com\nSite:http://www.bennett.com/",
+      "DATE": "Date: 28-Mar-2022",
+      "NUMBER": "INVOICE ID INV33641724",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDaniel White\n007 Crawford Creek\nTurnermouth, MS 40176 US\nTel:+(232)167-5672\nEmail:julia61@example.net\nSite:http://reyes.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance153.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristian Ho\n453 Lara Shoal\nEast Anna, LA 67385 US\nTel:+(733)650-2128\nEmail:timothy15@example.net\nSite:http://www.harris.biz/",
+      "DATE": "Date: 29-Sep-2016",
+      "NUMBER": "Invoice number 8809-236",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBenjamin Adams\n34284 Matthew Wall Apt. 360\nEast Danielborough, TX 70581 US\nTel:+(212)796-8762\nEmail:zmontgomery@example.com\nSite:http://www.wright.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance148.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGregory Bennett\n354 James Turnpike\nMelissaberg, NJ 59737 US\nTel:+(220)994-5480\nEmail:robertohouston@example.com\nSite:http://www.wilson.com/",
+      "DATE": "Invoice Date: 18-Aug-2014",
+      "NUMBER": "INVOICE ID 8Y4M4d-829",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJustin Mathews\n11734 Jeremy Crossing Apt. 082\nAndersonchester, DE 16863 US\nTel:+(479)114-7753\nEmail:smithmartin@example.com\nSite:https://www.baker.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance145.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nShane Martin\n141 Berger Cove\nAustinfurt, FM 91446 US\nTel:+(154)755-7013\nEmail:edward89@example.org\nSite:https://www.phillips-garcia.com/",
+      "DATE": "Date: 08-Aug-2006",
+      "NUMBER": "Invoice number INV/27-87/731",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRebecca Soto\n10094 Sandy Junction\nPriceland, WA 22218 US\nTel:+(911)983-7002\nEmail:jasoncollins@example.com\nSite:http://www.rocha.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance54.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSydney Luna\n292 Jermaine Tunnel\nAlisonmouth, MN 73852 US\nTel:+(425)101-5780\nEmail:jamie23@example.com\nSite:https://roberts.com/",
+      "DATE": "Date: 03-Jun-1993",
+      "NUMBER": "INVOICE # 4508-083",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRachel Wilson\n48949 Debbie Parkways Suite 960\nSmithtown, ME 30347 US\nTel:+(507)550-3272\nEmail:danielpowell@example.com\nSite:http://barry-allison.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance146.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEmily George\n312 Leslie Meadow\nBrownton, IA 05261 US\nTel:+(883)825-3454\nEmail:jmcgrath@example.net\nSite:http://www.delgado.org/",
+      "DATE": "Date: 06-May-1996",
+      "NUMBER": "INVOICE ID INV24451258",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMelinda Scott\n55773 Teresa Spurs\nBakerland, GU 58234 US\nTel:+(872)428-4737\nEmail:ypeterson@example.net\nSite:http://pruitt-montgomery.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance82.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJanet Skinner\n472 Wendy Grove\nLake Donna, GA 24978 US\nTel:+(719)236-3896\nEmail:browncrystal@example.com\nSite:http://lyons.org/",
+      "DATE": "Invoice Date: 01-Oct-1995",
+      "NUMBER": "INVOICE # 0908-821",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKim Turner\n5253 Donna Neck\nHarveyberg, WV 65462 US\nTel:+(563)757-3431\nEmail:xavier04@example.com\nSite:http://burns-gonzalez.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance197.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJennifer Holland\n257 James Ville Suite 579\nEast Christine, WI 13975 US\nTel:+(283)573-8192\nEmail:richard94@example.net\nSite:https://www.stewart-gonzalez.info/",
+      "DATE": "Invoice Date: 24-Mar-2000",
+      "NUMBER": "INVOICE # 9Y1M3d-268",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRandy Harrison\n235 Hess Springs\nJillview, GU 41931 US\nTel:+(025)541-7432\nEmail:kathleen11@example.org\nSite:http://murillo.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance159.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBryan Calhoun\n042 King Trace Suite 379\nNorth Michael, VT 97266 US\nTel:+(635)152-9473\nEmail:carlevans@example.net\nSite:http://cameron.com/",
+      "DATE": "Date: 20-Aug-2006",
+      "NUMBER": "INVOICE # INV/90-27/180",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJohn Prince\n86974 Moreno Divide Apt. 192\nLake Desireeside, FL 08600 US\nTel:+(791)688-7752\nEmail:kaylagreen@example.org\nSite:http://www.conner-copeland.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance16.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWilliam Wright\n06745 Ramirez Mall\nFlemingside, AS 62210 US\nTel:+(508)150-5229\nEmail:simmonssusan@example.com\nSite:http://www.barrera.com/",
+      "DATE": "Invoice Date: 18-Mar-2022",
+      "NUMBER": "INVOICE # 0057-027",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nKrystal Conway\n99003 Phillip Key Suite 573\nNew Blakeside, MS 90077 US\nTel:+(160)894-1605\nEmail:curtisvargas@example.org\nSite:http://sellers.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance9.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichelle Hamilton\n8756 Kimberly Village Apt. 386\nNorth David, NV 81923 US\nTel:+(992)053-9159\nEmail:frankgutierrez@example.net\nSite:http://drake.com/",
+      "DATE": "Invoice Date: 04-Jul-2004",
+      "NUMBER": "Invoice number 1Y5M1d-512",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nChristopher Bowman\n692 Murphy Lake\nYoungchester, AK 91581 US\nTel:+(387)188-2987\nEmail:saundersemily@example.com\nSite:https://www.maldonado-porter.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance17.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Lowery\n20004 Mcbride Fields Apt. 792\nMelissastad, ME 84111 US\nTel:+(733)873-4192\nEmail:frances26@example.org\nSite:http://bender-johnson.com/",
+      "DATE": "Date: 12-Oct-2000",
+      "NUMBER": "INVOICE # 5Y3M4d-928",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDebra Levy\n406 Castillo Loop\nSouth Robin, IN 38848 US\nTel:+(829)981-1564\nEmail:lbarry@example.net\nSite:http://welch-cantu.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance136.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrian Harvey\n5391 Krause Road Apt. 114\nNorth Johnstad, IA 68996 US\nTel:+(844)271-2647\nEmail:marquezcrystal@example.net\nSite:https://www.johnson.com/",
+      "DATE": "Date: 20-Oct-2021",
+      "NUMBER": "INVOICE # 7099-864",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTodd Oconnor\n236 Marcus Parkways Suite 057\nSouth Matthew, MA 35060 US\nTel:+(424)318-6763\nEmail:angelapruitt@example.net\nSite:http://www.porter.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance80.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael Hoover MD\n72618 Arthur Haven Suite 247\nButlerborough, OR 06307 US\nTel:+(353)006-2175\nEmail:ashleywong@example.com\nSite:https://cook-hill.net/",
+      "DATE": "Invoice Date: 14-Mar-2015",
+      "NUMBER": "INVOICE ID 4547-159",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nSean Wagner\n144 Briggs Lodge\nFrancoberg, MT 23213 US\nTel:+(873)830-4545\nEmail:calvinharris@example.com\nSite:http://www.murphy-kaiser.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance38.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKelly Olson\n311 Mark Row Apt. 789\nBarbarashire, GU 17622 US\nTel:+(947)551-0853\nEmail:jennifer56@example.net\nSite:http://www.christian.com/",
+      "DATE": "Invoice Date: 19-Oct-2018",
+      "NUMBER": "INVOICE # INV25680684",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nHeather Smith\n9547 Villarreal Spur\nWest Bryceberg, FL 83122 US\nTel:+(070)654-3101\nEmail:destiny91@example.org\nSite:https://sanchez.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance116.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEdwin Miller\n530 Robinson Estate Apt. 362\nEast Donald, DE 06523 US\nTel:+(536)076-6629\nEmail:edwardroach@example.com\nSite:https://dennis-wagner.com/",
+      "DATE": "Invoice Date: 27-Aug-2019",
+      "NUMBER": "Invoice number 9497-931",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nZachary Salazar\n4588 John Heights Apt. 068\nGilmoreburgh, KY 26673 US\nTel:+(371)288-1236\nEmail:amycruz@example.org\nSite:https://taylor.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance29.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJames Hines\n1120 Mcbride Port Apt. 099\nSouth Kimberlyville, ND 86070 US\nTel:+(252)689-2471\nEmail:kingjennifer@example.net\nSite:https://pearson.org/",
+      "DATE": "Invoice Date: 09-Dec-1996",
+      "NUMBER": "INVOICE # INV/20-41/701",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nScott Gonzalez\n35273 Douglas Tunnel\nLamview, SD 46387 US\nTel:+(843)540-7551\nEmail:suttonkristin@example.org\nSite:https://www.fernandez-olson.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance5.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNancy Bautista\n1319 Michael Station Suite 533\nEast Jon, NM 62647 US\nTel:+(450)926-2454\nEmail:larsenrobert@example.com\nSite:http://erickson.net/",
+      "DATE": "Date: 09-Jan-2007",
+      "NUMBER": "Invoice number INV/97-24/563",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nCatherine Marshall\n67849 Eric Throughway Suite 228\nDarinview, WA 83716 US\nTel:+(322)289-6384\nEmail:karen30@example.org\nSite:https://www.moreno.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance36.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAlexander Bryant\n78493 Marshall Groves\nWilliamschester, AR 92156 US\nTel:+(653)242-4985\nEmail:luke06@example.org\nSite:https://harper-park.com/",
+      "DATE": "Invoice Date: 10-Apr-2002",
+      "NUMBER": "INVOICE ID INV14120885",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJustin Bell\n7765 Smith Ridge\nSpencerside, TX 00670 US\nTel:+(268)619-6777\nEmail:lauren67@example.net\nSite:https://roberts.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance88.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKathleen Mcintyre\n0849 Ronald Flat\nAndersonport, MN 07972 US\nTel:+(811)227-1133\nEmail:megankelley@example.net\nSite:http://www.ramsey-harvey.com/",
+      "DATE": "Date: 11-Sep-2007",
+      "NUMBER": "INVOICE ID INV/00-42/356",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAmanda Herman\n493 Nguyen Wall Suite 222\nFigueroabury, MS 18572 US\nTel:+(010)743-0799\nEmail:stephanie74@example.net\nSite:https://www.adams.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance191.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMiguel Wiggins\n3667 Brown Fort Suite 256\nGregorymouth, GU 40702 US\nTel:+(112)882-6086\nEmail:bethjones@example.net\nSite:https://bryant.com/",
+      "DATE": "Invoice Date: 30-Mar-2015",
+      "NUMBER": "INVOICE # INV86139938",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nCindy Cook\n76721 Jennifer Corners Suite 421\nNancytown, AZ 49171 US\nTel:+(670)651-6500\nEmail:hannah71@example.org\nSite:http://www.gomez.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance107.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDr. Erica Parker PhD\n7400 Daisy Meadows\nSamanthaton, ID 10621 US\nTel:+(463)192-2004\nEmail:reginaldvalencia@example.net\nSite:https://smith.com/",
+      "DATE": "Date: 15-Sep-1998",
+      "NUMBER": "INVOICE # 7239-046",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDavid Dunn\n83899 Jones Freeway Suite 746\nRonaldhaven, NM 96269 US\nTel:+(869)735-8687\nEmail:nealkathleen@example.org\nSite:https://gordon.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance92.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWesley Silva\n49782 Cheryl Cliff Apt. 361\nSouth Mark, PW 86028 US\nTel:+(071)912-7452\nEmail:iperry@example.net\nSite:https://www.lambert.biz/",
+      "DATE": "Date: 31-Oct-2005",
+      "NUMBER": "Invoice number 5827-575",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMichelle Dillon\n1279 Thomas Trace\nYoungtown, MO 64579 US\nTel:+(229)816-4299\nEmail:amanda67@example.org\nSite:http://www.page.net/"
+    }
+  },
+  {
+    "image": "Template27_Instance174.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMelanie Murphy\n58664 Bishop Rapids Apt. 127\nLake Dustin, NJ 17231 US\nTel:+(649)532-9364\nEmail:morrisbeth@example.com\nSite:http://jimenez-robertson.biz/",
+      "DATE": "Date: 20-Mar-2018",
+      "NUMBER": "INVOICE # 5Y8M1d-808",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJonathan Burke\n319 Jordan Ridge\nWest Katherine, NE 59349 US\nTel:+(907)424-3891\nEmail:teresa99@example.net\nSite:http://smith.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance142.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCheryl Beasley\n80903 Wilcox Meadows Suite 030\nWhiteport, ME 47071 US\nTel:+(799)978-1822\nEmail:sbutler@example.net\nSite:http://www.dalton-smith.biz/",
+      "DATE": "Invoice Date: 13-Dec-2017",
+      "NUMBER": "Invoice number 5Y2M7d-504",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nBenjamin Watkins\n950 Ware Corners Apt. 269\nDavisview, KS 70617 US\nTel:+(461)539-0191\nEmail:greenjohnny@example.com\nSite:https://garrett.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance14.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTiffany Lane\n33533 Mariah Club Apt. 091\nEast Elizabethville, VI 06317 US\nTel:+(053)569-2931\nEmail:johnsondavid@example.net\nSite:https://johnson.com/",
+      "DATE": "Date: 16-Jan-2015",
+      "NUMBER": "INVOICE ID 7132-455",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRonald Kennedy\n60362 Ashley Views Suite 112\nAllisonmouth, HI 82480 US\nTel:+(902)110-9320\nEmail:arianahuynh@example.org\nSite:http://www.turner-hampton.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance185.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJeremy Miller\n6555 Roberts Extensions\nRiverafurt, SC 52147 US\nTel:+(965)099-4706\nEmail:tammy74@example.org\nSite:https://trujillo.info/",
+      "DATE": "Invoice Date: 18-Jan-2003",
+      "NUMBER": "INVOICE # 2789-035",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDaniel Vasquez\n006 Stone Station Apt. 007\nPort Jeffrey, AR 71160 US\nTel:+(897)050-5918\nEmail:daniel46@example.net\nSite:https://www.everett.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance166.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAdam Wright\n8238 Hernandez Mountain\nLake Aarontown, OK 98929 US\nTel:+(438)771-2052\nEmail:stephanie51@example.com\nSite:https://russell.info/",
+      "DATE": "Date: 08-Oct-2004",
+      "NUMBER": "INVOICE # INV/70-25/358",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nNancy Conley\n74497 James Way Apt. 756\nWest Kathy, GA 51185 US\nTel:+(179)951-8556\nEmail:riverasharon@example.net\nSite:http://www.morton.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance135.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNancy Allison\n0190 Kathleen Path Apt. 635\nShortmouth, DC 89375 US\nTel:+(582)058-1288\nEmail:scottdaniel@example.net\nSite:http://www.bryant-paul.com/",
+      "DATE": "Invoice Date: 23-Feb-2002",
+      "NUMBER": "INVOICE # INV64011387",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nStacy Kelley\n7561 Kelly Mall Apt. 639\nPort Nicole, MN 97402 US\nTel:+(725)822-1086\nEmail:kevinmoore@example.com\nSite:https://www.mcdaniel.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance61.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAndrew Roy\n670 Mann Springs\nSouth Lauraview, MN 76761 US\nTel:+(853)926-6096\nEmail:thomas07@example.net\nSite:https://www.ewing-hall.com/",
+      "DATE": "Invoice Date: 28-Nov-2018",
+      "NUMBER": "Invoice number 2462-665",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nTamara Hale\n235 Heidi Passage\nEast Jamie, KY 06521 US\nTel:+(736)436-7659\nEmail:angela46@example.net\nSite:https://www.schmidt.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance70.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDavid Martin\n131 Julie Meadows Suite 065\nSouth Brooke, AL 43795 US\nTel:+(965)165-1964\nEmail:oallen@example.org\nSite:http://www.walker-coleman.net/",
+      "DATE": "Date: 31-Jan-1996",
+      "NUMBER": "Invoice number 9Y6M3d-525",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRicky Jones\n44313 Stokes Roads\nPort Dominique, VA 66568 US\nTel:+(764)503-7784\nEmail:rachael26@example.net\nSite:https://www.wallace-rose.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance198.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJanet Dean\n35240 David Villages Suite 299\nMendozahaven, MA 48238 US\nTel:+(265)414-3972\nEmail:jeffreymclaughlin@example.org\nSite:http://hodges.biz/",
+      "DATE": "Invoice Date: 15-Sep-1999",
+      "NUMBER": "INVOICE ID INV70624815",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMolly Mccullough\n00458 John Plaza\nBaileyshire, MT 68495 US\nTel:+(045)796-8893\nEmail:alvarezjason@example.org\nSite:https://www.hurst.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance96.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJessica Schaefer\n6414 Amanda Shore\nRobertport, UT 91687 US\nTel:+(610)279-2461\nEmail:kramirez@example.com\nSite:https://www.wright-martin.com/",
+      "DATE": "Date: 03-Apr-2022",
+      "NUMBER": "INVOICE # INV/02-69/820",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRaymond Prince\n4223 Crawford Parkway\nLorifort, VT 69321 US\nTel:+(991)042-7560\nEmail:rpace@example.net\nSite:https://www.velez.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance147.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNatalie Curtis\n7772 Griffith Walks\nNorth Yolandashire, AZ 21493 US\nTel:+(542)743-3411\nEmail:ronaldmiranda@example.com\nSite:http://hernandez.com/",
+      "DATE": "Invoice Date: 17-Nov-2008",
+      "NUMBER": "INVOICE ID INV/55-31/985",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDerek Miller MD\n98413 Williams Corner\nRiverahaven, GU 52660 US\nTel:+(340)112-9594\nEmail:tperez@example.com\nSite:http://www.bennett-dean.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance176.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLori Lam\n099 Anderson Rapids Suite 570\nCampbellchester, NM 14626 US\nTel:+(864)864-1374\nEmail:todd53@example.com\nSite:http://brown.com/",
+      "DATE": "Invoice Date: 16-Sep-2020",
+      "NUMBER": "INVOICE # 9Y8M6d-668",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nNicholas Larson\n1207 Phillips Hills\nPhillipschester, MH 04941 US\nTel:+(655)177-1272\nEmail:jonathan52@example.org\nSite:http://www.fernandez-bruce.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance52.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLisa Haas\n87914 Alicia Fork\nPort Ryan, OR 30801 US\nTel:+(106)113-9344\nEmail:tmiller@example.org\nSite:http://www.lam.net/",
+      "DATE": "Invoice Date: 09-Aug-1996",
+      "NUMBER": "INVOICE # INV44416490",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nErin Grant\n50847 Jennifer Orchard\nHoldenland, CT 35416 US\nTel:+(590)931-4528\nEmail:pcastro@example.org\nSite:http://english-fleming.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance160.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAlan Campbell\n5913 Sean Isle Suite 644\nWest Rhondachester, MO 98583 US\nTel:+(618)160-4801\nEmail:kathleenmarshall@example.com\nSite:http://ellis.net/",
+      "DATE": "Date: 08-Dec-2016",
+      "NUMBER": "INVOICE # 9032-038",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDana Allen\n70658 Jillian Springs\nNew Timothy, UT 96687 US\nTel:+(324)465-2062\nEmail:qcruz@example.net\nSite:http://sullivan-larsen.info/"
+    }
+  },
+  {
+    "image": "Template27_Instance69.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMrs. Sandra Robinson\n97446 Ryan Field Suite 490\nAndersonchester, DC 92111 US\nTel:+(439)302-3324\nEmail:andreaaustin@example.net\nSite:https://www.davis-lopez.org/",
+      "DATE": "Invoice Date: 05-Sep-1998",
+      "NUMBER": "Invoice number 6205-317",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nEmily Moore\n138 Michael Forge Suite 758\nPort Debrachester, MS 57092 US\nTel:+(038)005-2386\nEmail:tyler65@example.net\nSite:http://www.bradley.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance10.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMicheal Lewis\n83560 Gary Landing Apt. 949\nMichaelport, NM 18845 US\nTel:+(606)755-8839\nEmail:meganallen@example.org\nSite:http://alvarez-holder.org/",
+      "DATE": "Invoice Date: 21-Aug-1998",
+      "NUMBER": "INVOICE ID 8500-654",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nJacqueline Mata\n414 Thomas Valley Suite 076\nMichelletown, HI 31574 US\nTel:+(167)922-2804\nEmail:petersonwilliam@example.net\nSite:https://www.vega-guzman.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance41.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCristian Scott\n1502 Steven Rest\nBowmanbury, NJ 35085 US\nTel:+(088)026-3048\nEmail:justinhoward@example.net\nSite:https://www.michael-shields.com/",
+      "DATE": "Date: 08-Sep-2004",
+      "NUMBER": "Invoice number INV53491360",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nRobert Johnson\n5145 Jody Stravenue Apt. 038\nNorth Christopher, MO 69563 US\nTel:+(539)562-0644\nEmail:russellhardin@example.net\nSite:https://www.ruiz-cabrera.biz/"
+    }
+  },
+  {
+    "image": "Template27_Instance75.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVeronica Flores\n8902 Randy Vista Suite 123\nBryantbury, AS 01540 US\nTel:+(314)053-7039\nEmail:rwood@example.com\nSite:https://fitzpatrick.biz/",
+      "DATE": "Invoice Date: 26-Mar-1996",
+      "NUMBER": "Invoice number INV03191747",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nDavid Kennedy\n74714 Ray Estates Suite 008\nLindahaven, PR 79923 US\nTel:+(155)055-4495\nEmail:milesjames@example.com\nSite:http://bailey.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance62.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nYvonne Schultz\n09843 Browning Parkway\nAndersonchester, IA 64045 US\nTel:+(740)506-4347\nEmail:elizabeth75@example.org\nSite:https://elliott.biz/",
+      "DATE": "Date: 17-Apr-2012",
+      "NUMBER": "INVOICE ID 7702-546",
+      "TITLE": "COMMERCIAL INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMelissa Evans\n92210 Gregory Islands\nPadillatown, AR 20630 US\nTel:+(856)207-2272\nEmail:caldwellgregory@example.org\nSite:http://www.coleman.com/"
+    }
+  },
+  {
+    "image": "Template27_Instance85.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGerald Jones\n231 Wright Fork Suite 660\nVaughanview, MO 43626 US\nTel:+(643)670-2006\nEmail:kingchristopher@example.org\nSite:https://simpson.com/",
+      "DATE": "Date: 29-Sep-1995",
+      "NUMBER": "INVOICE # INV46987005",
+      "TITLE": "INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nMichael Johnson\n58892 Mora Neck Apt. 505\nLake Elizabethland, OR 84331 US\nTel:+(145)323-0997\nEmail:christopher80@example.org\nSite:http://www.bowen.org/"
+    }
+  },
+  {
+    "image": "Template27_Instance77.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristopher Horton\n69329 Danny Overpass\nLake Kristinview, VI 41589 US\nTel:+(811)302-5034\nEmail:enichols@example.org\nSite:http://www.mendoza.com/",
+      "DATE": "Invoice Date: 16-Sep-2004",
+      "NUMBER": "INVOICE ID INV82607903",
+      "TITLE": "TAX INVOICE",
+      "GSTIN": "GSTIN Code\nT2ABCDEI24322E4",
+      "SEND_TO": "SHIP_TO:\nAlexander Smith\n419 Barbara Islands Suite 209\nKington, OR 74225 US\nTel:+(131)294-3288\nEmail:hernandezmelinda@example.net\nSite:http://www.bailey-mcdonald.biz/"
+    }
+  }
+]

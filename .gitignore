@@ -12,5 +12,5 @@ checkpoints/
 Thumbs.db
 
 # Ignore large datasets
-data/
-invoice_data/
+data/raw
+data/raw.zip

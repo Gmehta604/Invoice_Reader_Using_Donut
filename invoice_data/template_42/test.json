@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template42_Instance106.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nStephen Goodman\n99320 Henry Highway Suite 857\nStevenshire, NE 38114 US\nTel:+(040)973-2846\nEmail:greenmelissa@example.net\nSite:https://avila.biz/",
+      "DATE": "Date: 16-Jan-1998",
+      "DUE_DATE": "Due Date : 16-Sep-2006",
+      "NUMBER": "INVOICE ID INV/67-93/778",
+      "PO_NUMBER": "PO Number :79",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance116.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichele Crawford\n19676 Beth Corners Suite 094\nHarristown, AS 25300 US\nTel:+(176)335-6117\nEmail:spencer05@example.org\nSite:https://www.mccormick.info/",
+      "DATE": "Invoice Date: 17-Oct-2021",
+      "DUE_DATE": "Due Date : 16-Nov-2005",
+      "NUMBER": "INVOICE # 3Y1M9d-369",
+      "PO_NUMBER": "PO Number :50",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance177.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAlbert Collins\n17335 Victor Mews\nMccannton, UT 61287 US\nTel:+(453)759-9743\nEmail:wduffy@example.org\nSite:http://mccall-robbins.com/",
+      "DATE": "Invoice Date: 19-Mar-2018",
+      "DUE_DATE": "Due Date : 19-May-2004",
+      "NUMBER": "INVOICE ID INV94433225",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance152.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Ramos\n90148 Lindsey Divide\nTiffanyland, WV 47718 US\nTel:+(385)604-9468\nEmail:echung@example.net\nSite:http://garner-gilmore.com/",
+      "DATE": "Invoice Date: 10-May-2012",
+      "DUE_DATE": "Due Date : 20-May-2019",
+      "NUMBER": "Invoice number 2813-992",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance135.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBeth Clayton\n690 Smith Locks Apt. 949\nBowmanburgh, IL 14799 US\nTel:+(769)969-4412\nEmail:wardkevin@example.org\nSite:https://hernandez-jones.org/",
+      "DATE": "Date: 25-Feb-2013",
+      "DUE_DATE": "Due Date : 21-Dec-2001",
+      "NUMBER": "Invoice number 5740-446",
+      "PO_NUMBER": "PO Number :54",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance105.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoan Vega\n220 Melissa Groves\nNorth Stacy, MS 59586 US\nTel:+(288)691-0724\nEmail:awilliams@example.net\nSite:http://www.moore.info/",
+      "DATE": "Invoice Date: 05-Jun-2003",
+      "DUE_DATE": "Due Date : 27-Aug-2021",
+      "NUMBER": "INVOICE # 7103-100",
+      "PO_NUMBER": "PO Number :89",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance120.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKim Martin\n2691 Austin Squares\nJensentown, MT 33903 US\nTel:+(954)967-1340\nEmail:coxjustin@example.com\nSite:https://marsh-gallegos.com/",
+      "DATE": "Date: 11-Jul-1995",
+      "DUE_DATE": "Due Date : 30-Sep-2013",
+      "NUMBER": "INVOICE # 6400-383",
+      "PO_NUMBER": "PO Number :17",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance12.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmy Perez\n687 Sheri Lane Apt. 178\nFriedmantown, WV 13799 US\nTel:+(211)236-0903\nEmail:katherinespence@example.net\nSite:https://www.hess.com/",
+      "DATE": "Invoice Date: 24-Oct-2019",
+      "DUE_DATE": "Due Date : 31-Oct-2015",
+      "NUMBER": "INVOICE ID INV/39-05/387",
+      "PO_NUMBER": "PO Number :05",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance53.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoseph Preston\n375 Marquez Row\nJenningsbury, PA 19186 US\nTel:+(459)756-0919\nEmail:patrick89@example.com\nSite:https://wise.net/",
+      "DATE": "Invoice Date: 30-Apr-2006",
+      "DUE_DATE": "Due Date : 27-Jun-1993",
+      "NUMBER": "INVOICE # INV17916404",
+      "PO_NUMBER": "PO Number :43",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance2.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMiguel Freeman\n927 Brooks Motorway Suite 943\nCameronland, OK 53679 US\nTel:+(522)899-7153\nEmail:arichardson@example.com\nSite:https://joyce.net/",
+      "DATE": "Date: 06-May-2019",
+      "DUE_DATE": "Due Date : 12-Sep-2004",
+      "NUMBER": "Invoice number 8Y4M6d-594",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance75.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLaura Wilson\n51075 Christopher Key\nLake Paula, DC 52212 US\nTel:+(479)555-9239\nEmail:brandi93@example.org\nSite:https://www.taylor.info/",
+      "DATE": "Invoice Date: 20-Jul-1994",
+      "DUE_DATE": "Due Date : 23-Nov-1997",
+      "NUMBER": "INVOICE ID 0315-590",
+      "PO_NUMBER": "PO Number :38",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance146.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLucas Wheeler\n85490 Powers Lakes\nKevinton, OH 81085 US\nTel:+(405)487-6598\nEmail:hartmanbrandon@example.com\nSite:http://www.carroll-mooney.biz/",
+      "DATE": "Invoice Date: 03-Aug-2021",
+      "DUE_DATE": "Due Date : 15-Aug-1993",
+      "NUMBER": "INVOICE # INV/90-01/889",
+      "PO_NUMBER": "PO Number :00",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance114.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nCynthia Oneal\n41292 Kerr Pine Apt. 882\nKevinhaven, MN 82257 US\nTel:+(438)995-1250\nEmail:jessicataylor@example.net\nSite:http://velasquez-houston.com/",
+      "DATE": "Date: 02-Mar-2012",
+      "DUE_DATE": "Due Date : 10-Oct-2012",
+      "NUMBER": "INVOICE ID 3Y7M8d-244",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance27.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRobin Fox\n265 Karen Place\nPatrickchester, RI 06873 US\nTel:+(954)295-4959\nEmail:stewartrebecca@example.net\nSite:https://larson-walker.info/",
+      "DATE": "Date: 20-Oct-2012",
+      "DUE_DATE": "Due Date : 23-Aug-2013",
+      "NUMBER": "INVOICE # INV/78-86/511",
+      "PO_NUMBER": "PO Number :42",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance172.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRichard Kim\n7319 Castro Stravenue\nMillsfort, MO 50256 US\nTel:+(961)938-7576\nEmail:osbornetyler@example.com\nSite:http://butler.com/",
+      "DATE": "Invoice Date: 31-Oct-2000",
+      "DUE_DATE": "Due Date : 03-Jan-1995",
+      "NUMBER": "INVOICE # 1986-318",
+      "PO_NUMBER": "PO Number :98",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance34.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEdward Mckinney\n8985 Cristian Valley Suite 596\nLewishaven, DC 20049 US\nTel:+(424)423-8262\nEmail:xdavis@example.org\nSite:http://sloan.com/",
+      "DATE": "Date: 26-May-2004",
+      "DUE_DATE": "Due Date : 19-Jan-1997",
+      "NUMBER": "Invoice number INV26757628",
+      "PO_NUMBER": "PO Number :72",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance51.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDestiny Lee\n497 Erik Mission Suite 047\nAndreaport, LA 91651 US\nTel:+(327)657-0126\nEmail:qfrye@example.org\nSite:http://guerrero.com/",
+      "DATE": "Invoice Date: 09-Sep-2009",
+      "DUE_DATE": "Due Date : 07-Feb-2012",
+      "NUMBER": "INVOICE # INV/82-42/412",
+      "PO_NUMBER": "PO Number :75",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance102.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGabriel Johnson\n1549 Julia Hill Suite 840\nWest Noahbury, MD 15505 US\nTel:+(247)465-4823\nEmail:matthewfoster@example.net\nSite:http://rodriguez.net/",
+      "DATE": "Date: 14-May-2015",
+      "DUE_DATE": "Due Date : 03-May-1997",
+      "NUMBER": "Invoice number INV/03-62/516",
+      "PO_NUMBER": "PO Number :54",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance10.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmy Daniels\n316 Hickman Ramp\nNorth Kristineport, ND 69728 US\nTel:+(347)262-0529\nEmail:earlgomez@example.com\nSite:http://www.castaneda-gregory.com/",
+      "DATE": "Date: 17-Mar-1999",
+      "DUE_DATE": "Due Date : 18-Jun-2016",
+      "NUMBER": "INVOICE ID INV/77-40/190",
+      "PO_NUMBER": "PO Number :94",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance173.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRicardo Li\n4541 Adams Ridges Suite 301\nSouth Jimmystad, KY 74866 US\nTel:+(600)150-5783\nEmail:anthony58@example.net\nSite:http://brown-ford.info/",
+      "DATE": "Date: 06-Jan-1996",
+      "DUE_DATE": "Due Date : 01-Feb-1996",
+      "NUMBER": "INVOICE # 5Y5M2d-913",
+      "PO_NUMBER": "PO Number :69",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance140.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nErin Jones\n015 Franklin Dam Suite 569\nStevenland, AZ 96483 US\nTel:+(603)471-2444\nEmail:wubrittany@example.org\nSite:http://russo.org/",
+      "DATE": "Date: 29-Apr-2003",
+      "DUE_DATE": "Due Date : 04-Sep-2017",
+      "NUMBER": "Invoice number 3Y2M8d-246",
+      "PO_NUMBER": "PO Number :33",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance165.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDavid Gardner\n76121 Sean Brook\nPhillipsside, NE 26412 US\nTel:+(245)734-4363\nEmail:brian59@example.net\nSite:http://www.wells-rodriguez.com/",
+      "DATE": "Invoice Date: 01-Aug-1994",
+      "DUE_DATE": "Due Date : 05-Dec-1999",
+      "NUMBER": "INVOICE # 2Y4M2d-713",
+      "PO_NUMBER": "PO Number :02",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance190.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrent Jones\n233 Heather Views Apt. 763\nJamesmouth, MD 13603 US\nTel:+(932)154-0089\nEmail:cdickerson@example.net\nSite:http://paul.org/",
+      "DATE": "Invoice Date: 28-Feb-2018",
+      "DUE_DATE": "Due Date : 14-Dec-2004",
+      "NUMBER": "INVOICE ID 6Y7M8d-559",
+      "PO_NUMBER": "PO Number :50",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance73.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKatrina Collins\n3257 Perry Oval Apt. 309\nTylerburgh, NM 32850 US\nTel:+(542)158-0596\nEmail:uwallace@example.com\nSite:http://www.carroll.net/",
+      "DATE": "Date: 28-Jun-2003",
+      "DUE_DATE": "Due Date : 26-Jun-2013",
+      "NUMBER": "INVOICE # 3Y7M5d-457",
+      "PO_NUMBER": "PO Number :57",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance108.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLuis Miller\n011 Hamilton Trail Suite 495\nPort Jamie, TN 70244 US\nTel:+(309)773-9772\nEmail:costachristine@example.org\nSite:https://sawyer.com/",
+      "DATE": "Invoice Date: 11-Aug-2004",
+      "DUE_DATE": "Due Date : 03-Nov-1998",
+      "NUMBER": "INVOICE ID INV/07-74/967",
+      "PO_NUMBER": "PO Number :90",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance186.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDr. Ryan Bautista\n316 Steven Via\nLake Danielchester, MS 75015 US\nTel:+(903)433-8123\nEmail:louis66@example.com\nSite:http://www.morton.info/",
+      "DATE": "Invoice Date: 25-Nov-2009",
+      "DUE_DATE": "Due Date : 05-Jul-2000",
+      "NUMBER": "INVOICE ID 9Y5M7d-457",
+      "PO_NUMBER": "PO Number :03",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance138.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTimothy Davis\n3944 Foley Loaf\nPattonfort, TX 95508 US\nTel:+(980)515-3979\nEmail:qgibson@example.org\nSite:https://walters-bryan.net/",
+      "DATE": "Invoice Date: 06-Apr-2016",
+      "DUE_DATE": "Due Date : 15-Sep-2009",
+      "NUMBER": "INVOICE # INV/67-41/422",
+      "PO_NUMBER": "PO Number :98",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance132.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichelle Davis\n876 Gibson Crest Apt. 759\nWest Krystal, PR 56155 US\nTel:+(693)332-3844\nEmail:leahsmith@example.org\nSite:https://www.parker-beard.com/",
+      "DATE": "Date: 13-Jul-2009",
+      "DUE_DATE": "Due Date : 03-Feb-2020",
+      "NUMBER": "INVOICE ID INV90098443",
+      "PO_NUMBER": "PO Number :47",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance61.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAndrew Henry\n515 Michelle Springs Suite 892\nSouth Wendy, PW 52833 US\nTel:+(554)976-5303\nEmail:sgonzalez@example.net\nSite:http://carrillo-smith.com/",
+      "DATE": "Invoice Date: 26-May-2000",
+      "DUE_DATE": "Due Date : 03-Feb-1995",
+      "NUMBER": "Invoice number 9027-301",
+      "PO_NUMBER": "PO Number :58",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance70.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHeidi Mosley\n9668 Lisa Plain Suite 069\nPorterberg, OR 60930 US\nTel:+(994)747-0106\nEmail:vaughanstephanie@example.com\nSite:http://jones.com/",
+      "DATE": "Invoice Date: 14-Oct-1995",
+      "DUE_DATE": "Due Date : 26-Dec-2019",
+      "NUMBER": "INVOICE # INV72672293",
+      "PO_NUMBER": "PO Number :53",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance124.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBetty Simpson\n28746 Andrea Ville Suite 844\nWest Keithside, VI 97290 US\nTel:+(884)879-4172\nEmail:roselaura@example.com\nSite:http://norman.com/",
+      "DATE": "Invoice Date: 05-May-2016",
+      "DUE_DATE": "Due Date : 06-Oct-2006",
+      "NUMBER": "INVOICE # 4Y5M5d-554",
+      "PO_NUMBER": "PO Number :71",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance91.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMatthew Scott\n7854 Lewis Lake Suite 316\nEast Gerald, TX 33555 US\nTel:+(261)515-7688\nEmail:ehunter@example.com\nSite:http://medina.com/",
+      "DATE": "Date: 05-Nov-2020",
+      "DUE_DATE": "Due Date : 16-Sep-1993",
+      "NUMBER": "INVOICE ID 1883-241",
+      "PO_NUMBER": "PO Number :58",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance133.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGary Hernandez\n990 Anthony Road Apt. 714\nErinborough, LA 01520 US\nTel:+(431)335-8724\nEmail:qtaylor@example.com\nSite:http://www.daniels.com/",
+      "DATE": "Date: 19-Jan-1997",
+      "DUE_DATE": "Due Date : 14-Jul-2010",
+      "NUMBER": "INVOICE ID INV80408141",
+      "PO_NUMBER": "PO Number :18",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance154.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDiamond Powell\n8566 Allison Course Suite 517\nNew Chris, NM 86055 US\nTel:+(251)526-2390\nEmail:justinmcgrath@example.com\nSite:https://www.russell-munoz.net/",
+      "DATE": "Date: 29-Aug-2015",
+      "DUE_DATE": "Due Date : 22-Mar-2004",
+      "NUMBER": "INVOICE ID 5420-757",
+      "PO_NUMBER": "PO Number :49",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance119.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGabriella Harrison\n84103 Jackson Flat Suite 431\nWardstad, LA 16686 US\nTel:+(262)585-4389\nEmail:critter@example.org\nSite:https://www.castillo-thompson.info/",
+      "DATE": "Date: 30-Jan-2003",
+      "DUE_DATE": "Due Date : 27-Mar-2010",
+      "NUMBER": "INVOICE # INV78533761",
+      "PO_NUMBER": "PO Number :00",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance121.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nStephanie Ramirez\n241 Kimberly Extension Apt. 476\nNorth Heatherport, CA 22671 US\nTel:+(822)140-3387\nEmail:ocook@example.com\nSite:http://www.sloan-perez.com/",
+      "DATE": "Invoice Date: 29-Oct-1996",
+      "DUE_DATE": "Due Date : 10-Sep-2001",
+      "NUMBER": "INVOICE ID 9Y5M7d-510",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance64.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRachel Ortega\n3662 Cook Points\nSouth Melissastad, CT 97914 US\nTel:+(699)728-8473\nEmail:frederick04@example.com\nSite:http://www.peters.com/",
+      "DATE": "Invoice Date: 24-Dec-2003",
+      "DUE_DATE": "Due Date : 17-Apr-1994",
+      "NUMBER": "INVOICE ID INV04399011",
+      "PO_NUMBER": "PO Number :63",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance62.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJessica Hines\n25664 Blake Turnpike Apt. 648\nDarrellland, MI 38332 US\nTel:+(850)853-1735\nEmail:tranjustin@example.com\nSite:https://www.calhoun-henry.org/",
+      "DATE": "Date: 22-Feb-2001",
+      "DUE_DATE": "Due Date : 06-Jul-2000",
+      "NUMBER": "INVOICE ID 1Y9M8d-259",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance163.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAaron Newton\n854 Paul Vista\nPerkinsport, AR 70166 US\nTel:+(012)905-6717\nEmail:andrewbridges@example.org\nSite:http://gibson.com/",
+      "DATE": "Date: 19-Jul-1994",
+      "DUE_DATE": "Due Date : 07-Jan-1997",
+      "NUMBER": "Invoice number 1287-447",
+      "PO_NUMBER": "PO Number :64",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template42_Instance94.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTiffany Jackson\n133 Carrillo Mill\nSouth Susanberg, NV 26231 US\nTel:+(783)019-1890\nEmail:dylandrake@example.net\nSite:https://www.carter-boyle.org/",
+      "DATE": "Date: 10-Jul-2002",
+      "DUE_DATE": "Due Date : 24-Sep-1995",
+      "NUMBER": "INVOICE # INV/01-99/870",
+      "PO_NUMBER": "PO Number :95",
+      "SELLER_ADDRESS": "Address:84945 Watson Greens Suite 097\nMaryshire, TX 73257 US",
+      "SELLER_EMAIL": "Email:milleramanda@example.com",
+      "SELLER_NAME": "White-Owens",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  }
+]

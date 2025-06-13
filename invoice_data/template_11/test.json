@@ -1,0 +1,642 @@
+[
+  {
+    "image": "Template11_Instance38.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 05-Jun-1997",
+      "DISCOUNT": "DISCOUNT(4.68%): (-)  18.9",
+      "DUE_DATE": "Due Date : 13-Dec-2016",
+      "NUMBER": "Invoice number INV/44-43/932",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 403.79  EUR",
+      "TAX": "TAX:VAT (5.31%):  21.43 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 420.90 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance75.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-Sep-1998",
+      "DISCOUNT": "DISCOUNT(1.61%): (-)  0.31",
+      "DUE_DATE": "Due Date : 27-Jan-2000",
+      "NUMBER": "INVOICE # 4Y4M2d-361",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 19.16  USD",
+      "TAX": "TAX:VAT (3.10%):  0.59 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 19.45 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance72.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 25-Jul-1999",
+      "DISCOUNT": "DISCOUNT(4.4%): (-)  22.95",
+      "DUE_DATE": "Due Date : 01-Oct-1995",
+      "NUMBER": "INVOICE ID INV/45-68/836",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 521.61  USD",
+      "TAX": "TAX:VAT (6.51%):  33.97 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 535.50 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance144.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 14-Aug-1996",
+      "DISCOUNT": "DISCOUNT(4.21%): (-)  40.34",
+      "DUE_DATE": "Due Date : 06-Jun-2003",
+      "NUMBER": "INVOICE # INV79848895",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 958.20  EUR",
+      "TAX": "TAX:VAT (3.17%):  30.35 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 972.16 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance127.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Jul-2014",
+      "DISCOUNT": "DISCOUNT(1.62%): (-)  18.52",
+      "DUE_DATE": "Due Date : 17-Jul-1993",
+      "NUMBER": "INVOICE ID 0542-816",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1142.98  USD",
+      "TAX": "TAX:VAT (5.84%):  66.76 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1168.48 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance7.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-Jan-2003",
+      "DISCOUNT": "DISCOUNT(4.24%): (-)  7.9",
+      "DUE_DATE": "Due Date : 03-Sep-2002",
+      "NUMBER": "INVOICE ID INV/88-81/868",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 186.36  USD",
+      "TAX": "TAX:VAT (4.34%):  8.09 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 186.87 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance83.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 18-Oct-2022",
+      "DISCOUNT": "DISCOUNT(4.11%): (-)  28.6",
+      "DUE_DATE": "Due Date : 12-Feb-1995",
+      "NUMBER": "INVOICE ID 2Y4M8d-787",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 695.84  USD",
+      "TAX": "TAX:VAT (5.63%):  39.17 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 726.52 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance192.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-May-2012",
+      "DISCOUNT": "DISCOUNT(4.94%): (-)  49.71",
+      "DUE_DATE": "Due Date : 05-Mar-2019",
+      "NUMBER": "INVOICE # 1Y5M4d-802",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1006.32  USD",
+      "TAX": "TAX:VAT (6.57%):  66.08 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1028.32 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance22.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 16-Mar-2016",
+      "DISCOUNT": "DISCOUNT(2.51%): (-)  12.15",
+      "DUE_DATE": "Due Date : 07-Nov-2011",
+      "NUMBER": "INVOICE # 6Y5M7d-817",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 484.00  EUR",
+      "TAX": "TAX:VAT (6.72%):  32.52 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 511.53 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance104.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Nov-2011",
+      "DISCOUNT": "DISCOUNT(3.69%): (-)  13.57",
+      "DUE_DATE": "Due Date : 01-Sep-2022",
+      "NUMBER": "INVOICE ID 1163-405",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 367.65  EUR",
+      "TAX": "TAX:VAT (6.23%):  22.89 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 376.94 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance156.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Apr-1993",
+      "DISCOUNT": "DISCOUNT(2.32%): (-)  18.11",
+      "DUE_DATE": "Due Date : 30-May-2003",
+      "NUMBER": "INVOICE # 9Y1M9d-399",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 780.57  USD",
+      "TAX": "TAX:VAT (3.27%):  25.51 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 792.65 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance5.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-Jul-1996",
+      "DISCOUNT": "DISCOUNT(3.74%): (-)  27.3",
+      "DUE_DATE": "Due Date : 22-Mar-2010",
+      "NUMBER": "INVOICE # 2058-085",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 730.00  $",
+      "TAX": "TAX:VAT (6.36%):  46.44 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 748.33 $"
+    }
+  },
+  {
+    "image": "Template11_Instance46.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 09-Apr-1999",
+      "DISCOUNT": "DISCOUNT(4.59%): (-)  46.86",
+      "DUE_DATE": "Due Date : 06-Jan-2001",
+      "NUMBER": "Invoice number 1218-350",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1020.93  USD",
+      "TAX": "TAX:VAT (4.58%):  46.76 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1025.53 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance13.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 04-Aug-2009",
+      "DISCOUNT": "DISCOUNT(2.83%): (-)  4.6",
+      "DUE_DATE": "Due Date : 30-Mar-2009",
+      "NUMBER": "INVOICE ID INV/28-56/174",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 162.52  $",
+      "TAX": "TAX:VAT (5.60%):  9.11 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 166.22 $"
+    }
+  },
+  {
+    "image": "Template11_Instance188.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 20-Nov-2020",
+      "DISCOUNT": "DISCOUNT(3.23%): (-)  21.13",
+      "DUE_DATE": "Due Date : 21-Aug-2020",
+      "NUMBER": "INVOICE # INV63669528",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 654.26  $",
+      "TAX": "TAX:VAT (3.87%):  25.31 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 669.30 $"
+    }
+  },
+  {
+    "image": "Template11_Instance179.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-Jul-1996",
+      "DISCOUNT": "DISCOUNT(4.89%): (-)  54.19",
+      "DUE_DATE": "Due Date : 18-Oct-2016",
+      "NUMBER": "INVOICE ID INV51981746",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1108.11  USD",
+      "TAX": "TAX:VAT (5.01%):  55.52 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1123.52 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance162.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Jun-2021",
+      "DISCOUNT": "DISCOUNT(2.32%): (-)  15.09",
+      "DUE_DATE": "Due Date : 13-Nov-2000",
+      "NUMBER": "INVOICE # INV/51-96/196",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 650.49  EUR",
+      "TAX": "TAX:VAT (4.36%):  28.36 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 646.52 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance109.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 04-Aug-2020",
+      "DISCOUNT": "DISCOUNT(4.73%): (-)  36.16",
+      "DUE_DATE": "Due Date : 17-Sep-2009",
+      "NUMBER": "Invoice number 3569-099",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 764.53  EUR",
+      "TAX": "TAX:VAT (5.94%):  45.39 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 784.23 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance45.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 17-May-2020",
+      "DISCOUNT": "DISCOUNT(4.34%): (-)  48.32",
+      "DUE_DATE": "Due Date : 11-Feb-2012",
+      "NUMBER": "INVOICE # 5550-625",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1113.30  $",
+      "TAX": "TAX:VAT (3.83%):  42.68 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1139.84 $"
+    }
+  },
+  {
+    "image": "Template11_Instance1.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 30-Nov-2021",
+      "DISCOUNT": "DISCOUNT(1.59%): (-)  7.99",
+      "DUE_DATE": "Due Date : 17-Feb-2008",
+      "NUMBER": "INVOICE # 0875-302",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 502.83  $",
+      "TAX": "TAX:VAT (4.65%):  23.40 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 505.92 $"
+    }
+  },
+  {
+    "image": "Template11_Instance176.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-Nov-2010",
+      "DISCOUNT": "DISCOUNT(4.35%): (-)  24.54",
+      "DUE_DATE": "Due Date : 14-Jul-2022",
+      "NUMBER": "INVOICE # 3Y1M1d-913",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 564.20  $",
+      "TAX": "TAX:VAT (4.67%):  26.32 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 572.35 $"
+    }
+  },
+  {
+    "image": "Template11_Instance39.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Jul-2009",
+      "DISCOUNT": "DISCOUNT(3.1%): (-)  6.07",
+      "DUE_DATE": "Due Date : 09-Sep-2001",
+      "NUMBER": "INVOICE # INV/77-45/847",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 195.66  $",
+      "TAX": "TAX:VAT (6.80%):  13.31 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 205.53 $"
+    }
+  },
+  {
+    "image": "Template11_Instance56.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-Nov-2002",
+      "DISCOUNT": "DISCOUNT(2.41%): (-)  13.0",
+      "DUE_DATE": "Due Date : 01-Jan-2008",
+      "NUMBER": "Invoice number INV09179459",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 539.31  USD",
+      "TAX": "TAX:VAT (5.91%):  31.89 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 551.46 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance16.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Apr-2018",
+      "DISCOUNT": "DISCOUNT(1.03%): (-)  5.64",
+      "DUE_DATE": "Due Date : 14-Jan-1994",
+      "NUMBER": "INVOICE # 4492-370",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 548.00  $",
+      "TAX": "TAX:VAT (3.70%):  20.30 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 558.87 $"
+    }
+  },
+  {
+    "image": "Template11_Instance0.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 20-Apr-2010",
+      "DISCOUNT": "DISCOUNT(4.62%): (-)  12.33",
+      "DUE_DATE": "Due Date : 25-Jul-2015",
+      "NUMBER": "Invoice number INV/72-06/714",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 266.80  $",
+      "TAX": "TAX:VAT (3.85%):  10.26 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 264.25 $"
+    }
+  },
+  {
+    "image": "Template11_Instance58.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Jul-2001",
+      "DISCOUNT": "DISCOUNT(2.16%): (-)  17.56",
+      "DUE_DATE": "Due Date : 05-May-2011",
+      "NUMBER": "Invoice number INV13971351",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 813.14  USD",
+      "TAX": "TAX:VAT (6.87%):  55.90 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 850.26 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance128.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 25-Apr-1999",
+      "DISCOUNT": "DISCOUNT(2.93%): (-)  19.86",
+      "DUE_DATE": "Due Date : 17-Mar-1999",
+      "NUMBER": "INVOICE ID INV/39-70/094",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 677.96  USD",
+      "TAX": "TAX:VAT (6.80%):  46.11 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 694.51 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance157.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Apr-2005",
+      "DISCOUNT": "DISCOUNT(4.57%): (-)  17.5",
+      "DUE_DATE": "Due Date : 13-Mar-2005",
+      "NUMBER": "Invoice number 7003-117",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 383.00  $",
+      "TAX": "TAX:VAT (5.25%):  20.10 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 386.21 $"
+    }
+  },
+  {
+    "image": "Template11_Instance103.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 15-Jan-2004",
+      "DISCOUNT": "DISCOUNT(1.88%): (-)  4.9",
+      "DUE_DATE": "Due Date : 17-Aug-2017",
+      "NUMBER": "Invoice number INV99092100",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 260.80  $",
+      "TAX": "TAX:VAT (3.65%):  9.51 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 264.70 $"
+    }
+  },
+  {
+    "image": "Template11_Instance150.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Aug-2009",
+      "DISCOUNT": "DISCOUNT(2.59%): (-)  33.34",
+      "DUE_DATE": "Due Date : 25-Mar-2018",
+      "NUMBER": "INVOICE ID 5898-554",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1287.37  USD",
+      "TAX": "TAX:VAT (5.01%):  64.45 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1318.61 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance15.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-Jun-2005",
+      "DISCOUNT": "DISCOUNT(3.35%): (-)  21.37",
+      "DUE_DATE": "Due Date : 05-Sep-2022",
+      "NUMBER": "INVOICE ID INV/78-38/121",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 637.78  EUR",
+      "TAX": "TAX:VAT (6.91%):  44.07 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 673.05 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance3.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 27-Dec-2019",
+      "DISCOUNT": "DISCOUNT(2.39%): (-)  14.13",
+      "DUE_DATE": "Due Date : 14-Mar-1998",
+      "NUMBER": "INVOICE # 2731-034",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 591.34  $",
+      "TAX": "TAX:VAT (3.29%):  19.48 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 587.05 $"
+    }
+  },
+  {
+    "image": "Template11_Instance121.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 14-Apr-2013",
+      "DISCOUNT": "DISCOUNT(3.17%): (-)  16.24",
+      "DUE_DATE": "Due Date : 15-Apr-2014",
+      "NUMBER": "INVOICE ID INV/72-23/723",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 512.33  EUR",
+      "TAX": "TAX:VAT (6.32%):  32.38 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 529.75 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance169.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 15-Mar-2018",
+      "DISCOUNT": "DISCOUNT(3.47%): (-)  25.34",
+      "DUE_DATE": "Due Date : 31-Jan-2013",
+      "NUMBER": "INVOICE # 1927-908",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 730.40  USD",
+      "TAX": "TAX:VAT (6.32%):  46.15 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 766.91 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance182.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Mar-2009",
+      "DISCOUNT": "DISCOUNT(3.88%): (-)  7.84",
+      "DUE_DATE": "Due Date : 25-Dec-2019",
+      "NUMBER": "Invoice number INV/24-21/860",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 202.12  EUR",
+      "TAX": "TAX:VAT (5.70%):  11.52 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 206.83 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance180.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 17-Jun-1995",
+      "DISCOUNT": "DISCOUNT(3.5%): (-)  37.42",
+      "DUE_DATE": "Due Date : 13-May-2000",
+      "NUMBER": "INVOICE # INV/02-69/160",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1069.15  $",
+      "TAX": "TAX:VAT (6.71%):  71.77 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1122.32 $"
+    }
+  },
+  {
+    "image": "Template11_Instance129.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 22-Jul-1999",
+      "DISCOUNT": "DISCOUNT(2.89%): (-)  13.3",
+      "DUE_DATE": "Due Date : 02-Aug-1994",
+      "NUMBER": "INVOICE # 2204-617",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 460.14  USD",
+      "TAX": "TAX:VAT (6.67%):  30.69 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 473.25 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance82.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Jun-1995",
+      "DISCOUNT": "DISCOUNT(2.08%): (-)  10.2",
+      "DUE_DATE": "Due Date : 10-Dec-1996",
+      "NUMBER": "INVOICE ID INV/05-96/295",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 490.52  USD",
+      "TAX": "TAX:VAT (4.14%):  20.33 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 500.60 USD"
+    }
+  },
+  {
+    "image": "Template11_Instance51.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 01-Jan-1995",
+      "DISCOUNT": "DISCOUNT(4.01%): (-)  16.02",
+      "DUE_DATE": "Due Date : 29-Apr-2010",
+      "NUMBER": "INVOICE # 9Y9M4d-527",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 399.54  EUR",
+      "TAX": "TAX:VAT (5.71%):  22.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 403.09 EUR"
+    }
+  },
+  {
+    "image": "Template11_Instance132.jpg",
+    "ground_truth": {
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 28-Apr-2016",
+      "DISCOUNT": "DISCOUNT(4.12%): (-)  27.39",
+      "DUE_DATE": "Due Date : 23-Nov-2011",
+      "NUMBER": "INVOICE ID INV29676481",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:lisa97@example.org",
+      "SUB_TOTAL": "SUB_TOTAL : 664.84  USD",
+      "TAX": "TAX:VAT (6.29%):  41.84 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 689.06 USD"
+    }
+  }
+]

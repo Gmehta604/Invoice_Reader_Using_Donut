@@ -1,0 +1,522 @@
+[
+  {
+    "image": "Template34_Instance10.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Dec-2002",
+      "NUMBER": "INVOICE # 0237-550",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 604.35 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fo-\nur point three five",
+      "SEND_TO": "SHIP_TO:\nLauren Morales\n0903 Sean Place Apt. 390\nEast Angelaland, MD 57897 US\nTel:+(899)561-1686\nEmail:parkeremily@example.org\nSite:http://stout-fuentes.info/"
+    }
+  },
+  {
+    "image": "Template34_Instance125.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Mar-2018",
+      "NUMBER": "Invoice number INV/55-53/963",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 149.13 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-nine point one three",
+      "SEND_TO": "SHIP_TO:\nJames Dunlap\n03008 Ellis Brook\nPort Craig, NJ 37319 US\nTel:+(330)655-3161\nEmail:underwoodkathy@example.com\nSite:http://www.harrington.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance194.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Dec-2008",
+      "NUMBER": "INVOICE ID INV/99-32/308",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1055.32 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and fift-\ny-five point three two",
+      "SEND_TO": "SHIP_TO:\nJamie Waters\n0578 Lang Harbor\nTroyborough, PW 53631 US\nTel:+(828)173-9758\nEmail:iwright@example.org\nSite:http://hicks.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance190.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Jul-2006",
+      "NUMBER": "Invoice number 8793-864",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1291.70 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred -\nand ninety-one point seven",
+      "SEND_TO": "SHIP_TO:\nBrandon Smith\n9247 Joshua Shoal Suite 905\nKnightland, AL 50448 US\nTel:+(065)968-0028\nEmail:davischristopher@example.net\nSite:http://smith-clay.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance86.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Jun-2020",
+      "NUMBER": "Invoice number INV24952199",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 776.77 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seven-\nty-six point seven seven",
+      "SEND_TO": "SHIP_TO:\nCarly West\n59784 Flores Corner Suite 796\nJonesmouth, WI 48314 US\nTel:+(046)429-6356\nEmail:michael62@example.com\nSite:https://www.white.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance95.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Jul-2010",
+      "NUMBER": "INVOICE ID INV49164016",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 352.25 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fif-\nty-two point two five",
+      "SEND_TO": "SHIP_TO:\nElizabeth Adams\n87659 David Plains\nOrtegaland, WV 49912 US\nTel:+(475)844-8818\nEmail:christinethomas@example.net\nSite:http://perez-howard.info/"
+    }
+  },
+  {
+    "image": "Template34_Instance67.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Aug-1997",
+      "NUMBER": "Invoice number INV14805682",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 261.95 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixt-\ny-one point nine five",
+      "SEND_TO": "SHIP_TO:\nCheryl Gibson\n8841 Wendy Station Apt. 457\nTammyhaven, AS 75162 US\nTel:+(752)589-7630\nEmail:margaretbarber@example.com\nSite:https://kennedy-woods.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance29.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Jan-2011",
+      "NUMBER": "INVOICE # INV26382327",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 674.33 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and seventy-\n-four point three three",
+      "SEND_TO": "SHIP_TO:\nAnthony Garcia\n46639 Brian Common Suite 054\nLake William, HI 94568 US\nTel:+(642)348-7165\nEmail:tiffanylyons@example.net\nSite:http://www.yang.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance48.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-May-2003",
+      "NUMBER": "INVOICE ID 7638-043",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 981.76 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-one point seven six",
+      "SEND_TO": "SHIP_TO:\nMelissa Lopez\n07653 Rodriguez Gateway\nMichaelville, ID 40453 US\nTel:+(364)829-4137\nEmail:tanya91@example.net\nSite:https://hall.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance9.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Apr-1995",
+      "NUMBER": "INVOICE ID INV41228070",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 174.41 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and seven-\nty-four point four one",
+      "SEND_TO": "SHIP_TO:\nJohnathan Wright\n94807 Russell Meadows\nSmithton, HI 41258 US\nTel:+(107)738-3349\nEmail:tonirobinson@example.com\nSite:http://fox.net/"
+    }
+  },
+  {
+    "image": "Template34_Instance83.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Dec-2003",
+      "NUMBER": "Invoice number 5036-937",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 528.96 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and twent-\ny-eight point nine six",
+      "SEND_TO": "SHIP_TO:\nVeronica Lane\n496 Pamela Oval\nEllenborough, OH 93575 US\nTel:+(316)885-6697\nEmail:charles63@example.net\nSite:https://james.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance68.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Jan-2018",
+      "NUMBER": "Invoice number 9Y9M1d-330",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 552.14 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fif-\nty-two point one four",
+      "SEND_TO": "SHIP_TO:\nDuane Johnson\n178 Taylor Way\nPort Tiffany, MH 21952 US\nTel:+(798)000-1041\nEmail:fcooper@example.com\nSite:http://www.nelson.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance112.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Jan-1999",
+      "NUMBER": "INVOICE ID 3Y9M3d-383",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 855.83 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fifty-\n-five point eight three",
+      "SEND_TO": "SHIP_TO:\nMichelle Thompson\n847 Desiree Stream\nMollybury, RI 61363 US\nTel:+(418)196-7977\nEmail:hurleytravis@example.com\nSite:http://smith.net/"
+    }
+  },
+  {
+    "image": "Template34_Instance174.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Jan-2001",
+      "NUMBER": "Invoice number INV/07-26/317",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 802.86 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and -\ntwo point eight six",
+      "SEND_TO": "SHIP_TO:\nEmily Harrison\n2283 Tiffany Knolls\nNorth James, UT 28737 US\nTel:+(014)106-4272\nEmail:margaret05@example.org\nSite:http://www.watts-marshall.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance78.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Feb-2007",
+      "NUMBER": "Invoice number INV78902554",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 414.56 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and fou-\nrteen point five six",
+      "SEND_TO": "SHIP_TO:\nMandy Peterson\n749 Molina Stravenue\nLake Michaelshire, CA 57792 US\nTel:+(878)648-7752\nEmail:wilsonrebecca@example.com\nSite:http://www.shaw-swanson.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance32.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Mar-2017",
+      "NUMBER": "INVOICE ID INV54827519",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 638.90 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and thi-\nrty-eight point nine",
+      "SEND_TO": "SHIP_TO:\nVincent Melton\n837 Patterson Forge\nLake Kimberly, AR 46586 US\nTel:+(011)653-4320\nEmail:philipsmith@example.org\nSite:https://www.miller.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance180.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Oct-1998",
+      "NUMBER": "INVOICE # 9Y8M9d-142",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 675.89 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-five point eight nine",
+      "SEND_TO": "SHIP_TO:\nJustin Torres\n456 Ferguson Springs Apt. 931\nEast Allen, WI 21684 US\nTel:+(440)970-9342\nEmail:hparker@example.com\nSite:http://www.simon.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance184.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Aug-1996",
+      "NUMBER": "Invoice number 5189-190",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 458.84 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and fifty-\n-eight point eight four",
+      "SEND_TO": "SHIP_TO:\nKimberly Duffy\n113 Ryan Inlet Suite 023\nMorrisonmouth, DE 06874 US\nTel:+(855)482-1899\nEmail:andres63@example.org\nSite:http://www.rios.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance76.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Oct-1993",
+      "NUMBER": "Invoice number 6Y6M2d-921",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 349.04 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-nine point zero four",
+      "SEND_TO": "SHIP_TO:\nShirley Harris\n6740 Miller Spring\nPort Jose, ID 27242 US\nTel:+(880)178-3589\nEmail:samantha69@example.net\nSite:http://alexander.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance69.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-May-1997",
+      "NUMBER": "Invoice number INV63713296",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 530.63 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and th-\nirty point six three",
+      "SEND_TO": "SHIP_TO:\nTroy Robbins\n86067 Hernandez Lake\nMichaelshire, CT 87533 US\nTel:+(341)590-5029\nEmail:anna35@example.com\nSite:https://contreras-hurst.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance145.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Feb-2005",
+      "NUMBER": "INVOICE ID 2Y2M7d-846",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 266.63 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixt-\ny-six point six three",
+      "SEND_TO": "SHIP_TO:\nKelly Keller\n989 Laura Walks Suite 199\nLake Tracy, GU 67786 US\nTel:+(358)481-6807\nEmail:patrick41@example.org\nSite:https://nichols-hernandez.biz/"
+    }
+  },
+  {
+    "image": "Template34_Instance24.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Mar-2021",
+      "NUMBER": "Invoice number INV/51-20/776",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 118.37 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and eight-\neen point three seven",
+      "SEND_TO": "SHIP_TO:\nEric Harrington\n356 Holland Valley\nSouth Erik, SC 08447 US\nTel:+(127)322-2029\nEmail:wendy36@example.org\nSite:http://patterson.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance31.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Sep-1998",
+      "NUMBER": "Invoice number INV90976057",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 240.46 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and fo-\nrty point four six",
+      "SEND_TO": "SHIP_TO:\nEric Phillips\n4771 Jackson Fields Apt. 851\nWest Deborah, MP 31114 US\nTel:+(462)516-2055\nEmail:robertgoodwin@example.net\nSite:https://johnson.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance80.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Jul-2006",
+      "NUMBER": "Invoice number INV/33-52/075",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 194.51 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninet-\ny-four point five one",
+      "SEND_TO": "SHIP_TO:\nTerri Flores\n39130 Weiss Curve\nNew Tammy, OK 62831 US\nTel:+(358)195-0566\nEmail:anthonyharris@example.com\nSite:http://barker-johnson.biz/"
+    }
+  },
+  {
+    "image": "Template34_Instance171.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Mar-2021",
+      "NUMBER": "Invoice number 6661-434",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 573.31 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-three point three one",
+      "SEND_TO": "SHIP_TO:\nMichael Calderon\n471 Lang Creek\nSouth Travisshire, TX 84108 US\nTel:+(715)910-1503\nEmail:terrytaylor@example.org\nSite:http://estes.info/"
+    }
+  },
+  {
+    "image": "Template34_Instance63.jpg",
+    "ground_truth": {
+      "DATE": "Date: 01-Mar-2006",
+      "NUMBER": "INVOICE # 6Y7M7d-074",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 520.92 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and tw-\nenty point nine two",
+      "SEND_TO": "SHIP_TO:\nAllison Ayala\n1116 Andrea Rest\nSouth Robyn, ME 75771 US\nTel:+(352)507-4769\nEmail:williamsjimmy@example.com\nSite:https://www.potter.org/"
+    }
+  },
+  {
+    "image": "Template34_Instance59.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Sep-1998",
+      "NUMBER": "Invoice number INV91120725",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 768.00 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred -\nand sixty-eight",
+      "SEND_TO": "SHIP_TO:\nMarissa Meyers\n132 Liu Spur Suite 611\nKennethfort, MH 51852 US\nTel:+(318)335-6250\nEmail:arroyotimothy@example.org\nSite:https://www.thomas-perez.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance136.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Aug-2012",
+      "NUMBER": "INVOICE ID 2700-791",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 236.06 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and thir-\nty-six point zero six",
+      "SEND_TO": "SHIP_TO:\nRoss Woods\n9568 Beth Overpass Suite 667\nHallbury, MA 40702 US\nTel:+(101)815-5316\nEmail:icarpenter@example.com\nSite:http://www.peters-jenkins.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance151.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Feb-2013",
+      "NUMBER": "Invoice number INV/35-27/869",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 449.84 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and forty-\n-nine point eight four",
+      "SEND_TO": "SHIP_TO:\nNatasha Williams\n814 Kenneth Trail Apt. 099\nGordonstad, CT 70162 US\nTel:+(804)277-8601\nEmail:amydouglas@example.com\nSite:http://www.sanchez-spears.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance140.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Apr-2010",
+      "NUMBER": "INVOICE # 5Y5M4d-352",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 611.62 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and el-\neven point six two",
+      "SEND_TO": "SHIP_TO:\nDarius Duncan\n5150 Bryant Ridge\nEast Laura, NJ 58681 US\nTel:+(027)533-5233\nEmail:ortizcraig@example.org\nSite:https://www.harris.info/"
+    }
+  },
+  {
+    "image": "Template34_Instance141.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Feb-2018",
+      "NUMBER": "INVOICE # INV/85-17/231",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1059.09 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and fift-\ny-nine point zero nine",
+      "SEND_TO": "SHIP_TO:\nVanessa Lewis\n88926 Tina Mission Apt. 714\nMartinborough, IN 17191 US\nTel:+(326)112-6633\nEmail:christine23@example.org\nSite:https://www.medina-bishop.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance188.jpg",
+    "ground_truth": {
+      "DATE": "Date: 01-Dec-2001",
+      "NUMBER": "Invoice number INV/45-17/685",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 506.63 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and s-\nix point six three",
+      "SEND_TO": "SHIP_TO:\nMr. Lawrence Coleman\n883 Dean Harbors\nAngelamouth, MI 14369 US\nTel:+(168)449-8000\nEmail:crystal44@example.org\nSite:http://smith-lowery.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance162.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Jun-1995",
+      "NUMBER": "Invoice number 1Y3M1d-299",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 541.35 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fort-\ny-one point three five",
+      "SEND_TO": "SHIP_TO:\nBryce Grimes\n63847 Li Trace Suite 105\nNew Ryanborough, VI 56022 US\nTel:+(010)375-0091\nEmail:mcclureelizabeth@example.org\nSite:http://alvarez-mcdowell.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance34.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Oct-1999",
+      "NUMBER": "INVOICE ID INV/70-90/944",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 287.49 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and eighty-\n-seven point four nine",
+      "SEND_TO": "SHIP_TO:\nMichael Frost\n4215 Justin Isle\nWilliamshire, CT 08125 US\nTel:+(535)619-7413\nEmail:hannahjohnson@example.net\nSite:https://www.craig.biz/"
+    }
+  },
+  {
+    "image": "Template34_Instance50.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Nov-2000",
+      "NUMBER": "Invoice number INV/08-80/450",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 437.99 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-seven point nine nine",
+      "SEND_TO": "SHIP_TO:\nLaura Stone\n006 Reynolds Circles\nWilkinsonland, RI 96471 US\nTel:+(862)267-4019\nEmail:petersonbruce@example.org\nSite:http://www.roberts.info/"
+    }
+  },
+  {
+    "image": "Template34_Instance30.jpg",
+    "ground_truth": {
+      "DATE": "Date: 04-Mar-2015",
+      "NUMBER": "INVOICE ID INV44261686",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 988.97 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eighty-\n-eight point nine seven",
+      "SEND_TO": "SHIP_TO:\nAngela Thomas\n9901 Morrison Union\nNorth Anthony, PA 61069 US\nTel:+(250)540-2423\nEmail:wpark@example.org\nSite:http://www.abbott.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance44.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Mar-1996",
+      "NUMBER": "INVOICE # INV38861120",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 312.39 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and tw-\nelve point three nine",
+      "SEND_TO": "SHIP_TO:\nHannah King\n3642 Donald Harbor\nLake Timothy, GA 46205 US\nTel:+(522)388-4742\nEmail:barbara31@example.com\nSite:http://www.espinoza.biz/"
+    }
+  },
+  {
+    "image": "Template34_Instance16.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Sep-1996",
+      "NUMBER": "INVOICE ID INV05378906",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 758.37 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fifty-\n-eight point three seven",
+      "SEND_TO": "SHIP_TO:\nAdam Williams\n37789 Morales Pike\nJulietown, MS 53901 US\nTel:+(798)416-2732\nEmail:sylviamendez@example.org\nSite:https://vega.com/"
+    }
+  },
+  {
+    "image": "Template34_Instance142.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Mar-1997",
+      "NUMBER": "Invoice number INV/78-86/590",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 671.57 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-one point five seven",
+      "SEND_TO": "SHIP_TO:\nMichael Bennett\n365 Sherman Centers\nHeidiberg, OK 05533 US\nTel:+(377)409-0801\nEmail:joneskenneth@example.net\nSite:https://www.kirk.info/"
+    }
+  },
+  {
+    "image": "Template34_Instance107.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Jul-2016",
+      "NUMBER": "INVOICE ID 1080-207",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:66636 Hernandez Loaf Suite 714\nLisafurt, LA 33980 US",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 485.83 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and eighty-\n-five point eight three",
+      "SEND_TO": "SHIP_TO:\nCharles Harris\n221 James Crescent Apt. 681\nSouth Christie, NJ 34737 US\nTel:+(076)769-3711\nEmail:josephjones@example.org\nSite:https://www.garcia.com/"
+    }
+  }
+]

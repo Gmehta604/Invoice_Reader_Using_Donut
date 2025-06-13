@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template16_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kyle Ray\n1944 Collin Neck Suite 683\nPort Brianberg, VT 04363 US\nTel:+(304)527-4925\nEmail:halldevin@example.com\nSite:https://mendez.biz/",
+      "DATE": "Date: 06-Aug-2019",
+      "NUMBER": "Invoice number INV74902247",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 602.25  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 621.30 $"
+    }
+  },
+  {
+    "image": "Template16_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :William Soto\n691 Robert Square\nNorth Tara, DE 06471 US\nTel:+(072)226-0375\nEmail:hornebrittany@example.net\nSite:http://welch-wells.org/",
+      "DATE": "Date: 04-Oct-2005",
+      "NUMBER": "Invoice number INV/64-63/522",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 623.05  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 644.64 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Maldonado\n540 Alicia Flats\nHarrisborough, WI 65768 US\nTel:+(751)402-1447\nEmail:mwolfe@example.com\nSite:http://hunter-flores.com/",
+      "DATE": "Invoice Date: 15-Mar-2014",
+      "NUMBER": "INVOICE # INV/95-71/552",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 948.30  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 990.30 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Justin Mcdowell\n0588 Timothy Dale Suite 364\nNorth Brandonview, HI 54052 US\nTel:+(301)151-2234\nEmail:ewingian@example.net\nSite:http://sawyer.com/",
+      "DATE": "Invoice Date: 16-Oct-2008",
+      "NUMBER": "INVOICE # INV10920631",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 575.30  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 589.34 $"
+    }
+  },
+  {
+    "image": "Template16_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Gonzales\n46441 Moore Greens Suite 138\nShelbytown, ME 46316 US\nTel:+(746)879-7217\nEmail:catherine86@example.org\nSite:http://www.houston.org/",
+      "DATE": "Invoice Date: 12-Dec-2010",
+      "NUMBER": "INVOICE # INV06183153",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 182.65  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 184.40 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patricia Norman\n2963 Hester Parks\nHaileystad, TN 04580 US\nTel:+(035)882-0317\nEmail:znolan@example.net\nSite:http://winters-hamilton.com/",
+      "DATE": "Invoice Date: 20-Aug-2018",
+      "NUMBER": "Invoice number INV/00-55/361",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 713.31  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 719.59 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jesse Wood\n7039 Laurie Locks Apt. 391\nSchmittmouth, GU 50936 US\nTel:+(657)402-7447\nEmail:loweryangela@example.com\nSite:http://schaefer-harvey.com/",
+      "DATE": "Invoice Date: 22-Mar-2000",
+      "NUMBER": "INVOICE # 0228-845",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 622.05  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 638.24 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephen Mosley\n882 Gerald Drive\nKevinport, CT 17307 US\nTel:+(235)333-2188\nEmail:anna95@example.org\nSite:http://gonzalez.biz/",
+      "DATE": "Invoice Date: 17-Apr-2019",
+      "NUMBER": "INVOICE ID 8611-436",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 970.09  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 992.72 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jodi Pennington\n583 Curtis Prairie Apt. 870\nOliverfort, SD 92364 US\nTel:+(444)662-8972\nEmail:wesley77@example.net\nSite:https://www.anderson.info/",
+      "DATE": "Invoice Date: 11-Feb-1995",
+      "NUMBER": "INVOICE # 2227-550",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 358.56  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 375.74 $"
+    }
+  },
+  {
+    "image": "Template16_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Vargas\n1571 Randolph Ranch\nLewisside, HI 55671 US\nTel:+(462)172-4204\nEmail:daniel73@example.net\nSite:http://www.todd-guzman.org/",
+      "DATE": "Date: 01-Oct-2017",
+      "NUMBER": "Invoice number 7Y6M6d-384",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1364.88  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1382.14 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jonathan Thompson\n791 Potter Ramp\nMichelleland, PW 48287 US\nTel:+(077)684-2490\nEmail:carolhoover@example.net\nSite:http://rice-wilson.biz/",
+      "DATE": "Date: 25-Sep-2019",
+      "NUMBER": "INVOICE # 6661-512",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 557.10  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 563.39 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Chad Meyers\n153 Melissa Loaf Suite 248\nClarkton, SC 00662 US\nTel:+(867)602-3874\nEmail:danielle35@example.com\nSite:https://www.sanders.com/",
+      "DATE": "Invoice Date: 06-Oct-2001",
+      "NUMBER": "INVOICE ID INV/33-36/707",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 37.59  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 38.50 $"
+    }
+  },
+  {
+    "image": "Template16_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Reeves\n575 Brandy Islands\nWest Matthewside, CA 23649 US\nTel:+(549)000-5241\nEmail:btaylor@example.net\nSite:http://www.hayes-orozco.com/",
+      "DATE": "Date: 14-Dec-1999",
+      "NUMBER": "INVOICE # 9Y5M4d-930",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 491.04  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 503.16 $"
+    }
+  },
+  {
+    "image": "Template16_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Taylor\n9132 Stephanie Circle\nNew Angelachester, FL 23848 US\nTel:+(374)263-2443\nEmail:stefaniehill@example.com\nSite:https://thompson-brown.com/",
+      "DATE": "Invoice Date: 12-Mar-2004",
+      "NUMBER": "INVOICE # 5Y2M7d-464",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 76.58  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 80.61 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather Martin\n9433 Wheeler Park Apt. 065\nNorth Aliciaburgh, MH 26316 US\nTel:+(288)217-8100\nEmail:williamsjacob@example.com\nSite:http://www.bass.com/",
+      "DATE": "Invoice Date: 09-May-2002",
+      "NUMBER": "INVOICE ID 1Y2M2d-829",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 472.89  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 480.35 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. Steven Estrada\n209 Horn Flat\nWilliechester, AR 61211 US\nTel:+(417)076-7534\nEmail:julierodgers@example.com\nSite:https://simmons.com/",
+      "DATE": "Invoice Date: 13-Dec-2003",
+      "NUMBER": "INVOICE ID INV71692502",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 433.53  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 437.16 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Grant Wolfe\n90074 Annette View\nSouth Stacyton, AS 93071 US\nTel:+(065)805-2293\nEmail:moniqueramirez@example.net\nSite:http://www.jones.biz/",
+      "DATE": "Invoice Date: 23-Mar-2013",
+      "NUMBER": "INVOICE ID INV35208145",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1240.26  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1260.01 $"
+    }
+  },
+  {
+    "image": "Template16_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Aaron Hines\n355 Wesley Drive\nLake Margaretstad, GU 66348 US\nTel:+(804)134-9236\nEmail:anita71@example.net\nSite:http://miller.com/",
+      "DATE": "Date: 10-Aug-1998",
+      "NUMBER": "INVOICE ID INV33160214",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 822.96  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 838.50 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Crystal Gomez\n94433 Jessica Street\nRyanshire, IN 80492 US\nTel:+(635)213-9677\nEmail:ksimmons@example.com\nSite:http://www.joseph-chung.com/",
+      "DATE": "Invoice Date: 17-Feb-2021",
+      "NUMBER": "INVOICE # 3Y5M4d-369",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 474.92  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 479.09 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jason Francis\n7567 Robinson Parks\nLake Courtney, CA 47015 US\nTel:+(295)370-5114\nEmail:chad44@example.net\nSite:http://strong.org/",
+      "DATE": "Date: 07-Oct-2004",
+      "NUMBER": "INVOICE # 9Y5M1d-375",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 146.42  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 150.26 $"
+    }
+  },
+  {
+    "image": "Template16_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathleen Pugh\n543 Young Keys Suite 163\nJamesside, HI 96447 US\nTel:+(024)147-1167\nEmail:mullinsdominic@example.com\nSite:https://www.wood.info/",
+      "DATE": "Invoice Date: 17-Jan-2002",
+      "NUMBER": "INVOICE # 7349-817",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 188.91  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 191.58 $"
+    }
+  },
+  {
+    "image": "Template16_Instance84.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Collins\n205 Brown Turnpike Suite 405\nWest John, ME 34074 US\nTel:+(851)501-0015\nEmail:johnsonsergio@example.net\nSite:https://www.anderson-tucker.com/",
+      "DATE": "Invoice Date: 22-Dec-2021",
+      "NUMBER": "Invoice number INV/81-93/059",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 714.27  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 733.07 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Zachary Osborne\n034 Scott Creek\nPort Danaburgh, VI 47119 US\nTel:+(383)799-8982\nEmail:qdavis@example.org\nSite:http://martin-robinson.com/",
+      "DATE": "Invoice Date: 12-Jun-2005",
+      "NUMBER": "INVOICE ID INV/32-85/712",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1046.39  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1073.88 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacob Collins\n042 Valencia Pass\nMichaelfort, CT 32884 US\nTel:+(195)618-9742\nEmail:sarah43@example.org\nSite:https://nielsen-santana.com/",
+      "DATE": "Date: 13-Jun-2013",
+      "NUMBER": "Invoice number 0470-191",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 400.13  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 411.61 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen Andrews\n844 Munoz Ports Suite 962\nRonnieburgh, AL 02724 US\nTel:+(468)348-0234\nEmail:mcintoshdana@example.net\nSite:http://www.hill.info/",
+      "DATE": "Date: 05-Nov-2000",
+      "NUMBER": "INVOICE ID 4Y1M9d-662",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1690.59  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1749.07 $"
+    }
+  },
+  {
+    "image": "Template16_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Debra Perez\n449 Young Spurs Suite 774\nSouth Lynn, ND 20851 US\nTel:+(633)070-2427\nEmail:jeremiah80@example.com\nSite:https://www.munoz.org/",
+      "DATE": "Invoice Date: 19-Sep-2001",
+      "NUMBER": "INVOICE # 3669-633",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 658.86  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 677.45 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sharon Morris\n79258 Philip Underpass Suite 711\nConnerberg, WV 09842 US\nTel:+(507)651-6085\nEmail:jasminecrawford@example.net\nSite:https://norton.com/",
+      "DATE": "Date: 13-Jul-2006",
+      "NUMBER": "INVOICE ID 4Y1M1d-430",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 195.10  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 198.79 $"
+    }
+  },
+  {
+    "image": "Template16_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Woods\n492 Howard Ford\nKennethbury, WA 73985 US\nTel:+(653)663-7038\nEmail:matthew75@example.org\nSite:http://www.ortiz-brown.info/",
+      "DATE": "Date: 05-Jan-2005",
+      "NUMBER": "INVOICE ID 0218-374",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 303.09  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 314.49 $"
+    }
+  },
+  {
+    "image": "Template16_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brooke Cruz\n75398 Cobb Ranch\nDonnaton, CT 17572 US\nTel:+(205)809-2719\nEmail:jacksondebbie@example.com\nSite:https://www.fisher-grant.com/",
+      "DATE": "Invoice Date: 08-Mar-1997",
+      "NUMBER": "INVOICE ID INV02220422",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 287.17  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 288.80 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy White\n578 James Ports Apt. 848\nEast Luke, NV 66174 US\nTel:+(778)462-0639\nEmail:sallylucero@example.net\nSite:https://www.harris.com/",
+      "DATE": "Invoice Date: 06-Sep-2010",
+      "NUMBER": "Invoice number INV/96-65/461",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 574.40  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 595.53 EUR"
+    }
+  },
+  {
+    "image": "Template16_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jasmine Campbell\n94295 Butler Corners\nRickfurt, VT 10596 US\nTel:+(445)544-8813\nEmail:tyronekerr@example.org\nSite:http://sheppard-mckinney.info/",
+      "DATE": "Invoice Date: 03-Jun-1994",
+      "NUMBER": "INVOICE ID INV30985887",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 972.08  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 977.23 $"
+    }
+  },
+  {
+    "image": "Template16_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Walter Robles\n618 Farrell Shore Apt. 091\nSamanthaside, MT 84909 US\nTel:+(850)032-3472\nEmail:pmoreno@example.org\nSite:https://lewis.com/",
+      "DATE": "Invoice Date: 30-Nov-2013",
+      "NUMBER": "INVOICE # 1Y8M2d-659",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 367.95  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 383.17 $"
+    }
+  },
+  {
+    "image": "Template16_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Miller\n364 Jacobson Orchard\nPort Ashley, PW 52523 US\nTel:+(232)286-3402\nEmail:sarah67@example.org\nSite:https://sherman.info/",
+      "DATE": "Date: 12-Jun-1998",
+      "NUMBER": "INVOICE ID 8447-395",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 540.04  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 549.94 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Wise\n69011 Bailey Stravenue Suite 045\nEast Pamela, FM 35636 US\nTel:+(898)927-4000\nEmail:wendygoodman@example.org\nSite:https://williamson.com/",
+      "DATE": "Date: 01-Aug-1998",
+      "NUMBER": "INVOICE ID INV29613204",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1006.24  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1005.72 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathy Stevenson\n426 Johnson Plaza Apt. 006\nNorth Neiltown, LA 86285 US\nTel:+(564)620-3758\nEmail:caroline38@example.net\nSite:https://www.martinez.info/",
+      "DATE": "Date: 27-Nov-2019",
+      "NUMBER": "INVOICE ID 2132-362",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 689.34  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 687.43 $"
+    }
+  },
+  {
+    "image": "Template16_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mr. Daniel Mueller\n35147 Lisa Vista Apt. 326\nDoughertymouth, TN 55985 US\nTel:+(782)493-4386\nEmail:lewisbenjamin@example.com\nSite:http://barnett.net/",
+      "DATE": "Date: 17-Apr-2005",
+      "NUMBER": "INVOICE # INV80586571",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1032.10  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1025.97 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Evelyn Morris\n026 Angela Crossing\nPort Christina, OH 62356 US\nTel:+(222)391-7433\nEmail:morrismichelle@example.org\nSite:http://www.nichols.com/",
+      "DATE": "Invoice Date: 20-Mar-2005",
+      "NUMBER": "Invoice number INV23533332",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 1222.20  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1259.93 $"
+    }
+  },
+  {
+    "image": "Template16_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Graham\n1773 Raymond Fall\nEast Jesusview, NH 07812 US\nTel:+(072)703-0344\nEmail:tracydouglas@example.org\nSite:http://www.patterson.com/",
+      "DATE": "Invoice Date: 25-May-1995",
+      "NUMBER": "Invoice number 5Y1M3d-961",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 329.48  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 342.73 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Little\n016 Scott Hill Apt. 552\nMichelefurt, NE 80581 US\nTel:+(641)221-1718\nEmail:gregorymartin@example.net\nSite:https://www.klein.com/",
+      "DATE": "Invoice Date: 30-Sep-2021",
+      "NUMBER": "INVOICE ID INV/01-44/955",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 307.96  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 315.49 USD"
+    }
+  },
+  {
+    "image": "Template16_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Richard Richmond\n77944 Patricia Stream\nKellystad, MP 06926 US\nTel:+(422)664-3478\nEmail:sarahcarter@example.net\nSite:https://conner.com/",
+      "DATE": "Date: 06-Dec-2022",
+      "NUMBER": "Invoice number INV/95-84/945",
+      "SELLER_ADDRESS": "Address:696 Thompson Forest\nAshleybury, AR 73994 US",
+      "SELLER_EMAIL": "Email:amanda25@example.org",
+      "SELLER_NAME": "Woods-Gibbs",
+      "SUB_TOTAL": "SUB_TOTAL : 422.66  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 422.96 USD"
+    }
+  }
+]

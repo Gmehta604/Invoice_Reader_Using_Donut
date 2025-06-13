@@ -1,0 +1,682 @@
+[
+  {
+    "image": "Template41_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Hinton\n98991 Katherine Inlet Suite 516\nPort Emma, MS 28827 US\nTel:+(929)135-4298\nEmail:marcusrobles@example.org\nSite:https://mason-rasmussen.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Oct-2010",
+      "NUMBER": "Invoice number 8Y6M6d-300",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 440.02  $",
+      "TOTAL": "TOTAL : 460.72 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and si-\nxty point seven two",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jonathan Avery\n873 Janet Parkway Apt. 221\nWuberg, AL 49943 US\nTel:+(469)077-5997\nEmail:dbrennan@example.org\nSite:http://www.thompson-morales.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-Dec-2013",
+      "NUMBER": "Invoice number INV/02-52/173",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1014.12  $",
+      "TOTAL": "TOTAL : 1064.31 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and sixt-\ny-four point three one",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jordan Tucker\n426 Chen Crescent\nWest April, MD 95110 US\nTel:+(170)879-8107\nEmail:coxkatie@example.org\nSite:https://juarez.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Jan-2022",
+      "NUMBER": "Invoice number 7Y2M8d-817",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1033.60  EUR",
+      "TOTAL": "TOTAL : 1064.04 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and sixt-\ny-four point zero four",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeff Escobar Jr.\n180 Carlos Dam\nPort Tony, SC 69509 US\nTel:+(923)819-8080\nEmail:bray@example.net\nSite:http://www.gonzalez-johnson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Dec-2012",
+      "NUMBER": "INVOICE # 8453-145",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 286.93  USD",
+      "TOTAL": "TOTAL : 296.65 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and nine-\nty-six point six five",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cristina Morgan\n500 Ochoa Islands\nSouth Rachelstad, AR 65131 US\nTel:+(240)870-1030\nEmail:vboyd@example.org\nSite:https://www.parks.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Aug-2005",
+      "NUMBER": "INVOICE # INV/16-20/297",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 286.53  $",
+      "TOTAL": "TOTAL : 287.49 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and eighty-\n-seven point four nine",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Santos\n04821 Cruz Bridge\nSerranofurt, TX 24645 US\nTel:+(298)566-5767\nEmail:melissaberry@example.com\nSite:https://www.reid-walters.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-Mar-2020",
+      "NUMBER": "INVOICE # 7803-017",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1440.82  USD",
+      "TOTAL": "TOTAL : 1493.78 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred and-\nninety-three point seven eight",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Norman Patterson\n2739 Jonathan Green\nWest Jessica, SD 07979 US\nTel:+(662)768-0268\nEmail:hubbardpeter@example.org\nSite:https://www.rogers-dean.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Mar-2002",
+      "NUMBER": "INVOICE ID 9Y2M3d-680",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 962.00  USD",
+      "TOTAL": "TOTAL : 977.60 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sev-\nenty-seven point six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Natalie Martinez DVM\n9879 Cooper Pass Apt. 218\nEast Bryce, NH 16740 US\nTel:+(253)094-7532\nEmail:hvega@example.org\nSite:https://www.clark-scott.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 05-Apr-1997",
+      "NUMBER": "INVOICE # INV66198156",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 231.29  USD",
+      "TOTAL": "TOTAL : 238.81 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirty-\n-eight point eight one",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:April Williams\n09522 Hernandez Hills Suite 517\nJenningsburgh, DC 94329 US\nTel:+(660)760-1876\nEmail:bautistawilliam@example.org\nSite:http://barron-mendez.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Jul-2013",
+      "NUMBER": "INVOICE ID INV/23-29/877",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 191.77  $",
+      "TOTAL": "TOTAL : 194.97 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninety-\n-four point nine seven",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Lyons\n075 Weeks Stream\nNorth Nathanieltown, MS 25923 US\nTel:+(761)560-6712\nEmail:barbershawn@example.net\nSite:https://fox.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 02-Feb-2007",
+      "NUMBER": "INVOICE ID 6Y4M9d-025",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 639.47  EUR",
+      "TOTAL": "TOTAL : 664.92 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixt-\ny-four point nine two",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Angela Clark\n07450 Kline Camp\nGreenebury, VA 39193 US\nTel:+(752)875-5192\nEmail:dawnferguson@example.org\nSite:https://www.gonzales.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 17-Oct-1999",
+      "NUMBER": "INVOICE # INV/76-79/079",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 565.69  $",
+      "TOTAL": "TOTAL : 578.28 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-eight point two eight",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Steven Garcia\n3243 Duncan Locks Suite 488\nLake Alyssamouth, NC 29165 US\nTel:+(863)821-2876\nEmail:hardinpatrick@example.net\nSite:http://www.mccall.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 02-May-2016",
+      "NUMBER": "Invoice number 4Y3M4d-730",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 626.18  USD",
+      "TOTAL": "TOTAL : 652.72 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fift-\ny-two point seven two",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tiffany Moore\n34845 Stephanie Locks Apt. 598\nWest Emily, NJ 91627 US\nTel:+(051)988-2901\nEmail:pricescott@example.net\nSite:https://www.espinoza-gonzalez.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 21-May-2018",
+      "NUMBER": "INVOICE ID 6505-669",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 283.52  $",
+      "TOTAL": "TOTAL : 287.56 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\ny-seven point five six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Donna Black DDS\n1777 Wendy Parkways\nSouth Timothytown, LA 88205 US\nTel:+(578)823-5410\nEmail:jenniferadkins@example.net\nSite:http://donaldson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Mar-1998",
+      "NUMBER": "INVOICE # 9Y7M1d-664",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 513.79  USD",
+      "TOTAL": "TOTAL : 511.38 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ele-\nven point three eight",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Adam Miles\n11665 Fitzgerald Corners\nMorganchester, CO 05383 US\nTel:+(866)038-8281\nEmail:kathymccarty@example.org\nSite:https://www.martin.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Apr-2012",
+      "NUMBER": "Invoice number 6Y4M6d-199",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 132.37  EUR",
+      "TOTAL": "TOTAL : 132.42 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and thir-\nty-two point four two",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Carter\n354 Bradley Trail Apt. 297\nBrianaborough, NE 54902 US\nTel:+(100)480-4173\nEmail:xchaney@example.net\nSite:https://webb.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 15-Oct-2000",
+      "NUMBER": "INVOICE # INV92723949",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 416.74  USD",
+      "TOTAL": "TOTAL : 427.49 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and twent-\ny-seven point four nine",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Misty Santos\n35561 Kristopher Curve Apt. 396\nLake Christopherville, PA 22210 US\nTel:+(833)942-4762\nEmail:david85@example.com\nSite:http://mathis.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 28-Apr-2002",
+      "NUMBER": "INVOICE ID INV/60-41/232",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 267.08  $",
+      "TOTAL": "TOTAL : 269.50 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and si-\nxty-nine point five",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tyler Smith\n867 Scott Lights Suite 438\nLake Frederickland, PA 97882 US\nTel:+(610)334-0750\nEmail:michael46@example.net\nSite:http://roman.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-Jan-2002",
+      "NUMBER": "Invoice number 9Y4M7d-993",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 63.67  $",
+      "TOTAL": "TOTAL : 63.53 $",
+      "TOTAL_WORDS": "Total in words:  sixty-three po-\nint five three",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Emily Huber\n63553 Watson Motorway Suite 528\nAlyssatown, NY 05635 US\nTel:+(367)568-3757\nEmail:renee47@example.com\nSite:https://www.patel-jimenez.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 31-Aug-1994",
+      "NUMBER": "INVOICE ID 0211-415",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 717.09  EUR",
+      "TOTAL": "TOTAL : 730.53 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and th-\nirty point five three",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Jackson\n4321 Mackenzie Pines Apt. 350\nPort Crystaltown, NC 90639 US\nTel:+(579)375-0279\nEmail:karenkramer@example.org\nSite:http://turner.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 08-Apr-2006",
+      "NUMBER": "Invoice number INV27368321",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 291.81  EUR",
+      "TOTAL": "TOTAL : 296.58 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninet-\ny-six point five eight",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Calvin Brown\n6219 Erica Trafficway\nNew Katherinefurt, KY 52911 US\nTel:+(868)190-4480\nEmail:rreid@example.org\nSite:http://www.smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Jul-2009",
+      "NUMBER": "Invoice number INV/14-28/956",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 555.58  EUR",
+      "TOTAL": "TOTAL : 568.26 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-eight point two six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lynn Mendez\n463 Thompson Square Apt. 804\nEast Ashleyburgh, MA 20770 US\nTel:+(601)273-2657\nEmail:brodriguez@example.com\nSite:https://www.allen-hernandez.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Apr-2010",
+      "NUMBER": "INVOICE ID 8053-382",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1137.34  USD",
+      "TOTAL": "TOTAL : 1138.71 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\nthirty-eight point seven one",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alice Garcia\n998 Jorge Dale\nJasonland, UT 05749 US\nTel:+(584)259-8988\nEmail:stricklandsharon@example.com\nSite:http://glenn-lewis.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-Dec-2017",
+      "NUMBER": "Invoice number 2Y2M3d-617",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 997.09  $",
+      "TOTAL": "TOTAL : 1008.81 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and ei-\nght point eight one",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Sweeney\n47897 Johnson Park Suite 581\nLeeshire, NE 42063 US\nTel:+(888)781-2403\nEmail:williamsmelissa@example.com\nSite:https://www.taylor.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 10-Dec-2011",
+      "NUMBER": "INVOICE # 7Y3M3d-487",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1731.66  $",
+      "TOTAL": "TOTAL : 1774.41 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, seven hundred a-\nnd seventy-four point four one",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Danny Singleton\n679 Madison Gardens Apt. 049\nMooreberg, WV 68377 US\nTel:+(575)205-7525\nEmail:reedgabriella@example.com\nSite:http://www.booth.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 12-Jan-1998",
+      "NUMBER": "INVOICE # INV/23-19/867",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 113.06  USD",
+      "TOTAL": "TOTAL : 117.79 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and seven-\nteen point seven nine",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Choi\n956 Christina Green\nLawsontown, NE 44951 US\nTel:+(580)946-1627\nEmail:jmcdonald@example.net\nSite:http://www.richmond.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Oct-2006",
+      "NUMBER": "INVOICE # INV36411672",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1188.27  USD",
+      "TOTAL": "TOTAL : 1255.65 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred a-\nnd fifty-five point six five",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Frederick Allen\n275 Brian Court\nLake Michelemouth, MP 37314 US\nTel:+(359)255-3180\nEmail:angelabailey@example.org\nSite:https://johnson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 29-Mar-2011",
+      "NUMBER": "INVOICE # 4Y2M1d-674",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 135.70  USD",
+      "TOTAL": "TOTAL : 135.93 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirty-\n-five point nine three",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tammy Malone\n7244 Olivia Burgs\nMelissafurt, OH 06823 US\nTel:+(407)923-1367\nEmail:duranronald@example.org\nSite:http://www.cole-dorsey.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Jul-1995",
+      "NUMBER": "INVOICE ID 1Y2M9d-998",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 422.95  EUR",
+      "TOTAL": "TOTAL : 434.02 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thir-\nty-four point zero two",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Madden\n7486 Melissa Station Suite 763\nNew Julieville, MO 32733 US\nTel:+(823)146-7043\nEmail:lbrown@example.com\nSite:http://www.holmes.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Nov-2019",
+      "NUMBER": "Invoice number 6402-109",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 573.81  $",
+      "TOTAL": "TOTAL : 592.36 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-two point three six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Watson\n5440 Aguilar Lodge\nBarrettborough, ME 07391 US\nTel:+(795)357-6989\nEmail:nicholasjensen@example.com\nSite:https://www.durham.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Dec-2019",
+      "NUMBER": "INVOICE ID 9Y7M4d-033",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 131.03  EUR",
+      "TOTAL": "TOTAL : 129.60 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and tw-\nenty-nine point six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jay Shepherd\n004 Scott Inlet\nSusantown, VT 10216 US\nTel:+(077)481-7960\nEmail:gomezjames@example.net\nSite:https://www.bell.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Feb-1999",
+      "NUMBER": "INVOICE # 1Y5M9d-445",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 344.42  USD",
+      "TOTAL": "TOTAL : 344.26 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and for-\nty-four point two six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. Gabriel Ewing\n146 Brown Burg Suite 945\nSantiagoside, NJ 22593 US\nTel:+(141)321-4313\nEmail:rthompson@example.com\nSite:http://www.hall-smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-Sep-2019",
+      "NUMBER": "INVOICE ID INV/83-48/151",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 623.93  EUR",
+      "TOTAL": "TOTAL : 630.37 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and thir-\nty point three seven",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Guerrero\n8885 Warner Radial\nJenniferbury, RI 19561 US\nTel:+(121)166-7652\nEmail:ucoleman@example.org\nSite:https://www.alvarado.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 11-Apr-1999",
+      "NUMBER": "Invoice number INV81070285",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1197.64  EUR",
+      "TOTAL": "TOTAL : 1232.09 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd thirty-two point zero nine",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Justin Romero\n356 Dustin Mews Apt. 225\nNew Jaimehaven, ND 16069 US\nTel:+(347)653-3497\nEmail:nortonleslie@example.net\nSite:http://curtis-smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Jan-1997",
+      "NUMBER": "INVOICE # 6884-727",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1122.74  $",
+      "TOTAL": "TOTAL : 1171.70 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred -\nand seventy-one point seven",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Caitlin Clark\n559 Evans Alley\nDavidmouth, DC 74547 US\nTel:+(464)015-1522\nEmail:jasmine42@example.org\nSite:http://www.elliott-williams.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-May-2017",
+      "NUMBER": "Invoice number 9525-747",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 807.12  $",
+      "TOTAL": "TOTAL : 821.03 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-one point zero three",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mr. Christopher Moore\n4450 Harding Brook Apt. 162\nWest Jessicafurt, NE 67000 US\nTel:+(797)608-4873\nEmail:amandarobertson@example.com\nSite:http://castillo-leonard.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-Feb-1997",
+      "NUMBER": "Invoice number INV11506080",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 1480.84  USD",
+      "TOTAL": "TOTAL : 1469.47 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred an-\nd sixty-nine point four seven",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christine Allen\n10208 Elizabeth Street\nEast Jaymouth, AZ 86462 US\nTel:+(502)208-2222\nEmail:amanda81@example.net\nSite:https://soto-mitchell.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 15-Apr-1995",
+      "NUMBER": "INVOICE ID 2586-602",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 876.93  $",
+      "TOTAL": "TOTAL : 901.98 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and o-\nne point nine eight",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Hansen\n47530 Harris Ramp Suite 105\nEast Taylor, LA 12232 US\nTel:+(129)417-8705\nEmail:kayla74@example.org\nSite:https://wilson-johnson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Nov-2016",
+      "NUMBER": "Invoice number 1709-872",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 432.04  $",
+      "TOTAL": "TOTAL : 442.26 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and for-\nty-two point two six",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Black\n0671 Norris Points\nPort Alexport, MT 37007 US\nTel:+(900)020-5766\nEmail:kkelly@example.net\nSite:http://www.cox.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 19-Jan-2021",
+      "NUMBER": "INVOICE ID INV89695999",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 413.18  $",
+      "TOTAL": "TOTAL : 411.83 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and ele-\nven point eight three",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  },
+  {
+    "image": "Template41_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristin Ruiz\n4541 Martinez Stream\nNew Judith, MA 49902 US\nTel:+(177)740-1886\nEmail:lisadaniel@example.org\nSite:https://www.lewis.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 14-Apr-2003",
+      "NUMBER": "Invoice number 3Y3M8d-581",
+      "SELLER_ADDRESS": "Address:831 Harrison Manors Suite 420\nNew Pamela, MO 75723 US",
+      "SELLER_EMAIL": "Email:lewisjames@example.com",
+      "SELLER_NAME": "Buchanan and Sons",
+      "SELLER_SITE": "www.BuchananandSons.com",
+      "SUB_TOTAL": "SUB_TOTAL : 290.50  $",
+      "TOTAL": "TOTAL : 296.45 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninet-\ny-six point four five",
+      "GSTIN_SELLER": "GSTIN : 34AABCBSS76GIZX"
+    }
+  }
+]

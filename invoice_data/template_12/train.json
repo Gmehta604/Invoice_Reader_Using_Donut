@@ -1,0 +1,3202 @@
+[
+  {
+    "image": "Template12_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sheila Hester\n28900 Castro Cliff Suite 184\nNorth Keithbury, UT 53428 US\nTel:+(947)866-8803\nEmail:gcoleman@example.net\nSite:https://www.hanna.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Feb-2011",
+      "DISCOUNT": "DISCOUNT(1.32%): (-)  11.67",
+      "DUE_DATE": "Due Date : 24-Apr-2001",
+      "NUMBER": "INVOICE ID INV/36-49/771",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19989665\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 883.76  $",
+      "TAX": "TAX:VAT (5.60%):  49.46 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 915.63 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fif-\nteen point six three"
+    }
+  },
+  {
+    "image": "Template12_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Liu\n0254 Orozco Loaf Suite 151\nWest Juanside, DE 88738 US\nTel:+(803)869-2272\nEmail:fisherlogan@example.org\nSite:https://calhoun.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 01-Feb-1995",
+      "DISCOUNT": "DISCOUNT(1.52%): (-)  7.97",
+      "DUE_DATE": "Due Date : 23-May-2003",
+      "NUMBER": "INVOICE # INV01567082",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10377319\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 524.63  $",
+      "TAX": "TAX:VAT (4.46%):  23.39 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 528.03 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and twenty-\n-eight point zero three"
+    }
+  },
+  {
+    "image": "Template12_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Singleton\n17388 Theodore Square\nKatiefort, UT 99820 US\nTel:+(939)336-6422\nEmail:soniarivera@example.net\nSite:https://www.olsen.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 18-Nov-2019",
+      "DISCOUNT": "DISCOUNT(4.48%): (-)  14.91",
+      "DUE_DATE": "Due Date : 20-Jun-2013",
+      "NUMBER": "INVOICE # INV/91-24/102",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13118871\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 332.88  EUR",
+      "TAX": "TAX:VAT (5.53%):  18.39 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 344.58 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-four point five eight"
+    }
+  },
+  {
+    "image": "Template12_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michele Smith\n24217 Brown Neck Apt. 477\nNew Matthewberg, FL 83353 US\nTel:+(843)959-3879\nEmail:millssteven@example.org\nSite:https://mason.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Dec-2003",
+      "DISCOUNT": "DISCOUNT(3.76%): (-)  27.81",
+      "DUE_DATE": "Due Date : 04-Jul-2009",
+      "NUMBER": "Invoice number INV70628258",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17732596\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 739.69  EUR",
+      "TAX": "TAX:VAT (3.20%):  23.70 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 747.34 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and forty-\n-seven point three four"
+    }
+  },
+  {
+    "image": "Template12_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Barbara James\n343 Gilbert Bypass Apt. 526\nWillieland, VT 48364 US\nTel:+(379)173-9815\nEmail:taylorcross@example.org\nSite:http://zavala.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 13-Feb-2000",
+      "DISCOUNT": "DISCOUNT(3.29%): (-)  18.35",
+      "DUE_DATE": "Due Date : 23-Sep-1997",
+      "NUMBER": "INVOICE ID INV57261887",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15547869\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 557.68  USD",
+      "TAX": "TAX:VAT (5.69%):  31.73 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 563.25 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-three point two five"
+    }
+  },
+  {
+    "image": "Template12_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Adkins\n4892 James Way Suite 368\nPort Brianberg, SC 70969 US\nTel:+(689)055-8247\nEmail:todd69@example.net\nSite:https://www.miller.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 09-Aug-1995",
+      "DISCOUNT": "DISCOUNT(4.02%): (-)  23.64",
+      "DUE_DATE": "Due Date : 19-Aug-2004",
+      "NUMBER": "INVOICE # INV94643785",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19225956\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 587.98  EUR",
+      "TAX": "TAX:VAT (5.74%):  33.76 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 602.63 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and t-\nwo point six three"
+    }
+  },
+  {
+    "image": "Template12_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Greene\n4897 Bates Lane Apt. 065\nEast Mary, VT 79313 US\nTel:+(748)112-2387\nEmail:rodriguezmichael@example.com\nSite:http://www.butler.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 16-Oct-2003",
+      "DISCOUNT": "DISCOUNT(1.3%): (-)  10.02",
+      "DUE_DATE": "Due Date : 03-May-2019",
+      "NUMBER": "INVOICE ID INV41043936",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16375013\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 770.88  EUR",
+      "TAX": "TAX:VAT (3.61%):  27.85 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 763.89 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixty-\n-three point eight nine"
+    }
+  },
+  {
+    "image": "Template12_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Matthews MD\n73011 Sara Summit Apt. 340\nWest Daniel, CO 29610 US\nTel:+(103)051-5543\nEmail:ysalazar@example.com\nSite:http://powell.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 20-Oct-2020",
+      "DISCOUNT": "DISCOUNT(2.83%): (-)  26.21",
+      "DUE_DATE": "Due Date : 25-Sep-1996",
+      "NUMBER": "INVOICE # 6906-704",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14188229\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 926.17  $",
+      "TAX": "TAX:VAT (4.55%):  42.17 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 942.87 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and forty-\n-two point eight seven"
+    }
+  },
+  {
+    "image": "Template12_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nathan Payne\n84138 Lee Ports Apt. 861\nPenaside, ME 69541 US\nTel:+(200)851-3611\nEmail:patrickgill@example.org\nSite:http://www.james.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 28-Jun-2007",
+      "DISCOUNT": "DISCOUNT(2.21%): (-)  5.88",
+      "DUE_DATE": "Due Date : 05-Jun-2001",
+      "NUMBER": "Invoice number 1472-516",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14373541\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 265.96  USD",
+      "TAX": "TAX:VAT (5.71%):  15.18 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 269.41 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixt-\ny-nine point four one"
+    }
+  },
+  {
+    "image": "Template12_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Callahan\n98984 Jones Ports Apt. 362\nPaulberg, WV 72327 US\nTel:+(340)222-8962\nEmail:monica44@example.com\nSite:https://walker.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 18-Jun-2000",
+      "DISCOUNT": "DISCOUNT(1.38%): (-)  8.72",
+      "DUE_DATE": "Due Date : 19-Mar-2022",
+      "NUMBER": "Invoice number INV36763417",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19097776\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 631.78  $",
+      "TAX": "TAX:VAT (6.87%):  43.39 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 656.85 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-six point eight five"
+    }
+  },
+  {
+    "image": "Template12_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alexis Weaver\n09850 Jeanne Plains Apt. 555\nChenshire, NE 78074 US\nTel:+(121)439-1506\nEmail:xwalker@example.com\nSite:https://www.gray.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 18-Jul-2013",
+      "DISCOUNT": "DISCOUNT(4.88%): (-)  33.04",
+      "DUE_DATE": "Due Date : 18-Mar-2001",
+      "NUMBER": "INVOICE # 6216-443",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14602711\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 677.08  EUR",
+      "TAX": "TAX:VAT (3.76%):  25.46 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 683.45 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and eighty-\n-three point four five"
+    }
+  },
+  {
+    "image": "Template12_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexa Ball\n547 Wilson Manor\nJohnsonfort, TX 48701 US\nTel:+(777)033-1685\nEmail:mccarthyjulie@example.net\nSite:https://www.bell.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 08-Jun-1994",
+      "DISCOUNT": "DISCOUNT(3.32%): (-)  11.9",
+      "DUE_DATE": "Due Date : 07-Nov-2012",
+      "NUMBER": "Invoice number 7Y8M2d-880",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19803869\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 358.50  EUR",
+      "TAX": "TAX:VAT (4.33%):  15.52 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 358.28 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-eight point two eight"
+    }
+  },
+  {
+    "image": "Template12_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Steele\n412 House Ferry Suite 867\nShieldshaven, FM 00756 US\nTel:+(334)587-8336\nEmail:maxwelltiffany@example.org\nSite:http://hardy.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Sep-2001",
+      "DISCOUNT": "DISCOUNT(2.92%): (-)  21.8",
+      "DUE_DATE": "Due Date : 26-Sep-2003",
+      "NUMBER": "Invoice number 1867-231",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14521615\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 746.50  $",
+      "TAX": "TAX:VAT (3.67%):  27.40 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 750.76 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and f-\nifty point seven six"
+    }
+  },
+  {
+    "image": "Template12_Instance170.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lauren Ramos\n745 May Overpass Suite 231\nSouth Alexander, WV 53032 US\nTel:+(011)238-4924\nEmail:brandon64@example.org\nSite:http://lawrence.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 10-Feb-2003",
+      "DISCOUNT": "DISCOUNT(3.54%): (-)  20.75",
+      "DUE_DATE": "Due Date : 30-May-1994",
+      "NUMBER": "INVOICE # INV/52-68/373",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11783968\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 586.25  $",
+      "TAX": "TAX:VAT (6.73%):  39.48 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 612.77 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and twel-\nve point seven seven"
+    }
+  },
+  {
+    "image": "Template12_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Susan Cole\n9231 Jennifer Parkways\nNew Vincent, SC 41065 US\nTel:+(633)707-4661\nEmail:matthew24@example.org\nSite:http://bailey.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Feb-2007",
+      "DISCOUNT": "DISCOUNT(3.99%): (-)  13.45",
+      "DUE_DATE": "Due Date : 20-Sep-2010",
+      "NUMBER": "INVOICE ID INV/99-74/343",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12706220\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 337.03  EUR",
+      "TAX": "TAX:VAT (3.23%):  10.87 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 334.59 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-four point five nine"
+    }
+  },
+  {
+    "image": "Template12_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wayne Goodman\n7195 Lee Wall\nBrownberg, OH 16004 US\nTel:+(784)200-2800\nEmail:kellysutton@example.org\nSite:https://hughes.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Jul-2000",
+      "DISCOUNT": "DISCOUNT(4.1%): (-)  34.19",
+      "DUE_DATE": "Due Date : 15-May-2001",
+      "NUMBER": "Invoice number INV/67-89/270",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19947436\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 833.85  EUR",
+      "TAX": "TAX:VAT (3.53%):  29.40 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 837.48 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thirt-\ny-seven point four eight"
+    }
+  },
+  {
+    "image": "Template12_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dustin French\n94026 Lawrence Station\nEthanhaven, UT 51138 US\nTel:+(980)111-6498\nEmail:kelly10@example.net\nSite:https://www.downs-smith.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Aug-2009",
+      "DISCOUNT": "DISCOUNT(3.43%): (-)  19.18",
+      "DUE_DATE": "Due Date : 28-Mar-2016",
+      "NUMBER": "INVOICE # 6414-173",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19630732\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 559.20  $",
+      "TAX": "TAX:VAT (6.76%):  37.80 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 575.69 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-five point six nine"
+    }
+  },
+  {
+    "image": "Template12_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Hannah Luna\n030 Smith Turnpike\nAlvarezport, CT 13706 US\nTel:+(679)475-9577\nEmail:jamesjarvis@example.org\nSite:https://sandoval.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 19-Oct-1995",
+      "DISCOUNT": "DISCOUNT(2.41%): (-)  8.62",
+      "DUE_DATE": "Due Date : 25-Mar-1993",
+      "NUMBER": "INVOICE ID 4Y9M9d-686",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14032650\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 357.64  $",
+      "TAX": "TAX:VAT (6.01%):  21.50 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 370.66 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and s-\neventy point six six"
+    }
+  },
+  {
+    "image": "Template12_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Carroll\n61184 West Neck\nNorth Kathryn, IN 87123 US\nTel:+(421)064-7221\nEmail:griffithdavid@example.org\nSite:http://www.jones-anderson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Aug-1997",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  31.21",
+      "DUE_DATE": "Due Date : 18-Oct-1995",
+      "NUMBER": "Invoice number 8Y3M6d-501",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16266189\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1019.88  USD",
+      "TAX": "TAX:VAT (5.13%):  52.27 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1061.14 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and six-\nty-one point one four"
+    }
+  },
+  {
+    "image": "Template12_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Veronica Roberts\n330 Nicole Canyon\nEast Veronica, NM 94500 US\nTel:+(313)382-7733\nEmail:davisdouglas@example.org\nSite:https://www.graham-goodman.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 21-Aug-2007",
+      "DISCOUNT": "DISCOUNT(2.1%): (-)  9.31",
+      "DUE_DATE": "Due Date : 10-Jan-1994",
+      "NUMBER": "INVOICE # 8Y2M8d-554",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14685630\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 443.23  EUR",
+      "TAX": "TAX:VAT (5.38%):  23.84 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 462.19 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and six-\nty-two point one nine"
+    }
+  },
+  {
+    "image": "Template12_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tara Pearson\n496 Bishop Port Apt. 913\nWendyfort, IN 01514 US\nTel:+(542)277-1003\nEmail:johnsontrevor@example.org\nSite:https://www.parker-foley.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 24-Jan-2010",
+      "DISCOUNT": "DISCOUNT(1.06%): (-)  5.87",
+      "DUE_DATE": "Due Date : 17-Oct-2004",
+      "NUMBER": "Invoice number INV/22-89/727",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17124622\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 553.96  EUR",
+      "TAX": "TAX:VAT (4.60%):  25.49 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 552.86 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-two point eight six"
+    }
+  },
+  {
+    "image": "Template12_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Adams\n345 Garza Locks Suite 012\nJenniferside, MN 68219 US\nTel:+(732)860-7016\nEmail:dhays@example.org\nSite:https://murphy-bell.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Oct-2013",
+      "DISCOUNT": "DISCOUNT(2.86%): (-)  5.22",
+      "DUE_DATE": "Due Date : 09-Mar-1999",
+      "NUMBER": "INVOICE ID 0573-111",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12036736\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 182.40  USD",
+      "TAX": "TAX:VAT (4.99%):  9.10 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 184.04 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and eight-\ny-four point zero four"
+    }
+  },
+  {
+    "image": "Template12_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Santiago\n661 Edwards Valleys Suite 747\nEast Colin, NH 01488 US\nTel:+(544)684-4528\nEmail:samanthaburnett@example.net\nSite:http://www.ellis.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 14-May-1994",
+      "DISCOUNT": "DISCOUNT(4.7%): (-)  36.42",
+      "DUE_DATE": "Due Date : 23-Jan-2002",
+      "NUMBER": "Invoice number INV66585794",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10110945\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 774.90  USD",
+      "TAX": "TAX:VAT (6.37%):  49.38 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 792.43 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and nine-\nty-two point four three"
+    }
+  },
+  {
+    "image": "Template12_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Holland\n70034 Romero Streets Suite 236\nForbeston, MA 09764 US\nTel:+(273)011-9400\nEmail:jeffrey10@example.com\nSite:http://www.miller.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 19-Jul-1998",
+      "DISCOUNT": "DISCOUNT(2.77%): (-)  14.04",
+      "DUE_DATE": "Due Date : 04-Jul-2000",
+      "NUMBER": "INVOICE ID 8447-832",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17453379\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 506.80  EUR",
+      "TAX": "TAX:VAT (6.88%):  34.87 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 531.69 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and thir-\nty-one point six nine"
+    }
+  },
+  {
+    "image": "Template12_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sean Gomez\n2655 Brandon Gateway\nLongview, OR 74803 US\nTel:+(976)994-1283\nEmail:melissawhite@example.net\nSite:https://www.watson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 26-Jul-1994",
+      "DISCOUNT": "DISCOUNT(1.19%): (-)  9.72",
+      "DUE_DATE": "Due Date : 26-Sep-1995",
+      "NUMBER": "INVOICE ID INV/73-40/141",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10987633\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 816.79  EUR",
+      "TAX": "TAX:VAT (3.86%):  31.55 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 824.00 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred -\nand twenty-four"
+    }
+  },
+  {
+    "image": "Template12_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dylan Browning\n261 Price Avenue\nKennethport, NH 36838 US\nTel:+(244)756-9947\nEmail:olsonlindsey@example.net\nSite:http://phillips.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 22-Jul-2017",
+      "DISCOUNT": "DISCOUNT(1.41%): (-)  15.09",
+      "DUE_DATE": "Due Date : 11-Mar-2016",
+      "NUMBER": "Invoice number 2Y1M8d-717",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12022530\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1070.48  USD",
+      "TAX": "TAX:VAT (5.89%):  63.08 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1096.20 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and n-\ninety-six point two"
+    }
+  },
+  {
+    "image": "Template12_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amanda Miller\n825 Ferrell Mill Suite 123\nLake Elizabeth, MP 40601 US\nTel:+(636)722-9967\nEmail:melissacook@example.net\nSite:https://www.day-stevens.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 11-Mar-1999",
+      "DISCOUNT": "DISCOUNT(4.37%): (-)  22.84",
+      "DUE_DATE": "Due Date : 29-Feb-2004",
+      "NUMBER": "Invoice number 7Y9M6d-410",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17989902\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 522.76  EUR",
+      "TAX": "TAX:VAT (3.21%):  16.76 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 519.76 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and nin-\neteen point seven six"
+    }
+  },
+  {
+    "image": "Template12_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Vazquez\n54741 Adam Ports\nGabrielfurt, OK 29576 US\nTel:+(045)839-4158\nEmail:masoncaitlin@example.net\nSite:http://mitchell-barnes.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 29-Sep-2000",
+      "DISCOUNT": "DISCOUNT(3.82%): (-)  17.97",
+      "DUE_DATE": "Due Date : 10-Mar-2020",
+      "NUMBER": "INVOICE ID INV/48-87/709",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15518452\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 470.34  USD",
+      "TAX": "TAX:VAT (5.29%):  24.86 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 482.08 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-two point zero eight"
+    }
+  },
+  {
+    "image": "Template12_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Schmidt\n275 Sherri Extensions Suite 604\nSouth Laurenview, VI 87146 US\nTel:+(069)285-2266\nEmail:hannah28@example.com\nSite:https://www.alvarado.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Dec-2014",
+      "DISCOUNT": "DISCOUNT(4.87%): (-)  25.43",
+      "DUE_DATE": "Due Date : 24-Mar-2014",
+      "NUMBER": "INVOICE ID INV60995565",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19863411\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 522.17  USD",
+      "TAX": "TAX:VAT (3.66%):  19.13 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 519.21 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ni-\nneteen point two one"
+    }
+  },
+  {
+    "image": "Template12_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Julie Thomas\n349 Murphy Burgs Suite 100\nLake Amanda, GU 93121 US\nTel:+(529)895-2764\nEmail:ypetty@example.com\nSite:https://smith-rubio.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Aug-2022",
+      "DISCOUNT": "DISCOUNT(2.31%): (-)  15.38",
+      "DUE_DATE": "Due Date : 24-Jul-1993",
+      "NUMBER": "Invoice number 2Y7M9d-824",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18131498\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 665.75  USD",
+      "TAX": "TAX:VAT (3.45%):  22.97 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 659.49 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-nine point four nine"
+    }
+  },
+  {
+    "image": "Template12_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicholas Holmes\n3590 Kyle Locks Suite 695\nErinhaven, UT 60977 US\nTel:+(935)694-9140\nEmail:justinhickman@example.org\nSite:http://vang.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 17-Nov-2005",
+      "DISCOUNT": "DISCOUNT(2.76%): (-)  20.75",
+      "DUE_DATE": "Due Date : 13-Jul-2000",
+      "NUMBER": "INVOICE # INV/39-45/178",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18789546\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 751.85  $",
+      "TAX": "TAX:VAT (6.15%):  46.20 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 776.92 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seve-\nnty-six point nine two"
+    }
+  },
+  {
+    "image": "Template12_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Moore\n2755 Chen Trace Suite 259\nWest Kelly, FL 24553 US\nTel:+(686)771-7597\nEmail:melissakeller@example.com\nSite:http://www.harvey-singh.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 09-Sep-2021",
+      "DISCOUNT": "DISCOUNT(4.78%): (-)  38.24",
+      "DUE_DATE": "Due Date : 03-Mar-2007",
+      "NUMBER": "Invoice number 5Y6M2d-711",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19187577\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 800.10  EUR",
+      "TAX": "TAX:VAT (6.46%):  51.67 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 842.81 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and for-\nty-two point eight one"
+    }
+  },
+  {
+    "image": "Template12_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Irwin\n833 Clark Harbor\nMelissastad, MS 30621 US\nTel:+(742)918-0564\nEmail:adamsleonard@example.org\nSite:http://www.lucero.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-Jan-2021",
+      "DISCOUNT": "DISCOUNT(3.84%): (-)  26.34",
+      "DUE_DATE": "Due Date : 03-Oct-2002",
+      "NUMBER": "INVOICE # INV/59-49/382",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10735848\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 685.94  $",
+      "TAX": "TAX:VAT (5.26%):  36.10 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 710.31 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\nten point three one"
+    }
+  },
+  {
+    "image": "Template12_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Evan Taylor DDS\n88872 Michael Plain Apt. 366\nRobinton, FM 90552 US\nTel:+(817)636-1861\nEmail:williamguzman@example.org\nSite:http://www.richardson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 30-Oct-2011",
+      "DISCOUNT": "DISCOUNT(3.3%): (-)  3.2",
+      "DUE_DATE": "Due Date : 21-Sep-1998",
+      "NUMBER": "INVOICE # INV66181128",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10064059\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 97.06  EUR",
+      "TAX": "TAX:VAT (5.70%):  5.53 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 98.60 EUR",
+      "TOTAL_WORDS": "Total in words:  ninety-eigh-\nt point six"
+    }
+  },
+  {
+    "image": "Template12_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melanie Moore\n683 Orr Crest Apt. 112\nWest Ann, DE 40126 US\nTel:+(620)226-9229\nEmail:mitchellandrew@example.com\nSite:https://sharp.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 24-Apr-2003",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  21.39",
+      "DUE_DATE": "Due Date : 20-Jun-1994",
+      "NUMBER": "INVOICE ID INV22371860",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11989737\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 698.92  USD",
+      "TAX": "TAX:VAT (6.05%):  42.30 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 711.66 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and e-\nleven point six six"
+    }
+  },
+  {
+    "image": "Template12_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Chase Lopez\n90498 Burton Grove\nHinesshire, MA 90366 US\nTel:+(417)216-6842\nEmail:josephsmith@example.com\nSite:http://moore.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 18-Jan-2021",
+      "DISCOUNT": "DISCOUNT(2.51%): (-)  4.35",
+      "DUE_DATE": "Due Date : 09-Mar-2016",
+      "NUMBER": "Invoice number 6Y1M8d-890",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12020363\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 173.25  USD",
+      "TAX": "TAX:VAT (6.60%):  11.44 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 179.20 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and sev-\nenty-nine point two"
+    }
+  },
+  {
+    "image": "Template12_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeremy Ruiz\n4375 Williams Trail\nWest Julie, WV 00721 US\nTel:+(621)675-9064\nEmail:peterhahn@example.com\nSite:http://mitchell-knox.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 13-Apr-2020",
+      "DISCOUNT": "DISCOUNT(4.09%): (-)  44.84",
+      "DUE_DATE": "Due Date : 23-Jun-1997",
+      "NUMBER": "Invoice number 9967-309",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18383871\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1096.26  $",
+      "TAX": "TAX:VAT (3.22%):  35.31 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1089.58 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and eight-\ny-nine point five eight"
+    }
+  },
+  {
+    "image": "Template12_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tracy Johnson DDS\n337 Ruiz Point\nLake Scott, RI 73452 US\nTel:+(000)960-5768\nEmail:phillipsdana@example.com\nSite:http://pearson.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Jul-1999",
+      "DISCOUNT": "DISCOUNT(4.61%): (-)  25.94",
+      "DUE_DATE": "Due Date : 16-May-2010",
+      "NUMBER": "Invoice number INV90546751",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14276067\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 562.74  USD",
+      "TAX": "TAX:VAT (5.28%):  29.71 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 586.20 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and e-\nighty-six point two"
+    }
+  },
+  {
+    "image": "Template12_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather George\n9769 Monica Trafficway Apt. 423\nWest Johnside, RI 16077 US\nTel:+(153)948-0213\nEmail:zwilliams@example.com\nSite:http://evans-owen.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 14-May-2018",
+      "DISCOUNT": "DISCOUNT(4.01%): (-)  32.11",
+      "DUE_DATE": "Due Date : 07-Jun-1998",
+      "NUMBER": "Invoice number 5186-441",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11290404\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 800.74  EUR",
+      "TAX": "TAX:VAT (3.69%):  29.57 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 820.62 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and t-\nwenty point six two"
+    }
+  },
+  {
+    "image": "Template12_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Gross\n478 Lauren Highway\nPort Michellefort, NE 41108 US\nTel:+(400)717-2163\nEmail:beckerlisa@example.net\nSite:https://www.davis-pace.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 25-Jun-1998",
+      "DISCOUNT": "DISCOUNT(3.7%): (-)  11.62",
+      "DUE_DATE": "Due Date : 11-May-2014",
+      "NUMBER": "Invoice number 5228-796",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17156712\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 313.92  $",
+      "TAX": "TAX:VAT (3.75%):  11.76 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 317.64 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and sev-\nenteen point six four"
+    }
+  },
+  {
+    "image": "Template12_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Marc Hendricks\n271 Michael Way\nOnealport, NJ 88801 US\nTel:+(196)952-2661\nEmail:solomontammy@example.net\nSite:https://www.campbell.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 17-Dec-1997",
+      "DISCOUNT": "DISCOUNT(3.93%): (-)  29.1",
+      "DUE_DATE": "Due Date : 16-Mar-2018",
+      "NUMBER": "INVOICE ID 6770-098",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12975221\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 740.35  $",
+      "TAX": "TAX:VAT (5.79%):  42.88 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 769.68 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-nine point six eight"
+    }
+  },
+  {
+    "image": "Template12_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Rivera\n04427 Jennifer Mall Apt. 471\nRhondamouth, AZ 05940 US\nTel:+(245)369-2067\nEmail:sabrinabecker@example.net\nSite:http://romero.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-May-2003",
+      "DISCOUNT": "DISCOUNT(1.69%): (-)  13.24",
+      "DUE_DATE": "Due Date : 27-Nov-2005",
+      "NUMBER": "Invoice number 3113-496",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11324810\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 783.63  $",
+      "TAX": "TAX:VAT (6.65%):  52.09 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 823.03 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twent-\ny-three point zero three"
+    }
+  },
+  {
+    "image": "Template12_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stacy Cameron\n180 Collins Forge\nWest Christopher, WI 52907 US\nTel:+(959)129-7145\nEmail:stephanie83@example.org\nSite:http://www.burgess.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-Oct-2016",
+      "DISCOUNT": "DISCOUNT(3.63%): (-)  28.62",
+      "DUE_DATE": "Due Date : 14-Jul-2011",
+      "NUMBER": "Invoice number INV/00-18/068",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18083672\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 788.33  USD",
+      "TAX": "TAX:VAT (3.38%):  26.63 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 787.53 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eight-\ny-seven point five three"
+    }
+  },
+  {
+    "image": "Template12_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Rosales\n79383 Kim Manor\nLake Vernon, IN 20869 US\nTel:+(518)736-0065\nEmail:tylercervantes@example.com\nSite:http://www.moore-davis.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 31-Jul-2007",
+      "DISCOUNT": "DISCOUNT(4.56%): (-)  15.08",
+      "DUE_DATE": "Due Date : 30-Jun-2012",
+      "NUMBER": "INVOICE # INV97837502",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14279312\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 330.68  EUR",
+      "TAX": "TAX:VAT (5.31%):  17.57 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 334.96 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-four point nine six"
+    }
+  },
+  {
+    "image": "Template12_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Ortiz\n7455 Nathan Fall\nJonesport, IL 60741 US\nTel:+(669)646-4797\nEmail:agonzalez@example.net\nSite:http://turner.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-Jun-2004",
+      "DISCOUNT": "DISCOUNT(4.3%): (-)  5.39",
+      "DUE_DATE": "Due Date : 22-Jun-2006",
+      "NUMBER": "Invoice number INV/67-40/108",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10357323\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 125.32  EUR",
+      "TAX": "TAX:VAT (5.92%):  7.41 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 130.89 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and thi-\nrty point eight nine"
+    }
+  },
+  {
+    "image": "Template12_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Miller\n941 Jack Valleys Suite 998\nAshleyview, AR 32183 US\nTel:+(029)795-8604\nEmail:juan92@example.org\nSite:https://james.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 09-Oct-2016",
+      "DISCOUNT": "DISCOUNT(2.81%): (-)  12.1",
+      "DUE_DATE": "Due Date : 20-Jul-2012",
+      "NUMBER": "Invoice number 8Y7M6d-664",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16716217\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 430.65  $",
+      "TAX": "TAX:VAT (3.31%):  14.27 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 427.74 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and twenty-\n-seven point seven four"
+    }
+  },
+  {
+    "image": "Template12_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Natalie Paul\n4945 Jessica Fords\nGlennport, CO 96145 US\nTel:+(349)858-8161\nEmail:kimberly94@example.org\nSite:https://www.donaldson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 02-Nov-2013",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  26.59",
+      "DUE_DATE": "Due Date : 11-Aug-2011",
+      "NUMBER": "INVOICE # INV36321762",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12485507\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 868.98  EUR",
+      "TAX": "TAX:VAT (3.78%):  32.85 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 859.77 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fifty-\n-nine point seven seven"
+    }
+  },
+  {
+    "image": "Template12_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carrie Sweeney\n9685 Steven Lakes Suite 477\nWest Drew, IN 61878 US\nTel:+(197)332-1966\nEmail:emily45@example.net\nSite:http://www.munoz-mills.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-Jun-2008",
+      "DISCOUNT": "DISCOUNT(3.94%): (-)  8.76",
+      "DUE_DATE": "Due Date : 30-Nov-2014",
+      "NUMBER": "INVOICE ID 4076-531",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11734226\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 222.29  USD",
+      "TAX": "TAX:VAT (4.15%):  9.23 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 225.85 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and twenty-\n-five point eight five"
+    }
+  },
+  {
+    "image": "Template12_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Taylor\n481 Randy Hills\nGarrettbury, KS 94289 US\nTel:+(341)744-5050\nEmail:ryanbruce@example.com\nSite:http://www.smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 03-Sep-1998",
+      "DISCOUNT": "DISCOUNT(2.5%): (-)  11.45",
+      "DUE_DATE": "Due Date : 07-Aug-1994",
+      "NUMBER": "INVOICE # INV31352420",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15497006\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 458.13  USD",
+      "TAX": "TAX:VAT (5.68%):  26.04 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 476.24 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and seve-\nnty-six point two four"
+    }
+  },
+  {
+    "image": "Template12_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Holly Reed\n770 Wood Harbors\nLake Dianeshire, FM 18372 US\nTel:+(786)584-6611\nEmail:alexandragarcia@example.org\nSite:http://www.phillips.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 14-Apr-2008",
+      "DISCOUNT": "DISCOUNT(2.64%): (-)  6.08",
+      "DUE_DATE": "Due Date : 27-Aug-2015",
+      "NUMBER": "Invoice number 2Y1M8d-752",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19793016\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 230.26  $",
+      "TAX": "TAX:VAT (3.78%):  8.69 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 233.29 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-three point two nine"
+    }
+  },
+  {
+    "image": "Template12_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sandra Miles\n33727 Perez Islands\nWest David, DC 91393 US\nTel:+(160)185-8159\nEmail:dgay@example.net\nSite:https://lee.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 06-Dec-2001",
+      "DISCOUNT": "DISCOUNT(3.97%): (-)  16.87",
+      "DUE_DATE": "Due Date : 19-Nov-2002",
+      "NUMBER": "Invoice number INV/43-73/660",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10400060\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 425.00  USD",
+      "TAX": "TAX:VAT (3.83%):  16.29 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 422.50 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and tw-\nenty-two point five"
+    }
+  },
+  {
+    "image": "Template12_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Oneill\n119 Dylan Lake Suite 790\nNew Stephanie, SC 80230 US\nTel:+(928)874-8311\nEmail:xharris@example.net\nSite:https://good-odom.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 28-Sep-2003",
+      "DISCOUNT": "DISCOUNT(3.4%): (-)  25.61",
+      "DUE_DATE": "Due Date : 29-Jan-1996",
+      "NUMBER": "Invoice number INV44432455",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19343280\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 753.20  $",
+      "TAX": "TAX:VAT (5.87%):  44.21 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 762.61 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and si-\nxty-two point six one"
+    }
+  },
+  {
+    "image": "Template12_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Barnett\n65014 Potts Spurs\nPort Yvonne, UT 03736 US\nTel:+(946)730-6242\nEmail:jennifer37@example.org\nSite:http://martinez.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 28-Sep-2015",
+      "DISCOUNT": "DISCOUNT(3.46%): (-)  2.79",
+      "DUE_DATE": "Due Date : 27-Nov-1997",
+      "NUMBER": "INVOICE # 5274-277",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18017648\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 80.63  EUR",
+      "TAX": "TAX:VAT (4.20%):  3.39 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 81.28 EUR",
+      "TOTAL_WORDS": "Total in words:  eighty-one po-\nint two eight"
+    }
+  },
+  {
+    "image": "Template12_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Richard Shaffer\n80992 Werner Centers\nEast Michael, GU 60731 US\nTel:+(833)558-6130\nEmail:steven21@example.org\nSite:http://todd.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 13-Apr-2013",
+      "DISCOUNT": "DISCOUNT(3.27%): (-)  43.57",
+      "DUE_DATE": "Due Date : 16-Apr-2004",
+      "NUMBER": "Invoice number 2Y5M6d-060",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17552331\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1332.54  EUR",
+      "TAX": "TAX:VAT (5.13%):  68.35 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1355.98 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred a-\nnd fifty-five point nine eight"
+    }
+  },
+  {
+    "image": "Template12_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Lowe\n0412 Dennis Greens\nEvansberg, SD 92701 US\nTel:+(225)937-8447\nEmail:awalker@example.net\nSite:http://pena.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 25-May-2011",
+      "DISCOUNT": "DISCOUNT(4.29%): (-)  21.3",
+      "DUE_DATE": "Due Date : 17-Dec-2001",
+      "NUMBER": "Invoice number INV93916520",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14968269\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 496.52  $",
+      "TAX": "TAX:VAT (6.36%):  31.57 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 511.26 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and e-\nleven point two six"
+    }
+  },
+  {
+    "image": "Template12_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Larry Taylor\n62366 Shawn Court Apt. 770\nNew Isaiahland, WA 23335 US\nTel:+(252)354-7405\nEmail:sydneyburton@example.com\nSite:https://king.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 28-Feb-2002",
+      "DISCOUNT": "DISCOUNT(4.53%): (-)  23.64",
+      "DUE_DATE": "Due Date : 05-Sep-1994",
+      "NUMBER": "Invoice number INV/00-40/258",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15828621\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 521.90  USD",
+      "TAX": "TAX:VAT (5.14%):  26.81 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 543.33 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and forty--\nthree point three three"
+    }
+  },
+  {
+    "image": "Template12_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cameron Finley\n148 Marshall Flat Suite 200\nMelissaview, AR 02997 US\nTel:+(713)321-6327\nEmail:rbrown@example.org\nSite:http://bradford.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Sep-1993",
+      "DISCOUNT": "DISCOUNT(3.04%): (-)  20.43",
+      "DUE_DATE": "Due Date : 01-May-2003",
+      "NUMBER": "INVOICE # 8215-870",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13215782\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 672.16  USD",
+      "TAX": "TAX:VAT (6.31%):  42.38 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 707.21 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\nseven point two one"
+    }
+  },
+  {
+    "image": "Template12_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Don Marks\n52924 Wilson Stravenue Apt. 619\nJillianshire, MN 50553 US\nTel:+(268)469-2041\nEmail:rebeccacontreras@example.com\nSite:http://www.bean-miller.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 02-Jun-2007",
+      "DISCOUNT": "DISCOUNT(3.7%): (-)  30.99",
+      "DUE_DATE": "Due Date : 15-Dec-2004",
+      "NUMBER": "INVOICE ID INV66289730",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17366467\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 837.65  EUR",
+      "TAX": "TAX:VAT (5.23%):  43.85 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 871.62 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sev-\nenty-one point six two"
+    }
+  },
+  {
+    "image": "Template12_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tammy Huynh\n9879 William Roads\nFernandezburgh, IA 70325 US\nTel:+(374)463-5609\nEmail:lauracollins@example.net\nSite:https://wu-alvarez.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 01-May-2001",
+      "DISCOUNT": "DISCOUNT(2.12%): (-)  19.72",
+      "DUE_DATE": "Due Date : 26-Feb-2016",
+      "NUMBER": "INVOICE # INV58966570",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13648038\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 930.00  $",
+      "TAX": "TAX:VAT (5.83%):  54.19 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 959.73 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fifty-\n-nine point seven three"
+    }
+  },
+  {
+    "image": "Template12_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Hoffman\n435 Garcia Expressway\nWest Victoria, GA 42971 US\nTel:+(058)647-0143\nEmail:greenstephen@example.com\nSite:https://www.davis-anthony.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 23-May-2017",
+      "DISCOUNT": "DISCOUNT(1.45%): (-)  11.93",
+      "DUE_DATE": "Due Date : 20-Jul-2022",
+      "NUMBER": "Invoice number INV/25-53/415",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16909017\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 822.69  EUR",
+      "TAX": "TAX:VAT (5.37%):  44.19 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 832.99 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-two point nine nine"
+    }
+  },
+  {
+    "image": "Template12_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Douglas Chavez\n40884 Shannon Villages\nStevenmouth, CA 40593 US\nTel:+(742)879-9952\nEmail:gonzalesbrittany@example.net\nSite:http://vang-golden.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 13-Feb-2009",
+      "DISCOUNT": "DISCOUNT(1.47%): (-)  6.9",
+      "DUE_DATE": "Due Date : 01-Oct-2019",
+      "NUMBER": "INVOICE # INV94474524",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10525019\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 469.19  USD",
+      "TAX": "TAX:VAT (6.42%):  30.11 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 487.66 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-seven point six six"
+    }
+  },
+  {
+    "image": "Template12_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Garcia\n104 Ryan Loop Apt. 969\nNorth Sarah, OH 26221 US\nTel:+(659)681-7530\nEmail:qmartinez@example.org\nSite:https://finley-morrow.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 09-Apr-2009",
+      "DISCOUNT": "DISCOUNT(1.61%): (-)  5.26",
+      "DUE_DATE": "Due Date : 04-Nov-2007",
+      "NUMBER": "INVOICE # INV/50-98/437",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10104197\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 326.40  $",
+      "TAX": "TAX:VAT (4.58%):  14.95 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 335.87 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and thirt-\ny-five point eight seven"
+    }
+  },
+  {
+    "image": "Template12_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Hobbs\n04689 Eric Course Apt. 048\nEast Darin, TN 10637 US\nTel:+(917)130-8914\nEmail:umartin@example.com\nSite:http://www.baxter.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 14-Aug-2002",
+      "DISCOUNT": "DISCOUNT(3.63%): (-)  38.03",
+      "DUE_DATE": "Due Date : 07-Aug-2005",
+      "NUMBER": "INVOICE ID 9Y3M9d-310",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13499488\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1047.77  USD",
+      "TAX": "TAX:VAT (4.39%):  45.96 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1051.09 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and fift-\ny-one point zero nine"
+    }
+  },
+  {
+    "image": "Template12_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Harris\n2680 Figueroa Heights\nWellsfurt, AK 24875 US\nTel:+(279)427-0561\nEmail:sherry54@example.org\nSite:https://russell-walters.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Mar-2007",
+      "DISCOUNT": "DISCOUNT(2.76%): (-)  12.76",
+      "DUE_DATE": "Due Date : 04-Apr-1999",
+      "NUMBER": "INVOICE # 6Y9M5d-285",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14548513\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 462.16  $",
+      "TAX": "TAX:VAT (6.15%):  28.42 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 475.61 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and seve-\nnty-five point six one"
+    }
+  },
+  {
+    "image": "Template12_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Virginia Nichols\n8070 Ross Highway\nKristopherville, LA 74905 US\nTel:+(237)245-9388\nEmail:johnsonjeffrey@example.com\nSite:http://garcia.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Jan-2009",
+      "DISCOUNT": "DISCOUNT(2.44%): (-)  7.06",
+      "DUE_DATE": "Due Date : 26-Aug-2018",
+      "NUMBER": "INVOICE ID INV/65-97/253",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14327891\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 289.18  $",
+      "TAX": "TAX:VAT (6.33%):  18.31 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 295.58 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninety-\n-five point five eight"
+    }
+  },
+  {
+    "image": "Template12_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. Shannon Weeks DVM\n69368 Leon Shoals\nPort Hayley, TX 81372 US\nTel:+(342)651-8069\nEmail:christinawhite@example.com\nSite:https://riggs.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Feb-2018",
+      "DISCOUNT": "DISCOUNT(1.56%): (-)  16.57",
+      "DUE_DATE": "Due Date : 13-Nov-1993",
+      "NUMBER": "Invoice number INV/16-63/589",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14243612\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1062.12  USD",
+      "TAX": "TAX:VAT (4.03%):  42.77 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1092.46 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and nine-\nty-two point four six"
+    }
+  },
+  {
+    "image": "Template12_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Williams\n6479 Smith Causeway\nEast Camerontown, AS 38212 US\nTel:+(330)644-2313\nEmail:curtismiller@example.org\nSite:http://walker.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 23-Jan-2002",
+      "DISCOUNT": "DISCOUNT(3.85%): (-)  31.83",
+      "DUE_DATE": "Due Date : 06-Dec-2018",
+      "NUMBER": "Invoice number 2970-559",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18376213\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 826.86  EUR",
+      "TAX": "TAX:VAT (3.23%):  26.72 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 828.69 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-eight point six nine"
+    }
+  },
+  {
+    "image": "Template12_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Barbara Ward\n6791 Benjamin Path Apt. 510\nPerezshire, PR 75238 US\nTel:+(024)230-9383\nEmail:rkennedy@example.net\nSite:https://ford-summers.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-Dec-2002",
+      "DISCOUNT": "DISCOUNT(2.65%): (-)  14.8",
+      "DUE_DATE": "Due Date : 10-Nov-2010",
+      "NUMBER": "INVOICE ID 4Y2M2d-181",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11322683\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 558.62  $",
+      "TAX": "TAX:VAT (6.48%):  36.22 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 569.14 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-nine point one four"
+    }
+  },
+  {
+    "image": "Template12_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joshua Rodriguez\n0038 Gutierrez Centers Suite 490\nLake Douglas, PA 57477 US\nTel:+(061)942-5855\nEmail:robert63@example.org\nSite:http://www.hart-mueller.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Aug-2007",
+      "DISCOUNT": "DISCOUNT(3.91%): (-)  19.35",
+      "DUE_DATE": "Due Date : 29-Oct-2000",
+      "NUMBER": "Invoice number 5Y5M6d-135",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13391836\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 494.93  USD",
+      "TAX": "TAX:VAT (5.28%):  26.14 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 499.05 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-nine point zero five"
+    }
+  },
+  {
+    "image": "Template12_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jorge Bradley\n9790 Crystal Forge\nStaceyside, WI 70999 US\nTel:+(706)118-2315\nEmail:klinejeff@example.com\nSite:http://www.martin.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 05-Mar-1997",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  30.78",
+      "DUE_DATE": "Due Date : 20-Mar-2014",
+      "NUMBER": "Invoice number 4Y8M9d-189",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17727155\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1005.83  EUR",
+      "TAX": "TAX:VAT (5.53%):  55.58 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1020.67 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and tw-\nenty point six seven"
+    }
+  },
+  {
+    "image": "Template12_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Megan Contreras\n415 Richardson Ramp Apt. 310\nYoungside, OR 87001 US\nTel:+(490)171-4719\nEmail:davidjohnson@example.com\nSite:https://www.gonzalez.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 14-May-2021",
+      "DISCOUNT": "DISCOUNT(3.27%): (-)  10.41",
+      "DUE_DATE": "Due Date : 10-Nov-1996",
+      "NUMBER": "INVOICE # INV/70-96/474",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15806038\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 318.34  USD",
+      "TAX": "TAX:VAT (5.56%):  17.71 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 329.36 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and twen-\nty-nine point three six"
+    }
+  },
+  {
+    "image": "Template12_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Thomas Phillips\n866 Evan Centers Apt. 151\nNew Geoffrey, OR 29211 US\nTel:+(133)846-5305\nEmail:susan12@example.org\nSite:http://baker.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 22-Dec-1995",
+      "DISCOUNT": "DISCOUNT(2.86%): (-)  38.25",
+      "DUE_DATE": "Due Date : 08-Aug-1996",
+      "NUMBER": "Invoice number INV14456754",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17241511\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1337.36  USD",
+      "TAX": "TAX:VAT (4.51%):  60.36 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1360.41 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundre-\nd and sixty point four one"
+    }
+  },
+  {
+    "image": "Template12_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathy Freeman\n40845 Anthony Path Suite 969\nPaulberg, IL 91491 US\nTel:+(203)370-7002\nEmail:qchambers@example.org\nSite:http://moore.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 30-Jun-2009",
+      "DISCOUNT": "DISCOUNT(2.9%): (-)  41.67",
+      "DUE_DATE": "Due Date : 21-Apr-2008",
+      "NUMBER": "INVOICE # 3Y3M3d-035",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17942955\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1436.74  $",
+      "TAX": "TAX:VAT (6.01%):  86.31 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1506.10 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hun-\ndred and six point one"
+    }
+  },
+  {
+    "image": "Template12_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lance Barrett\n127 Andrew Port\nCassidyside, KS 34084 US\nTel:+(706)126-7865\nEmail:vangwalter@example.net\nSite:https://armstrong-harris.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 18-Aug-2001",
+      "DISCOUNT": "DISCOUNT(4.64%): (-)  15.62",
+      "DUE_DATE": "Due Date : 21-Oct-2004",
+      "NUMBER": "Invoice number INV/84-40/960",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13883615\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 336.66  USD",
+      "TAX": "TAX:VAT (4.89%):  16.47 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 349.22 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and for-\nty-nine point two two"
+    }
+  },
+  {
+    "image": "Template12_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heidi Moses\n86408 Michael Spur Apt. 163\nWrightview, MO 63077 US\nTel:+(243)716-5203\nEmail:brandon24@example.com\nSite:https://www.marshall.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 30-Sep-2004",
+      "DISCOUNT": "DISCOUNT(4.47%): (-)  25.23",
+      "DUE_DATE": "Due Date : 13-Feb-1996",
+      "NUMBER": "Invoice number 1013-833",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19076105\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 564.43  $",
+      "TAX": "TAX:VAT (4.82%):  27.21 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 584.13 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and eight-\ny-four point one three"
+    }
+  },
+  {
+    "image": "Template12_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Angelica Griffin\n36782 Samantha Corner\nGomezland, NM 69673 US\nTel:+(763)074-4715\nEmail:taylorleah@example.com\nSite:https://clarke.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Oct-2008",
+      "DISCOUNT": "DISCOUNT(4.8%): (-)  27.12",
+      "DUE_DATE": "Due Date : 07-Apr-2006",
+      "NUMBER": "Invoice number 6Y1M8d-204",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15296478\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 564.92  USD",
+      "TAX": "TAX:VAT (4.59%):  25.93 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 578.82 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-eight point eight two"
+    }
+  },
+  {
+    "image": "Template12_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Logan Carlson\n4198 Hernandez Parkway\nSchmidthaven, MS 03515 US\nTel:+(562)958-7004\nEmail:paulgriffith@example.org\nSite:http://www.mejia.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Dec-2009",
+      "DISCOUNT": "DISCOUNT(4.8%): (-)  27.7",
+      "DUE_DATE": "Due Date : 08-Mar-2012",
+      "NUMBER": "Invoice number INV74137565",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17119062\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 577.13  USD",
+      "TAX": "TAX:VAT (4.27%):  24.67 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 594.64 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-four point six four"
+    }
+  },
+  {
+    "image": "Template12_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tristan Rojas\n151 David Creek Suite 116\nNew Madelinechester, LA 29418 US\nTel:+(078)708-7134\nEmail:colleenburns@example.com\nSite:http://mathis.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Jun-2019",
+      "DISCOUNT": "DISCOUNT(1.4%): (-)  2.69",
+      "DUE_DATE": "Due Date : 15-Sep-2016",
+      "NUMBER": "INVOICE ID 5727-552",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19493451\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 191.89  USD",
+      "TAX": "TAX:VAT (4.75%):  9.11 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 197.57 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninety-\n-seven point five seven"
+    }
+  },
+  {
+    "image": "Template12_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kristina Cox\n27969 Campbell Ways Apt. 525\nWest Chelsea, NE 82306 US\nTel:+(260)003-0935\nEmail:mwatts@example.org\nSite:https://www.fitzpatrick.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 19-Jun-2013",
+      "DISCOUNT": "DISCOUNT(3.73%): (-)  17.76",
+      "DUE_DATE": "Due Date : 05-Oct-2015",
+      "NUMBER": "INVOICE ID 9397-008",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14223312\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 476.09  $",
+      "TAX": "TAX:VAT (4.28%):  20.38 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 479.90 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenty-nine point nine"
+    }
+  },
+  {
+    "image": "Template12_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Brewer\n1874 Reeves Spring Apt. 128\nNew Josephfort, AL 56221 US\nTel:+(336)035-4455\nEmail:twhite@example.com\nSite:http://brooks.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 11-Dec-2018",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  23.72",
+      "DUE_DATE": "Due Date : 16-Mar-2014",
+      "NUMBER": "Invoice number 4Y6M5d-312",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18753368\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 775.05  USD",
+      "TAX": "TAX:VAT (6.88%):  53.34 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 816.53 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and six-\nteen point five three"
+    }
+  },
+  {
+    "image": "Template12_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bradley Ford\n30092 Reid Lodge\nWest Gregory, MS 37268 US\nTel:+(350)923-7014\nEmail:kleinerin@example.com\nSite:https://sanders.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Nov-2007",
+      "DISCOUNT": "DISCOUNT(1.4%): (-)  10.12",
+      "DUE_DATE": "Due Date : 16-Nov-2006",
+      "NUMBER": "Invoice number 1765-029",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10868007\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 722.70  $",
+      "TAX": "TAX:VAT (4.50%):  32.53 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 743.31 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fort-\ny-three point three one"
+    }
+  },
+  {
+    "image": "Template12_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Margaret Paul\n24596 Humphrey Canyon Suite 270\nSteeleburgh, CA 92805 US\nTel:+(451)567-6961\nEmail:castillonancy@example.org\nSite:https://may-espinoza.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-Sep-1997",
+      "DISCOUNT": "DISCOUNT(4.99%): (-)  18.39",
+      "DUE_DATE": "Due Date : 16-Nov-2018",
+      "NUMBER": "Invoice number INV/61-22/288",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16138077\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 368.44  EUR",
+      "TAX": "TAX:VAT (5.88%):  21.65 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 373.58 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and sevent-\ny-three point five eight"
+    }
+  },
+  {
+    "image": "Template12_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mallory Myers\n072 Jennifer Isle Apt. 224\nClarkfurt, VT 03986 US\nTel:+(997)083-9593\nEmail:nicolebentley@example.com\nSite:https://www.vasquez.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 01-Dec-2003",
+      "DISCOUNT": "DISCOUNT(3.42%): (-)  34.26",
+      "DUE_DATE": "Due Date : 16-Feb-2019",
+      "NUMBER": "Invoice number INV/99-43/938",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12442180\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1001.88  $",
+      "TAX": "TAX:VAT (4.86%):  48.67 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1003.26 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and t-\nhree point two six"
+    }
+  },
+  {
+    "image": "Template12_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Denise Medina\n8681 Bell Stream Suite 695\nNorth Jimburgh, MA 89126 US\nTel:+(688)957-2388\nEmail:robertboyer@example.org\nSite:http://farmer.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 21-Oct-2005",
+      "DISCOUNT": "DISCOUNT(4.12%): (-)  40.43",
+      "DUE_DATE": "Due Date : 15-Feb-1998",
+      "NUMBER": "INVOICE ID INV/41-14/793",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12839566\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 981.36  $",
+      "TAX": "TAX:VAT (5.70%):  55.89 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 993.38 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and ninety-\n-three point three eight"
+    }
+  },
+  {
+    "image": "Template12_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paul Poole\n20138 Carl Estates Apt. 464\nJonburgh, GU 55253 US\nTel:+(699)385-0077\nEmail:schmidtsteven@example.com\nSite:http://stanton.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Feb-2000",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  12.28",
+      "DUE_DATE": "Due Date : 16-Oct-2016",
+      "NUMBER": "INVOICE # 5Y6M7d-360",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12097110\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 401.23  EUR",
+      "TAX": "TAX:VAT (3.44%):  13.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 407.30 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and -\nseven point three"
+    }
+  },
+  {
+    "image": "Template12_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Chavez\n017 Phillips Cove Suite 402\nNorth Rachelport, MI 08835 US\nTel:+(338)222-8774\nEmail:williamwilliams@example.com\nSite:http://www.greene.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Sep-2009",
+      "DISCOUNT": "DISCOUNT(2.08%): (-)  6.3",
+      "DUE_DATE": "Due Date : 08-Feb-2008",
+      "NUMBER": "INVOICE # INV88375844",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18133498\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 302.92  USD",
+      "TAX": "TAX:VAT (5.25%):  15.91 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 306.23 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and -\nsix point two three"
+    }
+  },
+  {
+    "image": "Template12_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Teresa Wilson MD\n88095 Danielle Shoal\nAutumnshire, MN 42705 US\nTel:+(720)093-2578\nEmail:gregvang@example.net\nSite:http://padilla-fisher.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Mar-2001",
+      "DISCOUNT": "DISCOUNT(3.01%): (-)  50.16",
+      "DUE_DATE": "Due Date : 16-Nov-1997",
+      "NUMBER": "INVOICE # 0886-636",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15718578\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1666.58  $",
+      "TAX": "TAX:VAT (4.37%):  72.84 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1697.59 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, six hundred and-\nninety-seven point five nine"
+    }
+  },
+  {
+    "image": "Template12_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jenna Hayes\n547 James Mountain Apt. 637\nPort Jeffreytown, IN 13215 US\nTel:+(670)641-3772\nEmail:vballard@example.org\nSite:http://www.james-yates.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 04-Apr-2022",
+      "DISCOUNT": "DISCOUNT(3.45%): (-)  7.51",
+      "DUE_DATE": "Due Date : 03-Feb-2021",
+      "NUMBER": "Invoice number 5612-831",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10356960\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 217.67  EUR",
+      "TAX": "TAX:VAT (3.48%):  7.57 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 222.63 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-two point six three"
+    }
+  },
+  {
+    "image": "Template12_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Erica Bennett\n141 Melissa Row Suite 924\nWest Micheleberg, ND 33530 US\nTel:+(866)052-5494\nEmail:palmermichael@example.net\nSite:http://www.lucero.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 20-Mar-2007",
+      "DISCOUNT": "DISCOUNT(2.91%): (-)  22.24",
+      "DUE_DATE": "Due Date : 31-Mar-2017",
+      "NUMBER": "INVOICE # 2Y9M1d-556",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12584235\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 764.34  EUR",
+      "TAX": "TAX:VAT (4.75%):  36.29 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 790.46 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and n-\ninety point four six"
+    }
+  },
+  {
+    "image": "Template12_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Lloyd\n108 Randall Circle\nNew Scottfort, AZ 54087 US\nTel:+(110)695-3009\nEmail:lisaramos@example.com\nSite:https://www.proctor-fitzgerald.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Sep-2021",
+      "DISCOUNT": "DISCOUNT(2.32%): (-)  13.57",
+      "DUE_DATE": "Due Date : 12-Jan-2008",
+      "NUMBER": "Invoice number 9Y3M1d-970",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14154737\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 584.74  EUR",
+      "TAX": "TAX:VAT (5.12%):  29.95 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 585.75 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and eight-\ny-five point seven five"
+    }
+  },
+  {
+    "image": "Template12_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Shannon\n32059 Lyons Viaduct\nNew Brianview, AS 22762 US\nTel:+(369)823-6847\nEmail:sday@example.net\nSite:http://www.hill.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 21-Nov-1999",
+      "DISCOUNT": "DISCOUNT(2.19%): (-)  7.93",
+      "DUE_DATE": "Due Date : 17-Oct-2000",
+      "NUMBER": "Invoice number 3728-861",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15265559\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 361.91  $",
+      "TAX": "TAX:VAT (3.14%):  11.36 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 367.55 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-seven point five five"
+    }
+  },
+  {
+    "image": "Template12_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Kramer\n24906 Cindy Hollow\nPattersonshire, OK 41550 US\nTel:+(812)814-1849\nEmail:ashley44@example.org\nSite:https://gonzalez.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 11-Apr-2009",
+      "DISCOUNT": "DISCOUNT(1.29%): (-)  5.13",
+      "DUE_DATE": "Due Date : 24-May-2021",
+      "NUMBER": "INVOICE ID 6211-924",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19064918\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 397.71  USD",
+      "TAX": "TAX:VAT (5.64%):  22.45 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 401.75 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and o-\nne point seven five"
+    }
+  },
+  {
+    "image": "Template12_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Vicki Fischer\n37802 Jimenez Street\nSouth Danaton, ME 68246 US\nTel:+(052)160-6858\nEmail:jean45@example.org\nSite:http://www.robinson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 10-Aug-1995",
+      "DISCOUNT": "DISCOUNT(4.19%): (-)  12.73",
+      "DUE_DATE": "Due Date : 22-Mar-1994",
+      "NUMBER": "Invoice number 5Y2M2d-196",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15158127\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 303.93  EUR",
+      "TAX": "TAX:VAT (3.87%):  11.76 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 310.37 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and t-\nen point three seven"
+    }
+  },
+  {
+    "image": "Template12_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paula Lee\n88387 Salinas Court Apt. 354\nEast Matthewchester, IL 04850 US\nTel:+(105)098-2020\nEmail:melissa25@example.org\nSite:https://wood.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 06-Oct-2011",
+      "DISCOUNT": "DISCOUNT(1.29%): (-)  1.36",
+      "DUE_DATE": "Due Date : 09-May-2021",
+      "NUMBER": "Invoice number 6Y8M8d-166",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13048131\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 105.59  $",
+      "TAX": "TAX:VAT (5.40%):  5.70 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 107.03 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and sev-\nen point zero three"
+    }
+  },
+  {
+    "image": "Template12_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karina Callahan\n0668 Morgan Villages Apt. 293\nScottton, NV 02447 US\nTel:+(121)610-8801\nEmail:jerry68@example.org\nSite:http://www.price.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 07-Dec-1993",
+      "DISCOUNT": "DISCOUNT(3.47%): (-)  5.83",
+      "DUE_DATE": "Due Date : 26-Feb-2009",
+      "NUMBER": "Invoice number INV/81-06/119",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11025977\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 167.92  USD",
+      "TAX": "TAX:VAT (3.75%):  6.29 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 171.22 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and seve-\nnty-one point two two"
+    }
+  },
+  {
+    "image": "Template12_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Devin Ramirez\n06259 Brian Throughway\nRiversmouth, NV 75967 US\nTel:+(511)161-4290\nEmail:wwarren@example.net\nSite:http://tucker-mccoy.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 18-Jan-1999",
+      "DISCOUNT": "DISCOUNT(1.86%): (-)  20.9",
+      "DUE_DATE": "Due Date : 19-Mar-2008",
+      "NUMBER": "Invoice number 4Y7M5d-146",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11221855\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1123.69  $",
+      "TAX": "TAX:VAT (4.88%):  54.82 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1164.46 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd sixty-four point four six"
+    }
+  },
+  {
+    "image": "Template12_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jody Bates\n783 Calhoun Estates Suite 840\nNorth Robinland, WY 85355 US\nTel:+(230)580-4975\nEmail:youngbeverly@example.com\nSite:https://www.carlson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-May-2016",
+      "DISCOUNT": "DISCOUNT(1.4%): (-)  11.45",
+      "DUE_DATE": "Due Date : 16-Apr-2020",
+      "NUMBER": "Invoice number 8274-439",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18599996\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 818.03  $",
+      "TAX": "TAX:VAT (6.97%):  56.98 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 840.73 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fo-\nrty point seven three"
+    }
+  },
+  {
+    "image": "Template12_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lauren Myers\n6767 Rowland Manors Suite 182\nNorth Barbaraport, UT 35061 US\nTel:+(200)539-6141\nEmail:madisonlara@example.com\nSite:https://www.thompson.org/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 13-Nov-2012",
+      "DISCOUNT": "DISCOUNT(2.25%): (-)  26.66",
+      "DUE_DATE": "Due Date : 07-Jan-2023",
+      "NUMBER": "INVOICE ID 8Y4M6d-860",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13367681\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1184.97  $",
+      "TAX": "TAX:VAT (4.52%):  53.54 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1199.52 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd ninety-nine point five two"
+    }
+  },
+  {
+    "image": "Template12_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Victoria Hernandez\n4454 Brittany Springs Apt. 642\nTranmouth, MT 46012 US\nTel:+(262)719-3946\nEmail:gina77@example.com\nSite:http://www.harmon-petty.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 17-Nov-1998",
+      "DISCOUNT": "DISCOUNT(3.17%): (-)  17.76",
+      "DUE_DATE": "Due Date : 02-Jul-2010",
+      "NUMBER": "Invoice number INV61624996",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10184096\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 560.19  USD",
+      "TAX": "TAX:VAT (4.39%):  24.59 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 564.39 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixty-\n-four point three nine"
+    }
+  },
+  {
+    "image": "Template12_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Smith\n900 Timothy Mission Suite 821\nMariaville, NM 62145 US\nTel:+(080)307-1257\nEmail:briandavis@example.net\nSite:http://www.hanson.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 17-Jun-2019",
+      "DISCOUNT": "DISCOUNT(1.19%): (-)  13.46",
+      "DUE_DATE": "Due Date : 28-Jun-2011",
+      "NUMBER": "INVOICE # 1Y7M2d-778",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10574187\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1130.70  $",
+      "TAX": "TAX:VAT (6.47%):  73.12 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1179.74 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\nseventy-nine point seven four"
+    }
+  },
+  {
+    "image": "Template12_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy Stephenson\n9806 Long Ports\nOrtegaton, NM 91889 US\nTel:+(674)262-9586\nEmail:evansrebecca@example.net\nSite:http://www.pierce.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 17-Dec-2012",
+      "DISCOUNT": "DISCOUNT(2.85%): (-)  27.23",
+      "DUE_DATE": "Due Date : 04-Dec-2019",
+      "NUMBER": "INVOICE ID 6418-517",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15710790\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 955.58  EUR",
+      "TAX": "TAX:VAT (6.32%):  60.41 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 998.22 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and nine-\nty-eight point two two"
+    }
+  },
+  {
+    "image": "Template12_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Nelson\n170 Stephanie Gardens Suite 431\nLake Jason, FL 06357 US\nTel:+(262)516-7964\nEmail:melissa98@example.org\nSite:https://www.fox-smith.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 14-Sep-2002",
+      "DISCOUNT": "DISCOUNT(1.1%): (-)  9.68",
+      "DUE_DATE": "Due Date : 30-Jun-2018",
+      "NUMBER": "Invoice number INV/94-41/569",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10810477\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 879.78  $",
+      "TAX": "TAX:VAT (5.52%):  48.56 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 907.23 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and se-\nven point two three"
+    }
+  },
+  {
+    "image": "Template12_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christine Washington\n286 Justin Extensions Apt. 951\nNorth Jessicamouth, OH 15640 US\nTel:+(202)854-8340\nEmail:lynn16@example.net\nSite:https://valentine-hernandez.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 28-Apr-1993",
+      "DISCOUNT": "DISCOUNT(4.68%): (-)  22.57",
+      "DUE_DATE": "Due Date : 05-Jan-2009",
+      "NUMBER": "INVOICE # 8625-592",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14330920\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 482.18  $",
+      "TAX": "TAX:VAT (5.90%):  28.43 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 492.05 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and nine-\nty-two point zero five"
+    }
+  },
+  {
+    "image": "Template12_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Taylor\n1382 Julia Ridges\nAndrewsshire, OK 86030 US\nTel:+(277)835-0599\nEmail:steven34@example.org\nSite:http://yoder.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 11-Feb-2005",
+      "DISCOUNT": "DISCOUNT(3.69%): (-)  12.67",
+      "DUE_DATE": "Due Date : 06-Jul-2012",
+      "NUMBER": "INVOICE # 7536-213",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15363211\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 343.39  $",
+      "TAX": "TAX:VAT (5.90%):  20.25 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 347.12 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and for-\nty-seven point one two"
+    }
+  },
+  {
+    "image": "Template12_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rebecca Grant\n99551 Kaitlyn Island Apt. 816\nSouth Henry, CT 75128 US\nTel:+(238)019-2254\nEmail:brenda30@example.net\nSite:http://www.jacobs-smith.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 29-Jun-2008",
+      "DISCOUNT": "DISCOUNT(4.96%): (-)  43.18",
+      "DUE_DATE": "Due Date : 10-Feb-2011",
+      "NUMBER": "Invoice number 2Y4M5d-512",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12368079\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 870.61  $",
+      "TAX": "TAX:VAT (5.54%):  48.27 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 909.30 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and-\nnine point three"
+    }
+  },
+  {
+    "image": "Template12_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jacob Phillips\n6894 Graham Lane Suite 554\nBrownhaven, PR 58277 US\nTel:+(375)825-6855\nEmail:aliciawallace@example.org\nSite:https://www.wilson-kelly.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 15-Dec-2000",
+      "DISCOUNT": "DISCOUNT(4.73%): (-)  48.61",
+      "DUE_DATE": "Due Date : 01-Jul-2005",
+      "NUMBER": "Invoice number 4716-815",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10848348\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1027.64  USD",
+      "TAX": "TAX:VAT (4.54%):  46.71 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1028.00 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand a-\nnd twenty-eight"
+    }
+  },
+  {
+    "image": "Template12_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Travis Brown\n8379 Evans Knolls\nNorth Philip, MI 23378 US\nTel:+(278)181-0262\nEmail:rmendoza@example.net\nSite:http://craig.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 12-May-1999",
+      "DISCOUNT": "DISCOUNT(1.85%): (-)  9.42",
+      "DUE_DATE": "Due Date : 24-Jun-2010",
+      "NUMBER": "Invoice number 5963-607",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19043583\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 509.45  USD",
+      "TAX": "TAX:VAT (5.71%):  29.11 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 531.22 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and thi-\nrty-one point two two"
+    }
+  },
+  {
+    "image": "Template12_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Ho\n1796 Thompson Mill Apt. 488\nWest Melissa, NC 36275 US\nTel:+(288)177-2567\nEmail:wheelerdustin@example.com\nSite:http://www.burns.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 31-Jul-2001",
+      "DISCOUNT": "DISCOUNT(3.18%): (-)  14.4",
+      "DUE_DATE": "Due Date : 13-Nov-2005",
+      "NUMBER": "Invoice number INV54875225",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14554106\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 452.87  $",
+      "TAX": "TAX:VAT (3.51%):  15.88 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 452.99 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fift-\ny-two point nine nine"
+    }
+  },
+  {
+    "image": "Template12_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Delgado\n126 Johnson Plains Suite 586\nDavistown, IA 25136 US\nTel:+(092)122-8560\nEmail:jgray@example.net\nSite:http://www.frank-odonnell.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 24-Feb-2005",
+      "DISCOUNT": "DISCOUNT(1.23%): (-)  14.79",
+      "DUE_DATE": "Due Date : 16-Feb-2017",
+      "NUMBER": "INVOICE # 9Y6M7d-998",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14401889\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1202.33  $",
+      "TAX": "TAX:VAT (5.58%):  67.08 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1231.78 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred and-\nthirty-one point seven eight"
+    }
+  },
+  {
+    "image": "Template12_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Stone\n24102 Mccarthy Green\nHickmanchester, MA 11250 US\nTel:+(527)144-8113\nEmail:jatkinson@example.net\nSite:https://www.lopez.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Apr-2019",
+      "DISCOUNT": "DISCOUNT(4.48%): (-)  43.92",
+      "DUE_DATE": "Due Date : 05-Mar-2017",
+      "NUMBER": "INVOICE # 1Y1M1d-901",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15482203\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 980.31  EUR",
+      "TAX": "TAX:VAT (4.12%):  40.40 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 988.16 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-eight point one six"
+    }
+  },
+  {
+    "image": "Template12_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dr. Tiffany Adams\n00597 Eaton Village Suite 521\nEast Christineland, NV 42987 US\nTel:+(081)449-2552\nEmail:wanderson@example.net\nSite:https://baker-harrington.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 22-Sep-2001",
+      "DISCOUNT": "DISCOUNT(3.04%): (-)  3.08",
+      "DUE_DATE": "Due Date : 13-Jan-1996",
+      "NUMBER": "INVOICE ID 3593-186",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  11628325\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 101.37  USD",
+      "TAX": "TAX:VAT (5.63%):  5.70 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 105.47 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and fi-\nve point four seven"
+    }
+  },
+  {
+    "image": "Template12_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Theresa Golden\n036 Rose Prairie\nJustinview, VT 23862 US\nTel:+(283)524-2619\nEmail:sarahrollins@example.com\nSite:http://www.mills.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Nov-1995",
+      "DISCOUNT": "DISCOUNT(3.06%): (-)  34.91",
+      "DUE_DATE": "Due Date : 02-Oct-2017",
+      "NUMBER": "INVOICE # 9Y6M1d-741",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16643725\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1140.70  EUR",
+      "TAX": "TAX:VAT (3.99%):  45.55 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1132.18 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd thirty-two point one eight"
+    }
+  },
+  {
+    "image": "Template12_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Santiago\n76685 Henson Plaza Apt. 356\nLake Isaacbury, VT 90374 US\nTel:+(506)901-6393\nEmail:tracy79@example.net\nSite:https://king-grimes.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 05-May-2022",
+      "DISCOUNT": "DISCOUNT(1.53%): (-)  3.37",
+      "DUE_DATE": "Due Date : 15-Apr-2007",
+      "NUMBER": "INVOICE # INV/17-98/587",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13380629\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 220.24  EUR",
+      "TAX": "TAX:VAT (3.69%):  8.12 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 222.99 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-two point nine nine"
+    }
+  },
+  {
+    "image": "Template12_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :April Frye\n979 Hernandez Plains Suite 068\nCarloschester, MI 87413 US\nTel:+(176)994-6041\nEmail:louis80@example.net\nSite:http://www.rush.biz/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 30-Dec-2015",
+      "DISCOUNT": "DISCOUNT(4.96%): (-)  31.13",
+      "DUE_DATE": "Due Date : 12-Apr-2014",
+      "NUMBER": "INVOICE # INV/92-45/293",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19441391\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 627.57  USD",
+      "TAX": "TAX:VAT (6.36%):  39.93 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 638.95 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and thirty-\n-eight point nine five"
+    }
+  },
+  {
+    "image": "Template12_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Miller\n0532 Carter Harbors Suite 787\nLake Krista, SD 44394 US\nTel:+(741)784-2294\nEmail:russellmichael@example.net\nSite:https://collins-rivera.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 11-Jan-2004",
+      "DISCOUNT": "DISCOUNT(1.96%): (-)  6.5",
+      "DUE_DATE": "Due Date : 26-Dec-2014",
+      "NUMBER": "INVOICE ID INV57752574",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18749115\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 331.78  $",
+      "TAX": "TAX:VAT (4.33%):  14.36 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 341.73 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-one point seven three"
+    }
+  },
+  {
+    "image": "Template12_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dawn Scott\n706 Zamora Shores Suite 641\nEast Tiffanyberg, WY 61130 US\nTel:+(355)956-4277\nEmail:blackbrian@example.net\nSite:http://www.rodriguez-woodard.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 08-Apr-2004",
+      "DISCOUNT": "DISCOUNT(1.58%): (-)  5.69",
+      "DUE_DATE": "Due Date : 24-Aug-2022",
+      "NUMBER": "INVOICE ID 1Y7M4d-930",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17674694\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 360.12  USD",
+      "TAX": "TAX:VAT (5.91%):  21.30 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 374.79 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and seven-\nty-four point seven nine"
+    }
+  },
+  {
+    "image": "Template12_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anna Charles\n4484 Penny Square\nNew Andrea, SC 40157 US\nTel:+(285)845-2017\nEmail:collierbrendan@example.org\nSite:http://www.rosales.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Jan-2010",
+      "DISCOUNT": "DISCOUNT(1.48%): (-)  10.1",
+      "DUE_DATE": "Due Date : 18-Sep-1997",
+      "NUMBER": "INVOICE # INV72531839",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12950315\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 682.17  USD",
+      "TAX": "TAX:VAT (6.73%):  45.91 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 707.55 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and s-\neven point five five"
+    }
+  },
+  {
+    "image": "Template12_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Chen\n13965 Mayer Bridge\nRodriguezberg, NY 83549 US\nTel:+(861)633-2117\nEmail:benjamin38@example.com\nSite:https://nelson.info/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 14-Apr-2005",
+      "DISCOUNT": "DISCOUNT(2.59%): (-)  29.1",
+      "DUE_DATE": "Due Date : 18-Apr-2013",
+      "NUMBER": "INVOICE ID INV15783057",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12715645\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1123.72  EUR",
+      "TAX": "TAX:VAT (4.93%):  55.37 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1123.02 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd twenty-three point zero two"
+    }
+  },
+  {
+    "image": "Template12_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gregory King\n6952 Monica Mall Apt. 403\nChristianview, VA 12402 US\nTel:+(153)412-8564\nEmail:jenniferjohnson@example.com\nSite:https://www.snyder.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 02-Jun-2009",
+      "DISCOUNT": "DISCOUNT(4.95%): (-)  20.88",
+      "DUE_DATE": "Due Date : 17-May-2019",
+      "NUMBER": "INVOICE # 3927-184",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14691125\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 421.90  EUR",
+      "TAX": "TAX:VAT (5.80%):  24.48 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 439.12 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and thir-\nty-nine point one two"
+    }
+  },
+  {
+    "image": "Template12_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Odonnell\n166 James Village\nSherristad, VA 71598 US\nTel:+(424)795-9802\nEmail:thomas85@example.net\nSite:https://lopez.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 15-Oct-2004",
+      "DISCOUNT": "DISCOUNT(3.1%): (-)  29.49",
+      "DUE_DATE": "Due Date : 27-Mar-2015",
+      "NUMBER": "Invoice number INV/39-99/176",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16237517\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 951.32  $",
+      "TAX": "TAX:VAT (3.00%):  28.55 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 969.79 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixty-\n-nine point seven nine"
+    }
+  },
+  {
+    "image": "Template12_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kenneth Giles\n5945 Miller Throughway Apt. 741\nLake Thomaschester, MH 87280 US\nTel:+(923)672-6899\nEmail:jason69@example.net\nSite:http://rose-morrow.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Jul-2016",
+      "DISCOUNT": "DISCOUNT(2.53%): (-)  3.72",
+      "DUE_DATE": "Due Date : 27-Jul-2001",
+      "NUMBER": "INVOICE ID INV62474915",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12098502\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 147.00  $",
+      "TAX": "TAX:VAT (5.02%):  7.37 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 151.58 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fifty-\n-one point five eight"
+    }
+  },
+  {
+    "image": "Template12_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Charles Buck\n426 Danielle Lights\nJamesbury, DC 82332 US\nTel:+(178)898-9101\nEmail:karengarcia@example.net\nSite:https://www.miller.net/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 10-Sep-2012",
+      "DISCOUNT": "DISCOUNT(4.89%): (-)  16.79",
+      "DUE_DATE": "Due Date : 03-Oct-2011",
+      "NUMBER": "INVOICE ID 2Y9M6d-813",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19060793\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 343.34  $",
+      "TAX": "TAX:VAT (3.83%):  13.15 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 345.81 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-five point eight one"
+    }
+  },
+  {
+    "image": "Template12_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Annette Butler\n74332 Bautista Way\nNew Christinahaven, MT 76002 US\nTel:+(569)682-4195\nEmail:longdavid@example.net\nSite:http://moore.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 09-Mar-2015",
+      "DISCOUNT": "DISCOUNT(4.63%): (-)  26.92",
+      "DUE_DATE": "Due Date : 18-Dec-2003",
+      "NUMBER": "Invoice number 1Y2M6d-810",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19870714\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 581.37  EUR",
+      "TAX": "TAX:VAT (4.29%):  24.95 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 577.83 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and seventy-\n-seven point eight three"
+    }
+  },
+  {
+    "image": "Template12_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dawn Lin\n457 Holt Throughway\nEast Randy, WV 09111 US\nTel:+(502)141-5409\nEmail:jeffrey41@example.org\nSite:https://www.meyers.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 15-Feb-2018",
+      "DISCOUNT": "DISCOUNT(1.92%): (-)  5.04",
+      "DUE_DATE": "Due Date : 16-Jul-2010",
+      "NUMBER": "INVOICE # 7901-677",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12235067\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 262.57  USD",
+      "TAX": "TAX:VAT (3.46%):  9.09 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 267.88 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty--\nseven point eight eight"
+    }
+  },
+  {
+    "image": "Template12_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cathy Nelson\n9187 Adams Flats Suite 868\nEast Josephchester, FL 26624 US\nTel:+(867)907-3993\nEmail:campbelljames@example.net\nSite:http://www.singh.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 04-Jan-2023",
+      "DISCOUNT": "DISCOUNT(2.07%): (-)  16.49",
+      "DUE_DATE": "Due Date : 04-Jun-2013",
+      "NUMBER": "INVOICE ID INV70773681",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16085320\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 796.45  USD",
+      "TAX": "TAX:VAT (6.46%):  51.47 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 826.26 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twe-\nnty-six point two six"
+    }
+  },
+  {
+    "image": "Template12_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Bennett\n954 Sandoval Isle\nSouth Sharonfurt, AR 28534 US\nTel:+(439)376-3167\nEmail:olsenkathy@example.com\nSite:https://www.gomez-zamora.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 24-Feb-2011",
+      "DISCOUNT": "DISCOUNT(3.12%): (-)  16.44",
+      "DUE_DATE": "Due Date : 24-Mar-2003",
+      "NUMBER": "INVOICE ID INV81165040",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14279585\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 526.99  USD",
+      "TAX": "TAX:VAT (6.44%):  33.91 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 553.21 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-three point two one"
+    }
+  },
+  {
+    "image": "Template12_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Estes\n7511 Raymond Trafficway\nJenniferstad, CA 05604 US\nTel:+(446)350-7251\nEmail:brios@example.com\nSite:http://www.phillips.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 17-Sep-1997",
+      "DISCOUNT": "DISCOUNT(4.0%): (-)  17.9",
+      "DUE_DATE": "Due Date : 09-Oct-2008",
+      "NUMBER": "INVOICE # 8991-638",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18656939\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 447.41  USD",
+      "TAX": "TAX:VAT (5.85%):  26.19 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 468.54 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixty-\n-eight point five four"
+    }
+  },
+  {
+    "image": "Template12_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Ramirez\n31424 Amy Route\nPort Jameschester, CT 11252 US\nTel:+(274)429-3582\nEmail:latoyastrickland@example.org\nSite:http://www.miller.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 12-Jan-2018",
+      "DISCOUNT": "DISCOUNT(1.54%): (-)  10.32",
+      "DUE_DATE": "Due Date : 25-Jun-2017",
+      "NUMBER": "INVOICE # INV/97-52/887",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18566931\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 670.25  USD",
+      "TAX": "TAX:VAT (4.73%):  31.72 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 680.59 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and eig-\nhty point five nine"
+    }
+  },
+  {
+    "image": "Template12_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patty Torres\n71865 Higgins Creek Suite 692\nBlackchester, MT 81366 US\nTel:+(262)765-4232\nEmail:austincheryl@example.com\nSite:http://morris.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 22-Mar-2005",
+      "DISCOUNT": "DISCOUNT(2.56%): (-)  13.54",
+      "DUE_DATE": "Due Date : 26-Feb-2018",
+      "NUMBER": "INVOICE ID INV42219759",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14914704\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 528.99  EUR",
+      "TAX": "TAX:VAT (3.60%):  19.05 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 533.86 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirt-\ny-three point eight six"
+    }
+  },
+  {
+    "image": "Template12_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melvin Vargas\n726 Darren Keys\nLake Amandaberg, DC 70445 US\nTel:+(335)626-2511\nEmail:jason93@example.org\nSite:https://www.hernandez-gray.net/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 19-Jul-2002",
+      "DISCOUNT": "DISCOUNT(2.57%): (-)  18.27",
+      "DUE_DATE": "Due Date : 24-Jul-2022",
+      "NUMBER": "Invoice number INV01403943",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14482356\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 710.94  USD",
+      "TAX": "TAX:VAT (3.59%):  25.55 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 711.11 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and e-\nleven point one one"
+    }
+  },
+  {
+    "image": "Template12_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Tucker\n83010 Conway Ferry\nMatthewside, MS 46985 US\nTel:+(950)909-6235\nEmail:troy28@example.com\nSite:http://www.thomas-young.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 10-Jan-2012",
+      "DISCOUNT": "DISCOUNT(2.76%): (-)  1.09",
+      "DUE_DATE": "Due Date : 05-Sep-2005",
+      "NUMBER": "INVOICE # 8Y3M3d-903",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13761014\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 39.42  USD",
+      "TAX": "TAX:VAT (5.44%):  2.14 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 40.17 USD",
+      "TOTAL_WORDS": "Total in words:  forty poin-\nt one seven"
+    }
+  },
+  {
+    "image": "Template12_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Wilcox\n122 Sara Lock\nPruittmouth, CT 54173 US\nTel:+(128)776-5915\nEmail:nmyers@example.org\nSite:https://schwartz-macdonald.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 18-Oct-1996",
+      "DISCOUNT": "DISCOUNT(1.46%): (-)  7.83",
+      "DUE_DATE": "Due Date : 25-May-2012",
+      "NUMBER": "Invoice number INV64378005",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10123116\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 536.26  EUR",
+      "TAX": "TAX:VAT (3.48%):  18.67 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 544.63 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fort-\ny-four point six three"
+    }
+  },
+  {
+    "image": "Template12_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cheryl Johnson\n58040 Robin Track\nLisashire, AS 14927 US\nTel:+(094)050-6632\nEmail:ginastevenson@example.com\nSite:http://www.jackson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 02-Mar-1993",
+      "DISCOUNT": "DISCOUNT(3.41%): (-)  37.14",
+      "DUE_DATE": "Due Date : 19-Nov-2012",
+      "NUMBER": "Invoice number 9767-013",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10189068\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 1089.22  $",
+      "TAX": "TAX:VAT (6.37%):  69.35 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1112.50 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundr-\ned and twelve point five"
+    }
+  },
+  {
+    "image": "Template12_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Cohen\n05309 Bradley Vista Suite 550\nPort Ruben, AS 11863 US\nTel:+(291)216-2754\nEmail:barbaramay@example.com\nSite:http://www.davis.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 23-Nov-2010",
+      "DISCOUNT": "DISCOUNT(4.69%): (-)  14.49",
+      "DUE_DATE": "Due Date : 13-Jun-2022",
+      "NUMBER": "INVOICE # INV83832035",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13009527\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 308.88  EUR",
+      "TAX": "TAX:VAT (3.27%):  10.10 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 312.34 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and tw-\nelve point three four"
+    }
+  },
+  {
+    "image": "Template12_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Thompson\n04931 Rodriguez Motorway Suite 163\nKevinbury, FM 60897 US\nTel:+(443)650-0946\nEmail:qarnold@example.net\nSite:https://www.oneal-andrade.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 16-Sep-2001",
+      "DISCOUNT": "DISCOUNT(1.7%): (-)  4.69",
+      "DUE_DATE": "Due Date : 12-Feb-1994",
+      "NUMBER": "Invoice number 6938-891",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12234185\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 275.80  USD",
+      "TAX": "TAX:VAT (6.53%):  18.01 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 284.68 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\ny-four point six eight"
+    }
+  },
+  {
+    "image": "Template12_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Powers\n89050 Michelle Forges Apt. 047\nNorth Randall, TX 59812 US\nTel:+(798)123-1231\nEmail:gtaylor@example.org\nSite:https://www.alexander.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 27-Feb-2003",
+      "DISCOUNT": "DISCOUNT(3.68%): (-)  3.8",
+      "DUE_DATE": "Due Date : 11-Jul-2006",
+      "NUMBER": "INVOICE ID 6Y7M1d-663",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10328724\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 103.28  $",
+      "TAX": "TAX:VAT (6.70%):  6.92 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 105.18 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fi-\nve point one eight"
+    }
+  },
+  {
+    "image": "Template12_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Brown\n650 Gardner Circle\nNealview, KY 62789 US\nTel:+(666)920-7280\nEmail:woodsjacqueline@example.com\nSite:https://www.jones.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 08-Nov-2007",
+      "DISCOUNT": "DISCOUNT(2.02%): (-)  9.94",
+      "DUE_DATE": "Due Date : 08-Feb-1995",
+      "NUMBER": "INVOICE ID INV24382519",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17223455\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 491.97  USD",
+      "TAX": "TAX:VAT (4.42%):  21.77 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 497.95 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-seven point nine five"
+    }
+  },
+  {
+    "image": "Template12_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Parks\n408 Abbott Valleys Apt. 353\nStewartberg, DE 57779 US\nTel:+(651)206-5485\nEmail:jamesknox@example.com\nSite:https://oconnell.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 24-Dec-2002",
+      "DISCOUNT": "DISCOUNT(1.84%): (-)  8.26",
+      "DUE_DATE": "Due Date : 23-Sep-2018",
+      "NUMBER": "Invoice number 7Y9M8d-658",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17980859\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 449.18  EUR",
+      "TAX": "TAX:VAT (3.41%):  15.33 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 449.87 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and forty-\n-nine point eight seven"
+    }
+  },
+  {
+    "image": "Template12_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :April Gonzalez\n019 Fuller Mountain Apt. 844\nLake Pedro, ID 74775 US\nTel:+(392)987-4776\nEmail:ashley32@example.com\nSite:http://davis-lynch.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 02-May-2005",
+      "DISCOUNT": "DISCOUNT(1.71%): (-)  12.82",
+      "DUE_DATE": "Due Date : 27-Mar-2016",
+      "NUMBER": "INVOICE ID 5Y8M6d-999",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14150710\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 749.63  USD",
+      "TAX": "TAX:VAT (3.40%):  25.52 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 744.49 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fort-\ny-four point four nine"
+    }
+  },
+  {
+    "image": "Template12_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather Wilson\n3186 Hall Estate Suite 211\nAshleyview, HI 07742 US\nTel:+(134)873-5457\nEmail:vsmith@example.net\nSite:https://www.garcia.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 29-Jul-1995",
+      "DISCOUNT": "DISCOUNT(1.3%): (-)  7.6",
+      "DUE_DATE": "Due Date : 18-Apr-2002",
+      "NUMBER": "Invoice number 2800-783",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14125377\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 584.90  EUR",
+      "TAX": "TAX:VAT (4.11%):  24.01 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 601.60 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred an-\nd one point six"
+    }
+  },
+  {
+    "image": "Template12_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Derek Brown\n448 Jennings Brooks Suite 147\nMarkburgh, MA 49144 US\nTel:+(837)390-6174\nEmail:jennifermedina@example.org\nSite:http://www.nelson.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 19-Nov-1995",
+      "DISCOUNT": "DISCOUNT(2.15%): (-)  9.58",
+      "DUE_DATE": "Due Date : 03-Mar-2009",
+      "NUMBER": "Invoice number 7691-064",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12861136\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 445.63  EUR",
+      "TAX": "TAX:VAT (5.32%):  23.69 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 456.75 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and fift-\ny-six point seven five"
+    }
+  },
+  {
+    "image": "Template12_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alexander Garner\n993 Little Stream Apt. 511\nPaultown, IL 01180 US\nTel:+(981)515-4978\nEmail:kellyhill@example.com\nSite:https://www.smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 31-Jan-2009",
+      "DISCOUNT": "DISCOUNT(1.58%): (-)  12.26",
+      "DUE_DATE": "Due Date : 19-Jun-2009",
+      "NUMBER": "INVOICE # INV23463062",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18014580\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 775.97  $",
+      "TAX": "TAX:VAT (5.62%):  43.61 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 791.10 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and n-\ninety-one point one"
+    }
+  },
+  {
+    "image": "Template12_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexander Kramer\n338 Karen Row Apt. 066\nNew Ryanland, OR 10773 US\nTel:+(311)445-0876\nEmail:bishopantonio@example.com\nSite:https://davis-miles.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 06-Apr-1994",
+      "DISCOUNT": "DISCOUNT(4.02%): (-)  20.06",
+      "DUE_DATE": "Due Date : 26-Sep-2000",
+      "NUMBER": "INVOICE # INV/73-14/315",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14617719\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 499.05  $",
+      "TAX": "TAX:VAT (3.66%):  18.24 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 494.08 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-four point zero eight"
+    }
+  },
+  {
+    "image": "Template12_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Day\n724 Lee Gateway Suite 113\nWeaverborough, TX 28945 US\nTel:+(000)317-8088\nEmail:ksmith@example.org\nSite:https://www.gray.biz/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 12-Dec-2016",
+      "DISCOUNT": "DISCOUNT(3.18%): (-)  7.99",
+      "DUE_DATE": "Due Date : 31-Jan-2011",
+      "NUMBER": "INVOICE # 3Y5M3d-851",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17123683\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 251.23  EUR",
+      "TAX": "TAX:VAT (4.75%):  11.93 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 256.13 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and fift-\ny-six point one three"
+    }
+  },
+  {
+    "image": "Template12_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Johnson\n527 Melanie Union\nWest Melissaton, NM 31196 US\nTel:+(817)983-3102\nEmail:lgardner@example.net\nSite:https://shaw.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 25-Sep-1994",
+      "DISCOUNT": "DISCOUNT(1.74%): (-)  2.33",
+      "DUE_DATE": "Due Date : 23-Aug-2008",
+      "NUMBER": "INVOICE # 3Y9M3d-775",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10928372\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 133.80  EUR",
+      "TAX": "TAX:VAT (4.00%):  5.35 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 136.46 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and thir-\nty-six point four six"
+    }
+  },
+  {
+    "image": "Template12_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Donna Moore\n810 Jonathan Oval Apt. 936\nRobertmouth, LA 31523 US\nTel:+(136)923-2489\nEmail:gonzalezfaith@example.net\nSite:https://chandler.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 26-Jun-2018",
+      "DISCOUNT": "DISCOUNT(1.6%): (-)  10.09",
+      "DUE_DATE": "Due Date : 27-May-2020",
+      "NUMBER": "INVOICE # INV93479530",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16113367\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 630.34  EUR",
+      "TAX": "TAX:VAT (4.99%):  31.48 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 650.79 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and fif-\nty point seven nine"
+    }
+  },
+  {
+    "image": "Template12_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Graham\n355 Shawn Inlet Apt. 323\nEast Justinbury, ME 28813 US\nTel:+(815)227-3343\nEmail:bakershelley@example.net\nSite:http://hill.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 13-Sep-2020",
+      "DISCOUNT": "DISCOUNT(4.63%): (-)  25.05",
+      "DUE_DATE": "Due Date : 13-Mar-2006",
+      "NUMBER": "INVOICE ID INV72814591",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18030155\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 541.03  $",
+      "TAX": "TAX:VAT (3.59%):  19.45 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 533.97 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and thirty-\n-three point nine seven"
+    }
+  },
+  {
+    "image": "Template12_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Herrera\n9045 Holmes Shoal\nKennethton, ME 20664 US\nTel:+(879)946-4443\nEmail:sandovaljoseph@example.com\nSite:https://www.vance.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 08-Jul-2013",
+      "DISCOUNT": "DISCOUNT(4.64%): (-)  36.56",
+      "DUE_DATE": "Due Date : 27-Aug-1995",
+      "NUMBER": "INVOICE ID INV94018969",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18287072\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 788.00  USD",
+      "TAX": "TAX:VAT (5.78%):  45.56 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 806.22 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and-\nsix point two two"
+    }
+  },
+  {
+    "image": "Template12_Instance89.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Betty Duke\n952 Samantha Keys\nLake Juliebury, TN 61867 US\nTel:+(895)924-2162\nEmail:bnelson@example.com\nSite:https://ross.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 08-Dec-1997",
+      "DISCOUNT": "DISCOUNT(2.75%): (-)  7.04",
+      "DUE_DATE": "Due Date : 01-Dec-2005",
+      "NUMBER": "INVOICE # INV53514902",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10518458\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 255.93  EUR",
+      "TAX": "TAX:VAT (4.44%):  11.35 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 261.68 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixt-\ny-one point six eight"
+    }
+  },
+  {
+    "image": "Template12_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sheryl Sparks\n28685 Jones Grove\nLake Katherineberg, NH 54328 US\nTel:+(754)415-2370\nEmail:henrycase@example.com\nSite:http://www.smith-wilkerson.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 05-Aug-2004",
+      "DISCOUNT": "DISCOUNT(4.4%): (-)  38.6",
+      "DUE_DATE": "Due Date : 30-Aug-2015",
+      "NUMBER": "INVOICE ID 9Y2M5d-581",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19447356\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 877.24  EUR",
+      "TAX": "TAX:VAT (3.89%):  34.16 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 894.91 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nine-\nty-four point nine one"
+    }
+  },
+  {
+    "image": "Template12_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sandra Bright\n30860 Pamela Parkways Suite 347\nKimberlyborough, ND 26174 US\nTel:+(308)610-9277\nEmail:johnathan36@example.org\nSite:https://www.brown-smith.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 02-Jan-2018",
+      "DISCOUNT": "DISCOUNT(1.28%): (-)  0.26",
+      "DUE_DATE": "Due Date : 13-Jul-2009",
+      "NUMBER": "Invoice number INV79004023",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19198685\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 20.54  USD",
+      "TAX": "TAX:VAT (6.54%):  1.34 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 21.10 USD",
+      "TOTAL_WORDS": "Total in words:  twenty-one-\npoint one"
+    }
+  },
+  {
+    "image": "Template12_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeffrey Davis\n51062 Pamela Turnpike\nLopezland, DE 84987 US\nTel:+(711)792-6808\nEmail:cummingsantonio@example.net\nSite:http://www.fleming.org/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 07-Jan-1996",
+      "DISCOUNT": "DISCOUNT(2.5%): (-)  18.08",
+      "DUE_DATE": "Due Date : 28-Oct-1995",
+      "NUMBER": "INVOICE # INV85292717",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17361891\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 723.07  EUR",
+      "TAX": "TAX:VAT (4.70%):  34.02 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 732.00 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred -\nand thirty-two"
+    }
+  },
+  {
+    "image": "Template12_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Brown\n39078 Jill Parkway\nEast Troy, NH 48652 US\nTel:+(598)290-4416\nEmail:rsmith@example.net\nSite:http://williams.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Date: 04-Aug-1993",
+      "DISCOUNT": "DISCOUNT(2.75%): (-)  23.13",
+      "DUE_DATE": "Due Date : 12-Feb-2002",
+      "NUMBER": "INVOICE ID 1Y9M4d-744",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11686402\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 841.19  USD",
+      "TAX": "TAX:VAT (3.58%):  30.15 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 839.63 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-nine point six three"
+    }
+  },
+  {
+    "image": "Template12_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gwendolyn Young\n662 Karen Hill Apt. 886\nStacyfort, NM 13901 US\nTel:+(294)435-8288\nEmail:dixonralph@example.net\nSite:http://www.hughes.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 31-Mar-2017",
+      "DISCOUNT": "DISCOUNT(4.89%): (-)  21.43",
+      "DUE_DATE": "Due Date : 31-Dec-2022",
+      "NUMBER": "Invoice number 6Y1M5d-008",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18213633\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 438.27  $",
+      "TAX": "TAX:VAT (3.82%):  16.75 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 442.88 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and forty-\n-two point eight eight"
+    }
+  },
+  {
+    "image": "Template12_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathleen Cole\n08566 Scott Burgs Apt. 181\nEast Amybury, NY 91401 US\nTel:+(684)718-7772\nEmail:angela86@example.org\nSite:https://www.torres-miller.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 20-Apr-2006",
+      "DISCOUNT": "DISCOUNT(1.46%): (-)  10.61",
+      "DUE_DATE": "Due Date : 05-May-2004",
+      "NUMBER": "INVOICE # INV/19-97/596",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15317378\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 726.87  USD",
+      "TAX": "TAX:VAT (5.18%):  37.65 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 728.98 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twent-\ny-eight point nine eight"
+    }
+  },
+  {
+    "image": "Template12_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Veronica Chan\n68111 Natalie Meadows\nWest Joycemouth, PR 16437 US\nTel:+(310)571-6901\nEmail:peter70@example.com\nSite:https://www.nelson-conner.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Date: 08-Dec-1995",
+      "DISCOUNT": "DISCOUNT(3.4%): (-)  26.61",
+      "DUE_DATE": "Due Date : 13-Jul-2015",
+      "NUMBER": "INVOICE # 2Y7M9d-633",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17270935\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 782.64  $",
+      "TAX": "TAX:VAT (6.88%):  53.81 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 825.57 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twent-\ny-five point five seven"
+    }
+  },
+  {
+    "image": "Template12_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cindy Mueller\n0645 Jessica Vista Apt. 436\nBrittanytown, LA 08995 US\nTel:+(676)655-2441\nEmail:justinelliott@example.org\nSite:http://www.hernandez.com/",
+      "CONDITIONS": "Terms and Conditions\nwill be charged if payment is not made within the due date.",
+      "DATE": "Invoice Date: 13-Feb-2020",
+      "DISCOUNT": "DISCOUNT(4.18%): (-)  28.78",
+      "DUE_DATE": "Due Date : 27-Sep-2018",
+      "NUMBER": "INVOICE # INV/27-77/395",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14774606\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 688.48  EUR",
+      "TAX": "TAX:VAT (6.66%):  45.83 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 716.48 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and six-\nteen point four eight"
+    }
+  },
+  {
+    "image": "Template12_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Janice Baird\n34188 Diane Falls Suite 753\nNataliehaven, IL 76583 US\nTel:+(289)924-7678\nEmail:sherrihansen@example.com\nSite:https://www.montes.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 01-Dec-2015",
+      "DISCOUNT": "DISCOUNT(2.0%): (-)  15.17",
+      "DUE_DATE": "Due Date : 14-Nov-2022",
+      "NUMBER": "INVOICE # 8Y3M7d-145",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13618226\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 758.41  EUR",
+      "TAX": "TAX:VAT (6.05%):  45.91 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 777.47 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sevent-\ny-seven point four seven"
+    }
+  },
+  {
+    "image": "Template12_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jordan Watkins\n74892 Baker Path\nDavidfurt, DC 80345 US\nTel:+(056)077-2851\nEmail:cody47@example.com\nSite:http://snyder.com/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 01-Feb-2006",
+      "DISCOUNT": "DISCOUNT(3.04%): (-)  15.7",
+      "DUE_DATE": "Due Date : 23-Jan-2001",
+      "NUMBER": "Invoice number INV/56-51/359",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18669266\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 516.57  $",
+      "TAX": "TAX:VAT (6.43%):  33.23 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 540.45 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and fo-\nrty point four five"
+    }
+  },
+  {
+    "image": "Template12_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Williams\n852 Hannah Mountain\nLisaton, ME 99879 US\nTel:+(994)091-0992\nEmail:calvin16@example.org\nSite:http://www.henderson.info/",
+      "CONDITIONS": "Terms & Conditions\n1. Please send payment within 8 days of receiving this invoice.\nThere will be a 2.5% interest charge per month on late invoices.\n2. Please include the Invoice number in your payment notes.",
+      "DATE": "Invoice Date: 31-Oct-2005",
+      "DISCOUNT": "DISCOUNT(3.62%): (-)  31.04",
+      "DUE_DATE": "Due Date : 26-Oct-2001",
+      "NUMBER": "INVOICE # 3Y4M9d-047",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13454385\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:6479 Smith Causeway\nEast Camerontown, AS 38212 US",
+      "SELLER_NAME": "Richardson-Davis",
+      "SUB_TOTAL": "SUB_TOTAL : 857.35  $",
+      "TAX": "TAX:VAT (4.61%):  39.57 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 866.74 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sixt-\ny-six point seven four"
+    }
+  }
+]

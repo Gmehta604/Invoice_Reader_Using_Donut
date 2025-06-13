@@ -1,0 +1,682 @@
+[
+  {
+    "image": "Template33_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Natalie Murphy\n3569 Michele Corner Suite 391\nLaurenmouth, DC 62871 US\nTel:+(722)451-5278\nEmail:debragomez@example.org\nSite:http://www.pineda-miller.com/",
+      "DATE": "Invoice Date: 20-Mar-1993",
+      "DUE_DATE": "Due Date : 28-Apr-1998",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 1Y3M5d-812",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1206.39  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 1253.27 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 217.15"
+    }
+  },
+  {
+    "image": "Template33_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Adam Cain\n159 Matthew Green Apt. 248\nNorth Randyburgh, HI 56684 US\nTel:+(877)213-8202\nEmail:howardgilbert@example.com\nSite:http://chase.com/",
+      "DATE": "Invoice Date: 03-Jan-2012",
+      "DUE_DATE": "Due Date : 30-Jul-1998",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV/35-01/386",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 591.26  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 598.93 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 106.43"
+    }
+  },
+  {
+    "image": "Template33_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Guerra\n431 Darrell Plains\nLake Katie, MH 18883 US\nTel:+(861)192-5239\nEmail:howardbowman@example.com\nSite:http://www.terry.com/",
+      "DATE": "Invoice Date: 10-Apr-2007",
+      "DUE_DATE": "Due Date : 01-Jul-1999",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV/00-68/827",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1026.37  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 1043.05 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 184.75"
+    }
+  },
+  {
+    "image": "Template33_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremy Rosales\n977 Mack Haven\nWest Mary, TX 62806 US\nTel:+(667)897-6907\nEmail:louispope@example.org\nSite:http://barker.com/",
+      "DATE": "Date: 26-May-1996",
+      "DUE_DATE": "Due Date : 15-Feb-2000",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # 7481-549",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 180.53  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 184.58 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 32.50"
+    }
+  },
+  {
+    "image": "Template33_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Hannah Arnold\n563 Steven Forge\nBanksburgh, RI 15398 US\nTel:+(739)930-3005\nEmail:ddalton@example.com\nSite:https://carpenter.com/",
+      "DATE": "Invoice Date: 20-May-2005",
+      "DUE_DATE": "Due Date : 11-Dec-1994",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV/80-44/469",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 682.44  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 708.34 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 122.84"
+    }
+  },
+  {
+    "image": "Template33_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Vega\n5315 Norman Walks\nTraceyside, NV 41522 US\nTel:+(401)958-1969\nEmail:kristigonzalez@example.com\nSite:https://www.hernandez.com/",
+      "DATE": "Invoice Date: 03-Dec-2006",
+      "DUE_DATE": "Due Date : 18-Mar-2017",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV92968270",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1300.96  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 1320.24 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 234.17"
+    }
+  },
+  {
+    "image": "Template33_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patrick Wright\n752 Justin Corners\nLake Brandon, CO 38710 US\nTel:+(149)574-2099\nEmail:mullinsmatthew@example.net\nSite:http://www.hernandez-stephens.com/",
+      "DATE": "Invoice Date: 04-Aug-2022",
+      "DUE_DATE": "Due Date : 24-Apr-2006",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 1772-995",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 162.84  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 167.00 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 29.31"
+    }
+  },
+  {
+    "image": "Template33_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dr. Krystal Diaz\n43600 Griffith Valleys\nRachelberg, PA 87742 US\nTel:+(765)290-5586\nEmail:welchjoshua@example.com\nSite:https://chavez.biz/",
+      "DATE": "Invoice Date: 08-Sep-2006",
+      "DUE_DATE": "Due Date : 12-Mar-2003",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV/09-48/166",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 568.21  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 585.47 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 102.28"
+    }
+  },
+  {
+    "image": "Template33_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kenneth Fitzgerald\n49464 Booth Viaduct Apt. 786\nSeanville, MH 53218 US\nTel:+(871)202-8237\nEmail:jerry12@example.com\nSite:https://vance.com/",
+      "DATE": "Date: 20-Apr-2017",
+      "DUE_DATE": "Due Date : 03-Jan-2004",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV14688196",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 302.07  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 316.06 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 54.37"
+    }
+  },
+  {
+    "image": "Template33_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Geoffrey Hardy\n999 Sharon Branch\nEast Regina, NV 47476 US\nTel:+(660)340-2574\nEmail:xjones@example.org\nSite:https://www.ferguson.info/",
+      "DATE": "Invoice Date: 21-Nov-2001",
+      "DUE_DATE": "Due Date : 28-Aug-2021",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 5096-178",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 690.40  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 685.37 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 124.27"
+    }
+  },
+  {
+    "image": "Template33_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Shirley Dean\n11097 Karen Light\nNorth Adam, AR 39707 US\nTel:+(409)046-2866\nEmail:zramos@example.net\nSite:http://www.gibson.info/",
+      "DATE": "Invoice Date: 30-Apr-1997",
+      "DUE_DATE": "Due Date : 28-Sep-1996",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV/48-78/906",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 5.88  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 5.94 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 1.06"
+    }
+  },
+  {
+    "image": "Template33_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Darrell Archer\n9557 Kevin Ville\nAlbertville, GU 61380 US\nTel:+(064)763-1008\nEmail:julie89@example.net\nSite:https://nelson.com/",
+      "DATE": "Date: 23-Dec-2010",
+      "DUE_DATE": "Due Date : 20-Jun-2016",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV/34-94/482",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 501.70  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 506.34 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 90.31"
+    }
+  },
+  {
+    "image": "Template33_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Holly Brown\n27193 Matthews Locks Suite 779\nWest Alexandria, ME 29631 US\nTel:+(260)339-8123\nEmail:marcher@example.com\nSite:http://www.morris.com/",
+      "DATE": "Invoice Date: 29-Nov-2014",
+      "DUE_DATE": "Due Date : 02-Apr-1993",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # 4124-698",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 651.47  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 658.63 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 117.26"
+    }
+  },
+  {
+    "image": "Template33_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Dean\n99425 Kemp Crossroad Apt. 098\nDavisstad, TN 17731 US\nTel:+(888)846-1587\nEmail:yjoyce@example.net\nSite:https://pham-strong.com/",
+      "DATE": "Invoice Date: 28-Jun-2010",
+      "DUE_DATE": "Due Date : 19-Apr-2021",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV/61-78/737",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 684.79  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 695.63 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 123.26"
+    }
+  },
+  {
+    "image": "Template33_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Brooks\n369 Michelle Point\nGlorialand, OK 87538 US\nTel:+(917)833-4842\nEmail:carterangel@example.net\nSite:http://jackson.net/",
+      "DATE": "Invoice Date: 10-Feb-2016",
+      "DUE_DATE": "Due Date : 01-Jul-1998",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV/02-22/428",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 643.73  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 648.17 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 115.87"
+    }
+  },
+  {
+    "image": "Template33_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carolyn Hamilton\n573 Rasmussen Isle\nEdwardshire, NY 08258 US\nTel:+(851)340-6593\nEmail:robert19@example.com\nSite:http://www.price-bond.com/",
+      "DATE": "Invoice Date: 11-Aug-2019",
+      "DUE_DATE": "Due Date : 22-Nov-1996",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number 8Y9M1d-957",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 689.34  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 702.73 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 124.08"
+    }
+  },
+  {
+    "image": "Template33_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Teresa Murphy\n63710 Wilson Spurs Suite 721\nRussellville, MH 57814 US\nTel:+(800)678-9714\nEmail:rosalesshelby@example.org\nSite:http://bennett-solis.biz/",
+      "DATE": "Invoice Date: 18-May-2008",
+      "DUE_DATE": "Due Date : 08-Sep-2008",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # 9489-843",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 774.39  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 806.36 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 139.39"
+    }
+  },
+  {
+    "image": "Template33_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Ball\n38260 Lee Circle\nWilliamsonchester, DC 61700 US\nTel:+(488)046-9420\nEmail:garciasharon@example.net\nSite:https://short-murphy.biz/",
+      "DATE": "Invoice Date: 02-Nov-2007",
+      "DUE_DATE": "Due Date : 02-Sep-2005",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV/33-01/730",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 95.50  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 100.14 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 17.19"
+    }
+  },
+  {
+    "image": "Template33_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Griffin\n07364 Anderson Oval\nTuckerhaven, ME 56790 US\nTel:+(446)938-2923\nEmail:barnesstephen@example.net\nSite:https://www.wilkinson.com/",
+      "DATE": "Invoice Date: 14-Mar-1998",
+      "DUE_DATE": "Due Date : 16-Dec-2007",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV33467164",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 459.42  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 482.24 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 82.70"
+    }
+  },
+  {
+    "image": "Template33_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy Joseph\n240 Jones Locks Suite 878\nPort Angelafurt, CO 67567 US\nTel:+(308)084-5748\nEmail:martinezphillip@example.org\nSite:https://www.watts-morgan.com/",
+      "DATE": "Date: 18-Apr-1999",
+      "DUE_DATE": "Due Date : 22-Jul-2005",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV67051742",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 654.05  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 658.21 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 117.73"
+    }
+  },
+  {
+    "image": "Template33_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julie Butler\n633 White Crossroad Apt. 852\nEast Taylor, AR 71943 US\nTel:+(419)542-6491\nEmail:matthewhickman@example.net\nSite:https://www.hancock.org/",
+      "DATE": "Invoice Date: 13-Dec-2018",
+      "DUE_DATE": "Due Date : 27-Jun-2000",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 8Y5M6d-379",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 306.93  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 311.28 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 55.25"
+    }
+  },
+  {
+    "image": "Template33_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Pamela Rodriguez\n527 Brittney Park Suite 999\nNew Jacobside, VA 16180 US\nTel:+(247)630-7109\nEmail:dana58@example.net\nSite:http://baker.com/",
+      "DATE": "Invoice Date: 20-Dec-2000",
+      "DUE_DATE": "Due Date : 02-Jan-2016",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV/91-32/655",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 829.82  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 862.60 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 149.37"
+    }
+  },
+  {
+    "image": "Template33_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jonathon Jennings\n64718 Rocha River Apt. 220\nPort David, NE 36149 US\nTel:+(476)230-9572\nEmail:ggarcia@example.org\nSite:http://hart.biz/",
+      "DATE": "Date: 13-May-2013",
+      "DUE_DATE": "Due Date : 10-Jul-2020",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV/67-61/466",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 339.25  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 346.50 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 61.06"
+    }
+  },
+  {
+    "image": "Template33_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melanie Pierce\n65545 Webb Pass Suite 956\nJuliemouth, OK 40939 US\nTel:+(086)428-0135\nEmail:qproctor@example.org\nSite:https://www.carlson.info/",
+      "DATE": "Invoice Date: 30-Dec-2017",
+      "DUE_DATE": "Due Date : 02-Mar-2021",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number 6271-239",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 264.97  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 265.87 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 47.69"
+    }
+  },
+  {
+    "image": "Template33_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Keith Wagner\n74887 Murphy Roads Apt. 805\nJosephtown, MD 88792 US\nTel:+(916)807-4702\nEmail:imadden@example.net\nSite:http://www.martinez.com/",
+      "DATE": "Invoice Date: 08-Feb-1995",
+      "DUE_DATE": "Due Date : 28-Mar-1999",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # 1Y1M1d-834",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 300.90  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 306.16 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 54.16"
+    }
+  },
+  {
+    "image": "Template33_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ethan Stone\n454 Pierce Summit Apt. 406\nLake Kathy, PR 60915 US\nTel:+(000)889-6915\nEmail:joshuacline@example.org\nSite:https://haynes.com/",
+      "DATE": "Invoice Date: 19-Jan-2021",
+      "DUE_DATE": "Due Date : 20-Jan-1996",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 9Y2M3d-578",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 753.19  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 770.54 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 135.57"
+    }
+  },
+  {
+    "image": "Template33_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Marcus Barton\n431 Victoria Square\nNorth Trevorfurt, ID 35852 US\nTel:+(657)187-5460\nEmail:heidicortez@example.net\nSite:https://www.moss-garza.com/",
+      "DATE": "Invoice Date: 10-Jan-2019",
+      "DUE_DATE": "Due Date : 15-Aug-1995",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID INV90934331",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 699.48  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 725.79 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 125.91"
+    }
+  },
+  {
+    "image": "Template33_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Cortez\n87898 Pace Harbors Apt. 905\nPort Emilyside, GA 59200 US\nTel:+(576)695-9253\nEmail:fletcherthomas@example.net\nSite:https://combs.org/",
+      "DATE": "Invoice Date: 08-Apr-2003",
+      "DUE_DATE": "Due Date : 31-May-2008",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV/89-87/812",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1067.10  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 1060.93 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 192.08"
+    }
+  },
+  {
+    "image": "Template33_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Terry Gutierrez\n28211 Tracy Gateway Apt. 568\nSouth Mary, FM 03779 US\nTel:+(261)670-1281\nEmail:melinda88@example.com\nSite:http://perry-weaver.com/",
+      "DATE": "Date: 18-Oct-2005",
+      "DUE_DATE": "Due Date : 31-May-1996",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV/26-20/254",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1140.02  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 1155.57 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 205.20"
+    }
+  },
+  {
+    "image": "Template33_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristopher Miller\n6772 Hurley Street Apt. 833\nNorth Katieside, MS 16230 US\nTel:+(617)308-9576\nEmail:yedwards@example.net\nSite:https://wagner.com/",
+      "DATE": "Invoice Date: 17-Mar-2002",
+      "DUE_DATE": "Due Date : 29-Sep-2018",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV51537072",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 540.47  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 566.86 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 97.28"
+    }
+  },
+  {
+    "image": "Template33_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Randy Adkins\n953 Foster Mews\nMelissaville, ID 44705 US\nTel:+(371)417-2216\nEmail:melissa56@example.org\nSite:https://www.brown.biz/",
+      "DATE": "Invoice Date: 07-May-2012",
+      "DUE_DATE": "Due Date : 10-Apr-2008",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 3478-671",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1360.63  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 1370.92 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 244.91"
+    }
+  },
+  {
+    "image": "Template33_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mathew Fitzpatrick\n300 Ball Curve\nSarafort, MO 25212 US\nTel:+(092)602-7500\nEmail:jasoncarpenter@example.com\nSite:http://www.chen.com/",
+      "DATE": "Invoice Date: 16-Dec-2008",
+      "DUE_DATE": "Due Date : 14-Feb-2002",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number 4Y9M8d-985",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 297.05  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 302.09 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 53.47"
+    }
+  },
+  {
+    "image": "Template33_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Juan Henderson\n118 Allison Ramp Apt. 730\nAngelastad, NJ 10009 US\nTel:+(466)573-1820\nEmail:castrostephen@example.org\nSite:http://www.simpson.com/",
+      "DATE": "Invoice Date: 16-Jun-2006",
+      "DUE_DATE": "Due Date : 11-Jun-2021",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV/21-43/535",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 630.15  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 641.89 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 113.43"
+    }
+  },
+  {
+    "image": "Template33_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Hayden Morgan\n710 Lance Dale\nTaylorchester, ID 57967 US\nTel:+(546)909-2259\nEmail:swhitehead@example.org\nSite:http://haney.biz/",
+      "DATE": "Date: 29-Jan-1993",
+      "DUE_DATE": "Due Date : 10-Jan-2001",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV77834976",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 148.67  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 151.65 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 26.76"
+    }
+  },
+  {
+    "image": "Template33_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Martinez\n710 Angela Terrace\nWilsonville, TN 06061 US\nTel:+(988)666-5727\nEmail:brightheather@example.com\nSite:https://thompson-young.com/",
+      "DATE": "Invoice Date: 27-May-2015",
+      "DUE_DATE": "Due Date : 11-Dec-2013",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number INV99893441",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1193.77  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 1203.08 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 214.88"
+    }
+  },
+  {
+    "image": "Template33_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jared Scott\n41464 Chelsey Village Suite 876\nJameston, PA 59140 US\nTel:+(540)478-2286\nEmail:anthonywest@example.org\nSite:http://davis-nguyen.com/",
+      "DATE": "Invoice Date: 29-Apr-2008",
+      "DUE_DATE": "Due Date : 05-Aug-2017",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # INV/14-10/367",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 1033.05  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 1064.23 $",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 185.95"
+    }
+  },
+  {
+    "image": "Template33_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Mendoza\n0540 Dickerson Park\nLake Calvin, MO 42437 US\nTel:+(465)671-4330\nEmail:williambrown@example.org\nSite:http://sanchez.com/",
+      "DATE": "Invoice Date: 30-Apr-2002",
+      "DUE_DATE": "Due Date : 28-May-2019",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE # 8Y5M4d-681",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 305.09  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 314.11 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 54.92"
+    }
+  },
+  {
+    "image": "Template33_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Lambert\n306 Ellis Freeway Suite 473\nPort Tammy, PA 47467 US\nTel:+(656)333-0307\nEmail:ginawoods@example.com\nSite:http://mcintyre.net/",
+      "DATE": "Date: 23-Feb-1993",
+      "DUE_DATE": "Due Date : 03-Dec-2008",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 9103-363",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 271.47  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "BALANCE DUE : 276.87 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 48.86"
+    }
+  },
+  {
+    "image": "Template33_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Phyllis Vaughan\n8167 Campbell Wells Apt. 471\nOlsontown, GU 24335 US\nTel:+(037)547-7771\nEmail:anne46@example.net\nSite:http://www.murphy.com/",
+      "DATE": "Date: 26-Feb-2005",
+      "DUE_DATE": "Due Date : 23-Sep-2003",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "Invoice number 9Y3M3d-663",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 731.76  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "BALANCE DUE : 738.77 EUR",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 131.72"
+    }
+  },
+  {
+    "image": "Template33_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Darren Mitchell\n5057 Davis Locks\nWest Brianland, AR 40468 US\nTel:+(747)730-8415\nEmail:emily91@example.net\nSite:https://www.jones.org/",
+      "DATE": "Invoice Date: 04-Jan-2020",
+      "DUE_DATE": "Due Date : 24-Jun-2015",
+      "GSTIN_BUYER": "GSTIN 22AAAAAD000A125,",
+      "NUMBER": "INVOICE ID 5Y2M7d-235",
+      "SELLER_ADDRESS": "Address:4901 Long Wall Apt. 620\nJoshuaville, CT 95783 US",
+      "SELLER_NAME": "Duran, Morgan and Lopez",
+      "SUB_TOTAL": "SUB_TOTAL : 435.08  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "BALANCE DUE : 442.02 USD",
+      "GSTIN_SELLER": "GSTIN 336SPTNO37LG120",
+      "GST(18%)": "GST(18%) : 78.31"
+    }
+  }
+]

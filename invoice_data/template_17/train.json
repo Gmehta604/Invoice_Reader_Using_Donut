@@ -1,0 +1,2882 @@
+[
+  {
+    "image": "Template17_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sara Maldonado\n986 Colon Walk Suite 503\nJamesville, RI 56764 US\nTel:+(935)390-1413\nEmail:fwiley@example.org\nSite:http://www.russell.com/",
+      "DATE": "Date: 08-Dec-1995",
+      "DUE_DATE": "Due Date : 29-Apr-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/45-07/649",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 319.77  USD",
+      "TAX": "TAX:VAT (3.77%):  12.06 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 321.50 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and t-\nwenty-one point five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carla Shaw\n65610 Adam Courts Suite 698\nEast Johnville, SC 98839 US\nTel:+(683)437-5718\nEmail:holmesbradley@example.com\nSite:http://www.newton.biz/",
+      "DATE": "Date: 28-Feb-2017",
+      "DUE_DATE": "Due Date : 29-Apr-2021",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 7Y9M6d-383",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 528.22  EUR",
+      "TAX": "TAX:VAT (5.16%):  27.25 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 540.79 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fo-\nrty point seven nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mike Wilson\n9465 Kenneth Springs\nBanksville, UT 98120 US\nTel:+(688)667-3519\nEmail:ccruz@example.org\nSite:https://www.clay.net/",
+      "DATE": "Date: 28-Dec-2016",
+      "DUE_DATE": "Due Date : 02-May-1994",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 1Y2M4d-378",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 394.46  EUR",
+      "TAX": "TAX:VAT (6.85%):  27.00 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 417.52 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sev-\nenteen point five two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Casey Howell\n1091 Foster Trail Apt. 454\nDorseyberg, SD 84266 US\nTel:+(159)096-8833\nEmail:zparker@example.com\nSite:https://www.ward.com/",
+      "DATE": "Date: 16-Jan-2021",
+      "DUE_DATE": "Due Date : 07-Feb-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/74-60/196",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 532.76  USD",
+      "TAX": "TAX:VAT (6.04%):  32.16 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 559.49 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-nine point four nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Johnson\n765 Kimberly Stravenue Suite 488\nCookberg, NE 40511 US\nTel:+(616)637-4995\nEmail:joelrichard@example.net\nSite:http://www.price.com/",
+      "DATE": "Date: 29-Sep-2018",
+      "DUE_DATE": "Due Date : 31-May-2022",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 3Y5M2d-023",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 376.04  $",
+      "TAX": "TAX:VAT (5.85%):  22.00 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 386.27 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-six point two seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joe Walsh\n27118 Garza Cape Suite 211\nJenniferburgh, MP 26449 US\nTel:+(123)707-5323\nEmail:henrysteve@example.net\nSite:http://www.miller-patel.com/",
+      "DATE": "Date: 22-Mar-2003",
+      "DUE_DATE": "Due Date : 13-Aug-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 1233-320",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 400.06  USD",
+      "TAX": "TAX:VAT (5.16%):  20.65 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 411.91 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and el-\neven point nine one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kara Price\n58320 Ryan Rue Apt. 087\nStevenland, AK 09898 US\nTel:+(984)230-7450\nEmail:browncynthia@example.com\nSite:https://www.jones.com/",
+      "DATE": "Date: 02-Aug-2018",
+      "DUE_DATE": "Due Date : 14-Oct-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV25247818",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 787.33  $",
+      "TAX": "TAX:VAT (3.11%):  24.47 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 779.13 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seven-\nty-nine point one three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Holly Bennett\n78483 Jane Fort Apt. 094\nSouth Thomasside, AR 00905 US\nTel:+(842)152-9825\nEmail:billystevenson@example.org\nSite:https://sandoval-rodriguez.info/",
+      "DATE": "Invoice Date: 04-May-1996",
+      "DUE_DATE": "Due Date : 03-Dec-2019",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 1035-756",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 521.94  USD",
+      "TAX": "TAX:VAT (6.62%):  34.55 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 540.00 USD",
+      "TOTAL_WORDS": "Total in words:  five hundre-\nd and forty",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Underwood\n685 Ryan Center\nSouth Samuel, KS 81290 US\nTel:+(750)764-5426\nEmail:gomezkaren@example.com\nSite:https://sampson.com/",
+      "DATE": "Invoice Date: 09-Aug-2011",
+      "DUE_DATE": "Due Date : 21-Oct-2008",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 3Y5M4d-170",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 867.90  USD",
+      "TAX": "TAX:VAT (4.04%):  35.02 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 889.99 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and eigh-\nty-nine point nine nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Natalie Berry\n246 Pearson Ridges Suite 466\nPalmerhaven, GU 91453 US\nTel:+(647)991-9900\nEmail:qbryan@example.org\nSite:https://davis.com/",
+      "DATE": "Invoice Date: 13-Jun-2011",
+      "DUE_DATE": "Due Date : 19-Oct-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 5Y8M7d-035",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 958.90  EUR",
+      "TAX": "TAX:VAT (5.43%):  52.10 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 983.10 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and ei-\nghty-three point one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Reid\n255 Martin Avenue\nNorth Jerryville, GU 18934 US\nTel:+(803)522-0899\nEmail:ugarcia@example.org\nSite:https://www.copeland-skinner.com/",
+      "DATE": "Invoice Date: 10-Jun-1995",
+      "DUE_DATE": "Due Date : 27-Oct-2001",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 6951-225",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 449.18  $",
+      "TAX": "TAX:VAT (5.80%):  26.05 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 459.15 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fift-\ny-nine point one five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tammie Hawkins\n90098 Robert Expressway Apt. 800\nNorth Crystalfort, IL 84561 US\nTel:+(311)371-3202\nEmail:lisadelgado@example.org\nSite:https://moody.org/",
+      "DATE": "Date: 06-Sep-2002",
+      "DUE_DATE": "Due Date : 28-Jan-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/11-75/621",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 170.78  EUR",
+      "TAX": "TAX:VAT (3.75%):  6.41 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 171.91 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and seven-\nty-one point nine one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sean Marshall\n130 Townsend Road Suite 017\nSouth Joshua, LA 18383 US\nTel:+(087)952-4962\nEmail:hsnyder@example.net\nSite:https://castillo-thomas.biz/",
+      "DATE": "Date: 24-Jul-2000",
+      "DUE_DATE": "Due Date : 12-Dec-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV44312903",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 666.70  USD",
+      "TAX": "TAX:VAT (3.42%):  22.78 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 662.41 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixt-\ny-two point four one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brett Guzman\n137 Lawrence Village Apt. 461\nNorth Chadstad, VA 93782 US\nTel:+(845)981-2799\nEmail:baldwinkayla@example.com\nSite:http://www.ballard.biz/",
+      "DATE": "Date: 12-Sep-2000",
+      "DUE_DATE": "Due Date : 11-Aug-2020",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/99-62/727",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 323.03  $",
+      "TAX": "TAX:VAT (6.64%):  21.44 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 334.42 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-four point four two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Justin Ryan\n044 Lindsay Mount\nNorth Mariaton, NJ 43638 US\nTel:+(948)766-4942\nEmail:johnnyhutchinson@example.org\nSite:http://www.trevino.com/",
+      "DATE": "Invoice Date: 22-May-2005",
+      "DUE_DATE": "Due Date : 26-Jan-2011",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 8Y9M7d-799",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 432.33  EUR",
+      "TAX": "TAX:VAT (5.52%):  23.85 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 442.91 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and for-\nty-two point nine one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tammy Graves\n5366 Benson Road Apt. 205\nAndersonborough, MI 85572 US\nTel:+(270)120-3037\nEmail:uritter@example.net\nSite:https://knight.com/",
+      "DATE": "Invoice Date: 25-Nov-1993",
+      "DUE_DATE": "Due Date : 12-Feb-2010",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV03648288",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 489.68  EUR",
+      "TAX": "TAX:VAT (6.74%):  32.99 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 501.47 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and o-\nne point four seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kevin Taylor\n40486 Brown Throughway Apt. 058\nJohnsonstad, PA 08637 US\nTel:+(307)530-7802\nEmail:john03@example.org\nSite:http://davis.com/",
+      "DATE": "Date: 16-Nov-1994",
+      "DUE_DATE": "Due Date : 24-May-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 3Y5M7d-065",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1004.91  EUR",
+      "TAX": "TAX:VAT (3.20%):  32.13 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1003.58 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and th-\nree point five eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Crosby\n938 Curtis Lights\nEast Gabrielstad, PW 54943 US\nTel:+(291)630-3197\nEmail:romeromichelle@example.org\nSite:https://cruz.com/",
+      "DATE": "Invoice Date: 03-Nov-2015",
+      "DUE_DATE": "Due Date : 13-May-2008",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 4058-985",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 490.46  USD",
+      "TAX": "TAX:VAT (6.90%):  33.82 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 507.90 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and-\nseven point nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Griffin\n8149 Latoya Corner Suite 305\nWest Samuel, AK 82216 US\nTel:+(723)767-4719\nEmail:troy43@example.org\nSite:http://www.yang.info/",
+      "DATE": "Date: 17-Apr-1997",
+      "DUE_DATE": "Due Date : 12-Dec-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 0722-092",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 724.13  EUR",
+      "TAX": "TAX:VAT (6.54%):  47.32 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 741.47 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fort-\ny-one point four seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffery Wilson\n5629 Drake Forks\nSouth David, WY 90064 US\nTel:+(789)067-3038\nEmail:stafforddevin@example.com\nSite:http://www.lang.net/",
+      "DATE": "Date: 29-Dec-2003",
+      "DUE_DATE": "Due Date : 08-Jul-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV85959719",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 577.32  USD",
+      "TAX": "TAX:VAT (3.74%):  21.61 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 572.32 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-two point three two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Reese\n278 Griffin Creek Apt. 278\nWoodardberg, IL 54108 US\nTel:+(069)861-5585\nEmail:greenmatthew@example.com\nSite:https://www.keller.net/",
+      "DATE": "Date: 12-Jan-2012",
+      "DUE_DATE": "Due Date : 02-Apr-2007",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV47998287",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 553.33  EUR",
+      "TAX": "TAX:VAT (5.72%):  31.67 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 575.54 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-five point five four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Mullen\n44859 Michelle Creek Apt. 467\nEast Aaron, NE 69229 US\nTel:+(557)001-7958\nEmail:ashleycobb@example.org\nSite:https://taylor-johnson.com/",
+      "DATE": "Invoice Date: 15-Jun-2002",
+      "DUE_DATE": "Due Date : 10-Jan-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 5Y6M9d-079",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 458.31  USD",
+      "TAX": "TAX:VAT (5.78%):  26.50 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 464.14 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-four point one four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patricia Hammond\n13377 Murphy Loaf\nJenkinsside, AK 65763 US\nTel:+(190)740-8726\nEmail:john96@example.org\nSite:https://www.huff.com/",
+      "DATE": "Invoice Date: 10-Mar-2020",
+      "DUE_DATE": "Due Date : 10-Sep-2022",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV55133245",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 700.94  $",
+      "TAX": "TAX:VAT (6.53%):  45.77 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 725.40 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and tw-\nenty-five point four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Cole\n363 Harding Rue Apt. 385\nSarahview, LA 27724 US\nTel:+(000)670-4278\nEmail:nwerner@example.org\nSite:http://www.sullivan.biz/",
+      "DATE": "Date: 22-Aug-1998",
+      "DUE_DATE": "Due Date : 30-Dec-2012",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 8134-425",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 527.64  $",
+      "TAX": "TAX:VAT (5.45%):  28.75 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 545.63 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and fort-\ny-five point six three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patricia Townsend\n3932 Harris Inlet\nAaronborough, WV 28638 US\nTel:+(111)938-1049\nEmail:christina34@example.com\nSite:http://www.rivers.com/",
+      "DATE": "Date: 08-Apr-1995",
+      "DUE_DATE": "Due Date : 20-Aug-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 3002-252",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 799.08  EUR",
+      "TAX": "TAX:VAT (5.17%):  41.30 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 806.98 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and s-\nix point nine eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alicia Hudson\n0395 Tommy Junction\nDavidhaven, IL 39035 US\nTel:+(662)607-5869\nEmail:velazquezamy@example.net\nSite:https://www.weeks.org/",
+      "DATE": "Invoice Date: 02-May-1999",
+      "DUE_DATE": "Due Date : 24-Jan-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 3Y2M8d-893",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 302.33  $",
+      "TAX": "TAX:VAT (6.39%):  19.33 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 307.87 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and se-\nven point eight seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Laura Carrillo\n05300 Johnson Corners\nLake Hannah, PA 25120 US\nTel:+(887)335-8813\nEmail:dbenson@example.org\nSite:https://www.huff.info/",
+      "DATE": "Date: 18-Dec-2002",
+      "DUE_DATE": "Due Date : 26-Apr-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 2835-147",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 646.90  $",
+      "TAX": "TAX:VAT (6.01%):  38.86 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 677.41 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and sevent-\ny-seven point four one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Thomas\n53569 Greene Lake\nPrincetown, NC 92947 US\nTel:+(453)517-5204\nEmail:elaine25@example.net\nSite:http://brown-torres.com/",
+      "DATE": "Date: 21-May-2003",
+      "DUE_DATE": "Due Date : 16-Feb-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/89-93/571",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1235.16  EUR",
+      "TAX": "TAX:VAT (3.31%):  40.83 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1257.09 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd fifty-seven point zero nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michele Giles\n677 Walters Valleys\nNicoleburgh, GU 39887 US\nTel:+(693)757-9109\nEmail:sallen@example.com\nSite:https://www.wells.org/",
+      "DATE": "Invoice Date: 01-Jul-2015",
+      "DUE_DATE": "Due Date : 03-Jun-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 7Y5M9d-136",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 371.29  $",
+      "TAX": "TAX:VAT (3.22%):  11.94 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 365.85 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-five point eight five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Deborah Murphy\n243 Maria Roads Suite 951\nSouth Pamela, FL 69992 US\nTel:+(645)391-8634\nEmail:karentapia@example.org\nSite:http://www.king-stephenson.info/",
+      "DATE": "Invoice Date: 22-Aug-2008",
+      "DUE_DATE": "Due Date : 22-Apr-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/83-24/655",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 630.77  $",
+      "TAX": "TAX:VAT (3.23%):  20.37 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 631.71 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and thirt-\ny-one point seven one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mrs. Rachel Greene\n410 Adrian Terrace\nJeffreyfurt, AK 63805 US\nTel:+(508)533-3477\nEmail:garrettjason@example.net\nSite:http://mccarty.com/",
+      "DATE": "Date: 18-May-2008",
+      "DUE_DATE": "Due Date : 17-Aug-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 0760-783",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 280.17  EUR",
+      "TAX": "TAX:VAT (4.39%):  12.30 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 289.14 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\ny-nine point one four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Vega\n141 Katie Ports\nLake Kayla, OH 54412 US\nTel:+(208)343-1276\nEmail:michaelbarnett@example.org\nSite:https://aguirre.com/",
+      "DATE": "Invoice Date: 07-Dec-2000",
+      "DUE_DATE": "Due Date : 21-Sep-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 1Y5M2d-466",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1162.18  USD",
+      "TAX": "TAX:VAT (3.48%):  40.42 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1178.78 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and -\nseventy-eight point seven eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christina Fitzpatrick\n013 Baxter Plains Suite 014\nNew Glenbury, CO 37904 US\nTel:+(311)437-0317\nEmail:icrawford@example.net\nSite:http://russell.net/",
+      "DATE": "Invoice Date: 28-Mar-2017",
+      "DUE_DATE": "Due Date : 15-Feb-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV25088902",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 936.47  USD",
+      "TAX": "TAX:VAT (5.72%):  53.54 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 954.33 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fifty-\n-four point three three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather Palmer\n012 Hall Forge Apt. 636\nFreemanbury, PA 27513 US\nTel:+(098)860-7487\nEmail:martineztara@example.org\nSite:https://www.bradley.net/",
+      "DATE": "Date: 02-Apr-2021",
+      "DUE_DATE": "Due Date : 10-Oct-1994",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV03615164",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1039.26  EUR",
+      "TAX": "TAX:VAT (5.67%):  58.94 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1058.08 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and fifty-\n-eight point zero eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Shane Weaver\n741 Nathan Dam\nBallton, ME 56286 US\nTel:+(417)995-6605\nEmail:aaron76@example.com\nSite:https://torres-brown.com/",
+      "DATE": "Invoice Date: 01-Sep-2000",
+      "DUE_DATE": "Due Date : 21-Aug-2010",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 9Y8M9d-857",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 431.34  EUR",
+      "TAX": "TAX:VAT (3.99%):  17.22 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 442.87 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and forty-\n-two point eight seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ian Thomas\n2357 Zachary Ridges Suite 356\nTrevorport, WY 36616 US\nTel:+(922)903-3194\nEmail:erikahernandez@example.net\nSite:https://www.molina.info/",
+      "DATE": "Invoice Date: 11-Jul-1993",
+      "DUE_DATE": "Due Date : 12-Aug-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV15657351",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 32.70  $",
+      "TAX": "TAX:VAT (4.85%):  1.58 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 33.16 $",
+      "TOTAL_WORDS": "Total in words:  thirty-three -\npoint one six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Webb\n22882 Ferrell Hill Apt. 908\nOliviamouth, AR 38580 US\nTel:+(313)770-1210\nEmail:mejiacaitlyn@example.net\nSite:https://www.lopez.com/",
+      "DATE": "Invoice Date: 01-Apr-1999",
+      "DUE_DATE": "Due Date : 19-Nov-1997",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 6Y5M4d-654",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 853.60  $",
+      "TAX": "TAX:VAT (3.54%):  30.20 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 862.20 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and -\nsixty-two point two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Pamela Clark\n34475 Bryan Drive\nCranechester, ND 36762 US\nTel:+(435)643-4328\nEmail:osmith@example.org\nSite:https://www.stewart-goodwin.org/",
+      "DATE": "Date: 26-Dec-2005",
+      "DUE_DATE": "Due Date : 29-Jan-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/65-17/683",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1309.60  $",
+      "TAX": "TAX:VAT (4.51%):  59.10 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1340.15 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundre-\nd and forty point one five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Harris\n55406 Melendez Stream\nSouth Markberg, NM 66407 US\nTel:+(353)069-0104\nEmail:lindachase@example.org\nSite:https://www.mckinney-greer.com/",
+      "DATE": "Date: 31-May-2018",
+      "DUE_DATE": "Due Date : 27-Nov-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/27-68/200",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 266.98  $",
+      "TAX": "TAX:VAT (5.54%):  14.80 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 277.67 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and sevent-\ny-seven point six seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Lowe\n58516 Mcdaniel Mountain\nPort Chrisfort, GA 43080 US\nTel:+(853)898-4305\nEmail:igriffith@example.net\nSite:https://www.cruz.com/",
+      "DATE": "Date: 20-Jul-2020",
+      "DUE_DATE": "Due Date : 18-Jul-2019",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 8572-149",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 292.90  $",
+      "TAX": "TAX:VAT (5.01%):  14.69 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 296.46 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and nine-\nty-six point four six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lee Allen DDS\n66910 Stone Spring Apt. 367\nLake Edwin, MA 98581 US\nTel:+(708)462-4149\nEmail:hpeterson@example.org\nSite:http://king.org/",
+      "DATE": "Invoice Date: 12-Sep-1999",
+      "DUE_DATE": "Due Date : 12-Apr-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/84-27/750",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 778.34  $",
+      "TAX": "TAX:VAT (6.54%):  50.89 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 807.36 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and s-\neven point three six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Mitchell\n71244 Stephanie Wall\nWilliamsmouth, NJ 10174 US\nTel:+(480)685-0787\nEmail:josemathews@example.com\nSite:https://flowers.biz/",
+      "DATE": "Invoice Date: 17-Jun-2012",
+      "DUE_DATE": "Due Date : 14-May-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 2869-010",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 736.41  $",
+      "TAX": "TAX:VAT (3.55%):  26.15 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 753.43 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fifty-\n-three point four three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Fischer\n2398 Deborah Wells Apt. 213\nEast Richardborough, FM 76981 US\nTel:+(588)090-8375\nEmail:katie29@example.com\nSite:https://www.collins-watson.org/",
+      "DATE": "Invoice Date: 11-Apr-2021",
+      "DUE_DATE": "Due Date : 08-Mar-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/97-30/206",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 147.30  EUR",
+      "TAX": "TAX:VAT (5.51%):  8.12 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 150.34 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and fif-\nty point three four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Ross\n90812 Santos Forest Apt. 669\nEast Kathryn, FL 79185 US\nTel:+(226)655-3342\nEmail:walkerrobert@example.net\nSite:https://hicks.info/",
+      "DATE": "Date: 01-May-2003",
+      "DUE_DATE": "Due Date : 07-Dec-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 0589-975",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 879.68  EUR",
+      "TAX": "TAX:VAT (3.50%):  30.76 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 893.46 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nine-\nty-three point four six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Francisco French\n57396 Caitlin Prairie Apt. 781\nEast Jennifer, MO 94492 US\nTel:+(162)849-9320\nEmail:twade@example.org\nSite:http://bryant.org/",
+      "DATE": "Invoice Date: 24-Feb-2009",
+      "DUE_DATE": "Due Date : 15-Jun-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 9Y5M5d-600",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1144.59  $",
+      "TAX": "TAX:VAT (3.39%):  38.76 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1133.22 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd thirty-three point two two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Charles Brown\n8872 Sweeney Village Apt. 760\nSouth Christine, MD 78458 US\nTel:+(475)733-5773\nEmail:steven62@example.net\nSite:http://kelly.org/",
+      "DATE": "Date: 22-May-2005",
+      "DUE_DATE": "Due Date : 16-Aug-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 2Y7M1d-544",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 651.20  USD",
+      "TAX": "TAX:VAT (3.53%):  22.96 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 661.98 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty-\n-one point nine eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristopher Moran\n06179 Patel Causeway\nWest Stephaniefurt, MA 47041 US\nTel:+(156)557-1236\nEmail:mauricejohnson@example.net\nSite:http://baker.com/",
+      "DATE": "Invoice Date: 14-Apr-2022",
+      "DUE_DATE": "Due Date : 19-Mar-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/78-64/532",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 885.25  USD",
+      "TAX": "TAX:VAT (3.22%):  28.51 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 870.74 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sev-\nenty point seven four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kyle Miller\n7241 Mccall Passage\nNorth Lisa, CO 00815 US\nTel:+(263)110-9416\nEmail:kristin26@example.com\nSite:https://www.berg.biz/",
+      "DATE": "Invoice Date: 09-May-2021",
+      "DUE_DATE": "Due Date : 02-May-2019",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV04223480",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 627.26  EUR",
+      "TAX": "TAX:VAT (6.99%):  43.87 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 664.42 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixt-\ny-four point four two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon King\n04540 Sarah Viaduct\nJeffreyview, UT 26497 US\nTel:+(687)650-1226\nEmail:zfoster@example.org\nSite:https://castillo.com/",
+      "DATE": "Invoice Date: 15-Oct-1994",
+      "DUE_DATE": "Due Date : 01-Mar-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 9Y7M5d-115",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 353.83  EUR",
+      "TAX": "TAX:VAT (5.37%):  19.00 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 364.55 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-four point five five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy Benson\n681 Wallace Forks Suite 429\nNorth Ryanborough, VA 98424 US\nTel:+(466)647-8624\nEmail:richardsonamanda@example.org\nSite:http://schaefer.com/",
+      "DATE": "Date: 23-Aug-2015",
+      "DUE_DATE": "Due Date : 01-Nov-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV14249456",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 705.74  EUR",
+      "TAX": "TAX:VAT (5.48%):  38.71 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 726.24 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twe-\nnty-six point two four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Anderson\n10544 Rodriguez Underpass\nTannerstad, AS 22591 US\nTel:+(000)943-4048\nEmail:yvalentine@example.com\nSite:http://sexton.org/",
+      "DATE": "Date: 14-Mar-2022",
+      "DUE_DATE": "Due Date : 02-Mar-2019",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/80-17/034",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 470.80  $",
+      "TAX": "TAX:VAT (6.38%):  30.03 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 482.05 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-two point zero five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Kelly\n22338 Michelle Plain\nLake Donna, MT 91980 US\nTel:+(259)583-8573\nEmail:xavier92@example.com\nSite:http://www.daniel.com/",
+      "DATE": "Invoice Date: 07-Nov-1997",
+      "DUE_DATE": "Due Date : 15-Jul-2019",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 2135-236",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 629.67  EUR",
+      "TAX": "TAX:VAT (5.46%):  34.35 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 654.83 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty--\nfour point eight three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Miss Christy Zamora\n6006 Catherine Mountains\nLake Ashlee, NY 57037 US\nTel:+(068)621-4260\nEmail:michelle28@example.net\nSite:https://grant-krause.biz/",
+      "DATE": "Invoice Date: 29-Jan-1995",
+      "DUE_DATE": "Due Date : 06-Dec-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/65-74/333",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 445.55  $",
+      "TAX": "TAX:VAT (3.04%):  13.54 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 454.14 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fift-\ny-four point one four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joshua Aguilar\n5865 Veronica Trace Suite 418\nSouth Jonathan, OR 23699 US\nTel:+(966)558-9462\nEmail:john52@example.com\nSite:https://www.mckinney.com/",
+      "DATE": "Date: 22-May-1994",
+      "DUE_DATE": "Due Date : 15-Aug-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 7140-426",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 679.62  $",
+      "TAX": "TAX:VAT (4.25%):  28.85 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 698.68 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninety-\n-eight point six eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Pamela Mcmahon\n9959 Delgado Mountain\nValeriechester, NY 62790 US\nTel:+(590)534-8141\nEmail:aaronfritz@example.org\nSite:https://cole.com/",
+      "DATE": "Date: 07-May-2003",
+      "DUE_DATE": "Due Date : 19-Sep-2010",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 8721-609",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 672.93  EUR",
+      "TAX": "TAX:VAT (6.84%):  46.02 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 694.32 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-four point three two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Morton\n6217 Monique Plaza\nPeterton, CA 10899 US\nTel:+(150)480-1777\nEmail:nsimon@example.com\nSite:https://www.johnson-barrera.com/",
+      "DATE": "Invoice Date: 12-Mar-2001",
+      "DUE_DATE": "Due Date : 05-Jul-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 6Y9M7d-170",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 606.16  USD",
+      "TAX": "TAX:VAT (5.07%):  30.70 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 619.04 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and nine-\nteen point zero four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Mccoy\n360 Cisneros Lodge Apt. 648\nChristophershire, IN 63698 US\nTel:+(048)485-6130\nEmail:erobinson@example.net\nSite:https://ortiz.com/",
+      "DATE": "Invoice Date: 10-Sep-2008",
+      "DUE_DATE": "Due Date : 20-Feb-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 7Y5M1d-774",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 275.53  $",
+      "TAX": "TAX:VAT (6.04%):  16.65 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 284.80 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and eig-\nhty-four point eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Carter\n592 Miranda Mall Suite 606\nJuliaside, VA 07176 US\nTel:+(787)201-9725\nEmail:matthewsheather@example.org\nSite:http://beasley.net/",
+      "DATE": "Date: 17-Feb-2004",
+      "DUE_DATE": "Due Date : 18-Jun-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 4Y2M2d-515",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 370.76  USD",
+      "TAX": "TAX:VAT (3.20%):  11.86 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 372.65 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and seve-\nnty-two point six five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Shaw\n409 Key Fall Suite 874\nAmandaborough, VT 41228 US\nTel:+(409)580-8190\nEmail:susan05@example.net\nSite:https://www.smith.com/",
+      "DATE": "Invoice Date: 14-Feb-2007",
+      "DUE_DATE": "Due Date : 09-Feb-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV26362917",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 638.70  $",
+      "TAX": "TAX:VAT (5.35%):  34.19 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 659.35 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-nine point three five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anna Murray\n1357 Rogers Courts Apt. 204\nMillerville, PA 13895 US\nTel:+(922)232-4763\nEmail:laneelizabeth@example.org\nSite:http://www.robertson.biz/",
+      "DATE": "Date: 05-Oct-2007",
+      "DUE_DATE": "Due Date : 08-Jun-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/11-67/145",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 453.42  USD",
+      "TAX": "TAX:VAT (4.11%):  18.61 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 461.65 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and six-\nty-one point six five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :April Collier\n38563 Day Tunnel\nSamanthaview, VI 00763 US\nTel:+(252)716-2956\nEmail:gilbertevan@example.net\nSite:http://chavez-snyder.biz/",
+      "DATE": "Invoice Date: 12-Aug-2018",
+      "DUE_DATE": "Due Date : 07-Jan-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 9Y8M5d-582",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 419.65  $",
+      "TAX": "TAX:VAT (3.93%):  16.49 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 424.64 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and twen-\nty-four point six four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sharon Chavez\n57604 Sutton Underpass Apt. 812\nBrianside, SC 13210 US\nTel:+(924)826-0644\nEmail:oleblanc@example.org\nSite:http://summers.com/",
+      "DATE": "Date: 10-Nov-2017",
+      "DUE_DATE": "Due Date : 29-Sep-2016",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV04668387",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 741.87  USD",
+      "TAX": "TAX:VAT (3.25%):  24.13 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 739.00 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred -\nand thirty-nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tara Gilbert\n21808 Bryan Land Suite 209\nPort Willie, AZ 09199 US\nTel:+(439)050-3196\nEmail:lynn80@example.net\nSite:http://bonilla.com/",
+      "DATE": "Date: 06-May-2014",
+      "DUE_DATE": "Due Date : 04-Aug-2006",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV00033954",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 867.30  EUR",
+      "TAX": "TAX:VAT (6.80%):  58.97 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 914.73 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and four-\nteen point seven three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patrick Taylor\n3633 Gillespie Harbor\nPruittmouth, WV 98511 US\nTel:+(299)892-4527\nEmail:danielleperry@example.org\nSite:https://www.owens-burch.com/",
+      "DATE": "Invoice Date: 16-Apr-2010",
+      "DUE_DATE": "Due Date : 03-Jul-2000",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/51-35/657",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 746.21  EUR",
+      "TAX": "TAX:VAT (4.94%):  36.85 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 762.84 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-two point eight four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Thomas Wolfe\n37090 Martinez Common Apt. 779\nPettyberg, MD 89604 US\nTel:+(652)209-9367\nEmail:pvalenzuela@example.com\nSite:http://reynolds.com/",
+      "DATE": "Invoice Date: 13-Dec-1996",
+      "DUE_DATE": "Due Date : 22-May-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/10-18/517",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1031.32  EUR",
+      "TAX": "TAX:VAT (6.21%):  64.08 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1074.88 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and sevent-\ny-four point eight eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Darrell Solomon\n6628 Anita Valley Suite 944\nSouth Christopherville, HI 48608 US\nTel:+(759)426-5303\nEmail:alexandrasherman@example.org\nSite:https://www.foster-perez.com/",
+      "DATE": "Date: 14-Dec-1994",
+      "DUE_DATE": "Due Date : 26-Feb-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/18-60/333",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 145.74  EUR",
+      "TAX": "TAX:VAT (5.50%):  8.01 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 150.33 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and fif-\nty point three three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Banks\n8843 Robert Hollow\nRossview, NV 57951 US\nTel:+(455)082-5205\nEmail:phillip58@example.org\nSite:https://www.gomez.com/",
+      "DATE": "Date: 22-Oct-2022",
+      "DUE_DATE": "Due Date : 21-Apr-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/02-63/083",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 396.17  EUR",
+      "TAX": "TAX:VAT (3.40%):  13.45 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 395.87 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and ninet-\ny-five point eight seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Paul Howell\n569 Matthew Shores Suite 555\nNorth Deborahland, CT 50082 US\nTel:+(149)414-8325\nEmail:michaeljohnson@example.net\nSite:https://www.parrish.info/",
+      "DATE": "Invoice Date: 31-May-2018",
+      "DUE_DATE": "Due Date : 03-Jun-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV94800329",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 467.59  EUR",
+      "TAX": "TAX:VAT (4.06%):  19.01 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 466.45 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-six point four five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jared Molina\n288 Strong Circles\nWest Jasonstad, NJ 25708 US\nTel:+(786)705-5341\nEmail:ebrown@example.com\nSite:https://www.sanchez.com/",
+      "DATE": "Invoice Date: 08-Nov-2006",
+      "DUE_DATE": "Due Date : 13-Mar-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 0412-224",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 392.94  $",
+      "TAX": "TAX:VAT (4.67%):  18.36 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 403.48 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and th-\nree point four eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ms. Hannah Decker\n0775 Jessica Row Apt. 768\nLake Sabrina, CO 90432 US\nTel:+(055)021-0928\nEmail:mbond@example.com\nSite:https://www.graham-taylor.com/",
+      "DATE": "Date: 04-Nov-1996",
+      "DUE_DATE": "Due Date : 12-Feb-2011",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 7Y3M3d-933",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 784.75  $",
+      "TAX": "TAX:VAT (6.38%):  50.09 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 819.22 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and ni-\nneteen point two two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Miller\n808 Walker Neck Suite 865\nHeatherchester, TN 78119 US\nTel:+(155)035-2228\nEmail:jasonhudson@example.org\nSite:https://adams.biz/",
+      "DATE": "Invoice Date: 29-Sep-2000",
+      "DUE_DATE": "Due Date : 21-Sep-2008",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/01-60/211",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 815.52  EUR",
+      "TAX": "TAX:VAT (6.25%):  50.99 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 827.20 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and tw-\nenty-seven point two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Mitchell\n394 Lisa Ways\nEast Annehaven, IN 46345 US\nTel:+(530)528-4826\nEmail:alicia63@example.net\nSite:http://flores.info/",
+      "DATE": "Date: 09-May-1993",
+      "DUE_DATE": "Due Date : 24-Jul-2006",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 4Y1M4d-622",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 157.18  $",
+      "TAX": "TAX:VAT (4.97%):  7.81 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 159.65 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fift-\ny-nine point six five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Deborah Roach\n08879 Watson Forge\nNorth Joseph, WA 90927 US\nTel:+(687)178-0095\nEmail:taylor78@example.com\nSite:http://www.parker-smith.com/",
+      "DATE": "Date: 02-Oct-2017",
+      "DUE_DATE": "Due Date : 12-Jul-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 2Y9M4d-768",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 424.80  $",
+      "TAX": "TAX:VAT (5.25%):  22.32 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 436.08 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-six point zero eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Nelson\n375 Knox Coves Apt. 078\nLake Teresa, ID 02780 US\nTel:+(102)007-4316\nEmail:ubennett@example.net\nSite:https://thomas-weiss.com/",
+      "DATE": "Invoice Date: 02-Aug-2004",
+      "DUE_DATE": "Due Date : 01-Apr-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/65-43/088",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 875.34  EUR",
+      "TAX": "TAX:VAT (3.09%):  27.01 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 892.37 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and ninet-\ny-two point three seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Scott\n9373 Christopher Path Apt. 603\nStacieside, LA 74579 US\nTel:+(279)226-6758\nEmail:william33@example.org\nSite:https://www.smith-west.com/",
+      "DATE": "Date: 16-Nov-2021",
+      "DUE_DATE": "Due Date : 21-Mar-2015",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 0025-519",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 408.13  $",
+      "TAX": "TAX:VAT (4.44%):  18.12 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 420.99 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and tw-\nenty point nine nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Washington\n848 Seth Summit\nLake Ryan, MT 22710 US\nTel:+(852)539-6189\nEmail:whitelaura@example.com\nSite:https://www.lane-jensen.info/",
+      "DATE": "Date: 10-Aug-2004",
+      "DUE_DATE": "Due Date : 22-Oct-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV93610420",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 212.19  USD",
+      "TAX": "TAX:VAT (6.48%):  13.75 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 220.55 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and twe-\nnty point five five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Myers\n3934 Robinson Ports\nWest Susan, PW 80901 US\nTel:+(286)518-8070\nEmail:ashley24@example.com\nSite:https://bautista-craig.net/",
+      "DATE": "Date: 13-Jan-2020",
+      "DUE_DATE": "Due Date : 12-Dec-2012",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 0465-820",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 939.20  EUR",
+      "TAX": "TAX:VAT (3.21%):  30.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 943.85 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and forty-\n-three point eight five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Veronica Jones\n134 Harrison Ford Apt. 388\nAcostabury, MH 36284 US\nTel:+(547)908-1891\nEmail:gregory42@example.net\nSite:https://trevino.com/",
+      "DATE": "Date: 11-Sep-2016",
+      "DUE_DATE": "Due Date : 22-Mar-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 8Y5M4d-558",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 470.27  EUR",
+      "TAX": "TAX:VAT (6.22%):  29.24 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 492.22 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and nin-\nety-two point two two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Rubio\n955 Donna Trail Suite 259\nLake Robertport, UT 78428 US\nTel:+(857)152-3054\nEmail:pennyross@example.org\nSite:http://www.lewis-berry.com/",
+      "DATE": "Date: 31-Jul-2018",
+      "DUE_DATE": "Due Date : 02-Mar-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV55161341",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 796.78  EUR",
+      "TAX": "TAX:VAT (4.80%):  38.22 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 824.00 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred -\nand twenty-four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mrs. Taylor Smith\n2705 Perry Island\nWallacechester, UT 80339 US\nTel:+(489)171-7007\nEmail:lucas83@example.net\nSite:http://barker.com/",
+      "DATE": "Invoice Date: 16-Jul-2016",
+      "DUE_DATE": "Due Date : 28-Aug-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 7Y2M7d-450",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 172.99  $",
+      "TAX": "TAX:VAT (3.64%):  6.30 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 174.72 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and sevent-\ny-four point seven two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Powell\n52384 Ramos Forks\nBakerberg, OK 84132 US\nTel:+(493)474-4388\nEmail:johnterry@example.org\nSite:http://baker-martin.com/",
+      "DATE": "Invoice Date: 31-Jan-2000",
+      "DUE_DATE": "Due Date : 30-Aug-1994",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 6Y6M6d-599",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 342.40  $",
+      "TAX": "TAX:VAT (4.22%):  14.43 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 339.92 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and thir-\nty-nine point nine two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Odonnell\n83489 Dana Forks\nNorth Derek, SC 65368 US\nTel:+(462)837-7155\nEmail:mcbridedana@example.com\nSite:http://www.wallace.com/",
+      "DATE": "Date: 23-Jan-2009",
+      "DUE_DATE": "Due Date : 30-Aug-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 5Y1M1d-074",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1265.33  EUR",
+      "TAX": "TAX:VAT (5.43%):  68.70 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1284.05 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred an-\nd eighty-four point zero five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patrick Mejia\n71468 Cabrera Mount Apt. 199\nEast Ashleyton, LA 14425 US\nTel:+(448)385-5571\nEmail:batesjohn@example.com\nSite:https://odonnell.info/",
+      "DATE": "Invoice Date: 30-Nov-2004",
+      "DUE_DATE": "Due Date : 11-Apr-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 4453-485",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 583.15  USD",
+      "TAX": "TAX:VAT (4.44%):  25.91 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 583.87 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and eighty-\n-three point eight seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mr. Thomas Bryant\n0586 Cordova Mountains Suite 207\nPhilipborough, OR 43470 US\nTel:+(704)786-7384\nEmail:nelsonronald@example.com\nSite:https://www.hart-welch.info/",
+      "DATE": "Date: 11-Apr-2013",
+      "DUE_DATE": "Due Date : 01-Apr-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 6Y8M3d-279",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 674.07  EUR",
+      "TAX": "TAX:VAT (3.10%):  20.93 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 664.13 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty-\n-four point one three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Derrick Hawkins\n0829 Matthew Fort Apt. 333\nNew Melissamouth, IL 92363 US\nTel:+(827)107-7643\nEmail:davidferrell@example.com\nSite:http://ball.com/",
+      "DATE": "Date: 22-Jan-2014",
+      "DUE_DATE": "Due Date : 02-Nov-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/54-85/552",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1006.32  $",
+      "TAX": "TAX:VAT (4.85%):  48.80 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1036.40 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and th-\nirty-six point four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Linda Case\n115 George Valleys\nPort Victoriashire, IL 76453 US\nTel:+(514)894-6231\nEmail:clarktracy@example.org\nSite:http://www.faulkner-reyes.com/",
+      "DATE": "Date: 13-Oct-2001",
+      "DUE_DATE": "Due Date : 22-May-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 5386-576",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 186.67  EUR",
+      "TAX": "TAX:VAT (4.50%):  8.39 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 192.84 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninet-\ny-two point eight four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Steven Jones\n85031 Carl Field Suite 628\nLake Aliciafurt, PA 06739 US\nTel:+(391)389-5627\nEmail:lberry@example.com\nSite:http://peters.com/",
+      "DATE": "Invoice Date: 30-Jul-2002",
+      "DUE_DATE": "Due Date : 18-May-2008",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/25-69/734",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 706.34  EUR",
+      "TAX": "TAX:VAT (3.55%):  25.05 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 710.69 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and -\nten point six nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeanne Sampson\n56552 Ibarra Corner\nAngelicahaven, MA 14236 US\nTel:+(462)073-3493\nEmail:jamesfranco@example.net\nSite:http://www.nelson-bryant.net/",
+      "DATE": "Invoice Date: 19-Sep-1996",
+      "DUE_DATE": "Due Date : 27-Jan-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 1Y8M6d-388",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 921.71  EUR",
+      "TAX": "TAX:VAT (3.34%):  30.81 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 913.99 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and thi-\nrteen point nine nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Dunn\n10799 David Stravenue\nEricside, FM 19109 US\nTel:+(321)229-8388\nEmail:shaunlee@example.org\nSite:http://grant-harris.org/",
+      "DATE": "Date: 05-Jan-2006",
+      "DUE_DATE": "Due Date : 07-Jul-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 3Y6M4d-779",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 595.93  $",
+      "TAX": "TAX:VAT (3.20%):  19.10 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 590.12 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and n-\ninety point one two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diana Terry\n6335 Victor Plaza\nLisaside, NH 06296 US\nTel:+(835)973-9407\nEmail:olopez@example.org\nSite:http://www.jenkins-ross.com/",
+      "DATE": "Invoice Date: 29-Jun-2017",
+      "DUE_DATE": "Due Date : 04-Apr-2000",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV53034580",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 108.63  $",
+      "TAX": "TAX:VAT (4.08%):  4.43 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 110.56 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and t-\nen point five six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Barbara Parks\n85548 Knox Extension\nPort Alexanderburgh, NY 12494 US\nTel:+(036)533-3406\nEmail:jeffery00@example.com\nSite:http://harris-reyes.biz/",
+      "DATE": "Invoice Date: 29-Mar-2015",
+      "DUE_DATE": "Due Date : 05-May-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 2442-922",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 137.92  $",
+      "TAX": "TAX:VAT (4.20%):  5.80 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 142.15 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fort-\ny-two point one five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Noah Williams\n2224 Smith Ports\nPort Anthonyborough, KS 33291 US\nTel:+(566)320-9595\nEmail:xmurray@example.org\nSite:https://www.phillips.com/",
+      "DATE": "Invoice Date: 30-Apr-2015",
+      "DUE_DATE": "Due Date : 05-Sep-2000",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV86647908",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 901.78  EUR",
+      "TAX": "TAX:VAT (6.42%):  57.91 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 916.04 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and six-\nteen point zero four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Warren\n56157 Tanya Route Suite 195\nSouth Bradley, MH 83756 US\nTel:+(552)911-7999\nEmail:banksgabriel@example.com\nSite:http://bryant-fernandez.com/",
+      "DATE": "Date: 22-May-2013",
+      "DUE_DATE": "Due Date : 20-Jul-2010",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/35-42/184",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1058.09  $",
+      "TAX": "TAX:VAT (5.18%):  54.77 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1077.84 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and sevent-\ny-seven point eight four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Ellis\n16016 Simon Grove Apt. 532\nDorisbury, WV 95956 US\nTel:+(088)071-3548\nEmail:danielszachary@example.com\nSite:https://ray.info/",
+      "DATE": "Date: 18-Aug-1995",
+      "DUE_DATE": "Due Date : 12-Jun-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 4391-871",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 474.67  EUR",
+      "TAX": "TAX:VAT (3.64%):  17.28 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 476.48 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and seven-\nty-six point four eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brett Rosario\n47797 Allen Corners\nCurtisbury, VT 06947 US\nTel:+(903)329-5564\nEmail:jeremy74@example.com\nSite:https://diaz.biz/",
+      "DATE": "Date: 15-May-2012",
+      "DUE_DATE": "Due Date : 28-Sep-2007",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV42417068",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 731.08  EUR",
+      "TAX": "TAX:VAT (3.55%):  25.98 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 727.01 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twen-\nty-seven point zero one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kyle Owens\n2334 Armstrong Pass Apt. 175\nEast Anna, ND 35417 US\nTel:+(248)190-5873\nEmail:kbaker@example.org\nSite:https://salinas-holland.com/",
+      "DATE": "Date: 16-Feb-2011",
+      "DUE_DATE": "Due Date : 16-Mar-2009",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/74-20/743",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 268.60  $",
+      "TAX": "TAX:VAT (5.59%):  15.02 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 272.12 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and seve-\nnty-two point one two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Monica Richmond\n5121 Marissa Roads Suite 576\nLake Rachel, CA 90578 US\nTel:+(599)539-4860\nEmail:allenrebecca@example.net\nSite:http://stewart-knight.com/",
+      "DATE": "Invoice Date: 12-May-2021",
+      "DUE_DATE": "Due Date : 19-Aug-2019",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/27-56/357",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 171.76  EUR",
+      "TAX": "TAX:VAT (3.31%):  5.68 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 173.88 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and seventy-\n-three point eight eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Hannah Rojas\n3102 Johns Inlet\nJamesland, WA 34882 US\nTel:+(986)008-9589\nEmail:diazcaitlin@example.org\nSite:http://www.hernandez.biz/",
+      "DATE": "Date: 08-Aug-2003",
+      "DUE_DATE": "Due Date : 17-Jul-2005",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 5Y9M6d-739",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 813.38  EUR",
+      "TAX": "TAX:VAT (5.64%):  45.88 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 831.36 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-one point three six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ronnie Gomez\n73350 Johnson Tunnel Suite 714\nAcostaside, PW 23892 US\nTel:+(211)835-0167\nEmail:tsummers@example.com\nSite:https://www.nelson.biz/",
+      "DATE": "Invoice Date: 02-Apr-2007",
+      "DUE_DATE": "Due Date : 14-Jul-1997",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 2Y4M9d-264",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 913.31  $",
+      "TAX": "TAX:VAT (4.44%):  40.58 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 942.84 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fort-\ny-two point eight four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Elizabeth Thomas\n67952 Green Prairie Apt. 115\nNathanielview, WA 44944 US\nTel:+(569)561-3971\nEmail:greggrobbins@example.org\nSite:http://hull.com/",
+      "DATE": "Date: 10-Dec-2022",
+      "DUE_DATE": "Due Date : 26-Nov-2020",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 5Y4M1d-293",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1228.68  USD",
+      "TAX": "TAX:VAT (5.87%):  72.15 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1282.15 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred a-\nnd eighty-two point one five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Gardner\n32594 Alexander Extension\nDurhamton, FM 48723 US\nTel:+(566)566-9097\nEmail:aaron74@example.com\nSite:http://www.thomas-roberson.net/",
+      "DATE": "Date: 29-Aug-1996",
+      "DUE_DATE": "Due Date : 22-Mar-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/35-67/429",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 400.49  USD",
+      "TAX": "TAX:VAT (5.89%):  23.59 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 406.82 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and s-\nix point eight two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Rhodes\n537 Lawrence Grove\nPerezshire, MO 16574 US\nTel:+(892)540-5917\nEmail:katiepalmer@example.com\nSite:http://www.floyd-perry.com/",
+      "DATE": "Date: 14-Jan-2006",
+      "DUE_DATE": "Due Date : 04-Jul-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/16-67/364",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 558.77  $",
+      "TAX": "TAX:VAT (3.99%):  22.27 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 553.94 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and fifty-\n-three point nine four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Lynch\n43287 Wilson Lights Apt. 681\nCurtischester, AR 17993 US\nTel:+(966)946-6301\nEmail:rgreen@example.com\nSite:http://alvarado.com/",
+      "DATE": "Date: 11-Jul-2003",
+      "DUE_DATE": "Due Date : 05-Mar-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/44-42/300",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 709.82  USD",
+      "TAX": "TAX:VAT (5.50%):  39.05 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 715.51 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fi-\nfteen point five one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jason Lyons\n47564 Michael Ports Suite 366\nHuntermouth, AK 52114 US\nTel:+(815)446-8010\nEmail:diamondtaylor@example.net\nSite:http://young-reyes.com/",
+      "DATE": "Date: 08-Nov-2004",
+      "DUE_DATE": "Due Date : 08-Dec-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 3Y2M9d-185",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 532.71  $",
+      "TAX": "TAX:VAT (6.66%):  35.50 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 562.62 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and six-\nty-two point six two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristina Miller\n6838 Sullivan Hill Apt. 714\nEast Joshua, AZ 38331 US\nTel:+(613)407-9948\nEmail:bthompson@example.org\nSite:https://francis-allen.net/",
+      "DATE": "Invoice Date: 08-Jul-1996",
+      "DUE_DATE": "Due Date : 03-Nov-2013",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV03093159",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 793.99  $",
+      "TAX": "TAX:VAT (4.31%):  34.23 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 809.72 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and n-\nine point seven two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Singleton\n2061 Jacob Courts Suite 023\nPort Michaelchester, ME 88556 US\nTel:+(014)380-2137\nEmail:tranpatrick@example.com\nSite:https://www.lawrence.com/",
+      "DATE": "Invoice Date: 12-Oct-2022",
+      "DUE_DATE": "Due Date : 11-Nov-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/65-56/909",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 595.40  USD",
+      "TAX": "TAX:VAT (6.74%):  40.12 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 610.51 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and t-\nen point five one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Townsend\n10107 Veronica Glen Suite 178\nMartinezside, AZ 90077 US\nTel:+(817)028-8575\nEmail:ilopez@example.net\nSite:https://roberts.com/",
+      "DATE": "Invoice Date: 28-Aug-1996",
+      "DUE_DATE": "Due Date : 10-Dec-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 6057-552",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 791.53  $",
+      "TAX": "TAX:VAT (6.42%):  50.78 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 824.10 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and t-\nwenty-four point one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joshua Jimenez\n5776 Whitney Meadow\nWest Adriennebury, ID 40049 US\nTel:+(621)125-7877\nEmail:daniel15@example.org\nSite:http://gonzales-lee.info/",
+      "DATE": "Date: 02-Apr-1997",
+      "DUE_DATE": "Due Date : 27-Jul-1994",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV18097255",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 383.26  $",
+      "TAX": "TAX:VAT (6.25%):  23.95 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 392.61 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and nin-\nety-two point six one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Willis\n6668 Janet Harbor Suite 788\nChavezville, VT 50465 US\nTel:+(324)774-3298\nEmail:rodriguezcorey@example.com\nSite:http://www.rodgers.com/",
+      "DATE": "Date: 11-Jul-1995",
+      "DUE_DATE": "Due Date : 02-May-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/26-18/619",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 639.82  USD",
+      "TAX": "TAX:VAT (6.47%):  41.42 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 668.96 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty-\n-eight point nine six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Mathis\n8718 Robertson Skyway Apt. 482\nWest Zacharybury, MA 94684 US\nTel:+(248)955-8913\nEmail:qmiller@example.net\nSite:http://www.graham.com/",
+      "DATE": "Date: 22-Aug-1995",
+      "DUE_DATE": "Due Date : 14-Jan-2001",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV71439522",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1091.61  USD",
+      "TAX": "TAX:VAT (4.26%):  46.51 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1098.28 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and ninet-\ny-eight point two eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christine Clarke\n328 Shane Mill\nSmithmouth, RI 56741 US\nTel:+(473)121-3187\nEmail:jonesshane@example.com\nSite:https://www.campbell.com/",
+      "DATE": "Invoice Date: 01-Dec-2021",
+      "DUE_DATE": "Due Date : 03-Feb-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 1137-738",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 842.43  USD",
+      "TAX": "TAX:VAT (6.34%):  53.44 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 864.45 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sixt-\ny-four point four five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Cook\n347 Perry Crossing\nMatthewbury, WI 78109 US\nTel:+(740)212-7266\nEmail:olivia80@example.net\nSite:http://www.gonzales.com/",
+      "DATE": "Invoice Date: 21-Jul-2001",
+      "DUE_DATE": "Due Date : 03-May-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 5Y8M4d-036",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 410.22  $",
+      "TAX": "TAX:VAT (3.17%):  13.00 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 403.08 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and th-\nree point zero eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicholas Valencia\n226 Lopez Plains Apt. 549\nLake Aaronmouth, LA 30950 US\nTel:+(610)850-1845\nEmail:vgray@example.net\nSite:https://www.henry-cook.com/",
+      "DATE": "Date: 27-Jan-1998",
+      "DUE_DATE": "Due Date : 22-Jan-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 2Y3M7d-824",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 253.27  EUR",
+      "TAX": "TAX:VAT (6.92%):  17.52 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 265.98 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixty-\n-five point nine eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anthony Watkins\n61544 Emily Drive Suite 741\nEast James, FL 97525 US\nTel:+(419)210-2379\nEmail:gcarter@example.org\nSite:https://www.thompson-miller.com/",
+      "DATE": "Date: 13-Nov-1996",
+      "DUE_DATE": "Due Date : 21-Aug-2010",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/70-66/594",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 494.23  EUR",
+      "TAX": "TAX:VAT (6.30%):  31.16 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 501.72 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and o-\nne point seven two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Ayala MD\n271 Kylie Mission\nPort Michaelborough, AZ 84583 US\nTel:+(456)335-4511\nEmail:jacob45@example.com\nSite:http://www.garcia-hines.com/",
+      "DATE": "Invoice Date: 05-Dec-2005",
+      "DUE_DATE": "Due Date : 15-Nov-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 7730-315",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 103.31  $",
+      "TAX": "TAX:VAT (3.70%):  3.83 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 104.43 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fo-\nur point four three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dean Boyd\n4454 Green Tunnel Apt. 804\nGallowayburgh, VA 02293 US\nTel:+(653)953-6559\nEmail:kathryn92@example.net\nSite:http://www.jones-hernandez.info/",
+      "DATE": "Invoice Date: 11-Mar-2007",
+      "DUE_DATE": "Due Date : 13-Dec-2011",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/04-70/679",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 737.49  USD",
+      "TAX": "TAX:VAT (4.93%):  36.35 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 754.52 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fif-\nty-four point five two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Lowe\n34423 Jesse Ferry\nNew Brian, GA 82639 US\nTel:+(158)660-6115\nEmail:christopher77@example.net\nSite:https://www.wang-parks.com/",
+      "DATE": "Date: 13-Mar-2003",
+      "DUE_DATE": "Due Date : 04-Feb-2005",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/96-99/635",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1423.11  $",
+      "TAX": "TAX:VAT (3.43%):  48.83 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1426.69 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred a-\nnd twenty-six point six nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Debra Weber\n7610 Gonzalez Springs\nEast Jessicatown, WA 41569 US\nTel:+(858)047-3370\nEmail:david70@example.com\nSite:http://www.anderson.org/",
+      "DATE": "Date: 02-Mar-1998",
+      "DUE_DATE": "Due Date : 31-May-2003",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/70-32/312",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 895.88  EUR",
+      "TAX": "TAX:VAT (4.12%):  36.95 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 910.70 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and-\nten point seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Steven Nelson\n30192 John Mission Apt. 764\nSouth Robin, AK 53389 US\nTel:+(180)626-5555\nEmail:westkenneth@example.org\nSite:http://wright.com/",
+      "DATE": "Invoice Date: 08-Feb-2020",
+      "DUE_DATE": "Due Date : 01-Nov-2016",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV04603958",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 285.21  EUR",
+      "TAX": "TAX:VAT (4.60%):  13.12 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 293.80 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and nine-\nty-three point eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrea Gonzalez\n7860 Cohen Mall Apt. 845\nLake Tamara, PA 88468 US\nTel:+(292)107-3302\nEmail:glee@example.org\nSite:https://www.hernandez.info/",
+      "DATE": "Invoice Date: 29-Dec-2004",
+      "DUE_DATE": "Due Date : 07-Aug-2008",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/30-30/102",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 192.06  USD",
+      "TAX": "TAX:VAT (3.96%):  7.61 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 190.32 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and nin-\nety point three two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Thomas Williams\n5054 Jones Wells\nChristopherside, FM 52263 US\nTel:+(214)273-4383\nEmail:hperry@example.org\nSite:http://www.young.net/",
+      "DATE": "Invoice Date: 28-Nov-2003",
+      "DUE_DATE": "Due Date : 23-Jun-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/03-88/597",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 394.64  $",
+      "TAX": "TAX:VAT (6.15%):  24.27 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 405.53 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fi-\nve point five three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stacey Bradshaw\n00631 Herrera Stream Apt. 652\nSouth Katieton, MS 97280 US\nTel:+(655)537-5306\nEmail:garrisonangela@example.org\nSite:https://www.hogan.com/",
+      "DATE": "Date: 02-Jan-2007",
+      "DUE_DATE": "Due Date : 23-Dec-2009",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV00220141",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 611.81  $",
+      "TAX": "TAX:VAT (3.19%):  19.49 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 615.64 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fif-\nteen point six four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amber Fowler\n05983 Paul Circles\nMartinezberg, NM 55410 US\nTel:+(118)324-0304\nEmail:ctapia@example.com\nSite:https://long-frazier.biz/",
+      "DATE": "Invoice Date: 25-Oct-1998",
+      "DUE_DATE": "Due Date : 19-Oct-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/14-30/436",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1556.16  $",
+      "TAX": "TAX:VAT (6.78%):  105.58 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1590.00 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, five-\nhundred and ninety",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Timothy Ruiz\n4343 Jesus Port\nPort Kyletown, KY 12296 US\nTel:+(912)094-3629\nEmail:hbarnett@example.net\nSite:http://jackson-rodriguez.net/",
+      "DATE": "Invoice Date: 27-Jan-2011",
+      "DUE_DATE": "Due Date : 05-Mar-2015",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/94-55/391",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 917.58  $",
+      "TAX": "TAX:VAT (5.94%):  54.47 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 948.93 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and forty-\n-eight point nine three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Peterson\n9111 Stevenson Key\nEast Chelsea, AL 46284 US\nTel:+(201)599-9634\nEmail:sharilara@example.com\nSite:http://duke.net/",
+      "DATE": "Date: 10-Jul-1994",
+      "DUE_DATE": "Due Date : 30-Dec-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV28783420",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 856.82  EUR",
+      "TAX": "TAX:VAT (5.95%):  50.95 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 879.92 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and seve-\nnty-nine point nine two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandi Chavez\n0038 Lee Field\nRobinmouth, VI 27965 US\nTel:+(018)049-2448\nEmail:swagner@example.org\nSite:https://sullivan.com/",
+      "DATE": "Date: 21-Oct-1999",
+      "DUE_DATE": "Due Date : 12-Jul-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/18-80/462",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 268.58  EUR",
+      "TAX": "TAX:VAT (6.98%):  18.74 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 276.52 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-six point five two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amy James\n514 Andrew Wall Suite 046\nPort Natalieton, MH 69089 US\nTel:+(955)967-5494\nEmail:franciscorodriguez@example.net\nSite:https://www.anderson.info/",
+      "DATE": "Date: 16-Nov-2022",
+      "DUE_DATE": "Due Date : 23-Jan-1995",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/68-28/837",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1121.18  $",
+      "TAX": "TAX:VAT (3.82%):  42.85 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1136.00 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hu-\nndred and thirty-six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dr. Emily Foster MD\n86004 Jessica Wall\nSouth Adam, IL 34279 US\nTel:+(552)077-0341\nEmail:justinmiddleton@example.org\nSite:http://www.garcia.com/",
+      "DATE": "Date: 03-Jun-2014",
+      "DUE_DATE": "Due Date : 15-Jun-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 0257-087",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 356.54  USD",
+      "TAX": "TAX:VAT (4.42%):  15.75 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 359.67 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-nine point six seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Kemp\n780 Cory Club\nNorth Dale, MT 09083 US\nTel:+(004)394-0859\nEmail:bennettcourtney@example.com\nSite:https://wiley.org/",
+      "DATE": "Date: 29-Oct-1998",
+      "DUE_DATE": "Due Date : 02-Apr-2005",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 4212-642",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 984.10  $",
+      "TAX": "TAX:VAT (3.49%):  34.37 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 977.83 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and seventy-\n-seven point eight three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Edwards\n325 Gray Ports\nBarnesshire, CA 04920 US\nTel:+(279)744-0775\nEmail:caseysteven@example.net\nSite:http://www.casey.biz/",
+      "DATE": "Invoice Date: 17-Nov-1999",
+      "DUE_DATE": "Due Date : 18-Feb-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 1Y2M3d-218",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 518.89  EUR",
+      "TAX": "TAX:VAT (4.44%):  23.06 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 523.11 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and twen-\nty-three point one one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Regina Horne\n5975 Justin Ports Suite 366\nZacharyberg, RI 03869 US\nTel:+(644)098-7639\nEmail:davidschultz@example.net\nSite:https://vasquez-henry.info/",
+      "DATE": "Invoice Date: 27-Sep-1996",
+      "DUE_DATE": "Due Date : 13-Mar-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV06547855",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 359.54  USD",
+      "TAX": "TAX:VAT (3.85%):  13.83 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 361.58 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and sixt-\ny-one point five eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mr. Jimmy Webb\n2783 Timothy Glen\nRodriguezshire, MA 81465 US\nTel:+(001)387-4108\nEmail:valerie37@example.org\nSite:http://www.mcclure.com/",
+      "DATE": "Invoice Date: 12-Aug-2003",
+      "DUE_DATE": "Due Date : 29-Jul-2005",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 4467-886",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1332.83  USD",
+      "TAX": "TAX:VAT (4.32%):  57.58 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1376.15 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred a-\nnd seventy-six point one five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Beard\n41438 Ross Plaza Apt. 009\nEast Jonathanbury, NY 62727 US\nTel:+(616)089-4944\nEmail:stephanie04@example.net\nSite:http://www.jacobson.com/",
+      "DATE": "Date: 04-Jun-2011",
+      "DUE_DATE": "Due Date : 18-Feb-2015",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV22085137",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 852.44  USD",
+      "TAX": "TAX:VAT (6.15%):  52.40 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 866.14 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and six-\nty-six point one four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Buchanan\n0907 Bartlett Hills\nLake Katherine, VI 70243 US\nTel:+(514)447-1760\nEmail:judithflowers@example.com\nSite:http://shaw-johnston.com/",
+      "DATE": "Date: 17-Jul-2016",
+      "DUE_DATE": "Due Date : 03-May-2011",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 9574-723",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 740.88  $",
+      "TAX": "TAX:VAT (3.29%):  24.40 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 737.57 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-seven point five seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Dickerson\n579 Bruce Bridge\nEast Meganchester, AR 83763 US\nTel:+(059)649-3906\nEmail:ricky08@example.com\nSite:https://adams-richard.com/",
+      "DATE": "Date: 16-Aug-2002",
+      "DUE_DATE": "Due Date : 13-Mar-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV44538510",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 303.53  USD",
+      "TAX": "TAX:VAT (4.54%):  13.78 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 307.78 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and se-\nven point seven eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kathleen Williams\n92069 Jackson Oval\nMeaganfurt, IN 21337 US\nTel:+(909)347-6726\nEmail:christopherhodges@example.net\nSite:https://garner-nguyen.info/",
+      "DATE": "Invoice Date: 25-Aug-2022",
+      "DUE_DATE": "Due Date : 23-Aug-2004",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV94419575",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1070.05  $",
+      "TAX": "TAX:VAT (5.80%):  62.11 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1117.07 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd seventeen point zero seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Smith\n47195 Long Trail\nNorth Colleen, NC 60478 US\nTel:+(833)795-7298\nEmail:scott85@example.net\nSite:https://www.bell.com/",
+      "DATE": "Invoice Date: 05-Dec-1998",
+      "DUE_DATE": "Due Date : 20-Sep-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 9771-120",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1693.17  EUR",
+      "TAX": "TAX:VAT (3.40%):  57.50 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1720.70 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, seven hundr-\ned and twenty point seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Bowers\n85128 Ho Skyway\nWest Antonio, ND 13196 US\nTel:+(271)494-6960\nEmail:hendersonsara@example.com\nSite:https://barnett-mitchell.org/",
+      "DATE": "Invoice Date: 10-May-2017",
+      "DUE_DATE": "Due Date : 28-Dec-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 7725-684",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1376.50  USD",
+      "TAX": "TAX:VAT (4.08%):  56.21 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1417.71 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred a-\nnd seventeen point seven one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Macdonald\n1800 Vanessa Bridge\nWuview, ID 13827 US\nTel:+(766)873-3029\nEmail:cookdavid@example.net\nSite:http://green-marshall.com/",
+      "DATE": "Invoice Date: 14-Nov-1996",
+      "DUE_DATE": "Due Date : 16-Dec-1998",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 6Y8M8d-343",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 129.48  $",
+      "TAX": "TAX:VAT (5.31%):  6.88 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 134.08 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirty-\n-four point zero eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brenda Dunn\n392 Johnston Mission\nPadillaberg, SC 28024 US\nTel:+(543)324-1195\nEmail:luisrichards@example.net\nSite:https://taylor.com/",
+      "DATE": "Invoice Date: 13-Nov-2019",
+      "DUE_DATE": "Due Date : 10-Sep-2000",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 3Y6M7d-234",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 337.80  USD",
+      "TAX": "TAX:VAT (4.17%):  14.09 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 340.57 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fo-\nrty point five seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Clayton\n36158 James Shore Suite 478\nMalloryshire, AS 96608 US\nTel:+(689)222-3580\nEmail:staffordbrianna@example.org\nSite:http://www.wood-patterson.com/",
+      "DATE": "Invoice Date: 23-Jan-1996",
+      "DUE_DATE": "Due Date : 11-Sep-1999",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 8340-762",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 659.28  EUR",
+      "TAX": "TAX:VAT (3.08%):  20.33 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 657.33 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty--\nseven point three three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Roberta Johnston\n6105 Brittany Ford Apt. 960\nLandryside, AK 03624 US\nTel:+(773)346-9592\nEmail:dorothy35@example.net\nSite:https://wilkins.net/",
+      "DATE": "Date: 15-Jul-2011",
+      "DUE_DATE": "Due Date : 26-Dec-2002",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV49080830",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1058.82  EUR",
+      "TAX": "TAX:VAT (6.50%):  68.86 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1080.03 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and eig-\nhty point zero three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Jacobs\n985 Ashley Shores\nLake Kathleen, OR 61151 US\nTel:+(459)456-0372\nEmail:rmedina@example.org\nSite:http://riley-hale.net/",
+      "DATE": "Invoice Date: 17-Mar-2021",
+      "DUE_DATE": "Due Date : 17-Aug-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 6Y1M2d-703",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1195.67  $",
+      "TAX": "TAX:VAT (5.28%):  63.12 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1218.14 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred -\nand eighteen point one four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gilbert Medina\n206 Denise Land Suite 866\nWest David, RI 51410 US\nTel:+(361)614-2182\nEmail:sfrench@example.org\nSite:https://www.leonard.com/",
+      "DATE": "Date: 03-Dec-2014",
+      "DUE_DATE": "Due Date : 03-Nov-1994",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 7Y2M7d-925",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 899.56  EUR",
+      "TAX": "TAX:VAT (4.83%):  43.46 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 914.68 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fou-\nrteen point six eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Edwards\n45408 Dunn Prairie Suite 940\nSouth Joan, KY 20203 US\nTel:+(553)144-2538\nEmail:vspence@example.org\nSite:http://www.rose.com/",
+      "DATE": "Invoice Date: 27-Jan-1993",
+      "DUE_DATE": "Due Date : 17-Nov-2014",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 0551-467",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 826.51  USD",
+      "TAX": "TAX:VAT (3.47%):  28.65 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 834.58 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thirt-\ny-four point five eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alyssa Hernandez\n29820 Little Coves Suite 093\nJamesfort, CO 70286 US\nTel:+(414)464-7316\nEmail:hebertrobert@example.org\nSite:http://mathis-hendrix.com/",
+      "DATE": "Date: 06-Aug-1994",
+      "DUE_DATE": "Due Date : 03-Jan-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 4Y1M9d-332",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 422.31  $",
+      "TAX": "TAX:VAT (3.05%):  12.89 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 422.32 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and twen-\nty-two point three two",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Preston\n41838 Carl Prairie Apt. 014\nGardnerhaven, RI 34090 US\nTel:+(190)936-7427\nEmail:darrell26@example.com\nSite:https://crane.com/",
+      "DATE": "Date: 03-Sep-1994",
+      "DUE_DATE": "Due Date : 21-Aug-2020",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/97-66/470",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 146.51  EUR",
+      "TAX": "TAX:VAT (5.29%):  7.75 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 147.97 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty--\nseven point nine seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance170.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Wendy Austin\n24771 Pamela Green Apt. 985\nCarolview, AZ 88962 US\nTel:+(242)758-5093\nEmail:crystaljennings@example.org\nSite:http://www.carlson.com/",
+      "DATE": "Date: 21-Nov-1995",
+      "DUE_DATE": "Due Date : 28-Nov-2022",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # 8Y4M6d-418",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 469.75  EUR",
+      "TAX": "TAX:VAT (4.16%):  19.55 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 482.07 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and eight-\ny-two point zero seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Smith\n2934 Curry Plaza\nLeachshire, UT 93594 US\nTel:+(694)522-0849\nEmail:vfowler@example.com\nSite:http://walker-daugherty.com/",
+      "DATE": "Invoice Date: 22-Jul-2003",
+      "DUE_DATE": "Due Date : 13-May-2001",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/57-03/994",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 403.84  USD",
+      "TAX": "TAX:VAT (5.24%):  21.17 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 409.38 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and ni-\nne point three eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Gilbert\n1646 Ricardo Court Apt. 427\nPort Ashley, AS 12025 US\nTel:+(424)656-1459\nEmail:nicoleblack@example.com\nSite:http://www.love.net/",
+      "DATE": "Date: 25-Apr-2007",
+      "DUE_DATE": "Due Date : 04-Sep-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/77-01/550",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 840.73  EUR",
+      "TAX": "TAX:VAT (4.04%):  33.94 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 855.17 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fift-\ny-five point one seven",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Harris\n21395 Gill Villages Suite 824\nRodriguezport, NJ 41274 US\nTel:+(570)629-2759\nEmail:ndavis@example.net\nSite:http://matthews.info/",
+      "DATE": "Invoice Date: 08-Jun-2021",
+      "DUE_DATE": "Due Date : 15-Jul-2022",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 9Y8M3d-797",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 316.56  $",
+      "TAX": "TAX:VAT (6.32%):  20.00 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 321.43 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and twen-\nty-one point four three",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Angel Williams\n1279 Cook Drive Suite 569\nNorth Suzannemouth, NC 12258 US\nTel:+(523)365-0961\nEmail:zacharyrichardson@example.com\nSite:https://hart-roth.info/",
+      "DATE": "Invoice Date: 29-Nov-2021",
+      "DUE_DATE": "Due Date : 02-Jun-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV/22-13/443",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1139.86  USD",
+      "TAX": "TAX:VAT (4.02%):  45.84 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1138.74 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\nthirty-eight point seven four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Lambert\n94722 Austin Mountains Apt. 716\nNelsonville, OH 13356 US\nTel:+(513)459-3609\nEmail:erinharrison@example.org\nSite:http://boyd.info/",
+      "DATE": "Date: 29-Sep-2001",
+      "DUE_DATE": "Due Date : 27-Jun-2010",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 2Y5M2d-904",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 1445.93  $",
+      "TAX": "TAX:VAT (6.93%):  100.21 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1530.38 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hundred -\nand thirty point three eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sandra Garner\n6189 Madison Trail\nNew Michael, AZ 61402 US\nTel:+(386)916-1486\nEmail:ireid@example.net\nSite:http://perez-bryant.com/",
+      "DATE": "Invoice Date: 04-Jun-2014",
+      "DUE_DATE": "Due Date : 11-Jun-2012",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV81813858",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 516.02  USD",
+      "TAX": "TAX:VAT (4.04%):  20.86 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 516.39 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and six-\nteen point three nine",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Laura Khan\n2131 Dorothy Lodge\nWest Barryville, NH 08015 US\nTel:+(431)925-9901\nEmail:davismario@example.com\nSite:https://www.hall.com/",
+      "DATE": "Invoice Date: 27-Jan-2014",
+      "DUE_DATE": "Due Date : 20-Feb-1994",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 9Y8M3d-398",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 80.12  USD",
+      "TAX": "TAX:VAT (3.60%):  2.89 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 80.18 USD",
+      "TOTAL_WORDS": "Total in words:  eighty poin-\nt one eight",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rita Smith\n320 Joseph Forks Suite 191\nDavisstad, GU 43940 US\nTel:+(885)141-6157\nEmail:chavezjeff@example.com\nSite:https://nguyen-huynh.biz/",
+      "DATE": "Invoice Date: 04-Aug-2013",
+      "DUE_DATE": "Due Date : 26-Jan-2006",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number INV/73-58/533",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 578.50  USD",
+      "TAX": "TAX:VAT (5.12%):  29.61 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 597.75 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninety-\n-seven point seven five",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brittany Martin\n20924 Barnes Springs Suite 555\nWest Jasonland, TN 26768 US\nTel:+(297)904-3382\nEmail:alexanderhamilton@example.net\nSite:http://velazquez.info/",
+      "DATE": "Date: 05-Aug-2022",
+      "DUE_DATE": "Due Date : 29-Oct-2017",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "Invoice number 1175-289",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 458.28  USD",
+      "TAX": "TAX:VAT (6.78%):  31.09 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 474.61 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and seve-\nnty-four point six one",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Dominguez\n3333 Christina Harbor\nKennethside, GU 39109 US\nTel:+(129)564-1018\nEmail:rebekah19@example.com\nSite:http://www.garza.com/",
+      "DATE": "Date: 31-Jan-2006",
+      "DUE_DATE": "Due Date : 31-Jan-1996",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID 9496-403",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 581.53  USD",
+      "TAX": "TAX:VAT (3.16%):  18.40 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 590.16 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and n-\ninety point one six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Marc Jackson\n5279 Jocelyn Gardens\nPort Cathy, ND 24876 US\nTel:+(950)770-7246\nEmail:fowlerkristi@example.org\nSite:http://www.johnson.biz/",
+      "DATE": "Invoice Date: 25-Jun-2004",
+      "DUE_DATE": "Due Date : 19-Aug-1993",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE ID INV/28-17/812",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 967.52  USD",
+      "TAX": "TAX:VAT (6.54%):  63.27 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 986.96 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-six point nine six",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  },
+  {
+    "image": "Template17_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Morton\n1240 Rocha Center\nThorntonmouth, CA 24761 US\nTel:+(447)017-0355\nEmail:ufrye@example.com\nSite:http://www.leon-bailey.com/",
+      "DATE": "Invoice Date: 21-Sep-2010",
+      "DUE_DATE": "Due Date : 17-Mar-2018",
+      "GSTIN_BUYER": "GSTINO4ARCPD98743125",
+      "NUMBER": "INVOICE # INV51278884",
+      "SELLER_ADDRESS": "Address:5776 Whitney Meadow\nWest Adriennebury, ID 40049 US",
+      "SELLER_NAME": "Berg, Ward and Wright",
+      "SUB_TOTAL": "SUB_TOTAL : 598.24  $",
+      "TAX": "TAX:VAT (4.27%):  25.52 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 610.54 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and t-\nen point five four",
+      "GSTIN_SELLER": "GSTIN O4AROPO98743125,"
+    }
+  }
+]

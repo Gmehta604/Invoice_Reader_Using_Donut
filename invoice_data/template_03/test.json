@@ -1,0 +1,642 @@
+[
+  {
+    "image": "Template3_Instance90.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJared Perkins\n1514 Lori Vista\nSouth Justin, KS 24669 US\nTel:+(026)701-3788\nEmail:cassandra69@example.net\nSite:http://meyer-baker.org/",
+      "DATE": "Invoice Date: 06-Nov-2004",
+      "DUE_DATE": "Due Date : 11-Dec-2011",
+      "NUMBER": "Invoice number INV/61-65/309",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :52",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.98%):  3.71 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 94.63 EUR",
+      "TOTAL_WORDS": "Total in words:  ninety-four p-\noint six three"
+    }
+  },
+  {
+    "image": "Template3_Instance59.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMiguel Valentine\n55793 Michael Trail Apt. 823\nGibsonport, FL 60164 US\nTel:+(088)190-6271\nEmail:iford@example.com\nSite:http://www.peterson.biz/",
+      "DATE": "Date: 08-Sep-2001",
+      "DUE_DATE": "Due Date : 10-Sep-2018",
+      "NUMBER": "INVOICE # INV/15-21/217",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :33",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.14%):  16.64 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 399.72 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and nine-\nty-nine point seven two"
+    }
+  },
+  {
+    "image": "Template3_Instance149.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmanda Snow\n870 Charles Mount\nLake Annebury, KY 77091 US\nTel:+(816)522-4532\nEmail:david99@example.net\nSite:https://garcia.com/",
+      "DATE": "Date: 01-Sep-2018",
+      "DUE_DATE": "Due Date : 31-Jan-2022",
+      "NUMBER": "INVOICE ID INV/27-74/488",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :47",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.85%):  31.98 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 478.74 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and sevent-\ny-eight point seven four"
+    }
+  },
+  {
+    "image": "Template3_Instance138.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmanda Ross\n2432 Conley Mountains Apt. 464\nBrianchester, CT 09821 US\nTel:+(074)168-0199\nEmail:raymondphillips@example.org\nSite:https://davidson.com/",
+      "DATE": "Invoice Date: 17-Oct-1997",
+      "DUE_DATE": "Due Date : 11-Jan-2006",
+      "NUMBER": "INVOICE ID 9Y7M4d-272",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :99",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.58%):  23.72 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 668.43 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty--\neight point four three"
+    }
+  },
+  {
+    "image": "Template3_Instance47.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDiana Brown\n475 Garza Rapid\nEast Baileyfort, NM 00752 US\nTel:+(014)139-6779\nEmail:xrandolph@example.org\nSite:https://becker.com/",
+      "DATE": "Date: 28-Oct-2014",
+      "DUE_DATE": "Due Date : 04-Nov-2015",
+      "NUMBER": "INVOICE # 9218-438",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :30",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.08%):  109.77 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1877.85 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, eight hundred and-\nseventy-seven point eight five"
+    }
+  },
+  {
+    "image": "Template3_Instance7.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTaylor Santiago\n882 Steven Inlet\nPort John, TX 22658 US\nTel:+(349)277-3643\nEmail:dbowman@example.org\nSite:http://www.palmer.com/",
+      "DATE": "Invoice Date: 10-Jul-1996",
+      "DUE_DATE": "Due Date : 31-Aug-2011",
+      "NUMBER": "INVOICE ID 5Y8M1d-775",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :54",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.09%):  49.90 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 844.65 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and for-\nty-four point six five"
+    }
+  },
+  {
+    "image": "Template3_Instance182.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohn Anderson\n39939 Santos Manors\nMoranland, WA 83743 US\nTel:+(240)184-6276\nEmail:summerskara@example.net\nSite:http://holt.com/",
+      "DATE": "Invoice Date: 10-Feb-2008",
+      "DUE_DATE": "Due Date : 07-Jan-2010",
+      "NUMBER": "INVOICE ID INV44663226",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :98",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.74%):  4.66 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 99.12 EUR",
+      "TOTAL_WORDS": "Total in words:  ninety-nine -\npoint one two"
+    }
+  },
+  {
+    "image": "Template3_Instance120.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDarrell Burgess\n380 Anderson Rapid\nWest Catherinestad, MT 27841 US\nTel:+(258)623-2165\nEmail:gracegilbert@example.net\nSite:http://www.johnson-fitzpatrick.biz/",
+      "DATE": "Date: 08-Aug-1996",
+      "DUE_DATE": "Due Date : 30-Sep-2021",
+      "NUMBER": "Invoice number 6Y8M4d-583",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :21",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.25%):  5.88 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 179.40 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and sev-\nenty-nine point four"
+    }
+  },
+  {
+    "image": "Template3_Instance70.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWendy Brown\n209 Wesley Lock Suite 497\nEast Michael, KY 52990 US\nTel:+(195)341-9751\nEmail:dnolan@example.com\nSite:http://www.garcia.com/",
+      "DATE": "Invoice Date: 12-Feb-1994",
+      "DUE_DATE": "Due Date : 15-Nov-1994",
+      "NUMBER": "INVOICE # INV/69-74/934",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :64",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.53%):  23.71 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 369.46 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and six-\nty-nine point four six"
+    }
+  },
+  {
+    "image": "Template3_Instance126.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Hansen\n6255 James Pine Suite 381\nKathleenchester, TX 47619 US\nTel:+(165)119-8506\nEmail:robert13@example.com\nSite:http://brown-carlson.com/",
+      "DATE": "Invoice Date: 06-Sep-2022",
+      "DUE_DATE": "Due Date : 02-Aug-2010",
+      "NUMBER": "INVOICE ID INV/82-77/650",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :02",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.66%):  84.47 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1307.70 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hund-\nred and seven point seven"
+    }
+  },
+  {
+    "image": "Template3_Instance24.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNicole Reed\n9354 Duffy Via\nEast Kevin, MA 07523 US\nTel:+(447)570-1561\nEmail:matthewbray@example.org\nSite:https://www.vaughn.com/",
+      "DATE": "Date: 11-Apr-2014",
+      "DUE_DATE": "Due Date : 10-May-2005",
+      "NUMBER": "INVOICE ID INV/69-28/494",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :26",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.76%):  60.64 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 912.98 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and twe-\nlve point nine eight"
+    }
+  },
+  {
+    "image": "Template3_Instance18.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Duke\n17576 Timothy Islands\nJohnstad, MN 71551 US\nTel:+(994)766-6028\nEmail:rbrock@example.org\nSite:http://www.lewis-velasquez.org/",
+      "DATE": "Invoice Date: 03-Nov-2021",
+      "DUE_DATE": "Due Date : 26-Jan-1994",
+      "NUMBER": "Invoice number 9381-379",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :20",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.90%):  45.89 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 787.77 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eighty-\n-seven point seven seven"
+    }
+  },
+  {
+    "image": "Template3_Instance187.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKaren Norris\n91542 Yates Views\nWest Traci, CA 01484 US\nTel:+(718)336-7724\nEmail:andrea08@example.net\nSite:https://smith-cooper.com/",
+      "DATE": "Invoice Date: 07-Jul-1994",
+      "DUE_DATE": "Due Date : 19-Jan-2015",
+      "NUMBER": "Invoice number 0818-335",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.81%):  63.86 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1146.14 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd forty-six point one four"
+    }
+  },
+  {
+    "image": "Template3_Instance46.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrady Castro\n7322 Angela Tunnel\nLake Jessicaport, MH 82274 US\nTel:+(267)866-4511\nEmail:reynoldssamantha@example.org\nSite:https://www.davis.info/",
+      "DATE": "Invoice Date: 03-Mar-2005",
+      "DUE_DATE": "Due Date : 27-Oct-1996",
+      "NUMBER": "INVOICE # INV/17-06/750",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :28",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.96%):  60.22 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1512.79 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hundred -\nand twelve point seven nine"
+    }
+  },
+  {
+    "image": "Template3_Instance172.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDennis Estrada\n6820 Griffith Oval\nPort Loretta, NY 28420 US\nTel:+(427)139-7680\nEmail:dgarner@example.org\nSite:https://harris-bauer.org/",
+      "DATE": "Date: 02-Nov-2021",
+      "DUE_DATE": "Due Date : 12-Feb-1996",
+      "NUMBER": "Invoice number INV/59-18/514",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :73",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.47%):  15.39 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 440.93 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fo-\nrty point nine three"
+    }
+  },
+  {
+    "image": "Template3_Instance174.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGeorge Sanchez\n456 Nichols Locks Suite 716\nJustinberg, CO 08664 US\nTel:+(326)876-9919\nEmail:amata@example.com\nSite:http://www.nicholson.biz/",
+      "DATE": "Invoice Date: 17-May-2009",
+      "DUE_DATE": "Due Date : 13-Jan-2003",
+      "NUMBER": "INVOICE # 7Y9M6d-090",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :38",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.05%):  41.13 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1040.22 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and f-\norty point two two"
+    }
+  },
+  {
+    "image": "Template3_Instance57.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJonathan Frey\n60560 Mooney Camp Suite 829\nCheyennefurt, ID 61156 US\nTel:+(722)207-8408\nEmail:laurencontreras@example.net\nSite:http://wilkerson-crawford.com/",
+      "DATE": "Invoice Date: 20-Mar-2022",
+      "DUE_DATE": "Due Date : 15-Jun-2003",
+      "NUMBER": "INVOICE # 2106-418",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :50",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.61%):  24.30 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 677.22 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and seven-\nty-seven point two two"
+    }
+  },
+  {
+    "image": "Template3_Instance80.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSusan Stewart\n05057 Alexander Points Suite 479\nPort Tommy, VT 17967 US\nTel:+(465)982-3487\nEmail:harrisamy@example.net\nSite:http://www.brady.com/",
+      "DATE": "Date: 31-Jan-2013",
+      "DUE_DATE": "Due Date : 06-Mar-1995",
+      "NUMBER": "INVOICE # 7Y5M2d-217",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :89",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.01%):  28.99 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 965.39 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixty-\n-five point three nine"
+    }
+  },
+  {
+    "image": "Template3_Instance137.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMary Winters\n903 Jose Court Suite 741\nThompsontown, AR 55049 US\nTel:+(876)299-2636\nEmail:sherri77@example.com\nSite:http://burke.biz/",
+      "DATE": "Date: 02-Aug-2000",
+      "DUE_DATE": "Due Date : 05-Sep-2015",
+      "NUMBER": "INVOICE # INV/18-85/250",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :31",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.63%):  40.37 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 624.04 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-four point zero four"
+    }
+  },
+  {
+    "image": "Template3_Instance43.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKaren Lee DVM\n100 Susan Flats\nLake Thomasborough, GU 72110 US\nTel:+(486)149-6818\nEmail:igarza@example.net\nSite:https://www.andersen.net/",
+      "DATE": "Date: 02-Apr-1995",
+      "DUE_DATE": "Due Date : 17-Jan-2020",
+      "NUMBER": "INVOICE # 8Y6M9d-559",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.24%):  52.30 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1014.59 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and fou-\nrteen point five nine"
+    }
+  },
+  {
+    "image": "Template3_Instance108.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAlbert Anderson\n8691 Whitney Rapids\nSouth Melindaside, ME 88779 US\nTel:+(527)619-5909\nEmail:kaitlynmcclain@example.net\nSite:https://www.robinson.biz/",
+      "DATE": "Invoice Date: 10-Apr-2001",
+      "DUE_DATE": "Due Date : 27-Sep-1997",
+      "NUMBER": "INVOICE # INV23831640",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :66",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (7.00%):  49.56 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 734.07 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-four point zero seven"
+    }
+  },
+  {
+    "image": "Template3_Instance118.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDaniel Lee\n3782 Lisa Plaza Apt. 990\nLake Albert, OR 52264 US\nTel:+(481)476-7775\nEmail:muellerjacob@example.org\nSite:http://meza.com/",
+      "DATE": "Invoice Date: 20-Jun-2021",
+      "DUE_DATE": "Due Date : 11-Feb-2000",
+      "NUMBER": "INVOICE ID 6Y7M8d-027",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :63",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.89%):  65.35 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 973.25 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and seven-\nty-three point two five"
+    }
+  },
+  {
+    "image": "Template3_Instance159.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael May\n29266 Sherry Row\nAmandaport, TN 31298 US\nTel:+(838)341-8566\nEmail:eproctor@example.net\nSite:https://rodriguez-carson.org/",
+      "DATE": "Date: 12-Jan-2002",
+      "DUE_DATE": "Due Date : 01-Jun-1999",
+      "NUMBER": "INVOICE ID INV/86-32/847",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :97",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.74%):  26.93 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 712.93 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and tw-\nelve point nine three"
+    }
+  },
+  {
+    "image": "Template3_Instance49.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDavid Barker\n96198 Simon Dam Apt. 247\nJenniferborough, OR 12913 US\nTel:+(269)531-3317\nEmail:ghoward@example.org\nSite:http://snyder.info/",
+      "DATE": "Invoice Date: 20-Apr-2011",
+      "DUE_DATE": "Due Date : 01-Apr-2018",
+      "NUMBER": "INVOICE # 4Y9M2d-326",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :89",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.31%):  8.17 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 135.86 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirt-\ny-five point eight six"
+    }
+  },
+  {
+    "image": "Template3_Instance88.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoseph Ramirez\n3847 Edward Flats Suite 528\nTaylorville, MP 16875 US\nTel:+(203)334-3943\nEmail:dorothy06@example.org\nSite:http://valentine.com/",
+      "DATE": "Date: 22-Sep-2016",
+      "DUE_DATE": "Due Date : 16-Feb-2009",
+      "NUMBER": "INVOICE # 6716-402",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :96",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.59%):  50.08 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 930.54 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and th-\nirty point five four"
+    }
+  },
+  {
+    "image": "Template3_Instance194.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDebra Potter\n696 James Villages Apt. 693\nAlexanderhaven, NC 17685 US\nTel:+(621)030-8214\nEmail:johnmueller@example.com\nSite:https://www.martinez.net/",
+      "DATE": "Invoice Date: 23-Apr-2012",
+      "DUE_DATE": "Due Date : 20-Dec-2017",
+      "NUMBER": "INVOICE ID INV61642849",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :30",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.57%):  42.23 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 791.02 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and nin-\nety-one point zero two"
+    }
+  },
+  {
+    "image": "Template3_Instance102.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRichard Fields\n53129 Kimberly Place Suite 394\nGomezton, MN 21479 US\nTel:+(849)775-7497\nEmail:wadebenjamin@example.org\nSite:http://ross.com/",
+      "DATE": "Invoice Date: 03-Jun-2012",
+      "DUE_DATE": "Due Date : 24-Dec-1995",
+      "NUMBER": "Invoice number 1099-670",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :35",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.75%):  65.81 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1006.96 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and -\nsix point nine six"
+    }
+  },
+  {
+    "image": "Template3_Instance42.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNancy Leonard\n5720 Michael Keys\nAnthonystad, ND 69503 US\nTel:+(877)504-2148\nEmail:caleb32@example.org\nSite:https://www.martin-wyatt.com/",
+      "DATE": "Date: 03-Aug-2001",
+      "DUE_DATE": "Due Date : 13-Jun-2007",
+      "NUMBER": "Invoice number INV30088725",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :98",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.82%):  44.96 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 674.92 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and seven-\nty-four point nine two"
+    }
+  },
+  {
+    "image": "Template3_Instance56.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMax Mclaughlin\n697 Victoria Lodge Suite 294\nEast Beverlyshire, WV 68061 US\nTel:+(768)990-1801\nEmail:martinjerry@example.org\nSite:http://www.gamble-black.com/",
+      "DATE": "Date: 21-Oct-2002",
+      "DUE_DATE": "Due Date : 27-Apr-2013",
+      "NUMBER": "INVOICE ID 1Y5M1d-684",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :24",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.13%):  10.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 245.68 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and forty-\n-five point six eight"
+    }
+  },
+  {
+    "image": "Template3_Instance176.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichelle Stewart\n9172 Jennifer Freeway\nWest Dustinton, CO 17929 US\nTel:+(100)507-8359\nEmail:granteric@example.com\nSite:https://www.williamson.info/",
+      "DATE": "Date: 12-Jul-1999",
+      "DUE_DATE": "Due Date : 25-Oct-2022",
+      "NUMBER": "Invoice number 5398-828",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :35",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.74%):  47.12 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 832.93 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-two point nine three"
+    }
+  },
+  {
+    "image": "Template3_Instance96.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJessica Pope\n3425 Brady Corners Apt. 969\nJohnhaven, PR 43118 US\nTel:+(126)911-6377\nEmail:xsolomon@example.net\nSite:http://www.dillon-wood.com/",
+      "DATE": "Invoice Date: 06-May-2019",
+      "DUE_DATE": "Due Date : 12-Feb-2021",
+      "NUMBER": "INVOICE # 3Y5M5d-853",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :63",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.81%):  19.29 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 411.03 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and ele-\nven point zero three"
+    }
+  },
+  {
+    "image": "Template3_Instance114.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristopher White\n537 Anna Stream Apt. 280\nWest Debrastad, PR 28649 US\nTel:+(913)647-2666\nEmail:bakerlaura@example.net\nSite:https://www.cunningham.biz/",
+      "DATE": "Date: 13-Jul-2001",
+      "DUE_DATE": "Due Date : 08-Sep-2020",
+      "NUMBER": "Invoice number INV/38-74/455",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :03",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.79%):  55.45 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1179.52 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd seventy-nine point five two"
+    }
+  },
+  {
+    "image": "Template3_Instance40.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nGabriel Drake\n3966 Miller Radial\nNorth Alexhaven, DE 27862 US\nTel:+(147)432-8009\nEmail:maddoxmegan@example.net\nSite:https://www.williams.com/",
+      "DATE": "Date: 15-Oct-2022",
+      "DUE_DATE": "Due Date : 09-Aug-2008",
+      "NUMBER": "INVOICE ID INV/71-79/248",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :08",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.22%):  16.56 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 400.56 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred -\npoint five six"
+    }
+  },
+  {
+    "image": "Template3_Instance145.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJohn Mays\n4039 Charles Bypass Suite 936\nSouth Jesse, NH 91279 US\nTel:+(964)424-1395\nEmail:campbellkristin@example.org\nSite:http://bradley.com/",
+      "DATE": "Invoice Date: 17-May-2016",
+      "DUE_DATE": "Due Date : 24-Jan-2002",
+      "NUMBER": "INVOICE # 5Y5M3d-947",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :97",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (6.85%):  78.57 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1200.33 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hun-\ndred point three three"
+    }
+  },
+  {
+    "image": "Template3_Instance112.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nNichole Gill\n442 Poole Spring\nNorth Matthew, WI 58300 US\nTel:+(926)248-9410\nEmail:browncesar@example.com\nSite:http://www.james.com/",
+      "DATE": "Date: 24-Aug-1998",
+      "DUE_DATE": "Due Date : 30-Oct-2013",
+      "NUMBER": "INVOICE # 2243-832",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :61",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.96%):  17.17 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 348.35 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and forty-\n-eight point three five"
+    }
+  },
+  {
+    "image": "Template3_Instance11.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSean Gomez\n1690 Jerry Green\nEast Andreaside, IL 32993 US\nTel:+(892)882-6723\nEmail:katelyn62@example.net\nSite:https://wiggins-davis.com/",
+      "DATE": "Invoice Date: 08-Mar-2016",
+      "DUE_DATE": "Due Date : 13-Jul-2022",
+      "NUMBER": "INVOICE # 3Y8M6d-749",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :39",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (5.07%):  24.44 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 485.61 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-five point six one"
+    }
+  },
+  {
+    "image": "Template3_Instance177.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMargaret Rodriguez\n81936 Watson Falls Apt. 111\nBrandonmouth, OR 50890 US\nTel:+(603)358-9121\nEmail:bgarrison@example.com\nSite:https://www.walker-harris.info/",
+      "DATE": "Invoice Date: 09-Feb-2006",
+      "DUE_DATE": "Due Date : 18-Aug-2012",
+      "NUMBER": "Invoice number INV23148731",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :66",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.82%):  37.37 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 990.89 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and nin-\nety point eight nine"
+    }
+  },
+  {
+    "image": "Template3_Instance3.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoseph Jenkins\n268 Krause Run\nHesterview, MH 17423 US\nTel:+(223)614-3008\nEmail:burnswyatt@example.net\nSite:https://myers.org/",
+      "DATE": "Invoice Date: 26-Oct-2011",
+      "DUE_DATE": "Due Date : 22-Sep-2014",
+      "NUMBER": "INVOICE ID INV67336140",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :93",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.68%):  46.68 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1274.35 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred and-\nseventy-four point three five"
+    }
+  },
+  {
+    "image": "Template3_Instance123.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nPatricia Henderson\n520 Vega Court\nBullockstad, MA 53695 US\nTel:+(485)861-2180\nEmail:amandawu@example.com\nSite:https://www.martinez.net/",
+      "DATE": "Date: 10-Jul-2020",
+      "DUE_DATE": "Due Date : 13-Jan-2006",
+      "NUMBER": "Invoice number INV/92-98/269",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (3.83%):  27.52 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 724.47 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twent-\ny-four point four seven"
+    }
+  },
+  {
+    "image": "Template3_Instance97.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMarilyn Fisher\n5773 Rodriguez Lights\nNew Sarah, GU 66725 US\nTel:+(314)286-6942\nEmail:robin59@example.org\nSite:http://www.hammond.biz/",
+      "DATE": "Invoice Date: 01-Sep-2022",
+      "DUE_DATE": "Due Date : 21-Dec-2000",
+      "NUMBER": "INVOICE ID 3980-697",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :65",
+      "SELLER_NAME": "Kirk, Murphy and Daniels",
+      "TAX": "TAX:VAT (4.93%):  66.44 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1385.50 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred-\nand eighty-five point five"
+    }
+  }
+]

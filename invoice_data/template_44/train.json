@@ -1,0 +1,2402 @@
+[
+  {
+    "image": "Template44_Instance29.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Jun-1997",
+      "NUMBER": "Invoice number INV80008241",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18031842\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 563.83  USD",
+      "TAX": "TAX:VAT (4.11%):  23.18 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 568.40 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance133.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Jul-2003",
+      "NUMBER": "INVOICE ID INV27582912",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16072013\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 562.14  $",
+      "TAX": "TAX:VAT (5.53%):  31.06 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 587.02 $"
+    }
+  },
+  {
+    "image": "Template44_Instance41.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Dec-2008",
+      "NUMBER": "INVOICE # 8085-310",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15208333\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 864.62  EUR",
+      "TAX": "TAX:VAT (6.26%):  54.12 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 902.40 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance124.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Oct-2017",
+      "NUMBER": "Invoice number INV74181298",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  10981975\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 672.13  USD",
+      "TAX": "TAX:VAT (4.53%):  30.42 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 678.96 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance145.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Jun-2000",
+      "NUMBER": "INVOICE ID 1816-626",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16342212\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 446.17  EUR",
+      "TAX": "TAX:VAT (4.47%):  19.93 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 446.78 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance121.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Nov-2018",
+      "NUMBER": "Invoice number 2Y5M9d-638",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15248186\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 355.64  EUR",
+      "TAX": "TAX:VAT (5.43%):  19.30 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 366.30 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance92.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Oct-2005",
+      "NUMBER": "Invoice number INV44878660",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15518181\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 560.48  $",
+      "TAX": "TAX:VAT (6.04%):  33.86 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 584.31 $"
+    }
+  },
+  {
+    "image": "Template44_Instance36.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Jan-2004",
+      "NUMBER": "INVOICE ID INV/59-34/108",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16336625\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1046.96  USD",
+      "TAX": "TAX:VAT (5.65%):  59.11 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1083.87 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance125.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Nov-1995",
+      "NUMBER": "Invoice number INV/54-09/304",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14584508\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 547.81  $",
+      "TAX": "TAX:VAT (6.27%):  34.36 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 576.42 $"
+    }
+  },
+  {
+    "image": "Template44_Instance82.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Jul-1994",
+      "NUMBER": "INVOICE # 7217-968",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10011975\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 565.75  $",
+      "TAX": "TAX:VAT (6.13%):  34.68 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 579.55 $"
+    }
+  },
+  {
+    "image": "Template44_Instance43.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Aug-2020",
+      "NUMBER": "INVOICE ID 7957-089",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12502990\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 560.13  $",
+      "TAX": "TAX:VAT (6.98%):  39.07 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 587.61 $"
+    }
+  },
+  {
+    "image": "Template44_Instance21.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Nov-2003",
+      "NUMBER": "INVOICE # 9838-246",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15095189\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 758.48  USD",
+      "TAX": "TAX:VAT (3.46%):  26.25 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 752.34 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance89.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Aug-2007",
+      "NUMBER": "INVOICE # INV42677397",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18847309\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 663.13  USD",
+      "TAX": "TAX:VAT (6.46%):  42.87 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 677.88 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance140.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Sep-1996",
+      "NUMBER": "Invoice number INV81286848",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18068171\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 497.46  $",
+      "TAX": "TAX:VAT (4.61%):  22.93 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 511.39 $"
+    }
+  },
+  {
+    "image": "Template44_Instance65.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Dec-2019",
+      "NUMBER": "INVOICE ID INV59115891",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10441622\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 728.90  EUR",
+      "TAX": "TAX:VAT (5.13%):  37.40 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 750.63 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance126.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Feb-2012",
+      "NUMBER": "Invoice number INV/07-80/177",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16370440\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 751.39  $",
+      "TAX": "TAX:VAT (5.80%):  43.62 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 774.20 $"
+    }
+  },
+  {
+    "image": "Template44_Instance144.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 31-May-2018",
+      "NUMBER": "INVOICE ID INV72540957",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18213949\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1013.76  $",
+      "TAX": "TAX:VAT (6.91%):  70.07 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1041.25 $"
+    }
+  },
+  {
+    "image": "Template44_Instance47.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Sep-1995",
+      "NUMBER": "Invoice number 2Y7M7d-142",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19123314\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 741.97  $",
+      "TAX": "TAX:VAT (3.31%):  24.52 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 730.06 $"
+    }
+  },
+  {
+    "image": "Template44_Instance163.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Jun-2014",
+      "NUMBER": "INVOICE # 8613-390",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18393617\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1119.18  $",
+      "TAX": "TAX:VAT (5.38%):  60.25 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1139.70 $"
+    }
+  },
+  {
+    "image": "Template44_Instance147.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Sep-2000",
+      "NUMBER": "INVOICE ID INV/06-38/456",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15825992\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 251.51  USD",
+      "TAX": "TAX:VAT (6.57%):  16.52 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 263.58 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance197.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Aug-2007",
+      "NUMBER": "Invoice number INV/16-43/964",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13342867\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 605.18  USD",
+      "TAX": "TAX:VAT (6.35%):  38.41 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 618.48 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance66.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Jul-2017",
+      "NUMBER": "INVOICE # INV/46-28/757",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15395061\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 569.85  EUR",
+      "TAX": "TAX:VAT (4.45%):  25.34 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 578.78 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance44.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Apr-2001",
+      "NUMBER": "INVOICE ID 9716-447",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18641382\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 558.37  USD",
+      "TAX": "TAX:VAT (4.42%):  24.66 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 571.70 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance13.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jun-2003",
+      "NUMBER": "INVOICE # INV/38-66/839",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12725520\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1080.41  EUR",
+      "TAX": "TAX:VAT (6.24%):  67.41 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1106.55 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance68.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Jan-2013",
+      "NUMBER": "INVOICE # INV/54-09/284",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13173689\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1027.80  EUR",
+      "TAX": "TAX:VAT (4.64%):  47.70 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1027.50 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance109.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Aug-2013",
+      "NUMBER": "Invoice number INV59976821",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18695032\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 866.60  $",
+      "TAX": "TAX:VAT (5.12%):  44.41 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 898.01 $"
+    }
+  },
+  {
+    "image": "Template44_Instance79.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Jan-2018",
+      "NUMBER": "INVOICE ID 7Y5M9d-852",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18968582\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 843.56  USD",
+      "TAX": "TAX:VAT (6.80%):  57.40 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 888.05 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance193.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Jul-2001",
+      "NUMBER": "INVOICE # INV/13-96/091",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10885395\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 438.10  $",
+      "TAX": "TAX:VAT (3.34%):  14.63 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 436.48 $"
+    }
+  },
+  {
+    "image": "Template44_Instance17.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Jun-2014",
+      "NUMBER": "Invoice number INV39587516",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19806682\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 891.74  USD",
+      "TAX": "TAX:VAT (4.75%):  42.40 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 917.11 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance166.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Jun-2001",
+      "NUMBER": "INVOICE ID INV71326679",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10347663\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 532.89  $",
+      "TAX": "TAX:VAT (4.03%):  21.47 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 527.98 $"
+    }
+  },
+  {
+    "image": "Template44_Instance189.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Aug-2002",
+      "NUMBER": "Invoice number INV03413606",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16896302\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 699.98  EUR",
+      "TAX": "TAX:VAT (6.61%):  46.24 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 738.38 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance158.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Jun-1997",
+      "NUMBER": "INVOICE ID INV/31-27/548",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17255838\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 834.52  USD",
+      "TAX": "TAX:VAT (6.22%):  51.90 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 871.73 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance18.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 27-Jun-2001",
+      "NUMBER": "Invoice number INV27580441",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10239467\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 197.39  $",
+      "TAX": "TAX:VAT (3.44%):  6.79 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 200.65 $"
+    }
+  },
+  {
+    "image": "Template44_Instance152.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-May-2020",
+      "NUMBER": "INVOICE ID INV57132976",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19625007\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 492.05  $",
+      "TAX": "TAX:VAT (6.87%):  33.81 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 511.30 $"
+    }
+  },
+  {
+    "image": "Template44_Instance101.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Dec-2015",
+      "NUMBER": "INVOICE # 8Y4M3d-863",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13724376\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 429.47  EUR",
+      "TAX": "TAX:VAT (5.71%):  24.53 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 447.21 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance111.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Oct-1999",
+      "NUMBER": "INVOICE ID INV61839955",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16205078\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 156.17  USD",
+      "TAX": "TAX:VAT (3.51%):  5.48 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 158.93 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance120.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Nov-1999",
+      "NUMBER": "INVOICE ID 5Y7M8d-655",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16587928\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 475.55  $",
+      "TAX": "TAX:VAT (4.04%):  19.23 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 477.28 $"
+    }
+  },
+  {
+    "image": "Template44_Instance195.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 27-Sep-2014",
+      "NUMBER": "INVOICE # INV/92-45/213",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15678495\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 843.80  USD",
+      "TAX": "TAX:VAT (3.45%):  29.15 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 843.25 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance86.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Apr-2020",
+      "NUMBER": "Invoice number INV52734933",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17765270\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 155.50  $",
+      "TAX": "TAX:VAT (6.63%):  10.31 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 161.46 $"
+    }
+  },
+  {
+    "image": "Template44_Instance76.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Mar-2013",
+      "NUMBER": "INVOICE # 2Y4M6d-023",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13305153\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 178.51  $",
+      "TAX": "TAX:VAT (3.83%):  6.83 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 176.52 $"
+    }
+  },
+  {
+    "image": "Template44_Instance24.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Mar-1996",
+      "NUMBER": "INVOICE ID INV/56-41/430",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13487027\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 794.82  $",
+      "TAX": "TAX:VAT (6.07%):  48.26 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 828.85 $"
+    }
+  },
+  {
+    "image": "Template44_Instance87.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Dec-2017",
+      "NUMBER": "Invoice number INV/24-09/802",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15902246\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1182.31  EUR",
+      "TAX": "TAX:VAT (4.90%):  57.88 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1218.91 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance102.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Feb-2018",
+      "NUMBER": "INVOICE ID INV/33-24/567",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16845658\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 99.40  USD",
+      "TAX": "TAX:VAT (5.59%):  5.56 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 102.45 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance75.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Apr-1995",
+      "NUMBER": "INVOICE # INV/78-48/993",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10458817\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 657.82  $",
+      "TAX": "TAX:VAT (5.22%):  34.32 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 677.34 $"
+    }
+  },
+  {
+    "image": "Template44_Instance177.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Mar-2009",
+      "NUMBER": "INVOICE # 7383-565",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12163692\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1528.86  USD",
+      "TAX": "TAX:VAT (4.57%):  69.88 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1544.92 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance146.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Oct-2000",
+      "NUMBER": "INVOICE ID 6498-613",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12446535\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 530.10  $",
+      "TAX": "TAX:VAT (3.45%):  18.31 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 541.52 $"
+    }
+  },
+  {
+    "image": "Template44_Instance45.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-Mar-2002",
+      "NUMBER": "Invoice number 7Y5M4d-740",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12166584\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1404.09  EUR",
+      "TAX": "TAX:VAT (6.24%):  87.63 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1444.68 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance104.jpg",
+    "ground_truth": {
+      "DATE": "Date: 29-May-1993",
+      "NUMBER": "INVOICE # 1Y2M5d-273",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13207271\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 514.56  $",
+      "TAX": "TAX:VAT (4.99%):  25.69 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 517.82 $"
+    }
+  },
+  {
+    "image": "Template44_Instance153.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Feb-2021",
+      "NUMBER": "INVOICE # INV55954066",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18295452\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 419.18  EUR",
+      "TAX": "TAX:VAT (6.79%):  28.44 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 435.92 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance165.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Aug-1993",
+      "NUMBER": "INVOICE ID INV84922971",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14522061\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 788.23  USD",
+      "TAX": "TAX:VAT (3.78%):  29.78 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 795.55 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance128.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Oct-2012",
+      "NUMBER": "INVOICE # INV72259824",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17762105\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 639.45  EUR",
+      "TAX": "TAX:VAT (4.64%):  29.68 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 647.77 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance8.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Nov-2004",
+      "NUMBER": "INVOICE # 9Y1M7d-932",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16106105\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 529.08  $",
+      "TAX": "TAX:VAT (5.52%):  29.20 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 539.60 $"
+    }
+  },
+  {
+    "image": "Template44_Instance3.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Aug-1999",
+      "NUMBER": "Invoice number 0306-902",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12908894\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 466.84  EUR",
+      "TAX": "TAX:VAT (3.26%):  15.24 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 468.73 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance169.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Oct-1998",
+      "NUMBER": "INVOICE # INV51696457",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17914911\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 534.96  $",
+      "TAX": "TAX:VAT (5.28%):  28.23 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 555.59 $"
+    }
+  },
+  {
+    "image": "Template44_Instance62.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Apr-1998",
+      "NUMBER": "INVOICE ID 1Y8M1d-435",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16166066\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 617.33  EUR",
+      "TAX": "TAX:VAT (3.08%):  19.04 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 615.50 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance105.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Jul-2002",
+      "NUMBER": "INVOICE ID INV/20-40/060",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11213507\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 514.92  USD",
+      "TAX": "TAX:VAT (5.78%):  29.74 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 532.71 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance5.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 26-May-2020",
+      "NUMBER": "Invoice number 6Y9M8d-552",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15343823\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 809.74  USD",
+      "TAX": "TAX:VAT (3.91%):  31.65 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 825.68 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance181.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Oct-2008",
+      "NUMBER": "Invoice number 6402-118",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14991462\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 319.25  USD",
+      "TAX": "TAX:VAT (4.83%):  15.41 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 328.40 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance74.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 29-Jul-2014",
+      "NUMBER": "INVOICE ID 3Y9M3d-305",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11318864\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 306.64  $",
+      "TAX": "TAX:VAT (3.11%):  9.53 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 305.71 $"
+    }
+  },
+  {
+    "image": "Template44_Instance59.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Jan-2015",
+      "NUMBER": "Invoice number INV33437081",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18637161\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 571.75  EUR",
+      "TAX": "TAX:VAT (5.12%):  29.29 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 580.29 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance9.jpg",
+    "ground_truth": {
+      "DATE": "Date: 31-Oct-1993",
+      "NUMBER": "INVOICE ID INV/66-82/505",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10002078\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 432.96  EUR",
+      "TAX": "TAX:VAT (6.41%):  27.75 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 448.15 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance77.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Jun-1999",
+      "NUMBER": "INVOICE ID 9Y2M2d-107",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12409357\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 877.79  USD",
+      "TAX": "TAX:VAT (3.03%):  26.61 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 872.89 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance73.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Oct-2003",
+      "NUMBER": "INVOICE ID 4Y9M7d-595",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10726103\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 193.25  $",
+      "TAX": "TAX:VAT (6.74%):  13.02 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 197.98 $"
+    }
+  },
+  {
+    "image": "Template44_Instance180.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Oct-1997",
+      "NUMBER": "INVOICE # 7Y9M9d-739",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18191846\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1053.04  EUR",
+      "TAX": "TAX:VAT (5.87%):  61.79 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1103.88 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance194.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Nov-2015",
+      "NUMBER": "INVOICE ID INV27884995",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15107416\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 989.06  $",
+      "TAX": "TAX:VAT (5.38%):  53.22 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1015.97 $"
+    }
+  },
+  {
+    "image": "Template44_Instance192.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Nov-2009",
+      "NUMBER": "INVOICE # INV45516694",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15320718\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 344.59  USD",
+      "TAX": "TAX:VAT (3.32%):  11.45 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 350.87 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance164.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Feb-2006",
+      "NUMBER": "Invoice number 0565-251",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19654075\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 958.40  USD",
+      "TAX": "TAX:VAT (6.85%):  65.66 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 986.20 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance50.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Aug-2005",
+      "NUMBER": "INVOICE # INV16822997",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16698944\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 512.90  USD",
+      "TAX": "TAX:VAT (3.66%):  18.75 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 517.29 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance83.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Feb-1998",
+      "NUMBER": "Invoice number 2Y6M6d-174",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  19618165\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 308.90  USD",
+      "TAX": "TAX:VAT (3.05%):  9.42 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 314.55 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance31.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Mar-1995",
+      "NUMBER": "Invoice number 2Y9M9d-339",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13228801\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 490.54  EUR",
+      "TAX": "TAX:VAT (6.70%):  32.85 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 501.32 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance69.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Feb-1994",
+      "NUMBER": "INVOICE ID INV/09-25/683",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17971944\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 741.31  USD",
+      "TAX": "TAX:VAT (6.81%):  50.48 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 767.70 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance196.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Jul-2007",
+      "NUMBER": "Invoice number 2733-238",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15333149\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 320.34  EUR",
+      "TAX": "TAX:VAT (4.36%):  13.95 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 329.74 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance117.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Aug-2011",
+      "NUMBER": "Invoice number 4Y9M2d-295",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13127807\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 371.52  EUR",
+      "TAX": "TAX:VAT (5.53%):  20.55 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 388.28 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance107.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-Dec-1995",
+      "NUMBER": "INVOICE ID 3Y9M9d-921",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14242028\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 472.62  USD",
+      "TAX": "TAX:VAT (5.17%):  24.43 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 482.12 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance149.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Feb-2020",
+      "NUMBER": "Invoice number 2624-065",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18237419\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 878.16  EUR",
+      "TAX": "TAX:VAT (5.36%):  47.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 911.39 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance95.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Jul-1997",
+      "NUMBER": "Invoice number INV/78-13/677",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19917841\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 759.11  $",
+      "TAX": "TAX:VAT (5.30%):  40.26 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 787.45 $"
+    }
+  },
+  {
+    "image": "Template44_Instance99.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Nov-2002",
+      "NUMBER": "Invoice number INV/03-28/254",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13301180\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 325.38  USD",
+      "TAX": "TAX:VAT (4.50%):  14.63 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 327.42 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance53.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Jun-2018",
+      "NUMBER": "INVOICE ID 8Y8M5d-105",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12259354\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 618.02  USD",
+      "TAX": "TAX:VAT (5.95%):  36.79 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 641.83 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance0.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Nov-2008",
+      "NUMBER": "Invoice number INV/31-86/458",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18116809\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 330.61  USD",
+      "TAX": "TAX:VAT (3.62%):  11.98 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 331.05 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance110.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Jul-2018",
+      "NUMBER": "Invoice number INV78985661",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18167013\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 463.56  EUR",
+      "TAX": "TAX:VAT (5.46%):  25.30 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 482.23 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance1.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 03-Jul-2004",
+      "NUMBER": "Invoice number INV/03-79/878",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14471684\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 43.01  USD",
+      "TAX": "TAX:VAT (5.34%):  2.30 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 44.68 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance100.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Feb-2017",
+      "NUMBER": "INVOICE # INV15559194",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15774468\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1356.80  USD",
+      "TAX": "TAX:VAT (3.96%):  53.73 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1395.20 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance123.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Sep-2022",
+      "NUMBER": "Invoice number 3Y5M9d-254",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12112019\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 286.68  USD",
+      "TAX": "TAX:VAT (3.12%):  8.95 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 288.41 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance199.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Mar-2005",
+      "NUMBER": "INVOICE ID INV42641007",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16423425\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 160.61  USD",
+      "TAX": "TAX:VAT (3.75%):  6.03 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 163.27 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance108.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Feb-2005",
+      "NUMBER": "INVOICE ID 9Y7M3d-788",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18204780\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 118.17  $",
+      "TAX": "TAX:VAT (4.65%):  5.50 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 119.49 $"
+    }
+  },
+  {
+    "image": "Template44_Instance179.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Mar-2018",
+      "NUMBER": "Invoice number INV22065855",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12583897\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 409.59  EUR",
+      "TAX": "TAX:VAT (5.02%):  20.58 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 411.90 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance155.jpg",
+    "ground_truth": {
+      "DATE": "Date: 04-Nov-2005",
+      "NUMBER": "Invoice number 6Y7M1d-346",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15548047\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 113.04  EUR",
+      "TAX": "TAX:VAT (4.30%):  4.86 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 113.55 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance90.jpg",
+    "ground_truth": {
+      "DATE": "Date: 10-Aug-2014",
+      "NUMBER": "Invoice number 5Y3M3d-954",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16969070\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 497.64  EUR",
+      "TAX": "TAX:VAT (6.60%):  32.84 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 509.53 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance112.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Jun-2019",
+      "NUMBER": "INVOICE # INV/90-11/444",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19276791\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 840.37  EUR",
+      "TAX": "TAX:VAT (6.97%):  58.57 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 873.31 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance157.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Jun-2009",
+      "NUMBER": "INVOICE # INV30953690",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16611402\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 316.22  EUR",
+      "TAX": "TAX:VAT (4.47%):  14.14 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 319.80 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance127.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Jan-2014",
+      "NUMBER": "INVOICE ID INV/87-47/650",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13440990\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 314.83  USD",
+      "TAX": "TAX:VAT (4.81%):  15.15 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 321.51 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance94.jpg",
+    "ground_truth": {
+      "DATE": "Date: 25-Jul-2012",
+      "NUMBER": "INVOICE ID 6814-518",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18436184\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1170.79  $",
+      "TAX": "TAX:VAT (4.55%):  53.26 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1167.15 $"
+    }
+  },
+  {
+    "image": "Template44_Instance51.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Mar-1996",
+      "NUMBER": "Invoice number 1408-908",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12185917\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 990.80  USD",
+      "TAX": "TAX:VAT (5.60%):  55.50 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1021.03 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance187.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Feb-2011",
+      "NUMBER": "Invoice number 3Y7M2d-278",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15882763\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 279.59  $",
+      "TAX": "TAX:VAT (5.14%):  14.37 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 283.03 $"
+    }
+  },
+  {
+    "image": "Template44_Instance170.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jan-2008",
+      "NUMBER": "Invoice number INV/58-18/840",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17679467\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 634.48  EUR",
+      "TAX": "TAX:VAT (5.79%):  36.72 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 652.36 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance78.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Jun-1995",
+      "NUMBER": "Invoice number 4Y9M1d-003",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15412100\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 594.24  $",
+      "TAX": "TAX:VAT (3.45%):  20.52 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 593.43 $"
+    }
+  },
+  {
+    "image": "Template44_Instance72.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Aug-2010",
+      "NUMBER": "INVOICE ID 1721-878",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18845917\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 216.81  USD",
+      "TAX": "TAX:VAT (3.68%):  7.98 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 214.53 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance182.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Mar-2013",
+      "NUMBER": "INVOICE # INV00458147",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15195118\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1360.53  $",
+      "TAX": "TAX:VAT (3.67%):  49.92 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1370.31 $"
+    }
+  },
+  {
+    "image": "Template44_Instance106.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Jan-1999",
+      "NUMBER": "Invoice number 9Y7M3d-308",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15796299\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 376.66  USD",
+      "TAX": "TAX:VAT (4.80%):  18.07 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 384.03 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance167.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Feb-2006",
+      "NUMBER": "Invoice number 3Y3M4d-870",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17015052\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 367.97  $",
+      "TAX": "TAX:VAT (6.32%):  23.27 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 376.96 $"
+    }
+  },
+  {
+    "image": "Template44_Instance28.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Jan-2023",
+      "NUMBER": "INVOICE # INV91568239",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16914602\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 783.90  $",
+      "TAX": "TAX:VAT (5.22%):  40.88 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 808.32 $"
+    }
+  },
+  {
+    "image": "Template44_Instance118.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Nov-2007",
+      "NUMBER": "INVOICE # 5990-998",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17781533\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 772.32  EUR",
+      "TAX": "TAX:VAT (6.10%):  47.08 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 805.50 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance37.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Feb-2006",
+      "NUMBER": "Invoice number 3012-567",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13160511\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 983.32  USD",
+      "TAX": "TAX:VAT (3.31%):  32.55 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 968.18 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance141.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Apr-1994",
+      "NUMBER": "INVOICE ID INV/82-98/993",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19941958\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 455.83  USD",
+      "TAX": "TAX:VAT (5.86%):  26.71 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 468.55 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance10.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Apr-1993",
+      "NUMBER": "INVOICE ID 9Y9M7d-259",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19024032\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 9.77  USD",
+      "TAX": "TAX:VAT (3.18%):  0.31 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 9.96 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance67.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Oct-2001",
+      "NUMBER": "INVOICE ID 2Y2M4d-002",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15481884\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 661.78  USD",
+      "TAX": "TAX:VAT (5.08%):  33.61 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 679.51 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance88.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Sep-2011",
+      "NUMBER": "INVOICE ID 0306-544",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16576347\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 207.72  EUR",
+      "TAX": "TAX:VAT (4.66%):  9.68 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 212.91 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance135.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Aug-2001",
+      "NUMBER": "INVOICE ID 8779-987",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11863773\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 449.78  USD",
+      "TAX": "TAX:VAT (6.27%):  28.18 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 469.95 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance70.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Oct-2018",
+      "NUMBER": "INVOICE # INV64359921",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10059252\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1088.97  EUR",
+      "TAX": "TAX:VAT (5.89%):  64.14 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1107.48 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance58.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Mar-2006",
+      "NUMBER": "Invoice number 1Y5M8d-700",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13100998\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 248.46  EUR",
+      "TAX": "TAX:VAT (3.86%):  9.58 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 251.60 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance20.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 14-Nov-1993",
+      "NUMBER": "INVOICE # INV/98-40/930",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19375454\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 726.10  $",
+      "TAX": "TAX:VAT (6.45%):  46.81 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 738.13 $"
+    }
+  },
+  {
+    "image": "Template44_Instance46.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Apr-2014",
+      "NUMBER": "INVOICE # 6Y7M8d-847",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18265868\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 969.79  $",
+      "TAX": "TAX:VAT (5.34%):  51.83 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 996.02 $"
+    }
+  },
+  {
+    "image": "Template44_Instance198.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Mar-2012",
+      "NUMBER": "INVOICE ID INV/39-05/461",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15741369\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 881.33  $",
+      "TAX": "TAX:VAT (4.17%):  36.77 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 902.59 $"
+    }
+  },
+  {
+    "image": "Template44_Instance60.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Mar-2010",
+      "NUMBER": "Invoice number 4471-696",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10541464\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 351.58  $",
+      "TAX": "TAX:VAT (6.13%):  21.55 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 366.41 $"
+    }
+  },
+  {
+    "image": "Template44_Instance156.jpg",
+    "ground_truth": {
+      "DATE": "Date: 05-Sep-2012",
+      "NUMBER": "INVOICE ID 4218-341",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  11354876\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 362.57  USD",
+      "TAX": "TAX:VAT (3.12%):  11.31 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 365.11 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance119.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Dec-2021",
+      "NUMBER": "Invoice number INV84663963",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10692972\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1002.07  $",
+      "TAX": "TAX:VAT (6.88%):  68.96 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1051.59 $"
+    }
+  },
+  {
+    "image": "Template44_Instance11.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Apr-2008",
+      "NUMBER": "INVOICE # 9Y5M3d-797",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14119174\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 603.11  EUR",
+      "TAX": "TAX:VAT (6.04%):  36.44 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 623.99 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance129.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Mar-2020",
+      "NUMBER": "INVOICE ID 6Y1M1d-413",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19942800\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 574.35  USD",
+      "TAX": "TAX:VAT (6.55%):  37.60 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 596.67 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance64.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Dec-2017",
+      "NUMBER": "Invoice number 3Y8M7d-346",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15672016\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 907.92  USD",
+      "TAX": "TAX:VAT (3.89%):  35.31 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 919.44 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance161.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Nov-1996",
+      "NUMBER": "Invoice number INV92656291",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12499251\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 282.94  USD",
+      "TAX": "TAX:VAT (6.84%):  19.36 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 292.60 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance22.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Sep-2021",
+      "NUMBER": "INVOICE # 2Y6M7d-814",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19852641\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 874.06  EUR",
+      "TAX": "TAX:VAT (5.76%):  50.34 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 907.01 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance96.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Jul-2007",
+      "NUMBER": "Invoice number 7744-812",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19468738\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 908.94  $",
+      "TAX": "TAX:VAT (5.45%):  49.57 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 926.33 $"
+    }
+  },
+  {
+    "image": "Template44_Instance175.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Oct-2000",
+      "NUMBER": "Invoice number 3968-378",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17688186\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 327.13  $",
+      "TAX": "TAX:VAT (5.38%):  17.60 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 335.31 $"
+    }
+  },
+  {
+    "image": "Template44_Instance85.jpg",
+    "ground_truth": {
+      "DATE": "Date: 31-Oct-1997",
+      "NUMBER": "Invoice number INV48354117",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10901952\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 569.91  $",
+      "TAX": "TAX:VAT (6.44%):  36.69 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 582.89 $"
+    }
+  },
+  {
+    "image": "Template44_Instance168.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Oct-1994",
+      "NUMBER": "INVOICE # 2Y6M5d-013",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15058630\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 486.83  $",
+      "TAX": "TAX:VAT (5.10%):  24.81 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 490.95 $"
+    }
+  },
+  {
+    "image": "Template44_Instance171.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Mar-1995",
+      "NUMBER": "INVOICE ID INV91640741",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15680241\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1177.42  $",
+      "TAX": "TAX:VAT (6.65%):  78.30 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1214.98 $"
+    }
+  },
+  {
+    "image": "Template44_Instance61.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 29-Apr-1998",
+      "NUMBER": "Invoice number 7437-895",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19605293\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 464.76  EUR",
+      "TAX": "TAX:VAT (6.21%):  28.86 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 483.95 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance63.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Feb-2020",
+      "NUMBER": "INVOICE ID 9Y3M2d-830",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11821667\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 80.17  EUR",
+      "TAX": "TAX:VAT (3.30%):  2.64 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 80.44 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance142.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Aug-2005",
+      "NUMBER": "INVOICE ID 6079-609",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17905974\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 454.02  $",
+      "TAX": "TAX:VAT (5.96%):  27.07 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 470.74 $"
+    }
+  },
+  {
+    "image": "Template44_Instance191.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Apr-2019",
+      "NUMBER": "INVOICE # 6579-487",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17559054\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 837.02  $",
+      "TAX": "TAX:VAT (4.02%):  33.67 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 853.03 $"
+    }
+  },
+  {
+    "image": "Template44_Instance52.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Aug-2007",
+      "NUMBER": "Invoice number 6Y1M4d-801",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  19107654\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 206.98  EUR",
+      "TAX": "TAX:VAT (3.42%):  7.07 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 206.00 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance130.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Oct-1996",
+      "NUMBER": "Invoice number INV/26-02/304",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13776549\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 514.76  $",
+      "TAX": "TAX:VAT (3.52%):  18.14 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 509.94 $"
+    }
+  },
+  {
+    "image": "Template44_Instance35.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Jan-2013",
+      "NUMBER": "INVOICE # INV65875361",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  19304492\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 704.66  $",
+      "TAX": "TAX:VAT (4.61%):  32.51 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 723.78 $"
+    }
+  },
+  {
+    "image": "Template44_Instance188.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Sep-1993",
+      "NUMBER": "Invoice number INV/70-60/480",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13351223\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 247.72  EUR",
+      "TAX": "TAX:VAT (6.33%):  15.68 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 258.59 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance71.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-Jul-2006",
+      "NUMBER": "INVOICE ID 4008-815",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11463714\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 309.72  $",
+      "TAX": "TAX:VAT (3.34%):  10.36 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 307.32 $"
+    }
+  },
+  {
+    "image": "Template44_Instance7.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Sep-2001",
+      "NUMBER": "Invoice number 3239-053",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14154669\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1483.97  EUR",
+      "TAX": "TAX:VAT (3.49%):  51.73 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1464.32 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance34.jpg",
+    "ground_truth": {
+      "DATE": "Date: 05-Apr-2002",
+      "NUMBER": "INVOICE ID 9864-373",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19034211\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 71.57  EUR",
+      "TAX": "TAX:VAT (3.02%):  2.16 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 70.62 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance54.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Feb-2008",
+      "NUMBER": "INVOICE ID INV/80-90/743",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16729804\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 163.79  EUR",
+      "TAX": "TAX:VAT (5.54%):  9.08 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 165.89 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance138.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Apr-2003",
+      "NUMBER": "INVOICE # INV93882877",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  19575089\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 813.23  $",
+      "TAX": "TAX:VAT (3.44%):  28.01 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 825.38 $"
+    }
+  },
+  {
+    "image": "Template44_Instance185.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Jun-2014",
+      "NUMBER": "Invoice number 5974-631",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13808872\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 579.58  $",
+      "TAX": "TAX:VAT (5.63%):  32.62 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 586.64 $"
+    }
+  },
+  {
+    "image": "Template44_Instance150.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Jun-1996",
+      "NUMBER": "INVOICE ID 4595-802",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10708489\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 179.45  EUR",
+      "TAX": "TAX:VAT (3.56%):  6.39 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 177.21 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance160.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Jun-1994",
+      "NUMBER": "INVOICE # INV/06-49/431",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14837891\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 552.85  USD",
+      "TAX": "TAX:VAT (4.90%):  27.07 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 564.99 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance148.jpg",
+    "ground_truth": {
+      "DATE": "Date: 04-Mar-2012",
+      "NUMBER": "INVOICE ID INV60349769",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12874591\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 722.87  $",
+      "TAX": "TAX:VAT (6.96%):  50.34 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 741.19 $"
+    }
+  },
+  {
+    "image": "Template44_Instance32.jpg",
+    "ground_truth": {
+      "DATE": "Date: 01-Apr-2007",
+      "NUMBER": "Invoice number 6684-304",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14876629\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 373.85  USD",
+      "TAX": "TAX:VAT (6.61%):  24.70 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 393.35 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance131.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Feb-2014",
+      "NUMBER": "Invoice number INV/73-68/404",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  18137813\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1325.75  $",
+      "TAX": "TAX:VAT (6.52%):  86.48 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1368.22 $"
+    }
+  },
+  {
+    "image": "Template44_Instance98.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Jun-1993",
+      "NUMBER": "INVOICE ID INV53119442",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13494738\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 372.10  $",
+      "TAX": "TAX:VAT (4.65%):  17.30 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 374.14 $"
+    }
+  },
+  {
+    "image": "Template44_Instance134.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Dec-2016",
+      "NUMBER": "INVOICE ID INV/84-08/411",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18162713\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 489.33  USD",
+      "TAX": "TAX:VAT (5.01%):  24.52 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 494.03 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance49.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jun-2011",
+      "NUMBER": "Invoice number INV53849903",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14068187\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 821.20  EUR",
+      "TAX": "TAX:VAT (3.61%):  29.69 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 839.15 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance115.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-Sep-1994",
+      "NUMBER": "INVOICE # INV/24-83/918",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18490150\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 242.34  USD",
+      "TAX": "TAX:VAT (6.55%):  15.88 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 247.68 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance57.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Mar-2001",
+      "NUMBER": "Invoice number 7525-876",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13922320\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 767.47  USD",
+      "TAX": "TAX:VAT (5.24%):  40.18 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 783.55 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance15.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Dec-2004",
+      "NUMBER": "Invoice number 9Y6M4d-984",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12343911\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 676.24  USD",
+      "TAX": "TAX:VAT (6.16%):  41.65 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 703.22 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance136.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Mar-2010",
+      "NUMBER": "Invoice number 6114-723",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11141271\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 563.31  EUR",
+      "TAX": "TAX:VAT (5.09%):  28.66 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 564.14 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance84.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Oct-2006",
+      "NUMBER": "INVOICE ID 7547-287",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19462022\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 290.82  USD",
+      "TAX": "TAX:VAT (5.16%):  15.00 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 294.04 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance97.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Mar-2018",
+      "NUMBER": "INVOICE # INV12939414",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12281407\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 438.58  $",
+      "TAX": "TAX:VAT (6.09%):  26.72 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 450.30 $"
+    }
+  },
+  {
+    "image": "Template44_Instance91.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Oct-2012",
+      "NUMBER": "Invoice number INV74024547",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12874810\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1211.96  USD",
+      "TAX": "TAX:VAT (4.75%):  57.61 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1236.60 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance56.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Aug-2014",
+      "NUMBER": "INVOICE ID 2Y1M7d-422",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19260481\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 1233.88  USD",
+      "TAX": "TAX:VAT (6.97%):  86.00 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1293.47 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance33.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Nov-2002",
+      "NUMBER": "Invoice number 8832-542",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13975863\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 577.23  EUR",
+      "TAX": "TAX:VAT (3.73%):  21.54 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 575.57 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance25.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 26-Dec-1999",
+      "NUMBER": "INVOICE ID 0460-402",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14305119\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 173.42  USD",
+      "TAX": "TAX:VAT (5.68%):  9.85 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 180.84 USD"
+    }
+  },
+  {
+    "image": "Template44_Instance14.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Jul-2005",
+      "NUMBER": "Invoice number INV/71-60/515",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14059928\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 412.22  EUR",
+      "TAX": "TAX:VAT (6.86%):  28.29 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 431.73 EUR"
+    }
+  },
+  {
+    "image": "Template44_Instance2.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Feb-2004",
+      "NUMBER": "Invoice number 7Y1M1d-019",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18593478\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:087 Michael Lodge\nKristiborough, IN 63843 US",
+      "SELLER_EMAIL": "Email:andrewcowan@example.com",
+      "SELLER_NAME": "Knight, Huffman and Moore",
+      "SUB_TOTAL": "SUB_TOTAL : 519.17  USD",
+      "TAX": "TAX:VAT (3.07%):  15.94 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 514.91 USD"
+    }
+  }
+]

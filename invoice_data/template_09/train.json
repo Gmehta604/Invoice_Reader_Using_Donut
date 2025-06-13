@@ -1,0 +1,2242 @@
+[
+  {
+    "image": "Template9_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Curtis\n641 Kyle Pass Apt. 978\nBarnesborough, MD 45772 US\nTel:+(354)919-2293\nEmail:melissa86@example.org\nSite:https://conner.net/",
+      "DATE": "Date: 06-Jul-2017",
+      "NUMBER": "INVOICE ID 1359-802",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 302.79 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and t-\nwo point seven nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kim Wilson\n185 Tucker Light\nPerezview, OR 96468 US\nTel:+(752)270-6815\nEmail:sarah12@example.org\nSite:http://miller-johnson.com/",
+      "DATE": "Date: 06-Mar-2005",
+      "NUMBER": "INVOICE ID INV/74-81/819",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1058.07 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and fifty-\n-eight point zero seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alexandria Gallegos\n739 Aaron Grove\nTeresahaven, DC 75528 US\nTel:+(405)066-0891\nEmail:jonathoncoffey@example.org\nSite:https://www.davis.org/",
+      "DATE": "Invoice Date: 08-Dec-1993",
+      "NUMBER": "INVOICE # INV54881918",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 443.83 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and forty--\nthree point eight three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nancy Cunningham\n62803 Sarah Lights Apt. 043\nLake Codyberg, DC 04994 US\nTel:+(332)779-7680\nEmail:barbara59@example.com\nSite:https://www.jennings.com/",
+      "DATE": "Invoice Date: 30-Aug-2018",
+      "NUMBER": "Invoice number INV/19-94/221",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 289.92 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\ny-nine point nine two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Aaron Michael\n881 Sarah Shoals\nLake Catherine, DC 26452 US\nTel:+(058)539-6009\nEmail:james12@example.net\nSite:https://casey.com/",
+      "DATE": "Date: 10-Nov-2021",
+      "NUMBER": "INVOICE # INV/53-63/883",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 777.85 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sevent-\ny-seven point eight five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Sanders\n00174 Eric Stravenue Suite 968\nHessport, PR 56166 US\nTel:+(106)457-9363\nEmail:pottszachary@example.net\nSite:http://miller.org/",
+      "DATE": "Date: 17-Oct-2009",
+      "NUMBER": "Invoice number 6Y9M3d-090",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 423.36 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and twent-\ny-three point three six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joshua Munoz\n130 Kemp Knolls Apt. 810\nLisaport, FM 38079 US\nTel:+(705)029-5937\nEmail:wendybrowning@example.org\nSite:http://www.mcdaniel.net/",
+      "DATE": "Invoice Date: 10-Aug-2002",
+      "NUMBER": "INVOICE ID 9Y6M4d-401",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 674.61 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and seven-\nty-four point six one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jacob George\n875 Barbara Heights\nBallton, MO 05596 US\nTel:+(985)790-2234\nEmail:lopezlindsay@example.org\nSite:https://rodgers-lopez.info/",
+      "DATE": "Invoice Date: 10-Oct-2011",
+      "NUMBER": "INVOICE # INV49357419",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 896.89 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nine-\nty-six point eight nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelly Mills\n7814 Sara Highway\nHeathertown, AK 82389 US\nTel:+(270)964-8495\nEmail:longrichard@example.net\nSite:http://www.campbell.com/",
+      "DATE": "Invoice Date: 22-Nov-2002",
+      "NUMBER": "INVOICE ID INV91188279",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 881.82 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and eigh-\nty-one point eight two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Theresa Jackson\n2524 Burke Estate Apt. 165\nSouth Michelefort, WI 66499 US\nTel:+(692)598-6071\nEmail:richardpeterson@example.net\nSite:https://www.smith.com/",
+      "DATE": "Invoice Date: 15-Jan-1994",
+      "NUMBER": "INVOICE # 9Y2M5d-678",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 841.67 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and for-\nty-one point six seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Raven Garcia\n186 Watson Junction Suite 063\nTylerfurt, AR 44759 US\nTel:+(376)874-1014\nEmail:tanyacrawford@example.com\nSite:http://bates-scott.com/",
+      "DATE": "Invoice Date: 17-Dec-2020",
+      "NUMBER": "INVOICE # 2Y8M5d-200",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 128.41 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and twent-\ny-eight point four one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Fischer\n1918 Timothy Cliff Suite 377\nSouth Robertport, VT 98093 US\nTel:+(902)778-2882\nEmail:wendyconner@example.org\nSite:https://www.williams-arnold.com/",
+      "DATE": "Invoice Date: 20-Feb-2002",
+      "NUMBER": "Invoice number 8Y8M1d-054",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 252.00 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred -\nand fifty-two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Walker\n9325 Angela Rest\nEast Christopherberg, WY 10638 US\nTel:+(531)858-3269\nEmail:kristincortez@example.com\nSite:http://young.com/",
+      "DATE": "Date: 25-Jun-2001",
+      "NUMBER": "Invoice number INV/79-80/930",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 530.81 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and th-\nirty point eight one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Denise Cervantes\n832 Carrie Station\nMorrisonburgh, GA 01036 US\nTel:+(800)285-9514\nEmail:sierra73@example.com\nSite:https://buck-moore.com/",
+      "DATE": "Invoice Date: 18-Aug-2000",
+      "NUMBER": "INVOICE ID INV/80-69/265",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 679.78 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and seventy-\n-nine point seven eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Steven White\n39655 Johnson Valleys\nLaurenburgh, PA 63517 US\nTel:+(033)163-4499\nEmail:princelance@example.org\nSite:https://neal.net/",
+      "DATE": "Date: 11-Feb-1996",
+      "NUMBER": "INVOICE # INV/13-43/270",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 844.29 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and for-\nty-four point two nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Angela Cross\n63329 Shepard Neck\nWardville, IA 82894 US\nTel:+(509)532-8588\nEmail:edwardbates@example.com\nSite:http://www.osborn-khan.com/",
+      "DATE": "Date: 17-Jan-2003",
+      "NUMBER": "INVOICE # INV/02-35/398",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 91.15 $",
+      "TOTAL_WORDS": "Total in words:  ninety-one p-\noint one five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance170.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alan Poole\n515 Suzanne Dam Suite 983\nBrittanyside, OH 05404 US\nTel:+(141)371-7288\nEmail:martinezanna@example.com\nSite:https://reilly-howell.biz/",
+      "DATE": "Invoice Date: 06-Jun-2012",
+      "NUMBER": "INVOICE # INV/73-81/333",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 498.02 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-eight point zero two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Pamela Mullins\n450 Kenneth Radial Apt. 300\nAndrewmouth, MD 89764 US\nTel:+(807)489-4866\nEmail:elizabeth37@example.org\nSite:https://www.black-andrade.net/",
+      "DATE": "Invoice Date: 25-Oct-1998",
+      "NUMBER": "INVOICE # 6Y2M2d-475",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 603.62 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and t-\nhree point six two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mason Smith\n3617 Lucas Stream\nCarmenfurt, LA 67204 US\nTel:+(777)110-9993\nEmail:cartermary@example.org\nSite:http://www.clark.com/",
+      "DATE": "Invoice Date: 03-Apr-2012",
+      "NUMBER": "INVOICE # INV59958838",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 389.01 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-nine point zero one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cody Anderson\n639 Rebecca Village Suite 179\nNew Danielleberg, MH 68148 US\nTel:+(639)032-4066\nEmail:ericmurillo@example.net\nSite:http://scott-freeman.net/",
+      "DATE": "Invoice Date: 07-Oct-2014",
+      "NUMBER": "INVOICE ID 5Y7M7d-956",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 113.29 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and thi-\nrteen point two nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mr. Aaron Flores MD\n173 Owen Radial\nGilesfort, FM 15228 US\nTel:+(661)563-1042\nEmail:tstevens@example.com\nSite:https://lang.net/",
+      "DATE": "Date: 24-Dec-1999",
+      "NUMBER": "INVOICE # INV39171802",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 945.35 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and forty-\n-five point three five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alexa Herring\n361 Willis Points\nNew Gregoryview, ND 23306 US\nTel:+(063)527-7160\nEmail:marquezkelsey@example.org\nSite:https://warren-jimenez.info/",
+      "DATE": "Date: 10-Sep-2005",
+      "NUMBER": "INVOICE ID 6Y8M6d-681",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 381.08 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and eigh-\nty-one point zero eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jeremy Zhang\n19608 Peterson Mountain\nAlanland, NH 25201 US\nTel:+(335)470-9744\nEmail:williamsjulie@example.net\nSite:https://www.scott-newman.com/",
+      "DATE": "Date: 09-Oct-1993",
+      "NUMBER": "INVOICE # 2Y5M4d-247",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 509.47 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and ni-\nne point four seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brittany Christian\n43007 Mary Inlet Suite 831\nWest Michael, MO 02672 US\nTel:+(340)979-7397\nEmail:colonsharon@example.com\nSite:http://www.young-kemp.com/",
+      "DATE": "Invoice Date: 28-Feb-2007",
+      "NUMBER": "INVOICE # INV/99-05/097",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 851.83 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fift-\ny-one point eight three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jacob Rose\n86562 Keller Vista Apt. 801\nTanyatown, OH 88210 US\nTel:+(655)756-6921\nEmail:lucasmelissa@example.org\nSite:https://www.walls-mahoney.com/",
+      "DATE": "Date: 31-Aug-1998",
+      "NUMBER": "INVOICE ID INV22676918",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1231.02 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred a-\nnd thirty-one point zero two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sandra Cantu\n222 Mcbride Path\nNew Douglas, PW 33009 US\nTel:+(394)249-9908\nEmail:kimford@example.com\nSite:https://www.jones.com/",
+      "DATE": "Invoice Date: 13-Sep-2008",
+      "NUMBER": "INVOICE ID INV99998099",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 433.42 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-three point four two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brittney Rivera\n4249 Christopher Camp\nEast Jeffrey, FM 55580 US\nTel:+(416)904-8128\nEmail:bobby76@example.com\nSite:http://www.chapman-delacruz.com/",
+      "DATE": "Date: 12-Apr-2017",
+      "NUMBER": "INVOICE # INV39546969",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 692.08 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-two point zero eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Davidson\n15316 Austin Corner Suite 378\nValdezview, CA 83717 US\nTel:+(453)168-3415\nEmail:whitney01@example.org\nSite:https://baker.net/",
+      "DATE": "Invoice Date: 14-Jul-2006",
+      "NUMBER": "Invoice number 3292-801",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 419.39 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and nine-\nteen point three nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tammy Winters\n0837 Anthony Course\nMichaelport, MT 59961 US\nTel:+(570)833-7020\nEmail:roy84@example.com\nSite:https://www.hall.com/",
+      "DATE": "Invoice Date: 18-Jul-2020",
+      "NUMBER": "INVOICE # 0880-596",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 787.93 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eight-\ny-seven point nine three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sheila Russell\n31658 Morton Street\nPort Debramouth, PR 92809 US\nTel:+(209)273-3777\nEmail:thomasvincent@example.net\nSite:https://bowers.com/",
+      "DATE": "Date: 10-Aug-2008",
+      "NUMBER": "Invoice number INV/95-18/047",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 894.01 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nine-\nty-four point zero one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mark Owens\n870 Jessica Overpass Suite 054\nLake Cathybury, ME 14799 US\nTel:+(257)566-0901\nEmail:twhite@example.net\nSite:https://perez.com/",
+      "DATE": "Date: 21-Apr-2000",
+      "NUMBER": "INVOICE # INV/96-76/227",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 815.16 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and f-\nifteen point one six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kristi Shaw\n5169 Lori Track Suite 214\nNew Briannamouth, WA 90837 US\nTel:+(965)888-4001\nEmail:brian66@example.net\nSite:http://www.palmer.com/",
+      "DATE": "Date: 25-Jan-2018",
+      "NUMBER": "INVOICE ID 1Y8M7d-634",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 457.40 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and fi-\nfty-seven point four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Lewis\n72743 Morris Brooks\nNew Timothyberg, RI 88943 US\nTel:+(647)649-5421\nEmail:angelagreene@example.org\nSite:https://montoya.biz/",
+      "DATE": "Invoice Date: 15-Mar-2015",
+      "NUMBER": "INVOICE ID 6Y9M5d-001",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 567.61 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-seven point six one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tyler Russell\n063 Jacob Courts\nMyersmouth, SD 99540 US\nTel:+(571)508-8000\nEmail:anthonymcclain@example.org\nSite:https://russo.biz/",
+      "DATE": "Invoice Date: 20-Oct-2020",
+      "NUMBER": "INVOICE # INV36664484",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 248.01 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and forty-\n-eight point zero one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Clayton Hoffman\n736 Christian Garden Apt. 274\nNew James, GU 41653 US\nTel:+(772)253-5640\nEmail:jamie18@example.net\nSite:http://www.reyes-cisneros.com/",
+      "DATE": "Invoice Date: 02-Apr-1996",
+      "NUMBER": "INVOICE ID INV89468168",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 188.75 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and eighty-\n-eight point seven five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diane Wolf\n75830 Wilson Flats Apt. 968\nNorth Williamfurt, WV 71660 US\nTel:+(614)161-5468\nEmail:pamelawilliams@example.org\nSite:https://bowman.com/",
+      "DATE": "Invoice Date: 31-Jan-2020",
+      "NUMBER": "Invoice number INV40270075",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 899.72 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nine-\nty-nine point seven two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Phillips\n99711 Sarah Port\nWest Michellebury, MI 68362 US\nTel:+(420)553-3106\nEmail:perrysmith@example.org\nSite:http://www.ramirez.com/",
+      "DATE": "Invoice Date: 17-Jul-2018",
+      "NUMBER": "Invoice number 5268-020",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 901.10 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred an-\nd one point one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paul Franco\n47962 James Way\nLeonardmouth, FM 96036 US\nTel:+(883)543-5129\nEmail:jamie50@example.org\nSite:https://www.elliott.com/",
+      "DATE": "Invoice Date: 06-Mar-2007",
+      "NUMBER": "INVOICE ID 0645-928",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 770.73 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sev-\nenty point seven three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jesse Gordon\n15018 James Turnpike Suite 314\nVanessashire, PA 81576 US\nTel:+(274)425-4811\nEmail:mariascott@example.net\nSite:http://crosby.com/",
+      "DATE": "Invoice Date: 24-Oct-2005",
+      "NUMBER": "INVOICE ID 8Y5M1d-310",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 882.72 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and eigh-\nty-two point seven two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sue Thompson\n450 Marshall Plaza\nPort Stevenmouth, AL 39861 US\nTel:+(729)900-7295\nEmail:thomasshields@example.org\nSite:http://www.moon-le.net/",
+      "DATE": "Date: 09-Dec-2008",
+      "NUMBER": "Invoice number INV24429847",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 336.96 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and thi-\nrty-six point nine six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tracey Love\n823 Jesus Circle\nJohnnystad, DE 47983 US\nTel:+(365)727-7360\nEmail:cmartinez@example.net\nSite:http://duncan.biz/",
+      "DATE": "Invoice Date: 11-Sep-2005",
+      "NUMBER": "Invoice number 7Y8M2d-707",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 616.71 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and six-\nteen point seven one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jerry Sullivan\n501 Griffin Tunnel Suite 083\nSouth Karen, PA 43815 US\nTel:+(491)247-1313\nEmail:sherylmelendez@example.net\nSite:https://www.white-morris.com/",
+      "DATE": "Invoice Date: 26-Jun-2012",
+      "NUMBER": "Invoice number INV/98-92/554",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 726.22 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twe-\nnty-six point two two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Darin Clark\n825 Shelby Stream\nWoodston, ND 12048 US\nTel:+(764)577-8083\nEmail:muellerrebecca@example.org\nSite:https://trevino-ford.info/",
+      "DATE": "Invoice Date: 19-Aug-2014",
+      "NUMBER": "INVOICE # INV/48-87/941",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 790.78 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and nin-\nety point seven eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tiffany Baker\n23346 Kelly Manors Apt. 545\nPort Reginald, SC 51484 US\nTel:+(810)359-2293\nEmail:gardnernicholas@example.org\nSite:https://www.ford-wang.biz/",
+      "DATE": "Invoice Date: 05-Feb-2004",
+      "NUMBER": "Invoice number 3Y9M8d-705",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 134.01 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirt-\ny-four point zero one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sophia Combs\n59443 Brianna Light\nSouth Brandon, UT 38535 US\nTel:+(767)261-6519\nEmail:adamsdennis@example.com\nSite:http://www.jensen.com/",
+      "DATE": "Invoice Date: 11-Jan-2011",
+      "NUMBER": "INVOICE # INV34399189",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 982.56 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-two point five six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance84.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Stephens\n5973 Dominique Track Apt. 935\nSmithview, MO 27377 US\nTel:+(314)119-2789\nEmail:alexanderdavid@example.net\nSite:https://buckley.com/",
+      "DATE": "Invoice Date: 04-Jul-2000",
+      "NUMBER": "Invoice number INV84546262",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 960.59 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and si-\nxty point five nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tasha Bryan\n12153 Martha Garden\nTaraside, DC 02926 US\nTel:+(426)867-7471\nEmail:alexis62@example.org\nSite:https://www.henderson-potter.com/",
+      "DATE": "Date: 18-Jun-1994",
+      "NUMBER": "INVOICE # 1Y9M5d-884",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1020.38 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and twe-\nnty point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Buck\n6661 Wesley Manor Suite 515\nSosaberg, NM 38073 US\nTel:+(126)585-7885\nEmail:fhill@example.com\nSite:https://hernandez.com/",
+      "DATE": "Date: 04-Aug-2000",
+      "NUMBER": "Invoice number INV/81-07/620",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 451.21 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and fif-\nty-one point two one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Dominguez\n75907 Moore Roads Suite 913\nNew Patricia, RI 43719 US\nTel:+(488)482-6032\nEmail:zclark@example.org\nSite:https://vincent.com/",
+      "DATE": "Date: 28-Feb-2015",
+      "NUMBER": "Invoice number 7Y2M6d-414",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1014.07 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and four-\nteen point zero seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Barnes\n30556 Davis Bridge Apt. 835\nNicolebury, MH 76268 US\nTel:+(486)784-8849\nEmail:jessemartinez@example.org\nSite:http://howard-obrien.com/",
+      "DATE": "Invoice Date: 27-Mar-2008",
+      "NUMBER": "INVOICE ID 7Y2M2d-282",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 218.38 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and eight-\neen point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Vincent Hernandez\n41222 Jose Grove Suite 531\nStephenmouth, DC 58873 US\nTel:+(716)731-5956\nEmail:christopherroberts@example.org\nSite:https://liu.com/",
+      "DATE": "Date: 09-Sep-2008",
+      "NUMBER": "INVOICE # 9517-029",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 795.53 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and ninet-\ny-five point five three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ashley Miller\n291 Katie Gateway Suite 474\nLeeport, CA 39371 US\nTel:+(942)223-3136\nEmail:kennethphillips@example.com\nSite:http://www.gutierrez.org/",
+      "DATE": "Invoice Date: 13-Apr-2021",
+      "NUMBER": "Invoice number INV68877088",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 903.09 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and th-\nree point zero nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicholas Young\n41289 Jacobs Radial Suite 378\nEthanfort, MO 95039 US\nTel:+(496)070-4405\nEmail:lloydjames@example.org\nSite:https://www.brown.com/",
+      "DATE": "Invoice Date: 17-Oct-1997",
+      "NUMBER": "INVOICE ID 8269-517",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 431.02 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and thir-\nty-one point zero two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Riggs\n057 Fox Key Suite 624\nEast Melissa, GU 66650 US\nTel:+(261)334-8789\nEmail:rclark@example.org\nSite:https://davis.com/",
+      "DATE": "Invoice Date: 01-Feb-2022",
+      "NUMBER": "Invoice number INV45196529",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 778.46 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and seven-\nty-eight point four six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Janet Scott\n08624 Tonya Shores\nStewartland, ME 80603 US\nTel:+(333)169-0715\nEmail:knappcameron@example.com\nSite:http://ellis-howe.com/",
+      "DATE": "Invoice Date: 24-Mar-2001",
+      "NUMBER": "INVOICE # INV/94-10/615",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 809.25 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and -\nnine point two five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mario West\n282 Olsen Shore\nVasquezmouth, RI 66819 US\nTel:+(017)753-1474\nEmail:shannonodonnell@example.org\nSite:https://www.schultz.org/",
+      "DATE": "Invoice Date: 02-Feb-1996",
+      "NUMBER": "Invoice number INV/57-27/723",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 764.34 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-four point three four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Shelby Perkins\n88159 Torres Light Suite 211\nRoyshire, SD 96369 US\nTel:+(924)845-4413\nEmail:kellyrubio@example.com\nSite:http://watson.com/",
+      "DATE": "Invoice Date: 15-Aug-2021",
+      "NUMBER": "Invoice number 7728-087",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 230.43 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and thi-\nrty point four three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mercedes Davis\n53425 Webb Isle\nLake Stephenview, ME 89311 US\nTel:+(738)257-8365\nEmail:nelsonmelissa@example.net\nSite:http://www.arnold.info/",
+      "DATE": "Invoice Date: 15-Nov-1997",
+      "NUMBER": "INVOICE # 8710-314",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 754.77 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fifty-\n-four point seven seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Patricia Alexander\n43363 Michael Rapids\nSouth Kimberly, MA 53078 US\nTel:+(659)680-2491\nEmail:tkennedy@example.org\nSite:https://carter-kerr.com/",
+      "DATE": "Date: 30-Apr-2014",
+      "NUMBER": "INVOICE # INV/79-24/803",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 361.91 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and six-\nty-one point nine one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Curtis Kennedy\n9962 Travis Hollow\nStevenland, NY 80837 US\nTel:+(995)454-6509\nEmail:michaeltaylor@example.org\nSite:https://atkinson-morris.net/",
+      "DATE": "Date: 02-May-2018",
+      "NUMBER": "Invoice number 2Y9M3d-926",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 272.55 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and seven-\nty-two point five five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sean Thompson\n5381 Jasmine Manor Suite 167\nRossstad, AK 20015 US\nTel:+(332)695-2554\nEmail:denise71@example.org\nSite:http://taylor-powell.com/",
+      "DATE": "Date: 09-Jan-2011",
+      "NUMBER": "INVOICE # INV/03-56/144",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1233.32 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, two hundred and-\nthirty-three point three two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carlos Franklin\n58096 Ball Springs\nNorth Jamiemouth, WI 76095 US\nTel:+(080)857-3321\nEmail:karen45@example.net\nSite:http://www.craig.biz/",
+      "DATE": "Invoice Date: 11-Feb-2000",
+      "NUMBER": "INVOICE ID 9970-725",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 597.07 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninety-\n-seven point zero seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bianca Gray\n83455 Bill Road Suite 844\nSouth Robert, VA 12026 US\nTel:+(732)745-2790\nEmail:smithjennifer@example.com\nSite:https://www.forbes.org/",
+      "DATE": "Date: 02-Jun-2019",
+      "NUMBER": "Invoice number INV/55-85/110",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 561.09 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and sixt-\ny-one point zero nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gabriella Meyer\n04046 Brenda Prairie Suite 609\nWest April, UT 20391 US\nTel:+(628)163-9324\nEmail:aaron58@example.net\nSite:http://thomas.biz/",
+      "DATE": "Invoice Date: 05-Dec-1997",
+      "NUMBER": "INVOICE # INV17491952",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 109.17 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and ni-\nne point one seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :April Garcia\n604 Johnson Field Apt. 429\nRobinsonville, OR 62828 US\nTel:+(661)946-7285\nEmail:rhondacurry@example.org\nSite:https://gonzales.net/",
+      "DATE": "Invoice Date: 20-Mar-2014",
+      "NUMBER": "INVOICE # 4858-048",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 23.10 USD",
+      "TOTAL_WORDS": "Total in words:  twenty-thre-\ne point one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Larry Thomas\n7013 Michele Valley\nBrianport, KS 15636 US\nTel:+(305)680-8686\nEmail:brownkatherine@example.net\nSite:http://webb.com/",
+      "DATE": "Invoice Date: 16-Nov-2006",
+      "NUMBER": "INVOICE # INV/75-92/771",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 219.21 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and nin-\neteen point two one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Audrey Williams\n3246 Deborah Station\nJudytown, MO 09510 US\nTel:+(184)070-3127\nEmail:pamela73@example.org\nSite:https://burke.com/",
+      "DATE": "Invoice Date: 04-Oct-2015",
+      "NUMBER": "INVOICE # INV/20-34/915",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 259.66 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fift-\ny-nine point six six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Victoria Hopkins\n774 Renee Shoal\nKellyton, MN 05814 US\nTel:+(031)083-4440\nEmail:amandamurphy@example.com\nSite:https://www.rivas.net/",
+      "DATE": "Invoice Date: 20-Sep-2020",
+      "NUMBER": "Invoice number INV35970285",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 479.81 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and seven-\nty-nine point eight one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kristin Snyder\n287 Collins Shore Apt. 142\nEast Henryfort, NJ 08930 US\nTel:+(009)021-8010\nEmail:tomdudley@example.net\nSite:http://www.hernandez-chase.info/",
+      "DATE": "Date: 13-Dec-2006",
+      "NUMBER": "INVOICE # 0644-593",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 444.43 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and forty-\n-four point four three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :William Herrera Jr.\n160 Matthew Shores\nLake Russellton, VA 98137 US\nTel:+(713)549-8985\nEmail:joneselizabeth@example.net\nSite:https://francis-hunt.com/",
+      "DATE": "Invoice Date: 12-Nov-2017",
+      "NUMBER": "INVOICE ID INV92816793",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1023.78 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and twenty-\n-three point seven eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance46.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anna Hale\n9722 Thompson Mill Apt. 951\nEast Andrebury, WA 53041 US\nTel:+(345)239-9358\nEmail:victoriacohen@example.com\nSite:https://www.tate.com/",
+      "DATE": "Date: 14-Oct-1996",
+      "NUMBER": "Invoice number INV/27-84/761",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 439.84 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and thirt-\ny-nine point eight four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Adkins\n680 Brown Stream\nEast Eric, AL 74017 US\nTel:+(658)086-5121\nEmail:crawfordpaul@example.net\nSite:https://www.harper-miller.org/",
+      "DATE": "Invoice Date: 18-Feb-2017",
+      "NUMBER": "INVOICE ID INV/84-39/104",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 560.26 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and s-\nixty point two six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Eric Marks\n1999 Nicole Rapids Apt. 903\nTuckerport, WV 78596 US\nTel:+(517)593-1104\nEmail:pierceadam@example.org\nSite:https://morrison.com/",
+      "DATE": "Date: 11-Feb-2022",
+      "NUMBER": "Invoice number INV/17-10/057",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1345.38 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundred an-\nd forty-five point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Garcia\n44144 Alicia Lock Suite 813\nNorth Denise, GA 37016 US\nTel:+(652)778-3109\nEmail:laurenherrera@example.com\nSite:https://www.moore-anderson.com/",
+      "DATE": "Invoice Date: 22-Dec-1995",
+      "NUMBER": "INVOICE # 4Y2M6d-457",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 656.85 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and fifty-\n-six point eight five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Holly Waters\n465 Sanchez Manor Apt. 434\nJohnton, FL 44217 US\nTel:+(197)671-4187\nEmail:shunter@example.net\nSite:https://moreno.info/",
+      "DATE": "Invoice Date: 27-Feb-1996",
+      "NUMBER": "Invoice number INV/18-92/169",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 963.47 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixty-\n-three point four seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kari Jarvis\n473 Richard Extension Suite 599\nThompsonville, CT 50929 US\nTel:+(982)477-3134\nEmail:kevin83@example.net\nSite:https://www.hicks.org/",
+      "DATE": "Date: 19-Mar-2010",
+      "NUMBER": "Invoice number 8850-227",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 250.33 USD",
+      "TOTAL_WORDS": "Total in words:  two hundred and fif-\nty point three three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Johnson\n1933 Miller Knolls\nEast Lisa, AZ 77430 US\nTel:+(439)603-2649\nEmail:heather77@example.net\nSite:http://www.saunders.net/",
+      "DATE": "Invoice Date: 26-Jul-2012",
+      "NUMBER": "INVOICE # 7145-549",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 504.51 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and f-\nour point five one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bradley Holmes\n159 Taylor Corners Apt. 106\nAdamsfort, MP 63383 US\nTel:+(488)730-6529\nEmail:welchaaron@example.org\nSite:http://www.jacobs.biz/",
+      "DATE": "Invoice Date: 06-Dec-2006",
+      "NUMBER": "INVOICE # 7855-356",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 846.49 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and for-\nty-six point four nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Pena\n61305 Richard Drive Suite 711\nRojasville, NE 92984 US\nTel:+(347)767-0140\nEmail:elizabeth12@example.org\nSite:http://roman-griffin.org/",
+      "DATE": "Invoice Date: 27-Jan-1998",
+      "NUMBER": "INVOICE ID INV87573948",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 759.32 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fift-\ny-nine point three two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Elizabeth Lewis\n1254 Donna Dale\nHeatherstad, IA 58157 US\nTel:+(446)888-3831\nEmail:yolandawilliams@example.com\nSite:http://www.jacobs.org/",
+      "DATE": "Date: 18-Mar-2012",
+      "NUMBER": "INVOICE # 7Y1M1d-933",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 612.85 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and twe-\nlve point eight five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Roger Pierce\n9406 David Land\nPort Terri, TX 58642 US\nTel:+(266)545-5772\nEmail:adammiles@example.net\nSite:https://www.alvarez-roberts.com/",
+      "DATE": "Invoice Date: 04-Oct-2004",
+      "NUMBER": "INVOICE # 0377-437",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 552.86 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and fift-\ny-two point eight six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anita Roman\n6602 Lisa Wells Suite 702\nEast Tracyville, OH 12823 US\nTel:+(773)913-9763\nEmail:tsmith@example.com\nSite:https://vincent.org/",
+      "DATE": "Date: 21-Dec-2005",
+      "NUMBER": "INVOICE # 6294-669",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 495.09 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and ninet-\ny-five point zero nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Virginia Johnson\n3469 George Village\nSandraview, MN 36527 US\nTel:+(097)325-8285\nEmail:warrenlisa@example.com\nSite:http://rivas.com/",
+      "DATE": "Invoice Date: 23-Aug-2003",
+      "NUMBER": "INVOICE ID INV/55-45/103",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 863.17 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and sixt-\ny-three point one seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jamie Barton\n1108 Browning Mews\nNorth Tonya, MO 98416 US\nTel:+(869)184-7655\nEmail:vbarrett@example.org\nSite:http://sandoval-rivera.net/",
+      "DATE": "Date: 07-Jun-1994",
+      "NUMBER": "INVOICE # INV94039139",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 235.76 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-five point seven six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Travis Smith\n052 Robinson Islands\nLake Samantha, IN 37481 US\nTel:+(855)711-7350\nEmail:fbrewer@example.com\nSite:http://alexander.com/",
+      "DATE": "Invoice Date: 10-Aug-2022",
+      "NUMBER": "Invoice number INV/65-45/143",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 139.38 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirty-\n-nine point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Davis\n51249 Robert Valley Apt. 103\nEast Jenniferton, AZ 52785 US\nTel:+(804)355-6712\nEmail:gilbertsmith@example.org\nSite:https://white-williams.org/",
+      "DATE": "Date: 29-May-2010",
+      "NUMBER": "INVOICE ID INV09367592",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 760.38 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and si-\nxty point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Price\n19903 Marks Heights Apt. 284\nHestertown, IL 11824 US\nTel:+(261)145-7938\nEmail:jessicadunn@example.com\nSite:http://www.vargas.biz/",
+      "DATE": "Invoice Date: 17-Oct-1994",
+      "NUMBER": "INVOICE ID 6684-790",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 354.55 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-four point five five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sean Davis\n86685 Julie Ways\nSouth Gregory, GA 51013 US\nTel:+(836)347-2928\nEmail:patricia02@example.com\nSite:http://smith-mcguire.com/",
+      "DATE": "Date: 30-Jun-2008",
+      "NUMBER": "INVOICE ID INV16957593",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 224.14 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and twent-\ny-four point one four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Charles Ellis\n582 Gill Union\nNew Jessica, WY 51563 US\nTel:+(534)458-3744\nEmail:hrhodes@example.com\nSite:https://walker.info/",
+      "DATE": "Date: 26-Jul-2020",
+      "NUMBER": "Invoice number 2Y8M9d-150",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 352.22 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and fi-\nfty-two point two two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Janet Peters\n237 Michelle Path Apt. 941\nEast Dawn, OH 65362 US\nTel:+(317)636-0375\nEmail:portershelly@example.com\nSite:https://rodriguez.net/",
+      "DATE": "Date: 23-May-2004",
+      "NUMBER": "INVOICE # 4Y2M3d-140",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1199.38 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\nninety-nine point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paul Little\n467 Vincent Oval\nNew Tiffanyton, MH 53055 US\nTel:+(635)613-5544\nEmail:bonniebarnes@example.net\nSite:http://collier-fry.com/",
+      "DATE": "Invoice Date: 29-Dec-2001",
+      "NUMBER": "INVOICE ID 8Y1M3d-515",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 595.72 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninet-\ny-five point seven two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Knight\n61469 Gay Pines Apt. 181\nPort Shawna, OR 63019 US\nTel:+(804)499-8494\nEmail:leondonald@example.net\nSite:http://www.herring.com/",
+      "DATE": "Invoice Date: 10-Jul-2008",
+      "NUMBER": "INVOICE ID 5718-764",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 576.07 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-six point zero seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Baker\n431 Newman Hollow\nTeresatown, DC 06657 US\nTel:+(048)781-1378\nEmail:oreyes@example.net\nSite:http://rodriguez.biz/",
+      "DATE": "Invoice Date: 11-May-1996",
+      "NUMBER": "Invoice number 6Y3M4d-046",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 314.52 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fo-\nurteen point five two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tanya Miller\n42759 Angelica Mews Suite 522\nWebbstad, NM 67053 US\nTel:+(411)866-6344\nEmail:jamielong@example.org\nSite:http://davis.biz/",
+      "DATE": "Invoice Date: 19-Dec-2011",
+      "NUMBER": "Invoice number 8Y4M8d-155",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 623.05 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and twenty-\n-three point zero five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Latoya Ortega\n29203 Lisa Gateway\nBrittanyton, RI 40152 US\nTel:+(686)276-3623\nEmail:marcuscooper@example.net\nSite:https://diaz.com/",
+      "DATE": "Date: 05-Sep-2016",
+      "NUMBER": "INVOICE ID INV/90-43/502",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 142.89 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and forty-\n-two point eight nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Cummings\n76973 Sandoval Center Apt. 545\nWest Julie, IL 31569 US\nTel:+(276)538-5197\nEmail:hurstanthony@example.net\nSite:http://whitehead.biz/",
+      "DATE": "Invoice Date: 05-Aug-2019",
+      "NUMBER": "INVOICE # 4785-380",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 340.63 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and f-\norty point six three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alexandra Mckay\n44769 Colleen Stravenue\nNorth Brandon, MO 83984 US\nTel:+(277)054-4145\nEmail:sarah44@example.net\nSite:http://www.adams.com/",
+      "DATE": "Invoice Date: 09-May-1994",
+      "NUMBER": "Invoice number INV/48-94/341",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1114.63 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred a-\nnd fourteen point six three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Walter Jimenez\n10475 Lawson Unions Apt. 591\nEast Heather, AS 75462 US\nTel:+(667)875-7525\nEmail:jill00@example.net\nSite:https://www.clark.com/",
+      "DATE": "Invoice Date: 08-Jun-2017",
+      "NUMBER": "Invoice number INV/40-43/635",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 166.02 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and sixt-\ny-six point zero two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jesse Smith\n040 Taylor Inlet Suite 466\nNorth Michaelside, MN 40742 US\nTel:+(077)706-5927\nEmail:hayley35@example.net\nSite:http://clark.com/",
+      "DATE": "Invoice Date: 24-Oct-2006",
+      "NUMBER": "INVOICE # 5507-910",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 855.05 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fift-\ny-five point zero five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Mathews\n4831 Joshua Skyway Apt. 282\nLake Amandafort, IA 93314 US\nTel:+(780)306-5629\nEmail:johnsonterri@example.org\nSite:http://www.lawson.com/",
+      "DATE": "Date: 09-Mar-2012",
+      "NUMBER": "Invoice number INV29563029",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 732.38 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and thirt-\ny-two point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Linda Norman\n89948 James Plains\nNew Danielside, LA 18838 US\nTel:+(818)096-9840\nEmail:johnsonmary@example.org\nSite:http://www.friedman-thompson.com/",
+      "DATE": "Invoice Date: 01-Jun-1999",
+      "NUMBER": "INVOICE ID INV/75-90/070",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 755.98 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and fift-\ny-five point nine eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Moore\n7314 Hannah Harbors Apt. 747\nMillerberg, FL 48980 US\nTel:+(504)291-0587\nEmail:garciapamela@example.com\nSite:https://roy.com/",
+      "DATE": "Invoice Date: 16-Sep-2012",
+      "NUMBER": "INVOICE # INV/88-66/516",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 599.07 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninet-\ny-nine point zero seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Caroline Phillips\n89193 Elizabeth Harbors Suite 047\nAndrewville, WI 02239 US\nTel:+(372)502-3467\nEmail:mcphersonlaura@example.net\nSite:https://www.robinson-jenkins.info/",
+      "DATE": "Invoice Date: 18-Apr-2018",
+      "NUMBER": "INVOICE # INV/40-43/773",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 601.33 EUR",
+      "TOTAL_WORDS": "Total in words:  six hundred and on-\ne point three three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Cunningham\n60182 Church Keys\nKleinbury, CA 18344 US\nTel:+(297)387-6069\nEmail:gcummings@example.net\nSite:http://www.andrade-winters.com/",
+      "DATE": "Invoice Date: 21-Jan-2010",
+      "NUMBER": "Invoice number INV/12-07/691",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 547.38 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and forty--\nseven point three eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kevin Tucker MD\n5831 William Ranch Suite 688\nNew Jacob, MS 12331 US\nTel:+(157)502-8979\nEmail:gjones@example.org\nSite:http://www.hayes.com/",
+      "DATE": "Date: 07-Feb-2008",
+      "NUMBER": "INVOICE # 2921-494",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1046.67 $",
+      "TOTAL_WORDS": "Total in words:  one thousand and fort-\ny-six point six seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Julie Henson\n905 Allen Creek Apt. 745\nMarkmouth, KS 70793 US\nTel:+(665)028-3957\nEmail:aaron92@example.net\nSite:http://carroll.com/",
+      "DATE": "Date: 26-Mar-2011",
+      "NUMBER": "INVOICE ID 0970-395",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 962.03 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sixt-\ny-two point zero three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Deborah Castillo\n2458 Brian Trace\nJosephside, NC 86674 US\nTel:+(278)313-0234\nEmail:marknavarro@example.org\nSite:https://young-cordova.com/",
+      "DATE": "Date: 28-Feb-2013",
+      "NUMBER": "Invoice number INV/07-45/243",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 872.71 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and seve-\nnty-two point seven one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Curtis Nichols\n51290 Richards Landing\nNorth Stephen, NC 21983 US\nTel:+(781)881-4707\nEmail:zhuang@example.net\nSite:https://www.phillips.com/",
+      "DATE": "Invoice Date: 10-Feb-1998",
+      "NUMBER": "INVOICE # 2Y9M8d-216",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 578.51 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and seven-\nty-eight point five one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Katie Mack\n52694 Deborah Highway Suite 128\nSouth Dylanberg, AL 85161 US\nTel:+(976)533-4193\nEmail:williamsnicholas@example.com\nSite:https://mckee-bailey.com/",
+      "DATE": "Invoice Date: 29-Oct-2021",
+      "NUMBER": "Invoice number INV/76-73/797",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 305.17 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and f-\nive point one seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Cohen\n97693 Reid Coves\nMackland, AZ 01338 US\nTel:+(978)091-3474\nEmail:omorales@example.com\nSite:https://www.benson-green.com/",
+      "DATE": "Date: 29-Aug-1994",
+      "NUMBER": "INVOICE # 8Y5M3d-684",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 997.92 $",
+      "TOTAL_WORDS": "Total in words:  nine hundred and ninet-\ny-seven point nine two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kyle Weber\n426 Dixon Ways\nRussellberg, CT 88657 US\nTel:+(736)574-6243\nEmail:donald69@example.com\nSite:http://young-peterson.com/",
+      "DATE": "Date: 08-Feb-2003",
+      "NUMBER": "Invoice number 8251-139",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1302.48 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, three hundre-\nd and two point four eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Johnson\n11564 Harris Shores\nSouth Territown, IL 11705 US\nTel:+(015)199-0037\nEmail:morrowjoel@example.net\nSite:https://haynes.com/",
+      "DATE": "Date: 25-Jul-2009",
+      "NUMBER": "INVOICE # 5028-040",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1099.35 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and ninet-\ny-nine point three five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Danielle Brown\n0185 Jackson Key\nNew Davidfurt, AL 25460 US\nTel:+(346)520-4684\nEmail:andreajohnston@example.org\nSite:https://www.thompson.com/",
+      "DATE": "Invoice Date: 06-Nov-2008",
+      "NUMBER": "Invoice number 2448-537",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 224.70 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and twe-\nnty-four point seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Miranda Palmer\n7670 Bond Plaza Suite 341\nWest Diane, IN 21962 US\nTel:+(412)538-0801\nEmail:christie84@example.net\nSite:https://bryant-burnett.net/",
+      "DATE": "Invoice Date: 15-Jan-2020",
+      "NUMBER": "INVOICE # 3Y9M5d-040",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 855.04 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and fift-\ny-five point zero four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Patty Smith\n2076 Jeffery Shores Suite 259\nPort Matthewhaven, CA 43885 US\nTel:+(563)777-4809\nEmail:wesley62@example.org\nSite:http://young.com/",
+      "DATE": "Invoice Date: 03-Dec-2011",
+      "NUMBER": "INVOICE # INV75699304",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 590.91 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and ni-\nnety point nine one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance75.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Brown\n19830 Dennis Terrace\nLake Brent, AS 74972 US\nTel:+(159)906-4961\nEmail:gregoryfoster@example.net\nSite:https://www.smith-reynolds.com/",
+      "DATE": "Date: 21-Dec-2003",
+      "NUMBER": "INVOICE # 2Y5M4d-216",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1011.17 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and el-\neven point one seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Annette Gardner\n49202 Brittany Port\nPort Kristaville, MD 28620 US\nTel:+(760)345-7816\nEmail:marcus82@example.com\nSite:https://www.gilmore-jenkins.net/",
+      "DATE": "Date: 17-Jul-2017",
+      "NUMBER": "Invoice number INV68713973",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 549.69 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and fort-\ny-nine point six nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Mullins\n384 Wallace Gateway\nEast Susan, OR 31067 US\nTel:+(855)002-6952\nEmail:alawrence@example.org\nSite:http://gutierrez-smith.com/",
+      "DATE": "Date: 21-Jan-2000",
+      "NUMBER": "Invoice number 2144-956",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 520.83 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and twe-\nnty point eight three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Madison Davis\n78728 David Run Suite 292\nPhilipmouth, KY 12444 US\nTel:+(453)429-6895\nEmail:xvasquez@example.org\nSite:https://mccoy.com/",
+      "DATE": "Date: 19-Jan-2010",
+      "NUMBER": "Invoice number 9Y6M1d-308",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 92.02 EUR",
+      "TOTAL_WORDS": "Total in words:  ninety-two p-\noint zero two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sara Cruz\n945 Randy Ville Apt. 858\nMccallbury, AS 54673 US\nTel:+(600)609-9500\nEmail:robertsonjanet@example.com\nSite:https://www.walker-mcbride.com/",
+      "DATE": "Invoice Date: 01-Jan-2019",
+      "NUMBER": "Invoice number INV/33-82/529",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 485.19 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and eigh-\nty-five point one nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Troy Ferguson\n1741 Perez Street Suite 953\nOlsonborough, MI 56232 US\nTel:+(278)672-7082\nEmail:ghanna@example.net\nSite:http://www.hansen-warren.net/",
+      "DATE": "Invoice Date: 09-Dec-2014",
+      "NUMBER": "Invoice number 6134-631",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 598.72 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninet-\ny-eight point seven two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Stewart\n84629 Kevin Landing Suite 029\nLatashaland, MT 49425 US\nTel:+(820)879-5497\nEmail:leeapril@example.org\nSite:http://bautista-taylor.com/",
+      "DATE": "Invoice Date: 22-Jul-2022",
+      "NUMBER": "Invoice number 2462-905",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 412.79 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and twe-\nlve point seven nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sandra Savage\n35455 Allen Stream Suite 017\nTammyhaven, SC 77536 US\nTel:+(285)870-8082\nEmail:cmelton@example.com\nSite:https://nichols.biz/",
+      "DATE": "Invoice Date: 22-Aug-2006",
+      "NUMBER": "Invoice number INV47916280",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 663.73 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and sixty--\nthree point seven three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Pearson\n3231 Gonzales Squares\nBrewerbury, LA 10419 US\nTel:+(116)321-5896\nEmail:kayla08@example.org\nSite:https://schneider-ross.org/",
+      "DATE": "Invoice Date: 24-Jan-2006",
+      "NUMBER": "INVOICE ID 0133-649",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 768.20 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and s-\nixty-eight point two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gabrielle Orozco\n1183 King Keys\nSmithborough, OR 42724 US\nTel:+(707)332-4970\nEmail:sherri47@example.com\nSite:http://alvarez.net/",
+      "DATE": "Date: 27-Aug-2004",
+      "NUMBER": "INVOICE ID INV/59-51/004",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 769.48 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-nine point four eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Vanessa Richardson\n772 Phillips Junction\nGibbsberg, MD 37277 US\nTel:+(256)590-7252\nEmail:robertmartinez@example.net\nSite:http://www.bryant.net/",
+      "DATE": "Date: 30-Jan-1999",
+      "NUMBER": "Invoice number INV15554069",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 593.67 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and ninet-\ny-three point six seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Julian White\n4010 James Drive Apt. 928\nHolmeston, AS 73930 US\nTel:+(990)590-5136\nEmail:angela96@example.net\nSite:https://www.morales-schaefer.com/",
+      "DATE": "Invoice Date: 30-Mar-2011",
+      "NUMBER": "Invoice number INV/80-95/530",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 240.01 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and fo-\nrty point zero one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Smith\n2197 Ricardo Bypass\nWest Donnashire, RI 75989 US\nTel:+(674)017-7063\nEmail:james63@example.org\nSite:http://johnson.biz/",
+      "DATE": "Date: 09-Dec-2013",
+      "NUMBER": "INVOICE # 6893-832",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 764.35 $",
+      "TOTAL_WORDS": "Total in words:  seven hundred and sixt-\ny-four point three five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Williams\n621 Jeff Tunnel\nKevinmouth, AL 42333 US\nTel:+(939)793-9116\nEmail:vmyers@example.org\nSite:https://white.com/",
+      "DATE": "Date: 08-May-2002",
+      "NUMBER": "INVOICE ID 7Y5M5d-797",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 819.55 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and nin-\neteen point five five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amber Mitchell\n77026 Tiffany Pike Apt. 679\nJefferybury, PR 26243 US\nTel:+(785)941-2235\nEmail:mario03@example.net\nSite:http://figueroa.info/",
+      "DATE": "Date: 12-Apr-2004",
+      "NUMBER": "Invoice number INV/16-02/108",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 383.07 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and eight-\ny-three point zero seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Catherine Santiago\n8441 Travis Island\nDylanville, GA 33970 US\nTel:+(233)537-4302\nEmail:tboyd@example.com\nSite:http://www.smith-johnson.net/",
+      "DATE": "Invoice Date: 21-Jan-2009",
+      "NUMBER": "INVOICE ID 4433-454",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 572.33 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-two point three three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicole Reed\n002 Brown Burg Suite 835\nRamirezmouth, ID 15669 US\nTel:+(409)979-1418\nEmail:lopezvictor@example.com\nSite:http://cruz.com/",
+      "DATE": "Invoice Date: 20-Sep-2021",
+      "NUMBER": "INVOICE ID 9390-917",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1567.41 $",
+      "TOTAL_WORDS": "Total in words:  one thousand, five hundred a-\nnd sixty-seven point four one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Craig Klein\n305 Bond Forest Suite 758\nChristianview, NE 23588 US\nTel:+(812)048-4242\nEmail:eflores@example.com\nSite:http://vazquez.biz/",
+      "DATE": "Date: 18-Feb-1994",
+      "NUMBER": "Invoice number INV44064848",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 247.26 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and fort-\ny-seven point two six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance151.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Thomas Harrell\n831 Donaldson Mission\nFrankland, MD 55028 US\nTel:+(497)307-5416\nEmail:scottdavid@example.com\nSite:http://kennedy.biz/",
+      "DATE": "Invoice Date: 03-Oct-2005",
+      "NUMBER": "INVOICE # 8Y5M8d-660",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 376.02 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and seve-\nnty-six point zero two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Judith Chase\n115 Jackson Neck Suite 161\nWilliammouth, SC 63190 US\nTel:+(321)351-4669\nEmail:phillipstiffany@example.com\nSite:https://norris-ferrell.biz/",
+      "DATE": "Invoice Date: 17-May-2017",
+      "NUMBER": "INVOICE # INV/70-86/197",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 622.89 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-two point eight nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicholas Wright\n6330 Pamela Falls\nJosebury, ME 83684 US\nTel:+(019)453-6449\nEmail:wendymann@example.net\nSite:http://www.adams-carter.com/",
+      "DATE": "Invoice Date: 14-Nov-1995",
+      "NUMBER": "INVOICE ID INV/31-98/509",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 348.32 EUR",
+      "TOTAL_WORDS": "Total in words:  three hundred and fort-\ny-eight point three two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Sanford\n401 Rodriguez Cliff\nSolishaven, NM 97990 US\nTel:+(404)688-0576\nEmail:kristensanchez@example.net\nSite:http://www.hines.com/",
+      "DATE": "Invoice Date: 06-Oct-2016",
+      "NUMBER": "Invoice number 6423-689",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1456.93 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred a-\nnd fifty-six point nine three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Samuel Mendoza\n499 Tiffany Pines\nSouth Sylvia, CO 85674 US\nTel:+(969)951-3022\nEmail:cynthiabrown@example.net\nSite:http://barton.net/",
+      "DATE": "Invoice Date: 18-Jan-2004",
+      "NUMBER": "Invoice number 2Y7M7d-855",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 626.58 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and twent-\ny-six point five eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Selena Lewis\n137 Evans Spring Apt. 663\nSouth Charlesbury, CA 23017 US\nTel:+(033)340-8144\nEmail:brownlindsay@example.org\nSite:http://day.org/",
+      "DATE": "Invoice Date: 20-Sep-2002",
+      "NUMBER": "INVOICE # INV48180971",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 906.64 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and -\nsix point six four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Miller\n87351 Nathaniel Streets Suite 609\nBenjaminborough, HI 73517 US\nTel:+(790)519-2536\nEmail:paul61@example.net\nSite:https://lopez-nicholson.org/",
+      "DATE": "Date: 11-Oct-1994",
+      "NUMBER": "INVOICE ID 7Y5M4d-210",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1027.78 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand and twenty-\n-seven point seven eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paul Martinez\n5930 Wong Inlet\nLake Paula, MN 77599 US\nTel:+(005)375-6425\nEmail:williamsonbonnie@example.com\nSite:http://www.nguyen-brown.com/",
+      "DATE": "Invoice Date: 22-Jan-2000",
+      "NUMBER": "Invoice number INV32436916",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 957.51 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fift-\ny-seven point five one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Villegas\n429 Jennifer Underpass Apt. 280\nEast Michelle, DC 59776 US\nTel:+(809)870-1976\nEmail:qmiller@example.net\nSite:https://www.melendez.com/",
+      "DATE": "Date: 19-Apr-2022",
+      "NUMBER": "Invoice number INV/68-51/926",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 595.69 EUR",
+      "TOTAL_WORDS": "Total in words:  five hundred and nine-\nty-five point six nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Bailey\n39809 Christopher Ways Apt. 160\nNew Anthonyland, SC 23737 US\nTel:+(366)110-9080\nEmail:cameronjon@example.net\nSite:http://www.rasmussen.org/",
+      "DATE": "Invoice Date: 05-Nov-2014",
+      "NUMBER": "INVOICE # INV74735507",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 307.20 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred an-\nd seven point two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Wise\n165 John Forge\nDonaldberg, MD 55238 US\nTel:+(404)125-5038\nEmail:davisjasmine@example.com\nSite:http://ochoa.com/",
+      "DATE": "Date: 07-Jul-2019",
+      "NUMBER": "INVOICE ID 7Y9M3d-000",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 294.47 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and ninety-\n-four point four seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Janice White\n156 Deanna Coves\nNew Tammychester, NV 52605 US\nTel:+(891)584-1028\nEmail:powerstyler@example.org\nSite:http://www.castro.org/",
+      "DATE": "Date: 01-Jan-2012",
+      "NUMBER": "INVOICE # 7821-946",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 829.67 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-nine point six seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Martin\n581 Christina Knolls Suite 963\nWest Nancyview, ID 32255 US\nTel:+(734)492-6147\nEmail:craigvalenzuela@example.com\nSite:https://www.dean.org/",
+      "DATE": "Date: 15-Jun-2005",
+      "NUMBER": "INVOICE # INV70601331",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 321.22 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and twe-\nnty-one point two two",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Manuel Edwards\n220 Jason Spring Apt. 476\nEast Craigtown, ID 71326 US\nTel:+(051)365-3941\nEmail:isanders@example.com\nSite:http://www.kelly-maldonado.com/",
+      "DATE": "Date: 20-Jul-2007",
+      "NUMBER": "INVOICE ID INV/28-65/589",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 475.26 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and seve-\nnty-five point two six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lisa Lawson\n37373 Rebecca Tunnel\nAntonioside, MH 45581 US\nTel:+(842)677-7387\nEmail:vjackson@example.com\nSite:https://nelson.com/",
+      "DATE": "Date: 24-May-1995",
+      "NUMBER": "Invoice number 7Y3M4d-371",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 636.71 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and thirt-\ny-six point seven one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Lyons\n5059 Jackson Prairie\nPort Justinbury, MS 88477 US\nTel:+(974)108-8950\nEmail:alicia84@example.org\nSite:http://www.ellison.org/",
+      "DATE": "Date: 12-Feb-1995",
+      "NUMBER": "INVOICE ID 5913-194",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 445.09 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and fort-\ny-five point zero nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrea Ali\n37315 Mark Square Suite 719\nNew Mary, AL 09017 US\nTel:+(284)657-9224\nEmail:bridgetmorton@example.org\nSite:http://www.hunter.com/",
+      "DATE": "Invoice Date: 30-Dec-1999",
+      "NUMBER": "INVOICE # 5636-040",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 824.86 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and twen-\nty-four point eight six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Porter\n845 Clements Ways\nMillerberg, WA 05849 US\nTel:+(312)768-2936\nEmail:chughes@example.net\nSite:http://www.reyes.com/",
+      "DATE": "Date: 14-Aug-1996",
+      "NUMBER": "INVOICE # 8Y4M1d-747",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 504.09 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and f-\nour point zero nine",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Randy Murillo\n57873 Young Neck\nLake Daniel, ID 93035 US\nTel:+(682)557-7479\nEmail:krogers@example.org\nSite:https://moore.net/",
+      "DATE": "Invoice Date: 13-Aug-2019",
+      "NUMBER": "INVOICE # INV60022778",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 966.15 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and six-\nty-six point one five",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :William Wallace\n15217 Garcia Pine\nEast Jonathan, SD 39171 US\nTel:+(009)676-5051\nEmail:davidvazquez@example.com\nSite:http://www.mccoy.info/",
+      "DATE": "Date: 20-Jun-1998",
+      "NUMBER": "Invoice number INV/38-21/126",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 543.43 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and forty-\n-three point four three",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Evelyn Kirby\n871 Shannon Groves\nSouth Sarafort, WV 52023 US\nTel:+(705)608-5270\nEmail:beckybowen@example.com\nSite:http://www.martin-reed.net/",
+      "DATE": "Invoice Date: 29-Oct-1996",
+      "NUMBER": "INVOICE ID 5714-525",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 908.11 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and e-\night point one one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ricky Colon\n320 Palmer Shoals\nTaylorhaven, AZ 43955 US\nTel:+(568)651-8651\nEmail:kimberly67@example.net\nSite:http://www.cortez-charles.info/",
+      "DATE": "Invoice Date: 30-Jul-1993",
+      "NUMBER": "INVOICE ID 3000-204",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 151.80 $",
+      "TOTAL_WORDS": "Total in words:  one hundred and fi-\nfty-one point eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tracey Mccoy\n19600 Greene Meadows Suite 417\nBennettton, MN 11563 US\nTel:+(254)782-4473\nEmail:erikjohnson@example.net\nSite:http://wells.info/",
+      "DATE": "Date: 26-Jun-2017",
+      "NUMBER": "INVOICE # 3499-396",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 974.74 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and sevent-\ny-four point seven four",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rachel Robbins\n206 Cowan Drives Suite 418\nCarlville, ID 64106 US\nTel:+(287)916-0996\nEmail:pjenkins@example.net\nSite:http://www.griffith-tapia.com/",
+      "DATE": "Date: 11-Mar-2012",
+      "NUMBER": "Invoice number 2Y2M9d-401",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 1185.88 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred and-\neighty-five point eight eight",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathleen Black\n13863 Kimberly Turnpike Suite 479\nFrostborough, MO 79842 US\nTel:+(007)627-8096\nEmail:kevinbarnes@example.com\nSite:https://www.fields.biz/",
+      "DATE": "Invoice Date: 16-Sep-2014",
+      "NUMBER": "INVOICE ID INV71939642",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 204.96 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and f-\nour point nine six",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Hodge\n291 Garcia Way\nLake Brendaburgh, MO 53230 US\nTel:+(654)956-4313\nEmail:charrell@example.net\nSite:http://www.wells.com/",
+      "DATE": "Invoice Date: 29-Dec-2003",
+      "NUMBER": "INVOICE # 2687-631",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 202.71 $",
+      "TOTAL_WORDS": "Total in words:  two hundred and t-\nwo point seven one",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  },
+  {
+    "image": "Template9_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bethany Freeman\n49109 Dan Court\nSouth Jacob, WI 71066 US\nTel:+(724)475-6862\nEmail:maryblackwell@example.com\nSite:http://mendoza.com/",
+      "DATE": "Invoice Date: 20-Aug-2012",
+      "NUMBER": "Invoice number INV/94-53/084",
+      "NOTE": "Thank you for your business!",
+      "SELLER_EMAIL": "Email:rclark@example.org",
+      "SELLER_NAME": "Navarro, Ford and Bryan",
+      "TOTAL": "TOTAL : 465.27 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-five point two seven",
+      "GSTIN": "GSTIN/UIN: 09AABCS142961ZS"
+    }
+  }
+]

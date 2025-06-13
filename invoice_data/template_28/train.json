@@ -1,0 +1,2082 @@
+[
+  {
+    "image": "Template28_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Novak\n396 Obrien Mountain Apt. 530\nOwenstown, GU 17647 US\nTel:+(384)545-1161\nEmail:millerjeanne@example.net\nSite:https://cook.org/",
+      "DATE": "Date: 18-Mar-2008",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18521584\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1116.41  EUR",
+      "TAX": "TAX:VAT (5.06%):  56.52 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1147.48 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Marvin Alvarez\n6468 Adam Circle Suite 171\nEast Marcshire, AR 61542 US\nTel:+(314)978-9161\nEmail:hansenjeremy@example.org\nSite:https://johnson-miller.com/",
+      "DATE": "Invoice Date: 10-Jun-2013",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18158660\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 483.17  $",
+      "TAX": "TAX:VAT (4.54%):  21.93 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 499.45 $"
+    }
+  },
+  {
+    "image": "Template28_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Jones\n6974 Sean Plaza\nMcdowellland, MO 46563 US\nTel:+(914)016-6061\nEmail:erikjohnston@example.net\nSite:http://www.black-holt.com/",
+      "DATE": "Invoice Date: 19-Jan-1995",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19445180\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 218.17  USD",
+      "TAX": "TAX:VAT (6.64%):  14.49 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 226.25 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Taylor\n1788 Kelsey Run\nWest Tristan, NH 96504 US\nTel:+(647)815-6794\nEmail:ochapman@example.net\nSite:https://www.luna.com/",
+      "DATE": "Invoice Date: 11-Sep-1999",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10412459\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 813.36  EUR",
+      "TAX": "TAX:VAT (3.17%):  25.77 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 825.79 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Linda Bryant\n45911 Sarah Trace\nMendezchester, UT 97448 US\nTel:+(557)032-5569\nEmail:simsstephanie@example.com\nSite:https://turner.com/",
+      "DATE": "Date: 11-Oct-2014",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17473922\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 188.92  USD",
+      "TAX": "TAX:VAT (4.68%):  8.84 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 194.78 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance165.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Virginia Davis\n3343 Matthew Lakes Suite 183\nCunninghamside, IL 91468 US\nTel:+(182)189-7287\nEmail:paulclark@example.org\nSite:https://mcdowell-nguyen.info/",
+      "DATE": "Invoice Date: 04-Apr-1994",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11315580\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 257.99  $",
+      "TAX": "TAX:VAT (6.55%):  16.90 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 262.17 $"
+    }
+  },
+  {
+    "image": "Template28_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Whitney Jones\n861 Black Inlet Apt. 649\nLake James, DC 25618 US\nTel:+(857)709-0789\nEmail:mcknightchristopher@example.org\nSite:http://tanner.com/",
+      "DATE": "Invoice Date: 12-Feb-2022",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18449264\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 750.39  USD",
+      "TAX": "TAX:VAT (5.27%):  39.54 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 773.35 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Silva\n425 Perry Inlet\nNew Mariofurt, NM 03418 US\nTel:+(886)037-9124\nEmail:josemartinez@example.net\nSite:https://www.gregory-bates.com/",
+      "DATE": "Date: 05-Nov-2004",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18038936\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1047.71  $",
+      "TAX": "TAX:VAT (6.30%):  65.96 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1064.53 $"
+    }
+  },
+  {
+    "image": "Template28_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathleen Collins\n51396 Smith Rue Suite 848\nEast Jody, IL 96712 US\nTel:+(741)118-1447\nEmail:bglass@example.com\nSite:https://www.koch.com/",
+      "DATE": "Date: 16-Dec-2012",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13283657\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 876.50  USD",
+      "TAX": "TAX:VAT (6.34%):  55.57 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 916.47 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cynthia Pollard\n6636 Kevin Island\nSouth Brittany, FL 30525 US\nTel:+(373)240-9059\nEmail:pfrazier@example.org\nSite:https://www.walker.biz/",
+      "DATE": "Invoice Date: 08-Feb-2009",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18991632\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 823.46  EUR",
+      "TAX": "TAX:VAT (3.19%):  26.27 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 822.72 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christina Dominguez\n565 Arias Throughway\nRobinfort, TX 79541 US\nTel:+(679)415-7624\nEmail:cynthiacook@example.net\nSite:https://www.farmer.com/",
+      "DATE": "Invoice Date: 07-Mar-2022",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10383161\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1307.15  USD",
+      "TAX": "TAX:VAT (5.41%):  70.71 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1326.49 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael James\n02736 Collins Crossroad\nHannaville, NM 81261 US\nTel:+(475)404-9781\nEmail:danaadams@example.com\nSite:https://johnson.org/",
+      "DATE": "Invoice Date: 24-Apr-2020",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19394614\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 513.37  EUR",
+      "TAX": "TAX:VAT (4.76%):  24.44 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 517.74 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Harvey\n32935 Kayla Forest Suite 310\nTorreston, WV 71374 US\nTel:+(603)439-4698\nEmail:dbrown@example.net\nSite:http://www.love.com/",
+      "DATE": "Date: 22-Jun-2009",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17912966\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 757.42  $",
+      "TAX": "TAX:VAT (5.82%):  44.09 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 781.06 $"
+    }
+  },
+  {
+    "image": "Template28_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Jackson\n29218 Stevens Path\nHardingtown, SC 34982 US\nTel:+(090)915-3312\nEmail:daniel58@example.net\nSite:https://sanchez.com/",
+      "DATE": "Date: 26-Mar-2008",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14100183\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 460.61  EUR",
+      "TAX": "TAX:VAT (4.67%):  21.49 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 465.98 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amy Pierce\n1210 Woods Mission\nRomerotown, FM 03283 US\nTel:+(704)506-0684\nEmail:vwhite@example.org\nSite:https://taylor.com/",
+      "DATE": "Invoice Date: 05-Oct-2007",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16965615\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 385.99  USD",
+      "TAX": "TAX:VAT (4.55%):  17.57 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 386.00 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Graham\n291 Brown Cape Apt. 210\nEast Matthew, ID 80532 US\nTel:+(781)572-1397\nEmail:psmith@example.net\nSite:https://lee.com/",
+      "DATE": "Invoice Date: 02-Aug-2013",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17979830\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 407.65  EUR",
+      "TAX": "TAX:VAT (5.58%):  22.74 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 416.04 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance121.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Guzman\n4146 Swanson Parks\nLoriton, ND 74910 US\nTel:+(903)433-7104\nEmail:vanessaphillips@example.org\nSite:https://sandoval-jenkins.com/",
+      "DATE": "Invoice Date: 16-Mar-2009",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12427978\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 682.57  EUR",
+      "TAX": "TAX:VAT (6.44%):  43.95 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 698.53 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tamara Washington\n72580 Hays Ferry\nWendychester, GU 62243 US\nTel:+(454)443-8767\nEmail:frazierrichard@example.org\nSite:http://www.brooks.com/",
+      "DATE": "Date: 13-Oct-1998",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13213291\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 403.16  EUR",
+      "TAX": "TAX:VAT (3.26%):  13.16 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 405.43 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance110.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cynthia Gordon\n80763 Carl Trace\nStephaniefort, ME 52311 US\nTel:+(700)228-8746\nEmail:amyobrien@example.net\nSite:http://www.jacobs-ramirez.info/",
+      "DATE": "Invoice Date: 25-Feb-2003",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14509479\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 470.89  USD",
+      "TAX": "TAX:VAT (6.11%):  28.76 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 492.26 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kyle Jones\n4231 Kelly Run Apt. 747\nPort Mary, AL 32312 US\nTel:+(925)065-7642\nEmail:qbrown@example.net\nSite:https://www.sharp-murphy.com/",
+      "DATE": "Invoice Date: 11-Oct-2016",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16499508\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 171.95  EUR",
+      "TAX": "TAX:VAT (6.84%):  11.76 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 179.79 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Veronica Simpson\n5938 Sean Brooks Apt. 479\nRyanbury, OH 43960 US\nTel:+(287)828-0162\nEmail:tammy16@example.net\nSite:https://www.ochoa.com/",
+      "DATE": "Date: 08-Jan-2017",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14848645\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 402.06  $",
+      "TAX": "TAX:VAT (4.17%):  16.76 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 408.41 $"
+    }
+  },
+  {
+    "image": "Template28_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Benjamin Burton\n2639 Krista Shoals Suite 434\nWarehaven, FL 64367 US\nTel:+(359)056-0074\nEmail:vancedaniel@example.org\nSite:http://www.peterson-pineda.org/",
+      "DATE": "Invoice Date: 01-May-2021",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19946066\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 630.23  EUR",
+      "TAX": "TAX:VAT (6.14%):  38.70 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 652.48 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Edwards\n72798 Young Terrace Apt. 340\nNew Kimberly, TX 80534 US\nTel:+(393)609-3754\nEmail:moorebrian@example.org\nSite:http://martinez.com/",
+      "DATE": "Date: 02-Aug-2006",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18324759\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1347.40  EUR",
+      "TAX": "TAX:VAT (6.11%):  82.34 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1410.88 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Travis DDS\n592 Kirk Trafficway Suite 387\nEast Jessica, NH 86955 US\nTel:+(609)631-1149\nEmail:blewis@example.org\nSite:http://mcbride-curtis.com/",
+      "DATE": "Date: 20-May-2007",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15341018\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 503.37  USD",
+      "TAX": "TAX:VAT (6.49%):  32.64 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 512.65 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cassandra Freeman\n81201 Jose Creek\nPaulberg, ND 41780 US\nTel:+(542)057-1425\nEmail:ryanramirez@example.net\nSite:http://bush.com/",
+      "DATE": "Date: 23-Mar-1996",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16346410\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 369.02  USD",
+      "TAX": "TAX:VAT (5.24%):  19.33 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 383.85 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Alexander\n2062 Wendy Well Suite 933\nNew Amy, MT 54241 US\nTel:+(942)745-4879\nEmail:mwaters@example.org\nSite:http://mitchell-simpson.biz/",
+      "DATE": "Date: 15-Aug-2003",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15712904\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 336.20  EUR",
+      "TAX": "TAX:VAT (4.15%):  13.95 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 344.27 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carol Best\n227 Jesus Corners\nWrightstad, MN 25566 US\nTel:+(203)450-8795\nEmail:jacksonshaun@example.com\nSite:https://www.foster.info/",
+      "DATE": "Date: 23-Feb-2006",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10742526\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 412.60  USD",
+      "TAX": "TAX:VAT (5.48%):  22.62 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 431.05 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Smith\n44801 Lopez Place\nAshleyport, GA 11556 US\nTel:+(095)839-0913\nEmail:rcooper@example.com\nSite:http://hopkins-daniel.com/",
+      "DATE": "Date: 11-Mar-2019",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15725142\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 185.58  EUR",
+      "TAX": "TAX:VAT (3.80%):  7.06 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 185.92 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Richards\n5496 Chris Inlet Suite 736\nWalkerview, PW 47400 US\nTel:+(884)513-0009\nEmail:ustrickland@example.com\nSite:https://www.harris.com/",
+      "DATE": "Date: 02-Apr-2000",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11224576\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 497.41  EUR",
+      "TAX": "TAX:VAT (5.78%):  28.73 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 501.97 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Gregory Graham\n7782 Catherine Square Suite 858\nLaurenmouth, SD 48035 US\nTel:+(794)568-2365\nEmail:perezdavid@example.org\nSite:http://duncan.com/",
+      "DATE": "Invoice Date: 06-Oct-2010",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13865894\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 629.23  EUR",
+      "TAX": "TAX:VAT (5.58%):  35.09 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 635.00 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rachel Hansen\n82089 Kelley Neck Apt. 598\nKennethview, VT 92446 US\nTel:+(737)168-5411\nEmail:joshua62@example.net\nSite:https://gibson.biz/",
+      "DATE": "Invoice Date: 18-Sep-1999",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12619698\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 618.57  USD",
+      "TAX": "TAX:VAT (4.41%):  27.28 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 639.36 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Murray\n08568 Sherry Avenue Suite 249\nCainport, VT 02146 US\nTel:+(965)001-6338\nEmail:ramoskelsey@example.net\nSite:https://coffey.biz/",
+      "DATE": "Date: 15-Sep-2000",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12994501\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 289.70  EUR",
+      "TAX": "TAX:VAT (5.45%):  15.80 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 298.14 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Clark\n80834 Chelsea Drives Apt. 149\nSouth Alexside, CO 27065 US\nTel:+(320)431-0743\nEmail:michaelvalentine@example.com\nSite:http://miller.com/",
+      "DATE": "Date: 01-Oct-2021",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19210975\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 754.58  USD",
+      "TAX": "TAX:VAT (4.56%):  34.44 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 781.17 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Katherine Galloway\n76407 Evan Trail\nJoeland, NH 03309 US\nTel:+(799)817-7452\nEmail:melissa83@example.com\nSite:https://bender.com/",
+      "DATE": "Invoice Date: 18-Mar-2012",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11755160\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 825.84  USD",
+      "TAX": "TAX:VAT (6.18%):  51.04 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 840.87 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jerry Matthews\n24487 Moore Place Suite 811\nNew Carol, VT 70597 US\nTel:+(476)584-9948\nEmail:davislisa@example.net\nSite:https://peterson.com/",
+      "DATE": "Invoice Date: 06-Jul-2002",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18355565\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 756.17  USD",
+      "TAX": "TAX:VAT (4.57%):  34.56 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 766.84 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance198.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gina Delgado\n93870 Allen Alley\nLeonview, MH 26775 US\nTel:+(855)049-5202\nEmail:gritter@example.com\nSite:https://www.simpson.com/",
+      "DATE": "Date: 10-Aug-1996",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16104509\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 229.24  EUR",
+      "TAX": "TAX:VAT (4.35%):  9.98 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 232.55 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Janice Gaines\n82395 Ryan Estates\nNew Rebecca, MP 14958 US\nTel:+(198)067-4156\nEmail:wilsonjulia@example.com\nSite:https://www.marshall.info/",
+      "DATE": "Date: 16-Jun-2017",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10302672\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 247.93  EUR",
+      "TAX": "TAX:VAT (4.60%):  11.40 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 256.68 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance141.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Megan Pitts\n29338 Teresa Estates Suite 963\nLake Randy, IN 96422 US\nTel:+(288)065-1458\nEmail:iberg@example.org\nSite:https://delgado.info/",
+      "DATE": "Invoice Date: 19-Oct-2005",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  16343642\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 577.18  USD",
+      "TAX": "TAX:VAT (5.13%):  29.63 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 578.87 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Isaac Ellison\n1814 Amber Oval\nStewartmouth, PW 62480 US\nTel:+(831)470-0263\nEmail:kelli23@example.net\nSite:https://www.fisher.com/",
+      "DATE": "Invoice Date: 23-Sep-2019",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15870723\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 507.75  USD",
+      "TAX": "TAX:VAT (3.02%):  15.34 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 501.66 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mark Carson\n42885 Adams Streets Suite 644\nLake Linda, SD 43511 US\nTel:+(960)946-8247\nEmail:james26@example.com\nSite:http://www.garner.com/",
+      "DATE": "Invoice Date: 13-Feb-2014",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12136486\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 469.90  $",
+      "TAX": "TAX:VAT (3.54%):  16.63 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 477.04 $"
+    }
+  },
+  {
+    "image": "Template28_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Caitlin Williams\n367 Bobby Shoals\nPerezstad, OK 54349 US\nTel:+(389)202-7159\nEmail:robertlopez@example.org\nSite:https://johnson-kelley.com/",
+      "DATE": "Invoice Date: 19-Dec-2018",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17026187\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 549.93  EUR",
+      "TAX": "TAX:VAT (6.11%):  33.61 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 570.40 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Jones\n70074 Drew Club Apt. 891\nWest Sarah, MS 16866 US\nTel:+(198)383-5270\nEmail:william50@example.net\nSite:https://www.larson.biz/",
+      "DATE": "Invoice Date: 04-May-1993",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17975421\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 133.10  USD",
+      "TAX": "TAX:VAT (5.56%):  7.41 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 134.00 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Virginia Henderson\n904 Calvin Isle Suite 442\nKristinbury, ND 70063 US\nTel:+(139)535-1462\nEmail:floresjose@example.org\nSite:https://kim-hayes.com/",
+      "DATE": "Date: 21-Jul-2001",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19876319\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 734.10  EUR",
+      "TAX": "TAX:VAT (6.93%):  50.86 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 770.20 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mrs. Cheryl Roberts\n3329 Chan Alley\nJasminland, FL 12763 US\nTel:+(126)504-7418\nEmail:bobbywebster@example.net\nSite:http://www.reed.info/",
+      "DATE": "Date: 24-Dec-2004",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14833097\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 951.74  $",
+      "TAX": "TAX:VAT (4.50%):  42.86 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 947.11 $"
+    }
+  },
+  {
+    "image": "Template28_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Sullivan\n59939 Sarah Station Apt. 143\nPerezmouth, AZ 80549 US\nTel:+(155)911-7122\nEmail:james06@example.org\nSite:http://farrell.com/",
+      "DATE": "Date: 15-Aug-2015",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17282128\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 339.77  $",
+      "TAX": "TAX:VAT (5.29%):  17.97 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 344.39 $"
+    }
+  },
+  {
+    "image": "Template28_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrea Norman\n0407 Tiffany Spur\nNorth Jenny, HI 40981 US\nTel:+(342)202-1026\nEmail:chungangelica@example.com\nSite:http://reeves.com/",
+      "DATE": "Invoice Date: 20-Oct-2018",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10829701\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 404.48  EUR",
+      "TAX": "TAX:VAT (5.72%):  23.13 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 409.08 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michele Baker\n65705 James Cove Suite 199\nNew Richard, MN 32951 US\nTel:+(027)534-9368\nEmail:barbara61@example.org\nSite:https://dawson.com/",
+      "DATE": "Date: 05-Mar-2001",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14942941\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 539.41  EUR",
+      "TAX": "TAX:VAT (3.74%):  20.17 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 548.47 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Walker\n773 Taylor Loaf\nStevenmouth, PR 07101 US\nTel:+(274)092-3331\nEmail:kelli20@example.com\nSite:https://willis-martinez.biz/",
+      "DATE": "Invoice Date: 05-Oct-2001",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17626308\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 497.67  USD",
+      "TAX": "TAX:VAT (6.91%):  34.37 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 527.06 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tiffany Reynolds\n317 Rogers Place Suite 593\nLake Brianhaven, VT 29521 US\nTel:+(312)395-3129\nEmail:david96@example.com\nSite:https://www.jackson-sims.com/",
+      "DATE": "Date: 03-Dec-1997",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15957189\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 212.09  $",
+      "TAX": "TAX:VAT (3.26%):  6.92 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 214.43 $"
+    }
+  },
+  {
+    "image": "Template28_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Howard Brown\n159 Sara Isle Suite 238\nCharlesport, FM 40109 US\nTel:+(584)622-3630\nEmail:michael22@example.net\nSite:http://nichols-hunt.net/",
+      "DATE": "Invoice Date: 27-Sep-2002",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16005664\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 152.84  USD",
+      "TAX": "TAX:VAT (6.48%):  9.90 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 157.12 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Irwin\n0984 Adams Road\nNorth Williamside, SD 94638 US\nTel:+(524)689-1533\nEmail:zachary22@example.net\nSite:http://quinn.org/",
+      "DATE": "Date: 29-Sep-1997",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10423557\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 252.64  EUR",
+      "TAX": "TAX:VAT (6.26%):  15.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 259.30 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ann Powell\n233 Kevin Mill\nSharonshire, OR 76083 US\nTel:+(031)040-4781\nEmail:jessicatodd@example.com\nSite:https://www.cooper.com/",
+      "DATE": "Invoice Date: 13-Oct-2015",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17304797\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1160.77  EUR",
+      "TAX": "TAX:VAT (4.10%):  47.58 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1164.59 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jill Harmon\n66470 Andrea Extensions\nJohntown, CT 84426 US\nTel:+(526)197-5279\nEmail:mcarter@example.net\nSite:http://www.shelton.org/",
+      "DATE": "Date: 20-Oct-2008",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12543947\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 899.67  EUR",
+      "TAX": "TAX:VAT (4.23%):  38.01 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 904.30 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samuel Newton\n92474 Maria Islands Suite 368\nSouth William, MS 89155 US\nTel:+(265)128-2621\nEmail:hbell@example.net\nSite:http://www.lopez-watkins.biz/",
+      "DATE": "Date: 02-Jun-2014",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14530273\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 546.13  EUR",
+      "TAX": "TAX:VAT (5.29%):  28.90 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 560.89 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Leslie Mitchell\n523 Lisa Pine\nCraigfort, AZ 27515 US\nTel:+(594)744-7504\nEmail:williamsjames@example.org\nSite:https://benson.com/",
+      "DATE": "Date: 11-Jul-2014",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14576742\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1025.80  USD",
+      "TAX": "TAX:VAT (6.12%):  62.80 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1037.41 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Maria Glass\n610 Anderson Corner\nJonesberg, NM 20221 US\nTel:+(283)931-7438\nEmail:keith33@example.org\nSite:http://bishop.biz/",
+      "DATE": "Date: 16-Feb-2017",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10737913\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 305.25  USD",
+      "TAX": "TAX:VAT (4.98%):  15.20 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 310.04 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance137.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Steven Pierce\n599 William Mountains Apt. 832\nBrowningburgh, AR 90501 US\nTel:+(877)566-2761\nEmail:moodykevin@example.com\nSite:https://adams.biz/",
+      "DATE": "Date: 16-Mar-2022",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15006705\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 517.68  $",
+      "TAX": "TAX:VAT (4.66%):  24.13 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 534.20 $"
+    }
+  },
+  {
+    "image": "Template28_Instance124.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Edward Ingram\n8099 Corey Spur Apt. 076\nCameronstad, CA 24176 US\nTel:+(296)485-1612\nEmail:mark59@example.org\nSite:https://www.brown.com/",
+      "DATE": "Date: 21-Dec-2003",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19245683\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1144.24  $",
+      "TAX": "TAX:VAT (5.92%):  67.69 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1189.85 $"
+    }
+  },
+  {
+    "image": "Template28_Instance41.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Irwin\n11307 Nichols Creek Suite 563\nJacksonfurt, GU 16696 US\nTel:+(546)677-8594\nEmail:max67@example.org\nSite:http://wilson.com/",
+      "DATE": "Invoice Date: 23-Feb-2021",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18507823\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 756.48  $",
+      "TAX": "TAX:VAT (5.63%):  42.61 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 765.50 $"
+    }
+  },
+  {
+    "image": "Template28_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephen Fisher\n730 Nicole Trafficway Suite 408\nAmyside, AR 68643 US\nTel:+(819)849-2081\nEmail:steelewhitney@example.org\nSite:https://www.martin.info/",
+      "DATE": "Invoice Date: 12-Dec-2014",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17211658\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 453.74  $",
+      "TAX": "TAX:VAT (5.99%):  27.17 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 460.54 $"
+    }
+  },
+  {
+    "image": "Template28_Instance163.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie York\n2522 Austin Station Suite 714\nPort Jimmyport, CO 53039 US\nTel:+(402)598-4411\nEmail:portiz@example.org\nSite:https://www.johnson.biz/",
+      "DATE": "Invoice Date: 29-Mar-2005",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  18496488\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 994.55  EUR",
+      "TAX": "TAX:VAT (3.16%):  31.47 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 986.14 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dennis Haas\n12669 Kenneth Center\nRobinsonburgh, MD 99765 US\nTel:+(531)408-9453\nEmail:linda92@example.com\nSite:http://www.durham.info/",
+      "DATE": "Invoice Date: 10-Nov-2022",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17764078\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 314.73  $",
+      "TAX": "TAX:VAT (3.58%):  11.28 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 319.02 $"
+    }
+  },
+  {
+    "image": "Template28_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Morgan Coleman\n010 John Valley\nPerkinsberg, NH 37724 US\nTel:+(685)933-3523\nEmail:brewernicholas@example.com\nSite:http://hodge.info/",
+      "DATE": "Invoice Date: 28-Mar-2016",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13313796\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 756.27  USD",
+      "TAX": "TAX:VAT (4.69%):  35.49 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 762.34 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Zachary Harris\n7128 Martin Stravenue Apt. 729\nPort Hunter, OK 21029 US\nTel:+(212)254-2324\nEmail:judy72@example.com\nSite:http://www.moore-dickerson.com/",
+      "DATE": "Invoice Date: 13-Jun-2012",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  10953940\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 750.14  $",
+      "TAX": "TAX:VAT (3.58%):  26.87 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 743.40 $"
+    }
+  },
+  {
+    "image": "Template28_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Beverly Wilson\n064 Mary Plains Apt. 896\nDavisport, CO 09709 US\nTel:+(673)516-9600\nEmail:danielle90@example.org\nSite:http://www.white.com/",
+      "DATE": "Date: 09-Aug-2005",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19016620\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1335.11  EUR",
+      "TAX": "TAX:VAT (4.01%):  53.51 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1361.25 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sherri Mccormick\n45278 Prince Glen\nNorth Wendy, ND 90568 US\nTel:+(002)395-7637\nEmail:jennifer80@example.net\nSite:http://gentry.net/",
+      "DATE": "Date: 13-Nov-2000",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18816552\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 736.26  EUR",
+      "TAX": "TAX:VAT (6.82%):  50.18 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 753.31 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Virginia Smith\n602 Brett Place\nTonyatown, AS 01811 US\nTel:+(766)203-4753\nEmail:cardenasbrian@example.com\nSite:http://www.buckley-chandler.com/",
+      "DATE": "Invoice Date: 02-May-1994",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13351991\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 585.48  $",
+      "TAX": "TAX:VAT (6.84%):  40.04 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 617.56 $"
+    }
+  },
+  {
+    "image": "Template28_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Robert Hall\n1610 Aaron Orchard Suite 377\nWestchester, AK 90003 US\nTel:+(274)330-4979\nEmail:joneselizabeth@example.org\nSite:https://mcdonald.com/",
+      "DATE": "Invoice Date: 04-Dec-2012",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  15743234\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1003.04  EUR",
+      "TAX": "TAX:VAT (3.06%):  30.68 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1014.26 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Harry Contreras\n6819 Cristian Prairie\nSouth Gary, NM 51208 US\nTel:+(261)280-1869\nEmail:obrown@example.org\nSite:https://www.taylor.com/",
+      "DATE": "Date: 10-Jul-2010",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13727477\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 381.66  EUR",
+      "TAX": "TAX:VAT (3.94%):  15.06 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 383.48 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lee Herrera\n7300 Nathaniel Mills\nPaulmouth, RI 04794 US\nTel:+(153)276-9894\nEmail:wolsen@example.net\nSite:https://www.jones.biz/",
+      "DATE": "Invoice Date: 06-Oct-2002",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13758387\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1046.92  $",
+      "TAX": "TAX:VAT (5.43%):  56.90 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1077.65 $"
+    }
+  },
+  {
+    "image": "Template28_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Pacheco\n7245 Jacqueline Mills\nKiarabury, VT 85889 US\nTel:+(943)498-7740\nEmail:nicholasnewman@example.org\nSite:https://garcia.com/",
+      "DATE": "Invoice Date: 29-Jan-2008",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16658493\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1049.94  $",
+      "TAX": "TAX:VAT (4.64%):  48.67 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1055.35 $"
+    }
+  },
+  {
+    "image": "Template28_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amber Romero\n08469 James Hills Suite 663\nSouth Kennethshire, KS 56105 US\nTel:+(193)395-7171\nEmail:bethbrown@example.net\nSite:https://www.vasquez.org/",
+      "DATE": "Invoice Date: 25-Jun-2006",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17676004\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 239.86  $",
+      "TAX": "TAX:VAT (3.37%):  8.08 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 242.33 $"
+    }
+  },
+  {
+    "image": "Template28_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melissa Walsh\n70197 Gonzales Ferry\nStevensville, KS 25770 US\nTel:+(866)066-8815\nEmail:marissasantiago@example.net\nSite:http://www.thompson-perez.net/",
+      "DATE": "Date: 09-Apr-2008",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19772866\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 888.12  EUR",
+      "TAX": "TAX:VAT (6.80%):  60.36 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 914.82 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Juan Gonzalez\n8396 Ashley Keys Apt. 750\nNew Danielland, NC 11309 US\nTel:+(619)191-2702\nEmail:morganjoshua@example.com\nSite:https://collins-martin.biz/",
+      "DATE": "Invoice Date: 21-Feb-2005",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17958981\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 958.73  $",
+      "TAX": "TAX:VAT (3.66%):  35.13 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 966.06 $"
+    }
+  },
+  {
+    "image": "Template28_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anthony Richmond\n77290 Porter Islands\nTroyburgh, ID 26251 US\nTel:+(403)890-2418\nEmail:danielmontgomery@example.org\nSite:https://www.martin.com/",
+      "DATE": "Date: 26-Dec-2004",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  13525774\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1117.85  EUR",
+      "TAX": "TAX:VAT (6.47%):  72.30 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1144.32 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance89.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Amber Tyler PhD\n4846 Abigail Fall Apt. 192\nMarcmouth, OR 10488 US\nTel:+(455)536-5965\nEmail:kathrynfranklin@example.com\nSite:https://yoder.com/",
+      "DATE": "Invoice Date: 02-Nov-2014",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14909154\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 764.40  USD",
+      "TAX": "TAX:VAT (6.41%):  48.98 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 775.47 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jasmine Miller\n3232 Kathryn Walks Apt. 972\nPort Davidside, WI 86703 US\nTel:+(537)108-3193\nEmail:marcusbarr@example.org\nSite:http://www.gonzales.info/",
+      "DATE": "Date: 25-Apr-2016",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  14462416\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 397.54  $",
+      "TAX": "TAX:VAT (4.20%):  16.69 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 405.01 $"
+    }
+  },
+  {
+    "image": "Template28_Instance98.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Elizabeth Swanson\n278 Mueller Park Apt. 039\nGeoffreymouth, NY 17372 US\nTel:+(324)910-6358\nEmail:christopherjohnson@example.com\nSite:https://www.farmer.com/",
+      "DATE": "Date: 03-Nov-2006",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19761677\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 635.38  EUR",
+      "TAX": "TAX:VAT (3.10%):  19.71 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 629.23 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gabriela Schmidt\n694 Joshua Hills\nLake Lauren, GU 11249 US\nTel:+(789)175-7052\nEmail:vincent58@example.com\nSite:http://www.simmons-webb.org/",
+      "DATE": "Invoice Date: 09-Feb-2013",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12426141\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 381.22  USD",
+      "TAX": "TAX:VAT (3.00%):  11.46 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 383.80 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Meghan Morris\n3810 Luis Stravenue\nGutierrezstad, LA 96179 US\nTel:+(428)133-6027\nEmail:kbennett@example.org\nSite:http://www.hopkins.com/",
+      "DATE": "Invoice Date: 30-Apr-2013",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10553040\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 943.60  EUR",
+      "TAX": "TAX:VAT (3.99%):  37.63 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 957.17 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Yolanda Sanchez\n011 Smith Fields\nSheilaview, FM 52953 US\nTel:+(479)945-1529\nEmail:ambersalazar@example.com\nSite:https://keller-mosley.net/",
+      "DATE": "Date: 01-Dec-2009",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19828199\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 138.61  EUR",
+      "TAX": "TAX:VAT (4.91%):  6.80 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 141.47 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sierra Duran\n440 John Ways Suite 328\nNew Sarah, AZ 66011 US\nTel:+(613)603-6044\nEmail:cdrake@example.net\nSite:http://stone.biz/",
+      "DATE": "Date: 03-Aug-1998",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13028428\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 624.64  $",
+      "TAX": "TAX:VAT (6.19%):  38.66 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 633.75 $"
+    }
+  },
+  {
+    "image": "Template28_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dustin Schmidt\n854 Tyler Park Apt. 944\nLake Bradley, NC 65071 US\nTel:+(197)836-3356\nEmail:misty37@example.org\nSite:http://small.com/",
+      "DATE": "Date: 14-Aug-1996",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  19527809\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 349.17  $",
+      "TAX": "TAX:VAT (3.98%):  13.91 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 357.21 $"
+    }
+  },
+  {
+    "image": "Template28_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joanne Bruce\n72794 Erin Fall Suite 473\nJosefurt, DC 94814 US\nTel:+(407)186-5341\nEmail:yvasquez@example.com\nSite:http://williams.com/",
+      "DATE": "Date: 26-Nov-2005",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15917039\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 208.70  USD",
+      "TAX": "TAX:VAT (4.16%):  8.69 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 215.07 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sharon Kelley\n6224 Randy Station\nEast Oliviaborough, DE 70344 US\nTel:+(719)051-8781\nEmail:foleyanne@example.net\nSite:https://www.larsen.com/",
+      "DATE": "Invoice Date: 30-Oct-2006",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12101512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 870.04  $",
+      "TAX": "TAX:VAT (5.55%):  48.31 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 881.03 $"
+    }
+  },
+  {
+    "image": "Template28_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jimmy Steele\n9786 Leslie Lakes\nPhilliphaven, AK 41838 US\nTel:+(761)044-9521\nEmail:bergerkristin@example.net\nSite:https://miller.info/",
+      "DATE": "Invoice Date: 02-Jul-2005",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11684922\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 453.67  $",
+      "TAX": "TAX:VAT (6.62%):  30.02 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 473.66 $"
+    }
+  },
+  {
+    "image": "Template28_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brianna Logan\n4107 Abbott Valleys\nNorth April, AK 56516 US\nTel:+(466)893-0742\nEmail:tammyking@example.com\nSite:https://www.palmer.com/",
+      "DATE": "Date: 13-Sep-1996",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18989239\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 261.94  USD",
+      "TAX": "TAX:VAT (5.03%):  13.18 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 270.69 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Johnson\n705 Robert Mills\nPricefort, GU 17971 US\nTel:+(588)081-8126\nEmail:dhale@example.net\nSite:http://www.rice.com/",
+      "DATE": "Date: 10-May-1995",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16580732\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 883.12  EUR",
+      "TAX": "TAX:VAT (6.70%):  59.17 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 926.48 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Chris Castro\n3228 Cline Station\nGuzmanburgh, TN 12089 US\nTel:+(017)899-2756\nEmail:fletchercarl@example.net\nSite:http://hernandez-acevedo.com/",
+      "DATE": "Date: 30-Apr-2001",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  13748148\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1437.44  USD",
+      "TAX": "TAX:VAT (5.64%):  81.04 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1480.96 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samuel Chaney\n78022 Hood Isle\nRhodeston, TX 11110 US\nTel:+(629)422-1901\nEmail:raymond63@example.com\nSite:https://www.rose.net/",
+      "DATE": "Date: 09-Jul-2020",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13278769\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 502.42  USD",
+      "TAX": "TAX:VAT (6.03%):  30.29 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 508.85 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Holly Roberts\n590 Kevin Camp Suite 685\nKellyfort, MO 38701 US\nTel:+(450)402-4473\nEmail:kcampos@example.com\nSite:http://www.gregory-lopez.com/",
+      "DATE": "Date: 28-May-2001",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14407103\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 163.43  EUR",
+      "TAX": "TAX:VAT (6.29%):  10.27 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 170.73 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brent Hoover\n230 Richard Mountain Apt. 654\nNorth Josephbury, NH 62914 US\nTel:+(050)656-9606\nEmail:janet72@example.net\nSite:https://www.jackson.com/",
+      "DATE": "Date: 13-Jan-2011",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17958894\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 698.97  EUR",
+      "TAX": "TAX:VAT (6.42%):  44.85 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 713.55 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Russell Leonard\n3568 Jose Lane\nTimothychester, NV 25071 US\nTel:+(348)956-6492\nEmail:charlestorres@example.net\nSite:https://morgan-wilson.net/",
+      "DATE": "Date: 17-Apr-1995",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  19547628\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 388.28  $",
+      "TAX": "TAX:VAT (4.27%):  16.59 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 388.60 $"
+    }
+  },
+  {
+    "image": "Template28_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bryan Mason\n7983 Susan Hollow Apt. 760\nNorth Sarahborough, CA 87702 US\nTel:+(181)510-2981\nEmail:richard62@example.net\nSite:https://www.mcguire-lindsey.biz/",
+      "DATE": "Invoice Date: 01-Apr-2001",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16624952\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1232.14  EUR",
+      "TAX": "TAX:VAT (6.34%):  78.08 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1290.38 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Taylor Lopez\n89805 Morgan Trafficway Suite 530\nAndrewmouth, WA 12020 US\nTel:+(955)141-2210\nEmail:guerreroelizabeth@example.com\nSite:http://diaz.com/",
+      "DATE": "Invoice Date: 06-Nov-1997",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  15115202\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 596.70  $",
+      "TAX": "TAX:VAT (6.86%):  40.92 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 617.75 $"
+    }
+  },
+  {
+    "image": "Template28_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Erika Kramer\n26830 Charles Ports Apt. 056\nSamuelton, TN 28151 US\nTel:+(233)721-8937\nEmail:kimberlyweber@example.com\nSite:https://pittman.org/",
+      "DATE": "Invoice Date: 15-Dec-2015",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  15612172\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 256.06  USD",
+      "TAX": "TAX:VAT (3.78%):  9.69 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 260.99 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Thomas Lewis\n62488 Brandy Prairie Apt. 088\nSouth Stevenhaven, NM 96015 US\nTel:+(459)145-6761\nEmail:amanda27@example.com\nSite:https://lee.com/",
+      "DATE": "Date: 07-Jul-2003",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  19542512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 603.04  USD",
+      "TAX": "TAX:VAT (5.60%):  33.76 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 609.54 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Johnathan Hardy\n25868 Juan Unions Apt. 877\nFernandezmouth, WA 10728 US\nTel:+(134)874-4463\nEmail:brian29@example.com\nSite:http://murphy-heath.com/",
+      "DATE": "Invoice Date: 30-Mar-1995",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10218300\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1274.81  $",
+      "TAX": "TAX:VAT (5.63%):  71.80 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1293.71 $"
+    }
+  },
+  {
+    "image": "Template28_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jenna Hernandez\n1580 Crystal Vista Apt. 097\nJosephmouth, MO 80742 US\nTel:+(962)333-7088\nEmail:rsuarez@example.net\nSite:http://erickson.org/",
+      "DATE": "Invoice Date: 04-Aug-2015",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14804060\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 581.07  EUR",
+      "TAX": "TAX:VAT (6.63%):  38.55 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 613.75 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cody Mata\n235 Woods Stream\nPort Calvinmouth, KY 12300 US\nTel:+(140)494-8554\nEmail:wrightchelsea@example.org\nSite:https://www.moore.com/",
+      "DATE": "Invoice Date: 29-Feb-1996",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12460869\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1127.80  USD",
+      "TAX": "TAX:VAT (4.27%):  48.10 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1124.81 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Charles Smith\n631 Rocha Cape\nBauerport, MP 88516 US\nTel:+(741)187-3567\nEmail:alicia35@example.com\nSite:https://www.harper.net/",
+      "DATE": "Date: 31-Aug-2003",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  10190003\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 689.96  EUR",
+      "TAX": "TAX:VAT (5.78%):  39.86 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 710.09 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance174.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jose Rodriguez\n7952 Morales Mountain Suite 737\nEast Ericatown, WV 95839 US\nTel:+(836)380-0435\nEmail:sarahnewman@example.net\nSite:http://www.anderson.com/",
+      "DATE": "Date: 10-Feb-2007",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11913049\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 533.43  EUR",
+      "TAX": "TAX:VAT (5.83%):  31.10 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 547.67 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance173.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Antonio Jones\n80380 Mark Estate\nNorth Stacy, DC 87223 US\nTel:+(366)852-9036\nEmail:annrivera@example.com\nSite:https://www.trevino.com/",
+      "DATE": "Invoice Date: 03-Feb-1997",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  13692427\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 512.24  USD",
+      "TAX": "TAX:VAT (6.21%):  31.82 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 536.58 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Terry\n9713 Scott Road\nEast Cynthiaburgh, IN 89750 US\nTel:+(242)006-2131\nEmail:beckymcneil@example.org\nSite:http://newman-molina.com/",
+      "DATE": "Date: 09-Jan-1994",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  11876361\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 568.05  USD",
+      "TAX": "TAX:VAT (5.61%):  31.87 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 591.57 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Antonio Horne\n21218 Tonya Island\nDanielfort, ND 42175 US\nTel:+(994)550-3123\nEmail:mark60@example.com\nSite:https://www.watson-francis.net/",
+      "DATE": "Date: 08-Jul-2022",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  17650940\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 709.68  $",
+      "TAX": "TAX:VAT (4.47%):  31.70 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 714.20 $"
+    }
+  },
+  {
+    "image": "Template28_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Crystal Russell\n665 Hall Creek\nNew Christopher, IN 43663 US\nTel:+(488)511-7315\nEmail:youngmakayla@example.com\nSite:https://shannon.net/",
+      "DATE": "Invoice Date: 31-May-2017",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12116280\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 783.86  USD",
+      "TAX": "TAX:VAT (6.77%):  53.10 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 821.91 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alfred Larsen\n79515 Allen Mill Suite 575\nMillerchester, OK 03507 US\nTel:+(919)068-5926\nEmail:tiffanygonzalez@example.com\nSite:https://www.payne.com/",
+      "DATE": "Invoice Date: 25-Aug-2022",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  12065442\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 442.30  $",
+      "TAX": "TAX:VAT (5.80%):  25.66 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 463.18 $"
+    }
+  },
+  {
+    "image": "Template28_Instance106.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kurt Garrett\n873 Jason Crossing Apt. 737\nCindyburgh, CT 97471 US\nTel:+(800)359-7452\nEmail:kathrynthomas@example.com\nSite:http://houston.com/",
+      "DATE": "Date: 28-May-1995",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19244242\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 695.04  USD",
+      "TAX": "TAX:VAT (4.16%):  28.93 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 691.23 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Shelley Shaw\n0365 Angela Ports\nStoneburgh, CO 65626 US\nTel:+(339)115-8074\nEmail:dsmith@example.net\nSite:https://www.calderon.com/",
+      "DATE": "Invoice Date: 07-Oct-2016",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  12033516\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 369.72  USD",
+      "TAX": "TAX:VAT (5.68%):  21.01 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 380.82 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christine Miller\n7851 Moore Ridge Apt. 344\nSouth Chadton, PA 71040 US\nTel:+(909)343-1398\nEmail:jose30@example.net\nSite:http://www.jones-obrien.com/",
+      "DATE": "Invoice Date: 06-Jan-2014",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11875637\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 593.52  $",
+      "TAX": "TAX:VAT (4.39%):  26.07 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 608.31 $"
+    }
+  },
+  {
+    "image": "Template28_Instance81.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Scott\n935 Christopher Light\nEast Michael, MN 64767 US\nTel:+(020)192-9430\nEmail:robinrodgers@example.org\nSite:http://mcmillan.info/",
+      "DATE": "Date: 24-Apr-1998",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  19110309\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 790.20  USD",
+      "TAX": "TAX:VAT (4.14%):  32.69 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 785.20 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jordan Ibarra\n562 Ashley Meadow Apt. 481\nLake Lisa, RI 55510 US\nTel:+(847)217-9582\nEmail:kimstephen@example.org\nSite:https://www.roth.biz/",
+      "DATE": "Date: 02-Jul-2015",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16646192\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 292.94  EUR",
+      "TAX": "TAX:VAT (6.48%):  18.99 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 301.09 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Alison Wilson\n0815 Collins Bypass\nWest Stacey, ME 37852 US\nTel:+(518)851-3872\nEmail:brentcoleman@example.org\nSite:http://www.turner.com/",
+      "DATE": "Invoice Date: 19-Aug-2019",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16442612\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1108.82  USD",
+      "TAX": "TAX:VAT (5.20%):  57.67 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1126.35 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Ramirez\n18875 Sarah Point\nNicolestad, MD 29317 US\nTel:+(560)565-7234\nEmail:bakerdebra@example.com\nSite:http://lopez-campbell.com/",
+      "DATE": "Date: 17-Sep-2004",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  14875022\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 386.07  USD",
+      "TAX": "TAX:VAT (4.08%):  15.75 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 385.30 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Nelson\n669 Sutton Squares\nWandashire, WA 42420 US\nTel:+(774)085-3705\nEmail:jessicavillarreal@example.net\nSite:https://walker.com/",
+      "DATE": "Date: 31-Jan-2014",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12907944\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 861.38  $",
+      "TAX": "TAX:VAT (3.60%):  31.04 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 853.74 $"
+    }
+  },
+  {
+    "image": "Template28_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carrie Mitchell\n1630 Christina Point Suite 322\nEast Jenniferton, AR 38513 US\nTel:+(535)359-7618\nEmail:xmcconnell@example.org\nSite:http://gonzales-shaw.com/",
+      "DATE": "Invoice Date: 28-Sep-2012",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  17257329\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 637.34  $",
+      "TAX": "TAX:VAT (5.56%):  35.45 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 652.78 $"
+    }
+  },
+  {
+    "image": "Template28_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bobby Harding\n96422 Anne Estates Apt. 450\nPort Ebony, IA 33281 US\nTel:+(133)235-9017\nEmail:david55@example.com\nSite:https://www.mann.com/",
+      "DATE": "Invoice Date: 04-Aug-2011",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14692664\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1023.15  EUR",
+      "TAX": "TAX:VAT (6.91%):  70.71 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1075.95 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Diana Chen\n6375 Lisa Lock\nLake Jessicaton, TN 88871 US\nTel:+(990)871-8622\nEmail:arnolddarren@example.org\nSite:http://www.white.com/",
+      "DATE": "Invoice Date: 15-Nov-2012",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12083156\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 260.50  EUR",
+      "TAX": "TAX:VAT (3.68%):  9.58 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 264.84 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Caleb Bender\n548 Kristen Forest Apt. 335\nKeithside, MT 41475 US\nTel:+(589)424-8261\nEmail:vperez@example.net\nSite:http://www.savage.com/",
+      "DATE": "Invoice Date: 02-Jun-1994",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11912650\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 757.47  USD",
+      "TAX": "TAX:VAT (4.85%):  36.73 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 785.87 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Leah Frazier\n32596 Aaron Village\nDavisfort, TN 27370 US\nTel:+(311)421-8800\nEmail:jasmine34@example.com\nSite:https://montgomery.net/",
+      "DATE": "Invoice Date: 24-Jul-2022",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16582754\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1271.47  EUR",
+      "TAX": "TAX:VAT (5.65%):  71.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1320.01 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kristin Powell\n86667 Berg Branch\nLewisfurt, AS 71237 US\nTel:+(327)001-0250\nEmail:carlosjohnson@example.org\nSite:https://duncan.info/",
+      "DATE": "Date: 26-Jul-1998",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18534127\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 672.10  EUR",
+      "TAX": "TAX:VAT (4.20%):  28.21 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 675.78 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Raven Paul\n3134 Jody Port\nTiffanyport, AS 75576 US\nTel:+(524)011-1273\nEmail:melaniegarcia@example.org\nSite:https://hernandez-weaver.com/",
+      "DATE": "Date: 22-Sep-2013",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13292912\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 264.35  EUR",
+      "TAX": "TAX:VAT (6.60%):  17.44 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 272.04 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:James Parker\n581 Bell Extensions Suite 729\nNorth Cathy, NE 61732 US\nTel:+(211)367-2548\nEmail:julienielsen@example.org\nSite:http://blair.biz/",
+      "DATE": "Date: 30-Jan-2022",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  17029669\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 545.07  USD",
+      "TAX": "TAX:VAT (6.08%):  33.17 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 560.74 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicholas Cruz\n7794 Hobbs Turnpike\nJacobmouth, PA 88862 US\nTel:+(747)078-6537\nEmail:bhernandez@example.org\nSite:http://ferguson.com/",
+      "DATE": "Invoice Date: 22-Feb-1999",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  12470977\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 562.80  EUR",
+      "TAX": "TAX:VAT (5.47%):  30.78 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 567.24 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andre King\n5279 Lindsey Ports\nNorth Jaymouth, NY 47446 US\nTel:+(205)460-4204\nEmail:psaunders@example.org\nSite:http://www.jordan.org/",
+      "DATE": "Invoice Date: 09-Jul-2001",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13214856\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 434.42  EUR",
+      "TAX": "TAX:VAT (6.98%):  30.34 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 452.38 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Pace\n946 Carpenter Light\nSouth Jesse, LA 83048 US\nTel:+(347)246-8918\nEmail:lawrencebaker@example.com\nSite:http://www.mueller.org/",
+      "DATE": "Invoice Date: 14-Feb-2001",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16914831\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 663.28  $",
+      "TAX": "TAX:VAT (3.40%):  22.55 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 661.29 $"
+    }
+  },
+  {
+    "image": "Template28_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Powell\n4990 Chen Crossroad\nSouth Ronnie, IL 93657 US\nTel:+(583)427-9141\nEmail:kiddlaura@example.com\nSite:https://www.thomas.info/",
+      "DATE": "Invoice Date: 12-Jan-2004",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  10134005\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 683.86  $",
+      "TAX": "TAX:VAT (4.07%):  27.86 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 689.63 $"
+    }
+  },
+  {
+    "image": "Template28_Instance119.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrea Baxter\n5139 Daryl Groves Suite 632\nEast Christianburgh, UT 72835 US\nTel:+(061)923-0398\nEmail:danielle22@example.net\nSite:https://www.adams-molina.biz/",
+      "DATE": "Invoice Date: 12-Apr-2007",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11529351\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1358.31  USD",
+      "TAX": "TAX:VAT (3.83%):  52.01 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1361.29 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Butler\n2871 Jeremy Knolls Apt. 950\nWest Christine, NM 85266 US\nTel:+(181)589-5707\nEmail:morsejohn@example.com\nSite:https://www.lane.com/",
+      "DATE": "Date: 11-Jun-2016",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12125690\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1121.62  $",
+      "TAX": "TAX:VAT (4.53%):  50.83 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1126.91 $"
+    }
+  },
+  {
+    "image": "Template28_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ricardo May\n430 Cooper Plains Apt. 015\nBowmanstad, MP 09303 US\nTel:+(730)274-2373\nEmail:montgomerydavid@example.com\nSite:https://www.olson.com/",
+      "DATE": "Invoice Date: 18-Aug-2009",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14863043\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 364.32  $",
+      "TAX": "TAX:VAT (4.18%):  15.21 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 373.41 $"
+    }
+  },
+  {
+    "image": "Template28_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Devon Ross\n8742 Dawson Branch Suite 017\nSusanville, RI 70964 US\nTel:+(646)627-6619\nEmail:evanrodriguez@example.net\nSite:https://white.biz/",
+      "DATE": "Invoice Date: 28-May-2022",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  12831641\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 936.04  $",
+      "TAX": "TAX:VAT (3.65%):  34.14 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 939.57 $"
+    }
+  },
+  {
+    "image": "Template28_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Melissa Howe\n675 Coleman Plains\nWilliamton, IL 84630 US\nTel:+(114)178-5404\nEmail:christopher80@example.org\nSite:https://www.franklin-rivera.com/",
+      "DATE": "Invoice Date: 23-Jun-2001",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  12265352\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 733.26  $",
+      "TAX": "TAX:VAT (5.74%):  42.06 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 754.64 $"
+    }
+  },
+  {
+    "image": "Template28_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Huynh\n564 Brown Track\nChristinabury, MO 82298 US\nTel:+(270)944-8243\nEmail:stephen29@example.com\nSite:https://jackson.com/",
+      "DATE": "Invoice Date: 26-Jan-1993",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  17950486\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 718.84  $",
+      "TAX": "TAX:VAT (5.73%):  41.16 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 745.12 $"
+    }
+  },
+  {
+    "image": "Template28_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Scott Brady\n6263 Alvarez Unions Apt. 115\nSouth Christinestad, MI 23095 US\nTel:+(796)193-4156\nEmail:mmcguire@example.com\nSite:https://www.williams.net/",
+      "DATE": "Invoice Date: 18-Jun-1996",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  17495415\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1085.01  USD",
+      "TAX": "TAX:VAT (6.58%):  71.39 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1112.02 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Blackwell\n76139 Stephanie Grove\nJohnstonton, NJ 78732 US\nTel:+(992)532-3043\nEmail:amywilson@example.com\nSite:https://oneal-kelley.com/",
+      "DATE": "Date: 13-Dec-2001",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13092203\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 188.26  EUR",
+      "TAX": "TAX:VAT (4.15%):  7.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 188.88 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Brown\n236 Gordon Port Suite 187\nEast Alicia, TN 57383 US\nTel:+(546)807-6898\nEmail:myersjermaine@example.net\nSite:https://roach-shaffer.net/",
+      "DATE": "Date: 19-Jun-2002",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10272596\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 474.97  $",
+      "TAX": "TAX:VAT (4.10%):  19.47 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 480.52 $"
+    }
+  },
+  {
+    "image": "Template28_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Gonzalez\n460 Kristine Estate Suite 199\nHurleybury, MI 15255 US\nTel:+(227)551-0674\nEmail:goodwinpaul@example.com\nSite:https://www.martinez-cook.com/",
+      "DATE": "Date: 13-Nov-2002",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  18238606\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 401.50  USD",
+      "TAX": "TAX:VAT (4.29%):  17.23 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 405.40 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brandon Schmidt\n24010 Mary Club\nPort Brianbury, UT 94456 US\nTel:+(490)545-7008\nEmail:petersonjose@example.net\nSite:https://www.woods.com/",
+      "DATE": "Invoice Date: 20-Sep-1997",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16010085\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 335.94  $",
+      "TAX": "TAX:VAT (3.79%):  12.74 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 334.10 $"
+    }
+  },
+  {
+    "image": "Template28_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bryan Marshall\n469 Garza Spur\nWilsonburgh, OK 48100 US\nTel:+(686)238-3154\nEmail:pamelabrown@example.org\nSite:http://taylor.info/",
+      "DATE": "Date: 30-Mar-2013",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10024843\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 559.96  USD",
+      "TAX": "TAX:VAT (5.66%):  31.67 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 577.35 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance188.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Juan Wilson\n514 Park Cove Suite 802\nSouth Christinastad, CA 55045 US\nTel:+(179)335-1649\nEmail:bbuchanan@example.com\nSite:http://williams.com/",
+      "DATE": "Invoice Date: 01-Aug-2003",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  10379121\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 711.02  USD",
+      "TAX": "TAX:VAT (4.24%):  30.12 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 729.91 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Todd Keith\n114 Huynh Road Suite 650\nLake Daniellefurt, WY 75705 US\nTel:+(845)364-9775\nEmail:elizabethharrington@example.com\nSite:http://www.brady.biz/",
+      "DATE": "Invoice Date: 22-Nov-2011",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  18797772\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 175.46  $",
+      "TAX": "TAX:VAT (5.65%):  9.91 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 179.65 $"
+    }
+  },
+  {
+    "image": "Template28_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Garcia\n60564 Stephanie Square\nEast Kimberlymouth, NE 77208 US\nTel:+(718)921-1513\nEmail:katelyngregory@example.com\nSite:https://miranda.info/",
+      "DATE": "Date: 14-Nov-1993",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  16256615\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 389.19  $",
+      "TAX": "TAX:VAT (4.21%):  16.39 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 391.57 $"
+    }
+  },
+  {
+    "image": "Template28_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Rebecca Johnson\n87766 James Island\nJohnnymouth, AZ 77063 US\nTel:+(973)586-9932\nEmail:cherylcarter@example.org\nSite:https://www.marshall.com/",
+      "DATE": "Invoice Date: 22-Apr-2000",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  14859684\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 662.37  $",
+      "TAX": "TAX:VAT (3.71%):  24.59 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 677.29 $"
+    }
+  },
+  {
+    "image": "Template28_Instance139.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Travis Walker\n488 Brittany Rest\nJulieborough, OK 11587 US\nTel:+(208)775-3224\nEmail:nancylopez@example.org\nSite:http://hill.com/",
+      "DATE": "Invoice Date: 22-Oct-2008",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  14582755\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 124.66  EUR",
+      "TAX": "TAX:VAT (6.94%):  8.65 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 131.43 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brandi Ross\n5431 Vincent Lodge Suite 894\nNorth Daniel, AZ 69793 US\nTel:+(402)846-2521\nEmail:townsendamanda@example.com\nSite:https://www.hernandez-baldwin.com/",
+      "DATE": "Date: 21-Jan-2016",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  16488168\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 910.76  $",
+      "TAX": "TAX:VAT (6.69%):  60.89 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 958.26 $"
+    }
+  },
+  {
+    "image": "Template28_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Macias\n19775 Brown Motorway Suite 475\nWest Jennifer, WV 94661 US\nTel:+(531)437-8576\nEmail:clintonrodgers@example.net\nSite:http://torres.com/",
+      "DATE": "Date: 13-Sep-2000",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  15118441\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 451.20  USD",
+      "TAX": "TAX:VAT (5.55%):  25.03 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 462.24 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Gillespie\n53431 John Summit Apt. 743\nKylebury, NE 50006 US\nTel:+(568)099-5539\nEmail:fperez@example.net\nSite:http://jones.biz/",
+      "DATE": "Date: 20-Jun-1993",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11162662\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 596.95  $",
+      "TAX": "TAX:VAT (6.33%):  37.79 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 619.64 $"
+    }
+  },
+  {
+    "image": "Template28_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Justin Allen\n6201 Fischer Key\nHoovertown, NY 91947 US\nTel:+(914)288-0167\nEmail:gfox@example.com\nSite:https://perry.com/",
+      "DATE": "Date: 06-Dec-1997",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  18285037\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 444.97  USD",
+      "TAX": "TAX:VAT (5.04%):  22.44 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 458.60 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance84.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Brown\n840 Smith Crossroad Suite 196\nPort Jesse, WI 02754 US\nTel:+(679)655-4568\nEmail:reginacole@example.net\nSite:http://anderson-burton.com/",
+      "DATE": "Date: 31-Aug-2004",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Europe\nBranch Name          Raf CAMP\nBank Account Number  11920442\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1378.68  $",
+      "TAX": "TAX:VAT (4.00%):  55.15 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1383.09 $"
+    }
+  },
+  {
+    "image": "Template28_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Huffman\n3832 Benjamin Wall\nMorganfurt, MA 94502 US\nTel:+(044)982-5242\nEmail:plopez@example.com\nSite:https://chung.com/",
+      "DATE": "Date: 10-Nov-2014",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19720994\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1294.77  EUR",
+      "TAX": "TAX:VAT (6.33%):  81.97 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1335.70 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Sanders\n9999 Julie Orchard\nDavidtown, GU 31373 US\nTel:+(726)766-2280\nEmail:jeffrey09@example.net\nSite:https://www.aguirre.info/",
+      "DATE": "Date: 21-Oct-2012",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of England\nBranch Name          Raf CAMP\nBank Account Number  11795222\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 400.56  $",
+      "TAX": "TAX:VAT (4.33%):  17.35 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 403.53 $"
+    }
+  },
+  {
+    "image": "Template28_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Watson\n110 Walker Roads\nEast Shannonside, GU 66078 US\nTel:+(047)314-5844\nEmail:sydneyclark@example.com\nSite:http://fields.com/",
+      "DATE": "Invoice Date: 17-Dec-2021",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  11573004\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1008.70  $",
+      "TAX": "TAX:VAT (5.84%):  58.90 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1034.92 $"
+    }
+  },
+  {
+    "image": "Template28_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christopher Miller\n5022 Harper Lodge\nNorth Christinafurt, AZ 58355 US\nTel:+(589)350-5965\nEmail:melissa11@example.org\nSite:https://www.stewart.org/",
+      "DATE": "Date: 01-Dec-2002",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  15067793\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 66.64  USD",
+      "TAX": "TAX:VAT (5.79%):  3.86 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 69.33 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Myers\n2497 Fields Circle\nWest Jorgeview, WA 20425 US\nTel:+(377)729-0327\nEmail:xjimenez@example.com\nSite:https://grimes.com/",
+      "DATE": "Invoice Date: 26-Jan-2021",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  19387465\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1147.05  $",
+      "TAX": "TAX:VAT (4.45%):  51.04 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1143.49 $"
+    }
+  },
+  {
+    "image": "Template28_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Miller\n97379 Wright Mount Apt. 814\nSouth Robert, NJ 78777 US\nTel:+(991)404-8206\nEmail:foleyjennifer@example.com\nSite:https://www.cooke.com/",
+      "DATE": "Date: 08-Aug-2009",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of Texas\nBranch Name          Raf CAMP\nBank Account Number  16914991\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 591.44  USD",
+      "TAX": "TAX:VAT (4.51%):  26.67 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 595.52 USD"
+    }
+  },
+  {
+    "image": "Template28_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Douglas Anderson\n25035 Wright Brook Apt. 064\nPort Mario, NH 31732 US\nTel:+(468)491-6936\nEmail:brandiballard@example.com\nSite:https://harrison.biz/",
+      "DATE": "Invoice Date: 08-Feb-2008",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  14429797\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1288.10  $",
+      "TAX": "TAX:VAT (4.44%):  57.21 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1290.05 $"
+    }
+  },
+  {
+    "image": "Template28_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nancy Hartman\n51301 Townsend Garden Apt. 858\nJonathanfort, AR 98752 US\nTel:+(647)517-0831\nEmail:raymond91@example.net\nSite:https://gibbs.com/",
+      "DATE": "Invoice Date: 01-Jun-2018",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  13205127\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 307.70  $",
+      "TAX": "TAX:VAT (6.20%):  19.06 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 321.96 $"
+    }
+  },
+  {
+    "image": "Template28_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Murray\n91931 Bryan Fields Apt. 180\nNancyshire, OH 25575 US\nTel:+(812)538-7963\nEmail:kelseysimmons@example.net\nSite:https://www.dominguez.com/",
+      "DATE": "Date: 27-Oct-2018",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13486441\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 455.46  EUR",
+      "TAX": "TAX:VAT (6.22%):  28.31 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 461.04 EUR"
+    }
+  },
+  {
+    "image": "Template28_Instance115.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Priscilla Tran\n030 Diaz Circle Apt. 174\nSmithchester, TN 17946 US\nTel:+(244)963-2685\nEmail:ryanjones@example.net\nSite:https://www.thomas.com/",
+      "DATE": "Date: 14-May-1996",
+      "PAYMENT_DETAILS": "Bank Name           Central Bank of USA\nBranch Name          Raf CAMP\nBank Account Number  13580158\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 1691.46  $",
+      "TAX": "TAX:VAT (3.79%):  64.14 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1698.26 $"
+    }
+  },
+  {
+    "image": "Template28_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jill Ruiz\n8880 Tony Mountains\nPort Michelle, NV 94341 US\nTel:+(865)734-7071\nEmail:rtyler@example.com\nSite:http://www.anderson-hines.com/",
+      "DATE": "Invoice Date: 23-Apr-2016",
+      "PAYMENT_DETAILS": "Bank Name           State Bank of England\nBranch Name          Raf CAMP\nBank Account Number  16243653\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:86143 Ruth Isle Apt. 608\nAshleyshire, TN 12593 US",
+      "SUB_TOTAL": "SUB_TOTAL : 844.43  EUR",
+      "TAX": "TAX:VAT (5.59%):  47.20 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 860.55 EUR"
+    }
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "image": "Template47_Instance159.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Apr-2020",
+      "DUE_DATE": "Due Date : 14-Jul-1993",
+      "NUMBER": "Invoice number 2Y7M9d-679",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :47",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 868.48 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance91.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jul-2011",
+      "DUE_DATE": "Due Date : 18-Jun-2003",
+      "NUMBER": "INVOICE ID 3951-945",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :38",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 168.14 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance23.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Jul-2010",
+      "DUE_DATE": "Due Date : 04-Feb-1999",
+      "NUMBER": "INVOICE ID 3050-062",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :31",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 480.06 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance149.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-May-2003",
+      "DUE_DATE": "Due Date : 22-Mar-2007",
+      "NUMBER": "INVOICE # 8Y4M4d-026",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 967.06 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance110.jpg",
+    "ground_truth": {
+      "DATE": "Date: 05-Oct-1999",
+      "DUE_DATE": "Due Date : 29-Mar-2022",
+      "NUMBER": "INVOICE ID 4Y1M7d-017",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :31",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 436.97 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance1.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Apr-1998",
+      "DUE_DATE": "Due Date : 31-Jan-2006",
+      "NUMBER": "Invoice number INV64837157",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :81",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 478.01 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance192.jpg",
+    "ground_truth": {
+      "DATE": "Date: 29-Sep-2003",
+      "DUE_DATE": "Due Date : 01-Nov-2006",
+      "NUMBER": "INVOICE # INV58849009",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :67",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1246.53 $"
+    }
+  },
+  {
+    "image": "Template47_Instance95.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Dec-2002",
+      "DUE_DATE": "Due Date : 28-Jun-1994",
+      "NUMBER": "INVOICE # INV/22-47/146",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :53",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 671.23 $"
+    }
+  },
+  {
+    "image": "Template47_Instance0.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Jan-2013",
+      "DUE_DATE": "Due Date : 06-Dec-1995",
+      "NUMBER": "INVOICE ID INV/56-79/422",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :85",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 348.15 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance25.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-Jul-2008",
+      "DUE_DATE": "Due Date : 17-Jan-1995",
+      "NUMBER": "INVOICE ID 3Y4M4d-945",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 63.72 $"
+    }
+  },
+  {
+    "image": "Template47_Instance102.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Jul-2018",
+      "DUE_DATE": "Due Date : 20-Dec-2019",
+      "NUMBER": "INVOICE # INV/84-84/716",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 625.22 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance92.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Jun-2007",
+      "DUE_DATE": "Due Date : 20-Oct-1997",
+      "NUMBER": "Invoice number INV57211462",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :94",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 85.00 $"
+    }
+  },
+  {
+    "image": "Template47_Instance177.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Aug-2003",
+      "DUE_DATE": "Due Date : 19-Jul-2005",
+      "NUMBER": "INVOICE ID INV/06-76/295",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :26",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 715.53 $"
+    }
+  },
+  {
+    "image": "Template47_Instance48.jpg",
+    "ground_truth": {
+      "DATE": "Date: 10-Feb-2018",
+      "DUE_DATE": "Due Date : 15-Feb-2022",
+      "NUMBER": "INVOICE # 8Y9M8d-323",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :36",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 135.93 $"
+    }
+  },
+  {
+    "image": "Template47_Instance158.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Oct-2009",
+      "DUE_DATE": "Due Date : 05-Sep-1998",
+      "NUMBER": "INVOICE ID 4811-435",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :67",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 399.61 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance178.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-Apr-2013",
+      "DUE_DATE": "Due Date : 23-Mar-2013",
+      "NUMBER": "INVOICE ID INV19914755",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1078.87 $"
+    }
+  },
+  {
+    "image": "Template47_Instance181.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-May-2022",
+      "DUE_DATE": "Due Date : 28-Jul-2017",
+      "NUMBER": "Invoice number 7Y4M3d-493",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :91",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 344.95 $"
+    }
+  },
+  {
+    "image": "Template47_Instance97.jpg",
+    "ground_truth": {
+      "DATE": "Date: 24-Jul-2018",
+      "DUE_DATE": "Due Date : 12-Oct-2007",
+      "NUMBER": "Invoice number 4407-627",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :03",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 931.42 $"
+    }
+  },
+  {
+    "image": "Template47_Instance189.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Mar-2007",
+      "DUE_DATE": "Due Date : 03-Dec-2001",
+      "NUMBER": "INVOICE ID 5Y9M1d-431",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :57",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 239.03 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance122.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Apr-2011",
+      "DUE_DATE": "Due Date : 18-Oct-2006",
+      "NUMBER": "INVOICE # INV98748997",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :94",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1156.71 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance60.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Jul-2006",
+      "DUE_DATE": "Due Date : 14-Aug-1998",
+      "NUMBER": "INVOICE ID INV06059461",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :81",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 757.28 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance19.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Sep-2014",
+      "DUE_DATE": "Due Date : 09-Jul-2000",
+      "NUMBER": "INVOICE ID 0440-932",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :45",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 525.94 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance40.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-May-2015",
+      "DUE_DATE": "Due Date : 21-Sep-1994",
+      "NUMBER": "INVOICE ID 5Y2M9d-199",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :87",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1878.51 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance145.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Nov-1994",
+      "DUE_DATE": "Due Date : 03-Jul-1999",
+      "NUMBER": "Invoice number 4Y2M9d-946",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :38",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 407.12 $"
+    }
+  },
+  {
+    "image": "Template47_Instance4.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Nov-2013",
+      "DUE_DATE": "Due Date : 05-Oct-2016",
+      "NUMBER": "INVOICE # 1110-233",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :10",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1138.80 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance185.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Jun-2011",
+      "DUE_DATE": "Due Date : 05-Apr-2017",
+      "NUMBER": "Invoice number 4406-064",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :47",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 260.88 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance50.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Nov-2020",
+      "DUE_DATE": "Due Date : 15-Jul-2020",
+      "NUMBER": "Invoice number INV/04-70/983",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :78",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 924.90 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance72.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 08-Apr-2018",
+      "DUE_DATE": "Due Date : 31-Jan-2014",
+      "NUMBER": "Invoice number 2Y6M9d-186",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :71",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 514.04 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance81.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Dec-2017",
+      "DUE_DATE": "Due Date : 08-Aug-1995",
+      "NUMBER": "Invoice number INV22094164",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :58",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1098.80 $"
+    }
+  },
+  {
+    "image": "Template47_Instance20.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Jun-2004",
+      "DUE_DATE": "Due Date : 27-May-2004",
+      "NUMBER": "INVOICE # 1898-533",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :35",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 202.24 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance108.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Aug-2014",
+      "DUE_DATE": "Due Date : 09-Sep-2012",
+      "NUMBER": "INVOICE ID INV/77-74/789",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 795.60 $"
+    }
+  },
+  {
+    "image": "Template47_Instance45.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Feb-2002",
+      "DUE_DATE": "Due Date : 28-Nov-2005",
+      "NUMBER": "INVOICE # INV42224829",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :23",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 763.07 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance104.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Aug-2015",
+      "DUE_DATE": "Due Date : 11-Feb-1995",
+      "NUMBER": "INVOICE ID 7260-168",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :43",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1156.71 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance98.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Jun-1997",
+      "DUE_DATE": "Due Date : 09-Dec-1997",
+      "NUMBER": "INVOICE ID INV/18-78/516",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :15",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 485.57 $"
+    }
+  },
+  {
+    "image": "Template47_Instance120.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Oct-2000",
+      "DUE_DATE": "Due Date : 30-May-2019",
+      "NUMBER": "Invoice number 6009-719",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :42",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 809.65 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance157.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Dec-2016",
+      "DUE_DATE": "Due Date : 30-Mar-1993",
+      "NUMBER": "INVOICE ID 4828-509",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :93",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 530.88 $"
+    }
+  },
+  {
+    "image": "Template47_Instance124.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-Mar-2021",
+      "DUE_DATE": "Due Date : 22-Nov-1993",
+      "NUMBER": "Invoice number 9Y5M1d-064",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :19",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1046.50 USD"
+    }
+  },
+  {
+    "image": "Template47_Instance68.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-May-2009",
+      "DUE_DATE": "Due Date : 02-Mar-1993",
+      "NUMBER": "INVOICE ID 5Y4M7d-234",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :21",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 410.91 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance194.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Feb-1995",
+      "DUE_DATE": "Due Date : 23-Mar-2006",
+      "NUMBER": "Invoice number INV/60-75/980",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :83",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 115.82 EUR"
+    }
+  },
+  {
+    "image": "Template47_Instance87.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Jun-2001",
+      "DUE_DATE": "Due Date : 04-Apr-2021",
+      "NUMBER": "INVOICE ID INV71224311",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :11",
+      "SELLER_ADDRESS": "Address:116 Smith Loop Apt. 882\nEast David, AL 55672 US",
+      "SELLER_NAME": "Rogers, Olson and Sanders",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 708.54 USD"
+    }
+  }
+]

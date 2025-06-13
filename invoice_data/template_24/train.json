@@ -1,0 +1,2242 @@
+[
+  {
+    "image": "Template24_Instance31.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Craig Smith\n37690 Nicole Well\nWest Joe, NE 90975 US\nTel:+(026)323-8415\nEmail:william76@example.com\nSite:http://johnson-moore.info/",
+      "DATE": "Invoice Date: 28-Nov-2007",
+      "NUMBER": "INVOICE ID 0656-228",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 431.44  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sean Reese\n0670 Long Stravenue Suite 712\nClinebury, NJ 88587 US\nTel:+(646)987-2223\nEmail:kwilliams@example.net\nSite:http://wood.info/",
+      "DATE": "Invoice Date: 27-Nov-2016",
+      "NUMBER": "INVOICE ID INV/93-25/907",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 872.32  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Debra Wilson\n362 Woods Hill\nSpencerbury, DC 30809 US\nTel:+(318)447-8333\nEmail:madeline66@example.net\nSite:https://turner.biz/",
+      "DATE": "Date: 31-Oct-2001",
+      "NUMBER": "INVOICE ID INV/03-03/869",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 821.63  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance78.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Evelyn Flynn\n80872 Bridget Key\nLake Carolynport, MS 86146 US\nTel:+(397)228-1981\nEmail:david38@example.com\nSite:http://www.lawrence-norris.biz/",
+      "DATE": "Date: 09-May-2011",
+      "NUMBER": "Invoice number INV80201027",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 845.46  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance36.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Monica Clark\n5819 Jeremy Skyway Apt. 629\nPort Rachael, WY 42134 US\nTel:+(694)631-6600\nEmail:gillespiecrystal@example.com\nSite:https://www.green-morales.com/",
+      "DATE": "Invoice Date: 12-Aug-2015",
+      "NUMBER": "INVOICE ID 8Y6M8d-576",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 691.51  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance24.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lawrence Page\n6336 Aaron Curve Suite 192\nWallacemouth, MA 90177 US\nTel:+(666)849-9505\nEmail:wwilliams@example.org\nSite:https://www.smith.info/",
+      "DATE": "Date: 27-Oct-2004",
+      "NUMBER": "Invoice number INV48031969",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 232.07  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kayla Mayer\n1783 Edwards Ramp Suite 271\nLake James, MP 89003 US\nTel:+(468)987-2328\nEmail:jose91@example.com\nSite:http://cordova.com/",
+      "DATE": "Date: 12-Feb-1999",
+      "NUMBER": "INVOICE # 6Y5M1d-737",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 554.68  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Lindsey\n25700 Ford Junction Apt. 869\nJordanmouth, WA 35770 US\nTel:+(116)902-5607\nEmail:jonathanleonard@example.net\nSite:http://www.romero.com/",
+      "DATE": "Invoice Date: 14-Jan-2007",
+      "NUMBER": "INVOICE # INV45673766",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1082.63  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Villarreal\n3253 Amber Mills Suite 295\nTheresaton, VA 59627 US\nTel:+(623)347-7267\nEmail:david12@example.com\nSite:https://www.day-hammond.com/",
+      "DATE": "Invoice Date: 16-Nov-2018",
+      "NUMBER": "INVOICE ID 5632-256",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 123.24  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance179.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Garcia\n2845 Williams Unions Suite 728\nTammyshire, FL 47938 US\nTel:+(947)112-1353\nEmail:michelle55@example.org\nSite:http://www.park.com/",
+      "DATE": "Date: 14-Dec-1997",
+      "NUMBER": "INVOICE # INV/48-81/973",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 472.15  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mark Long\n077 Burke Key Apt. 959\nDaltonmouth, MI 90314 US\nTel:+(586)701-1011\nEmail:vzamora@example.org\nSite:https://watts-sherman.biz/",
+      "DATE": "Date: 12-Nov-2002",
+      "NUMBER": "INVOICE ID 6Y6M4d-838",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 780.89  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance167.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Benjamin Nelson\n652 Walls Fall Suite 857\nWest Garychester, HI 94219 US\nTel:+(447)978-0574\nEmail:khunter@example.com\nSite:http://compton.com/",
+      "DATE": "Date: 03-Mar-2015",
+      "NUMBER": "INVOICE # 5Y4M4d-979",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 494.20  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Heather Ross\n473 Weiss Skyway\nLake Michelle, FL 21184 US\nTel:+(879)851-7923\nEmail:miawise@example.org\nSite:http://www.anderson.com/",
+      "DATE": "Date: 15-Dec-2002",
+      "NUMBER": "INVOICE ID 8917-198",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1157.31  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dawn Lutz\n2042 Franco Ramp Apt. 232\nJonesfort, AS 66915 US\nTel:+(304)297-4305\nEmail:melissa97@example.com\nSite:http://reyes.com/",
+      "DATE": "Date: 19-Oct-1998",
+      "NUMBER": "Invoice number 6Y2M7d-102",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 233.42  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Courtney Arroyo\n2085 Derrick Corner Apt. 442\nEricksonborough, UT 08065 US\nTel:+(354)943-0474\nEmail:john44@example.org\nSite:http://powell.com/",
+      "DATE": "Invoice Date: 16-Nov-1997",
+      "NUMBER": "INVOICE ID 8609-834",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 365.34  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ana Pratt\n3936 Marsh Pine\nDavisville, VT 26968 US\nTel:+(191)301-8399\nEmail:munozisaiah@example.org\nSite:http://pierce-horn.com/",
+      "DATE": "Invoice Date: 18-Apr-2007",
+      "NUMBER": "INVOICE ID INV/68-42/303",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 313.15  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen Moreno\n1346 Mitchell Loaf Suite 318\nMichaelbury, RI 11570 US\nTel:+(027)816-1001\nEmail:shelbybrandt@example.net\nSite:http://green.info/",
+      "DATE": "Date: 25-Mar-2017",
+      "NUMBER": "INVOICE # 5Y5M2d-255",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 658.69  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance159.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ryan Fernandez\n940 John Ridges\nEast Amber, AR 04976 US\nTel:+(662)697-1725\nEmail:robertgarcia@example.net\nSite:http://www.arroyo-berry.org/",
+      "DATE": "Date: 21-Aug-1997",
+      "NUMBER": "INVOICE ID 4Y9M5d-461",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 102.39  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance199.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Evelyn Kane\n8843 Ortiz Lakes\nHillbury, VA 70738 US\nTel:+(237)380-3036\nEmail:asmith@example.net\nSite:http://banks.com/",
+      "DATE": "Invoice Date: 20-Dec-2015",
+      "NUMBER": "Invoice number 9Y9M9d-654",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1390.10  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gary Sweeney\n54179 Michael Parkways\nEast Alexandra, NJ 64428 US\nTel:+(797)890-5534\nEmail:goodwinlynn@example.net\nSite:https://smith-silva.com/",
+      "DATE": "Invoice Date: 15-May-1997",
+      "NUMBER": "INVOICE # 7716-373",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 797.20  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anthony Lara\n8359 Parrish Green Apt. 789\nEast Melissamouth, TN 66001 US\nTel:+(965)892-0888\nEmail:alexander98@example.com\nSite:http://martinez-mcgee.biz/",
+      "DATE": "Date: 16-Aug-2022",
+      "NUMBER": "INVOICE ID INV58657897",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 534.66  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mckenzie Phillips\n827 Gary Way\nJamesville, MN 20446 US\nTel:+(106)953-9409\nEmail:michael09@example.net\nSite:http://cunningham.net/",
+      "DATE": "Date: 27-Sep-2014",
+      "NUMBER": "INVOICE # 7059-674",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 461.71  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance103.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Mary Montgomery\n8954 John Via\nLake Daniel, RI 59391 US\nTel:+(094)478-4280\nEmail:mmiller@example.com\nSite:http://www.armstrong-campbell.com/",
+      "DATE": "Date: 27-Apr-1994",
+      "NUMBER": "Invoice number INV87672977",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1299.41  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Samantha Hill\n950 Lambert View Suite 158\nChristopherburgh, AS 15908 US\nTel:+(486)538-6523\nEmail:wsingh@example.net\nSite:http://www.schultz.com/",
+      "DATE": "Invoice Date: 07-Jul-2022",
+      "NUMBER": "Invoice number INV/37-48/774",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 469.52  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance130.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sandra Wheeler\n0867 Dean Lakes\nChenland, MP 78037 US\nTel:+(931)790-9011\nEmail:christian76@example.org\nSite:http://www.wilson.com/",
+      "DATE": "Date: 06-Aug-2008",
+      "NUMBER": "INVOICE # 4272-335",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 757.59  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Randall Hamilton\n569 Thomas Rapid Apt. 437\nPort Melissahaven, AZ 02063 US\nTel:+(235)600-0115\nEmail:jjuarez@example.com\nSite:http://www.williams.com/",
+      "DATE": "Date: 04-Jun-2013",
+      "NUMBER": "Invoice number 6Y7M8d-648",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 923.52  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Robinson\n3271 Jessica Stream Suite 173\nNew Shaneton, NJ 33720 US\nTel:+(423)582-6947\nEmail:hdavidson@example.org\nSite:http://caldwell.com/",
+      "DATE": "Date: 24-Jun-2005",
+      "NUMBER": "Invoice number INV/41-77/022",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 383.44  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance83.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Marcus Ramirez\n6435 Frazier Fort Apt. 162\nAllisonshire, NY 22302 US\nTel:+(307)399-4826\nEmail:jsmith@example.com\nSite:https://joyce.com/",
+      "DATE": "Invoice Date: 02-Sep-2001",
+      "NUMBER": "Invoice number INV97950494",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 257.42  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Taylor\n8847 Owens Cape Suite 100\nSouth Tina, MN 73018 US\nTel:+(703)520-0481\nEmail:ericanderson@example.com\nSite:http://www.trujillo-humphrey.com/",
+      "DATE": "Date: 03-Oct-2004",
+      "NUMBER": "INVOICE # 4Y8M9d-319",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 528.71  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Elizabeth Evans\n6820 Kristen Ports Suite 962\nEast Miketown, MT 29964 US\nTel:+(014)904-8443\nEmail:littlebryan@example.org\nSite:http://www.williams.com/",
+      "DATE": "Date: 01-Oct-1994",
+      "NUMBER": "INVOICE ID INV/20-76/104",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1036.94  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Megan Phillips\n223 Kristen Mission Suite 986\nHernandezport, DE 40016 US\nTel:+(902)801-4955\nEmail:rivassarah@example.org\nSite:https://www.garcia-diaz.com/",
+      "DATE": "Invoice Date: 17-Sep-1993",
+      "NUMBER": "INVOICE # INV/79-73/541",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 655.98  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance143.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jamie Walton\n67923 Aguirre Rapid\nChristopherberg, DE 35716 US\nTel:+(876)841-8411\nEmail:gonzalezmark@example.org\nSite:http://williams.com/",
+      "DATE": "Invoice Date: 12-Apr-1999",
+      "NUMBER": "INVOICE # INV/08-49/817",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 317.11  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Salas\n1018 Holland Spring Suite 474\nSouth Codyborough, AZ 98682 US\nTel:+(563)130-3053\nEmail:wryan@example.org\nSite:https://www.nichols-patterson.net/",
+      "DATE": "Date: 21-Feb-2019",
+      "NUMBER": "INVOICE # 2Y2M2d-834",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 738.83  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance28.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jared Morales\n5246 Stephen Parks Apt. 321\nPort Traci, VI 23049 US\nTel:+(694)321-5372\nEmail:susan54@example.org\nSite:http://hunt-martinez.com/",
+      "DATE": "Date: 08-Oct-1993",
+      "NUMBER": "INVOICE # INV32111686",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 398.30  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance56.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tyler Cross\n07444 Ward Ridges\nLisamouth, OK 62194 US\nTel:+(155)816-6371\nEmail:vanessa08@example.com\nSite:http://barnett-holmes.com/",
+      "DATE": "Invoice Date: 06-Mar-2001",
+      "NUMBER": "INVOICE ID INV/54-95/365",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1002.66  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Shelby Ferguson\n0184 Logan Lodge\nLloydfurt, GA 89378 US\nTel:+(543)468-4005\nEmail:ewhite@example.com\nSite:https://horne.org/",
+      "DATE": "Date: 22-May-2001",
+      "NUMBER": "INVOICE ID INV73920442",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 274.50  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Douglas Becker\n7960 Santiago Points Apt. 827\nNew Michelle, AR 52370 US\nTel:+(339)369-5408\nEmail:smithrandy@example.org\nSite:https://barton.biz/",
+      "DATE": "Invoice Date: 12-Sep-2022",
+      "NUMBER": "Invoice number 7118-970",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 461.18  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance58.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Richard Harvey\n9809 Mathew Causeway\nKrauseburgh, RI 31238 US\nTel:+(739)250-8127\nEmail:johnjames@example.net\nSite:https://payne-phelps.info/",
+      "DATE": "Invoice Date: 22-Feb-2010",
+      "NUMBER": "INVOICE ID 9908-249",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 609.50  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance145.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brooke Lewis\n49036 Miller Ferry Suite 408\nRussoton, DE 84896 US\nTel:+(701)901-5554\nEmail:elizabethpruitt@example.org\nSite:https://www.oconnor.org/",
+      "DATE": "Invoice Date: 13-Feb-2005",
+      "NUMBER": "INVOICE ID 8560-859",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1415.86  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Smith\n9076 Benjamin Station\nSouth Julie, IN 07705 US\nTel:+(099)506-7770\nEmail:stephaniemiller@example.net\nSite:https://coleman.com/",
+      "DATE": "Date: 19-Nov-2022",
+      "NUMBER": "INVOICE ID 8731-963",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 508.75  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance166.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Rogers\n581 Michael View\nEast Heather, CA 47842 US\nTel:+(698)611-6841\nEmail:philipburke@example.org\nSite:http://www.watts.net/",
+      "DATE": "Invoice Date: 15-Jul-2016",
+      "NUMBER": "INVOICE # 9Y7M5d-606",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 810.18  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bruce Haley\n054 Fletcher Meadow Apt. 248\nWest Cindyton, CA 42353 US\nTel:+(341)083-8562\nEmail:jasmine48@example.com\nSite:http://woods.com/",
+      "DATE": "Invoice Date: 17-Jun-1997",
+      "NUMBER": "INVOICE # INV/28-21/938",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1127.95  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Brown\n85802 Cooper Spurs\nNew Alexisborough, MA 62171 US\nTel:+(645)621-4542\nEmail:heathercurry@example.com\nSite:http://www.taylor.com/",
+      "DATE": "Invoice Date: 13-Nov-1997",
+      "NUMBER": "INVOICE # INV/49-05/755",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 467.25  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:David Brown\n1500 Weaver Rest Suite 117\nSmithland, NH 49163 US\nTel:+(249)235-9318\nEmail:luis05@example.com\nSite:https://www.ramirez-herrera.com/",
+      "DATE": "Date: 26-Apr-2006",
+      "NUMBER": "INVOICE # 3Y2M9d-908",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1366.32  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance54.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ricardo Fernandez\n380 Paul Track\nNorth Dianeland, IN 19970 US\nTel:+(065)251-3814\nEmail:xcarrillo@example.com\nSite:https://hayes.biz/",
+      "DATE": "Date: 25-Oct-2022",
+      "NUMBER": "INVOICE ID INV59895370",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 348.06  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance12.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Dean\n4155 Jonathan Light Suite 695\nStephenstown, OR 13428 US\nTel:+(985)533-1953\nEmail:james61@example.net\nSite:https://www.mcguire.org/",
+      "DATE": "Date: 12-Feb-1998",
+      "NUMBER": "Invoice number INV51518279",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 430.09  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christy Reynolds\n8892 Robinson Light\nSouth Karen, IL 23254 US\nTel:+(509)692-3130\nEmail:knightjesse@example.net\nSite:https://www.perez-jones.com/",
+      "DATE": "Date: 10-Apr-2018",
+      "NUMBER": "Invoice number INV/26-15/318",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 868.18  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Hill\n000 Michael Glen\nNew Debra, TX 27106 US\nTel:+(422)339-1174\nEmail:ronnievalentine@example.net\nSite:http://cooper.com/",
+      "DATE": "Invoice Date: 25-Oct-2000",
+      "NUMBER": "INVOICE # 0425-400",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 233.25  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance26.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Angela Rangel\n374 Haynes Trail\nWest Margarethaven, CA 17395 US\nTel:+(115)700-9441\nEmail:madison50@example.org\nSite:http://martinez-hanson.biz/",
+      "DATE": "Invoice Date: 06-May-2006",
+      "NUMBER": "INVOICE ID INV09695243",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 987.88  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance35.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brendan Cox\n560 Leslie Extension Suite 326\nSharphaven, PA 69698 US\nTel:+(428)143-4069\nEmail:asanders@example.com\nSite:http://cruz-carter.com/",
+      "DATE": "Invoice Date: 23-Jun-2019",
+      "NUMBER": "Invoice number 8741-056",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 962.16  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Joseph Cross\n4214 Eric Garden\nEast Valerieburgh, CT 58730 US\nTel:+(974)742-8000\nEmail:shawnphillips@example.com\nSite:https://powers.info/",
+      "DATE": "Date: 16-May-2012",
+      "NUMBER": "INVOICE # INV08116411",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 672.50  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance71.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Margaret Moreno\n225 Benjamin Via Apt. 645\nDavenportport, NJ 77796 US\nTel:+(281)285-6157\nEmail:jason23@example.net\nSite:https://www.rogers-mitchell.com/",
+      "DATE": "Date: 28-Apr-2001",
+      "NUMBER": "Invoice number 8438-433",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 434.08  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance128.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Amanda Black\n68105 Brock Freeway Apt. 364\nClarkstad, MT 92828 US\nTel:+(234)530-4745\nEmail:hmorales@example.org\nSite:http://www.rose.info/",
+      "DATE": "Date: 07-May-2020",
+      "NUMBER": "INVOICE ID INV/02-11/194",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 380.69  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance156.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Elizabeth Harris DDS\n6405 Anderson Dam Apt. 456\nSouth Tracieview, NY 22684 US\nTel:+(496)190-3112\nEmail:deanna36@example.com\nSite:http://salazar.com/",
+      "DATE": "Date: 22-Nov-2011",
+      "NUMBER": "Invoice number INV07965919",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 374.09  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance19.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ian Brown\n01518 Walker Shoals\nSouth Christopher, CA 78362 US\nTel:+(050)493-5455\nEmail:tstout@example.net\nSite:http://taylor.com/",
+      "DATE": "Invoice Date: 01-Jun-2001",
+      "NUMBER": "INVOICE ID 5547-602",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 689.83  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance47.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Farrell\n71005 Brandon Fall\nMichaelburgh, CO 08689 US\nTel:+(269)165-2213\nEmail:lutzjennifer@example.net\nSite:http://jackson-vazquez.net/",
+      "DATE": "Invoice Date: 22-Jul-2011",
+      "NUMBER": "INVOICE # INV/93-79/056",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 353.63  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lori Martin\n5061 Nelson Squares\nFergusonmouth, CT 67774 US\nTel:+(262)171-0960\nEmail:pcruz@example.com\nSite:https://www.thompson.com/",
+      "DATE": "Invoice Date: 04-Nov-1995",
+      "NUMBER": "Invoice number INV/21-72/364",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 759.46  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Devin Sanchez\n310 Vincent Center Apt. 704\nNathanielside, AS 41384 US\nTel:+(359)419-9859\nEmail:mrhodes@example.net\nSite:https://thomas.com/",
+      "DATE": "Date: 09-Jan-2002",
+      "NUMBER": "INVOICE ID INV53962684",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 309.45  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Caroline Sweeney\n381 Allen Inlet\nFaulknerport, WV 36596 US\nTel:+(913)747-3817\nEmail:toddherring@example.com\nSite:http://williams.com/",
+      "DATE": "Invoice Date: 02-Feb-2012",
+      "NUMBER": "INVOICE ID INV/09-61/234",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 883.46  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance88.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Noah Strickland\n4034 Brian Turnpike\nJennaview, FM 44615 US\nTel:+(270)720-6762\nEmail:smithamy@example.net\nSite:https://www.stokes.biz/",
+      "DATE": "Invoice Date: 10-Apr-2005",
+      "NUMBER": "INVOICE ID INV34781308",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 776.93  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Stephanie Brown\n67923 Rodriguez Hills\nEast Scottport, SD 08791 US\nTel:+(871)714-7607\nEmail:victoria60@example.net\nSite:http://www.cochran.com/",
+      "DATE": "Invoice Date: 18-Mar-2003",
+      "NUMBER": "Invoice number INV30175165",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 613.68  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance80.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :William Gordon\n468 Matthew Meadows Suite 191\nPort Brittany, CA 86671 US\nTel:+(934)114-2907\nEmail:murphybrenda@example.net\nSite:http://www.richmond-bradley.biz/",
+      "DATE": "Date: 22-Jul-1994",
+      "NUMBER": "Invoice number INV/37-92/711",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 893.01  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Benjamin Daugherty\n19874 John Bridge Suite 379\nNew Frank, NM 01019 US\nTel:+(763)555-7127\nEmail:jessicaarias@example.com\nSite:https://richards.com/",
+      "DATE": "Date: 30-Aug-2020",
+      "NUMBER": "INVOICE ID 4Y8M3d-214",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 245.90  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michele Carroll\n0600 Christopher Parkway\nCamachofurt, FM 99559 US\nTel:+(036)400-9174\nEmail:mary92@example.net\nSite:https://www.green.com/",
+      "DATE": "Invoice Date: 06-Jun-2009",
+      "NUMBER": "INVOICE ID INV41507667",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 234.23  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance132.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christina Melendez\n712 Lewis Fields Suite 302\nGeorgeshire, MS 34672 US\nTel:+(464)192-8806\nEmail:markpierce@example.org\nSite:http://www.graham.biz/",
+      "DATE": "Date: 29-May-2005",
+      "NUMBER": "Invoice number INV30051252",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 848.38  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance10.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Thomas Sharp\n32446 Delgado Glens Apt. 445\nPort Todd, MN 79186 US\nTel:+(686)919-4933\nEmail:williamsmith@example.com\nSite:https://hamilton.com/",
+      "DATE": "Date: 08-Feb-2006",
+      "NUMBER": "INVOICE ID INV15982624",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 813.30  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Charles Wilcox\n2238 Traci Loop Suite 936\nWilliamview, CA 95785 US\nTel:+(084)704-1810\nEmail:joseph65@example.com\nSite:http://phillips.info/",
+      "DATE": "Date: 04-Mar-2004",
+      "NUMBER": "INVOICE # INV/66-41/669",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 815.22  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tracy Orr\n387 Lee Plaza\nWest Anthony, DC 25652 US\nTel:+(520)945-8037\nEmail:debrajenkins@example.org\nSite:http://stone-collins.com/",
+      "DATE": "Date: 05-Nov-2003",
+      "NUMBER": "INVOICE ID INV81994725",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1227.41  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance146.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tara Waller\n3304 Helen Green Apt. 291\nEast Sherylfort, NH 73424 US\nTel:+(142)080-6378\nEmail:rogerjones@example.com\nSite:http://www.jones.com/",
+      "DATE": "Invoice Date: 14-Aug-2019",
+      "NUMBER": "INVOICE # INV/27-16/831",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 215.54  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Daniel Lyons\n67540 Jason Forest Apt. 592\nRossfurt, AS 94752 US\nTel:+(525)496-4183\nEmail:courtney22@example.net\nSite:https://www.banks.com/",
+      "DATE": "Invoice Date: 03-May-2001",
+      "NUMBER": "INVOICE ID 8Y7M7d-166",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 415.28  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance94.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sean Ferguson Jr.\n0263 Li Estates Apt. 891\nJeffreytown, AK 74299 US\nTel:+(541)979-7851\nEmail:sandovalsara@example.org\nSite:https://www.ramirez-ritter.com/",
+      "DATE": "Date: 04-Jan-1995",
+      "NUMBER": "INVOICE ID 8783-287",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 814.54  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance161.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Jimenez\n51573 Justin Underpass\nFranktown, MN 98112 US\nTel:+(424)250-0106\nEmail:charlesgarcia@example.net\nSite:https://www.turner.com/",
+      "DATE": "Date: 02-Mar-1999",
+      "NUMBER": "INVOICE # INV/27-17/589",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1061.63  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:John Stuart\n916 John Trail\nSouth Lorimouth, VA 48841 US\nTel:+(680)685-1652\nEmail:jonathanwilliams@example.com\nSite:https://fletcher.info/",
+      "DATE": "Invoice Date: 01-Oct-2010",
+      "NUMBER": "INVOICE ID 4627-504",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 786.90  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance3.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Gomez\n08706 Ashley Streets\nEast Moniquetown, SC 45607 US\nTel:+(216)716-7864\nEmail:michaelhernandez@example.com\nSite:http://www.wagner.info/",
+      "DATE": "Date: 01-Aug-2019",
+      "NUMBER": "Invoice number 6Y5M3d-728",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 511.52  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance5.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Stephenson\n259 Gibson Mews Suite 940\nLopezview, GU 95582 US\nTel:+(548)811-2436\nEmail:jill46@example.com\nSite:http://www.cooper.com/",
+      "DATE": "Date: 08-Oct-2004",
+      "NUMBER": "INVOICE ID INV33067653",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 241.81  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance59.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sarah Fernandez\n98128 Lambert Avenue\nPort Edwardbury, SD 50178 US\nTel:+(430)808-8225\nEmail:efitzpatrick@example.org\nSite:https://www.edwards-hoffman.com/",
+      "DATE": "Date: 07-Jul-1996",
+      "NUMBER": "INVOICE # INV28735166",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 643.56  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance90.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Dan Spencer\n74100 Smith Vista Apt. 783\nMillershire, AR 16128 US\nTel:+(970)024-8896\nEmail:jenniferford@example.net\nSite:http://campbell.com/",
+      "DATE": "Invoice Date: 05-Nov-2006",
+      "NUMBER": "Invoice number 7Y5M2d-503",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 535.41  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance60.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffrey Myers\n14682 Adam Ranch\nNorth Anthonychester, AL 34922 US\nTel:+(601)404-2249\nEmail:martinbianca@example.com\nSite:http://stevens-liu.com/",
+      "DATE": "Date: 15-Nov-1993",
+      "NUMBER": "INVOICE # 6Y7M4d-797",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 327.40  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance114.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Gilbert\n03611 Little Prairie Apt. 901\nNew Tyler, NC 49026 US\nTel:+(314)091-3593\nEmail:tabitha53@example.net\nSite:http://www.thornton.net/",
+      "DATE": "Invoice Date: 17-Apr-1995",
+      "NUMBER": "INVOICE ID INV/21-50/394",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 995.54  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance6.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kristin Moss\n149 Drew Dale Suite 057\nEast Debbie, IL 22765 US\nTel:+(852)740-0845\nEmail:angela57@example.org\nSite:https://www.white.biz/",
+      "DATE": "Date: 05-Mar-2021",
+      "NUMBER": "INVOICE ID INV/01-79/453",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 773.19  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance33.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Anna Vazquez\n218 Kline Wall\nAntonioborough, AL 16700 US\nTel:+(093)323-4611\nEmail:jimmycastillo@example.com\nSite:http://www.richardson-avery.biz/",
+      "DATE": "Date: 17-Apr-2011",
+      "NUMBER": "Invoice number INV73369501",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 584.30  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Harold Miller\n084 Osborne Greens\nNew Crystal, CO 61145 US\nTel:+(354)850-4588\nEmail:rebecca93@example.org\nSite:https://www.roach.com/",
+      "DATE": "Invoice Date: 03-Dec-2007",
+      "NUMBER": "INVOICE # 9034-836",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 321.00  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jodi Underwood\n1414 Olson Track Suite 656\nPort Elizabethland, AK 12409 US\nTel:+(636)634-1402\nEmail:michelle51@example.org\nSite:https://stephens.com/",
+      "DATE": "Date: 23-Jul-2001",
+      "NUMBER": "INVOICE ID 4676-978",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 658.89  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Houston\n8697 Eric Divide\nPort Amber, HI 24213 US\nTel:+(940)085-9542\nEmail:fgould@example.net\nSite:http://dennis-zimmerman.com/",
+      "DATE": "Invoice Date: 16-May-2012",
+      "NUMBER": "INVOICE ID INV10381999",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 608.89  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance50.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Shannon Holden\n272 Felicia Skyway\nCodymouth, DC 84239 US\nTel:+(765)373-8879\nEmail:hawkinsjeffrey@example.org\nSite:https://navarro.biz/",
+      "DATE": "Date: 28-Aug-2015",
+      "NUMBER": "INVOICE # INV/02-92/856",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 404.02  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Angela Pollard\n1264 Christopher Stravenue\nNorth Amanda, FL 23763 US\nTel:+(402)563-8957\nEmail:ortizjennifer@example.net\nSite:https://snyder.com/",
+      "DATE": "Invoice Date: 13-Jul-1999",
+      "NUMBER": "Invoice number INV47762807",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 671.16  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance127.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Deborah French\n285 Schmidt Villages\nSimmonsside, NM 57189 US\nTel:+(065)824-0714\nEmail:vmitchell@example.net\nSite:https://www.myers.info/",
+      "DATE": "Date: 20-Apr-2003",
+      "NUMBER": "INVOICE # INV37426750",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 601.92  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance18.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kathy Henry\n966 Johnson Stream Suite 279\nLake Juan, MO 59353 US\nTel:+(497)960-9299\nEmail:cruzcolleen@example.net\nSite:https://www.jones.com/",
+      "DATE": "Date: 17-Jul-2005",
+      "NUMBER": "INVOICE # 2Y3M3d-725",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 345.64  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ms. Rhonda Sloan DVM\n962 Mcdonald Summit\nStephaniestad, FM 79496 US\nTel:+(239)972-1128\nEmail:mandy03@example.net\nSite:http://www.wright.com/",
+      "DATE": "Invoice Date: 15-Mar-2008",
+      "NUMBER": "INVOICE # 5Y2M5d-021",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 527.94  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jorge Solomon\n5238 Vanessa Crescent Suite 670\nNorth Williamton, UT 18153 US\nTel:+(024)738-3925\nEmail:rayjoe@example.com\nSite:https://www.york.com/",
+      "DATE": "Invoice Date: 24-Nov-2003",
+      "NUMBER": "Invoice number INV39842152",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 529.38  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julia Williams\n3472 Thompson Path\nSouth Betty, AS 97052 US\nTel:+(949)457-2861\nEmail:rickeyanderson@example.net\nSite:https://webb.org/",
+      "DATE": "Date: 15-Feb-2000",
+      "NUMBER": "Invoice number INV/81-34/185",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 527.15  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Darlene Galvan\n75361 Gonzalez Valley\nChristopherport, VA 37865 US\nTel:+(086)494-2208\nEmail:vburgess@example.net\nSite:http://burns.info/",
+      "DATE": "Invoice Date: 29-Aug-1996",
+      "NUMBER": "INVOICE ID 8113-589",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 249.77  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mark Page\n010 Johnson Well\nWest Daisy, WA 41512 US\nTel:+(307)969-0625\nEmail:lisaharper@example.com\nSite:https://pham.biz/",
+      "DATE": "Date: 23-Jan-2006",
+      "NUMBER": "INVOICE ID 1Y4M2d-984",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 717.90  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance82.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Samuel Larson\n569 Rose Alley\nEast Sandrachester, FL 62405 US\nTel:+(868)707-8984\nEmail:crush@example.net\nSite:https://bond.com/",
+      "DATE": "Invoice Date: 02-Nov-2021",
+      "NUMBER": "INVOICE ID INV/41-07/645",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 770.17  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance64.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wyatt White\n34020 Johnson Overpass\nMarshallburgh, WY 31897 US\nTel:+(649)033-9782\nEmail:carlsonkaren@example.org\nSite:http://krueger-hale.org/",
+      "DATE": "Invoice Date: 31-Aug-1996",
+      "NUMBER": "INVOICE ID INV73958074",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 138.91  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance95.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Leslie Melendez\n8256 Cristian Islands\nJohnsonside, OH 37913 US\nTel:+(691)368-9758\nEmail:matthew98@example.org\nSite:https://www.bennett.org/",
+      "DATE": "Invoice Date: 31-May-2016",
+      "NUMBER": "INVOICE ID INV/36-36/276",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1014.40  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance108.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Andrew Andrews\n1662 Hughes Well\nSouth Michael, FM 53323 US\nTel:+(064)771-7403\nEmail:wendysherman@example.net\nSite:https://www.brown-brown.com/",
+      "DATE": "Date: 28-Aug-2008",
+      "NUMBER": "INVOICE # 2373-068",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 423.51  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Matthew Morales\n695 Mora Brooks Apt. 329\nGarrettberg, AZ 81848 US\nTel:+(482)139-2198\nEmail:cunninghamheather@example.net\nSite:http://nash-long.com/",
+      "DATE": "Invoice Date: 02-Dec-2018",
+      "NUMBER": "INVOICE ID 6Y7M5d-467",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 341.23  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Horn\n42313 Rodriguez Grove Apt. 041\nKristinport, AL 91913 US\nTel:+(279)104-8344\nEmail:jason65@example.net\nSite:http://www.kennedy.com/",
+      "DATE": "Date: 19-Aug-2002",
+      "NUMBER": "Invoice number INV/03-93/163",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 275.74  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Travis Avila\n534 Julie Port\nSouth Michellefurt, IL 48609 US\nTel:+(775)631-6962\nEmail:brandon54@example.com\nSite:https://www.hale-clarke.info/",
+      "DATE": "Invoice Date: 08-May-2001",
+      "NUMBER": "INVOICE # 2033-236",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 356.49  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Katherine Levine\n20664 Smith Drives Suite 901\nHannahfort, MA 61723 US\nTel:+(274)128-1779\nEmail:qrojas@example.org\nSite:https://nunez.com/",
+      "DATE": "Date: 31-Dec-2012",
+      "NUMBER": "INVOICE ID INV22965339",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1438.50  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance40.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Dougherty\n60304 Lisa Forks Suite 106\nNew Shawnbury, LA 96753 US\nTel:+(416)273-8558\nEmail:adamellis@example.net\nSite:http://bradley-wood.org/",
+      "DATE": "Invoice Date: 05-Dec-2022",
+      "NUMBER": "INVOICE # 1Y9M3d-489",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 496.43  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Cheryl Coleman\n291 Kelsey Road Suite 671\nHigginsmouth, DE 84378 US\nTel:+(127)738-1946\nEmail:paige83@example.org\nSite:https://www.jimenez.com/",
+      "DATE": "Invoice Date: 26-Aug-2002",
+      "NUMBER": "INVOICE # INV/20-33/442",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 594.32  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Veronica Gallegos\n2005 Shelton Lakes Suite 385\nDavidfort, CO 78352 US\nTel:+(012)246-3004\nEmail:henrylynch@example.org\nSite:https://www.mathews.com/",
+      "DATE": "Date: 10-Jun-1999",
+      "NUMBER": "Invoice number INV57547323",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 627.62  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kimberly Taylor\n0952 Hoffman Run\nJosephton, ND 45036 US\nTel:+(467)848-9708\nEmail:monroeryan@example.net\nSite:http://www.petersen-joyce.com/",
+      "DATE": "Invoice Date: 18-Nov-2007",
+      "NUMBER": "Invoice number 3179-224",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 779.68  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance43.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Marilyn Anderson\n68715 Davis Parkways Apt. 289\nMorenoberg, PA 89259 US\nTel:+(771)120-6814\nEmail:hannahbarber@example.com\nSite:https://torres.com/",
+      "DATE": "Invoice Date: 01-Jun-2006",
+      "NUMBER": "INVOICE ID 9Y3M9d-939",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 144.41  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance172.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Scott Chambers\n487 Nicole Courts\nSouth Angela, MN 81262 US\nTel:+(581)177-9422\nEmail:fmorris@example.org\nSite:https://www.webb.org/",
+      "DATE": "Invoice Date: 19-Dec-2012",
+      "NUMBER": "Invoice number 9Y2M3d-578",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 690.22  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance65.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Teresa Willis\n29927 Stephanie Divide\nNguyenmouth, GU 34002 US\nTel:+(097)109-1958\nEmail:holly29@example.com\nSite:https://www.lopez.info/",
+      "DATE": "Date: 06-Jul-2019",
+      "NUMBER": "INVOICE ID INV51127900",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 701.16  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Bradley Johnson\n04148 Leslie Knolls Apt. 580\nMelissaport, WI 16565 US\nTel:+(117)160-1670\nEmail:kennethpena@example.net\nSite:https://www.rojas.com/",
+      "DATE": "Date: 12-Jul-2002",
+      "NUMBER": "INVOICE ID 9Y3M4d-317",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 922.27  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Malik Mann\n5718 Howard Locks Suite 733\nNew Ianfurt, ME 79887 US\nTel:+(342)433-0916\nEmail:copelandbrandy@example.org\nSite:https://www.mejia.com/",
+      "DATE": "Date: 20-May-1994",
+      "NUMBER": "Invoice number INV/00-48/564",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 199.32  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance131.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jimmy Adams\n240 Angela Brook\nJamesmouth, NJ 25020 US\nTel:+(944)247-0562\nEmail:taylorkeith@example.com\nSite:http://parker-clark.com/",
+      "DATE": "Date: 06-Oct-2002",
+      "NUMBER": "INVOICE ID 3Y5M5d-374",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 611.50  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance135.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brandi Tran\n49815 Taylor Walk\nPort Christopherside, NM 52598 US\nTel:+(172)574-0510\nEmail:richardrichard@example.net\nSite:https://www.lawrence-spears.org/",
+      "DATE": "Date: 25-Feb-1994",
+      "NUMBER": "INVOICE ID INV70862429",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 883.56  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance29.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelli Pham\n808 Christopher Parks Apt. 769\nSouth William, AL 80862 US\nTel:+(057)995-6306\nEmail:wwashington@example.org\nSite:https://shields.com/",
+      "DATE": "Date: 19-Feb-2015",
+      "NUMBER": "Invoice number 3Y4M5d-669",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 822.23  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Denise Callahan\n65103 Ortiz Orchard\nJanetmouth, KY 93595 US\nTel:+(427)786-2441\nEmail:jackie97@example.com\nSite:https://weeks-dennis.com/",
+      "DATE": "Date: 26-Aug-2019",
+      "NUMBER": "INVOICE ID 9Y5M3d-582",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 342.85  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance175.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Gregory Montoya\n1272 Roberts Isle\nSouth Toddbury, MA 49239 US\nTel:+(409)949-7855\nEmail:silvakevin@example.net\nSite:http://blake.com/",
+      "DATE": "Date: 27-Feb-1995",
+      "NUMBER": "INVOICE ID 5Y8M5d-062",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 794.81  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance79.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carl Graham\n5737 Nathan Lodge Suite 841\nPhillipmouth, NH 08065 US\nTel:+(592)092-7179\nEmail:bbond@example.net\nSite:http://brown.org/",
+      "DATE": "Invoice Date: 20-Jun-2000",
+      "NUMBER": "INVOICE ID 2Y8M6d-315",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1137.02  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance148.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Hall DDS\n044 Garza Green\nWest Garymouth, OH 04243 US\nTel:+(537)897-0872\nEmail:donna23@example.org\nSite:http://thornton.com/",
+      "DATE": "Invoice Date: 11-Oct-2001",
+      "NUMBER": "INVOICE # INV/67-29/808",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 581.75  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance142.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Eaton\n627 Steven Plaza Suite 293\nPort Crystal, MT 82409 US\nTel:+(568)684-0318\nEmail:wendybaker@example.com\nSite:http://brennan-rodgers.biz/",
+      "DATE": "Invoice Date: 15-Dec-1998",
+      "NUMBER": "Invoice number INV14157129",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 290.56  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance76.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Danielle Moore\n7700 Scott Ways\nLake Catherine, AR 95437 US\nTel:+(301)908-7752\nEmail:harringtonmarisa@example.org\nSite:http://www.stout.com/",
+      "DATE": "Invoice Date: 20-Jun-2014",
+      "NUMBER": "INVOICE # 2Y8M8d-950",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 585.20  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance160.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jacqueline Stone\n7490 Mary Plains\nMichaelstad, IL 64426 US\nTel:+(516)109-1323\nEmail:zward@example.org\nSite:https://www.franco.com/",
+      "DATE": "Invoice Date: 20-Dec-2015",
+      "NUMBER": "INVOICE # 7612-282",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1221.91  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance178.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Peter Casey\n61452 William Mountain\nWest Dennis, NJ 43110 US\nTel:+(204)353-6595\nEmail:reedrussell@example.org\nSite:http://mcguire.com/",
+      "DATE": "Invoice Date: 10-Jul-2002",
+      "NUMBER": "Invoice number 2637-094",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 550.14  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance8.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Edward Anderson\n855 Logan Divide Apt. 798\nMaryland, OH 95101 US\nTel:+(700)253-7875\nEmail:christineporter@example.net\nSite:http://johnson.net/",
+      "DATE": "Invoice Date: 17-Apr-2001",
+      "NUMBER": "INVOICE # INV/17-33/461",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 491.56  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :James Evans\n97097 Mallory Inlet Suite 393\nKyleville, WV 78698 US\nTel:+(666)708-5939\nEmail:sarahevans@example.com\nSite:http://mosley.com/",
+      "DATE": "Date: 29-Mar-1994",
+      "NUMBER": "Invoice number 1Y1M5d-999",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 279.81  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance7.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cynthia Mathews\n7558 Scott Vista Suite 618\nCampbellfurt, ND 10642 US\nTel:+(301)317-8127\nEmail:kenneth63@example.net\nSite:http://www.carter.com/",
+      "DATE": "Invoice Date: 11-Dec-2011",
+      "NUMBER": "INVOICE ID 4Y3M7d-108",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 569.05  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Debbie Sanders\n18029 Stephanie Summit\nLake Kristieside, AZ 67423 US\nTel:+(312)181-6160\nEmail:johnsonmichael@example.net\nSite:https://caldwell-bailey.biz/",
+      "DATE": "Date: 29-Sep-2016",
+      "NUMBER": "Invoice number INV/15-40/603",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 480.05  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Richard Little\n802 Mackenzie Brook\nGriffithtown, NE 14689 US\nTel:+(576)389-5688\nEmail:erika42@example.org\nSite:http://ellis.com/",
+      "DATE": "Invoice Date: 17-Aug-1999",
+      "NUMBER": "Invoice number INV/20-39/527",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 523.80  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ronald Martinez\n025 Stephen Tunnel Suite 894\nJonathanberg, AZ 96540 US\nTel:+(120)891-6217\nEmail:jeffreytorres@example.com\nSite:https://www.smith-gross.com/",
+      "DATE": "Invoice Date: 06-Jul-2012",
+      "NUMBER": "Invoice number INV06083890",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 203.64  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance181.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Connie Odonnell\n2355 Beasley Village Suite 256\nNew Lauraburgh, AK 86900 US\nTel:+(500)215-3982\nEmail:carmendudley@example.com\nSite:http://estes.net/",
+      "DATE": "Date: 08-Aug-2011",
+      "NUMBER": "INVOICE ID 6Y9M1d-029",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 626.74  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brandon Stone\n38013 Tyler Union\nCaseymouth, AL 90376 US\nTel:+(130)805-5762\nEmail:jamiebrock@example.org\nSite:http://brown-johnson.net/",
+      "DATE": "Date: 27-May-2004",
+      "NUMBER": "Invoice number INV/61-97/592",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 135.89  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Natalie Neal\n8725 Arnold Valley Suite 231\nNorth Davidshire, MP 78801 US\nTel:+(233)327-9142\nEmail:mtodd@example.net\nSite:http://www.castaneda.com/",
+      "DATE": "Invoice Date: 29-Nov-2013",
+      "NUMBER": "INVOICE # INV30849695",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1395.93  $",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance102.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Angel Cook\n8362 Lynn Villages\nSouth Williamside, SC 99463 US\nTel:+(486)207-8356\nEmail:theresabrooks@example.com\nSite:https://kerr-mooney.com/",
+      "DATE": "Invoice Date: 09-Apr-2020",
+      "NUMBER": "INVOICE ID INV77091688",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 526.52  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance129.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Julia Hopkins\n464 Williams View Suite 296\nWeberside, TX 86843 US\nTel:+(522)889-8308\nEmail:martinbell@example.com\nSite:http://www.singleton.com/",
+      "DATE": "Date: 19-Oct-1994",
+      "NUMBER": "INVOICE # 1Y7M1d-783",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 583.12  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance68.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Anderson\n60347 Graham Knoll Suite 337\nNorth Emily, AR 90339 US\nTel:+(816)207-7647\nEmail:ycohen@example.org\nSite:https://www.rivera-obrien.biz/",
+      "DATE": "Date: 01-Feb-1993",
+      "NUMBER": "INVOICE ID 8504-725",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 494.07  EUR",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ernest Buck\n486 Claudia Stravenue\nBrianburgh, AR 34372 US\nTel:+(997)291-2843\nEmail:jamiestephens@example.net\nSite:https://www.nelson-smith.com/",
+      "DATE": "Invoice Date: 21-Apr-2017",
+      "NUMBER": "INVOICE ID 6Y3M7d-742",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1203.91  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance45.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Benjamin Smith\n89687 Castaneda Fort Suite 018\nPort Juliemouth, TX 23397 US\nTel:+(338)370-3702\nEmail:april29@example.org\nSite:http://www.edwards.net/",
+      "DATE": "Date: 02-Mar-2013",
+      "NUMBER": "INVOICE ID 2286-835",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 937.08  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance111.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :George Glenn\n21652 Knight Wall Apt. 165\nJamesville, MP 93133 US\nTel:+(267)426-2122\nEmail:matthew92@example.org\nSite:http://taylor-smith.org/",
+      "DATE": "Invoice Date: 28-Jul-2009",
+      "NUMBER": "Invoice number INV91081853",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 188.62  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance180.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Roy Peterson\n5894 Best Parkways\nFosterborough, FM 00664 US\nTel:+(797)518-0840\nEmail:melissadavis@example.com\nSite:http://www.adams.com/",
+      "DATE": "Invoice Date: 06-Oct-2013",
+      "NUMBER": "Invoice number INV/03-52/014",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 557.45  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Daniel Ellis\n95739 Ronald Ville Apt. 477\nCollinsstad, PW 82357 US\nTel:+(719)300-3366\nEmail:spayne@example.com\nSite:http://gardner-moore.info/",
+      "DATE": "Date: 27-Mar-1995",
+      "NUMBER": "INVOICE # INV/20-14/751",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 539.94  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Reginald Salinas\n39464 Schmidt Forks Apt. 502\nLake Marytown, ND 61039 US\nTel:+(709)648-5666\nEmail:tara62@example.net\nSite:https://www.thornton-robinson.com/",
+      "DATE": "Date: 24-Mar-1999",
+      "NUMBER": "Invoice number INV86516709",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 780.98  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance157.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ariana Hickman\n0233 Timothy Lakes\nChristopherborough, OR 26724 US\nTel:+(810)298-6979\nEmail:tamara20@example.com\nSite:http://marshall.com/",
+      "DATE": "Invoice Date: 02-Aug-2020",
+      "NUMBER": "INVOICE ID INV32466311",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 677.15  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Martin\n674 Sean Hills Apt. 993\nEast Joshua, FL 90600 US\nTel:+(556)277-9807\nEmail:gregory12@example.com\nSite:http://www.johnson.com/",
+      "DATE": "Date: 20-Jan-2021",
+      "NUMBER": "INVOICE ID 1581-527",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1055.87  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance144.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tina Fields\n9484 Moon Wells Apt. 153\nAliciaville, SC 90554 US\nTel:+(799)299-7624\nEmail:watsonlisa@example.net\nSite:http://www.fernandez.com/",
+      "DATE": "Date: 24-Jul-2017",
+      "NUMBER": "INVOICE ID 0266-250",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1033.78  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance2.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mary Nelson\n2171 Parker Station Apt. 041\nMurphybury, ME 98329 US\nTel:+(433)037-7638\nEmail:vargasholly@example.net\nSite:https://clark-curtis.com/",
+      "DATE": "Date: 08-Nov-2008",
+      "NUMBER": "Invoice number 6652-514",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 416.60  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance171.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Edwin Mitchell\n4471 Stacey Parkway Suite 701\nNew Briana, CT 71592 US\nTel:+(847)024-6130\nEmail:greensamuel@example.com\nSite:https://www.gonzalez.com/",
+      "DATE": "Date: 22-Nov-2018",
+      "NUMBER": "INVOICE # 1Y1M1d-623",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 809.07  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance107.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michelle Zimmerman\n294 Veronica Mountains\nBethfort, AS 66941 US\nTel:+(989)063-3234\nEmail:hannah92@example.org\nSite:http://white-alvarez.com/",
+      "DATE": "Invoice Date: 31-Oct-1998",
+      "NUMBER": "INVOICE # 9Y7M3d-681",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 179.26  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance9.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brad Frazier\n2737 Harper Hill Apt. 569\nWest Mariaville, HI 93933 US\nTel:+(127)683-1642\nEmail:hlucas@example.org\nSite:http://lawrence-henson.net/",
+      "DATE": "Invoice Date: 12-Nov-2019",
+      "NUMBER": "INVOICE ID 8Y4M4d-983",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 542.68  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Lance Mckinney\n8345 Hughes Ridge\nSouth Lisamouth, PW 94612 US\nTel:+(726)852-9866\nEmail:herringrichard@example.org\nSite:https://www.collins.biz/",
+      "DATE": "Invoice Date: 12-Jul-2020",
+      "NUMBER": "INVOICE ID INV09596700",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 781.20  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance42.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Clark\n561 Evans Place\nNew Bobby, IA 47309 US\nTel:+(999)760-4102\nEmail:opollard@example.com\nSite:http://allen.com/",
+      "DATE": "Invoice Date: 25-Oct-2019",
+      "NUMBER": "INVOICE # 9568-810",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 471.00  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance182.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Kerr\n84844 Janet Village Suite 497\nVanessaside, SD 64017 US\nTel:+(499)918-2346\nEmail:chavezjeffrey@example.net\nSite:https://www.martinez.com/",
+      "DATE": "Invoice Date: 20-Jun-2014",
+      "NUMBER": "INVOICE # INV37287403",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 230.91  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Austin Oconnor\n646 Lopez Via\nSouth Lindsayfort, VI 37179 US\nTel:+(950)833-9094\nEmail:shannonchan@example.org\nSite:https://www.young.com/",
+      "DATE": "Date: 26-Jan-2008",
+      "NUMBER": "Invoice number 3023-082",
+      "NOTE": "Thank you for choosing us!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1037.66  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance84.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kelli Bennett\n758 April Unions Apt. 734\nNorth Sabrina, MA 87919 US\nTel:+(650)747-9435\nEmail:thomas17@example.com\nSite:http://hunt.info/",
+      "DATE": "Date: 09-Dec-2012",
+      "NUMBER": "INVOICE # 1Y3M4d-720",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 375.21  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashley Bray\n316 Jacobs Grove Suite 661\nNew Claytonland, TX 75073 US\nTel:+(434)430-1541\nEmail:fbaxter@example.com\nSite:https://duran-castro.com/",
+      "DATE": "Invoice Date: 27-Sep-1997",
+      "NUMBER": "Invoice number 8Y5M8d-718",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 518.77  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Frederick Reynolds\n59147 David Fields\nAlanview, NV 28791 US\nTel:+(523)353-8006\nEmail:nicholewoods@example.com\nSite:http://williams-barry.info/",
+      "DATE": "Invoice Date: 09-Mar-1993",
+      "NUMBER": "INVOICE # INV69712944",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 676.93  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance51.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Matthew Williams\n1938 Christensen Rue Apt. 559\nNorth Larry, PA 02769 US\nTel:+(067)845-5919\nEmail:brittany65@example.net\nSite:https://golden.info/",
+      "DATE": "Invoice Date: 31-Mar-2017",
+      "NUMBER": "INVOICE ID INV/45-67/596",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1268.74  $",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance61.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Turner MD\n70779 Ortega Circles Apt. 140\nPort Melanieside, NM 08189 US\nTel:+(673)093-8793\nEmail:wgutierrez@example.net\nSite:https://www.hayden.com/",
+      "DATE": "Date: 18-Jun-2000",
+      "NUMBER": "INVOICE # 8575-316",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 795.15  USD",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance16.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melanie Crane\n215 Whitney Canyon Apt. 357\nKatieborough, IA 62039 US\nTel:+(976)880-4069\nEmail:charles15@example.org\nSite:https://mitchell.net/",
+      "DATE": "Date: 22-Jan-2013",
+      "NUMBER": "INVOICE # 2Y5M3d-889",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 982.93  EUR",
+      "TITLE": "COMMERCIAL INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance112.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Melvin Hamilton\n080 Ronald Lock\nNorth Carol, DE 65477 US\nTel:+(254)884-8809\nEmail:fowlereric@example.org\nSite:https://brown.com/",
+      "DATE": "Date: 07-Mar-2012",
+      "NUMBER": "Invoice number INV94874582",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 751.50  USD",
+      "TITLE": "TAX INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sharon Rodriguez\n59294 Barnes Crossing\nPort Briannahaven, VT 90748 US\nTel:+(212)980-5786\nEmail:amymoore@example.org\nSite:http://gonzales.com/",
+      "DATE": "Date: 04-Apr-2000",
+      "NUMBER": "INVOICE ID 6166-341",
+      "NOTE": "Thank you for your business!",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 976.61  $",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Margaret Burnett\n521 Swanson Place Apt. 373\nEmilyhaven, TN 35358 US\nTel:+(775)097-9533\nEmail:ashleycook@example.com\nSite:http://campbell-hensley.com/",
+      "DATE": "Invoice Date: 25-Oct-2005",
+      "NUMBER": "INVOICE # INV/07-04/053",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 613.41  USD",
+      "TITLE": "INVOICE"
+    }
+  },
+  {
+    "image": "Template24_Instance168.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sarah Bradford\n385 Jessica Park\nWest Cassandra, TX 05318 US\nTel:+(023)471-6310\nEmail:sdominguez@example.org\nSite:http://www.weiss.org/",
+      "DATE": "Date: 08-May-2001",
+      "NUMBER": "INVOICE ID 3Y4M8d-844",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "SELLER_ADDRESS": "Address:223 Kristen Mission Suite 986\nHernandezport, DE 40016 US",
+      "SELLER_EMAIL": "Email:rivassarah@example.org",
+      "SELLER_NAME": "Patel-Reid",
+      "SUB_TOTAL": "SUB_TOTAL : 1235.95  EUR",
+      "TITLE": "TAX INVOICE"
+    }
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "image": "Template7_Instance196.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ashlee Price\n6041 April Vista\nSarahville, VT 38839 US\nTel:+(953)587-9870\nEmail:nmorton@example.com\nSite:https://www.burch.info/",
+      "DATE": "Invoice Date: 19-Nov-2006",
+      "DUE_DATE": "Due Date : 25-Nov-1994",
+      "NUMBER": "INVOICE ID 8283-242",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 767.63  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 770.05 $",
+      "GST(9%)": "GST(9%) : 69.09"
+    }
+  },
+  {
+    "image": "Template7_Instance38.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Wright\n850 Anderson Spurs Suite 479\nWongside, MD 90236 US\nTel:+(231)309-2282\nEmail:lisaedwards@example.net\nSite:https://www.davis.com/",
+      "DATE": "Invoice Date: 02-Nov-2001",
+      "DUE_DATE": "Due Date : 11-May-2014",
+      "NUMBER": "INVOICE ID 9202-549",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 472.45  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 494.29 USD",
+      "GST(9%)": "GST(9%) : 42.52"
+    }
+  },
+  {
+    "image": "Template7_Instance17.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kendra Reyes\n64477 Rich Grove\nVanessafurt, MS 12918 US\nTel:+(105)088-5484\nEmail:gonzalesjonathan@example.com\nSite:https://hudson.com/",
+      "DATE": "Invoice Date: 22-Jan-2022",
+      "DUE_DATE": "Due Date : 18-Jan-2012",
+      "NUMBER": "INVOICE ID INV/83-85/935",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 588.58  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 593.61 USD",
+      "GST(9%)": "GST(9%) : 52.97"
+    }
+  },
+  {
+    "image": "Template7_Instance53.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Victor Valenzuela\n1810 Laura Plains\nJohnsstad, SC 10174 US\nTel:+(902)967-9843\nEmail:jessejohnson@example.net\nSite:https://www.ramirez.com/",
+      "DATE": "Invoice Date: 07-Nov-2006",
+      "DUE_DATE": "Due Date : 04-Nov-2006",
+      "NUMBER": "INVOICE ID INV/49-58/783",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 839.45  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 859.50 EUR",
+      "GST(9%)": "GST(9%) : 75.55"
+    }
+  },
+  {
+    "image": "Template7_Instance183.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tara Wilcox\n5874 Cole Locks\nBellmouth, MH 93255 US\nTel:+(516)770-0003\nEmail:jessicaking@example.org\nSite:http://www.farley.org/",
+      "DATE": "Invoice Date: 17-Feb-2019",
+      "DUE_DATE": "Due Date : 11-Oct-2021",
+      "NUMBER": "INVOICE # 4720-889",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 138.47  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 141.88 USD",
+      "GST(9%)": "GST(9%) : 12.46"
+    }
+  },
+  {
+    "image": "Template7_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Kemp\n669 Mark Mews Suite 889\nNew Rodney, VA 52169 US\nTel:+(048)175-8121\nEmail:vjoseph@example.net\nSite:https://kane.com/",
+      "DATE": "Date: 07-Aug-1999",
+      "DUE_DATE": "Due Date : 04-Jan-1994",
+      "NUMBER": "Invoice number INV39982306",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 425.97  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 438.68 EUR",
+      "GST(9%)": "GST(9%) : 38.34"
+    }
+  },
+  {
+    "image": "Template7_Instance11.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jonathan Richardson\n46472 Perez Throughway\nRobinborough, SD 40027 US\nTel:+(034)583-0469\nEmail:shaffersandra@example.org\nSite:https://moore-gonzalez.com/",
+      "DATE": "Date: 12-May-2011",
+      "DUE_DATE": "Due Date : 21-Dec-2002",
+      "NUMBER": "INVOICE ID 7082-336",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 621.76  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 630.66 EUR",
+      "GST(9%)": "GST(9%) : 55.96"
+    }
+  },
+  {
+    "image": "Template7_Instance4.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Andrew Johnson\n96046 Jody Loop\nColleenland, MD 28410 US\nTel:+(100)934-2413\nEmail:jessicacrosby@example.net\nSite:http://peterson-johns.biz/",
+      "DATE": "Invoice Date: 28-Apr-2002",
+      "DUE_DATE": "Due Date : 12-Sep-2004",
+      "NUMBER": "INVOICE ID 3667-187",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 565.36  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 579.71 $",
+      "GST(9%)": "GST(9%) : 50.88"
+    }
+  },
+  {
+    "image": "Template7_Instance136.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Sutton\n0758 Charles Fort\nFernandezland, CO 95747 US\nTel:+(733)328-6907\nEmail:branchsteven@example.org\nSite:http://flores.net/",
+      "DATE": "Date: 31-Mar-2014",
+      "DUE_DATE": "Due Date : 03-Jan-2014",
+      "NUMBER": "INVOICE # 5Y2M2d-832",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 511.44  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 521.53 EUR",
+      "GST(9%)": "GST(9%) : 46.03"
+    }
+  },
+  {
+    "image": "Template7_Instance104.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Christina Stewart\n070 Garcia Light\nSouth Sharonshire, MO 77424 US\nTel:+(746)223-6216\nEmail:tcameron@example.com\nSite:http://gillespie-taylor.com/",
+      "DATE": "Invoice Date: 13-Sep-2018",
+      "DUE_DATE": "Due Date : 08-Nov-2018",
+      "NUMBER": "Invoice number INV00481109",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 671.59  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 703.24 EUR",
+      "GST(9%)": "GST(9%) : 60.44"
+    }
+  },
+  {
+    "image": "Template7_Instance176.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ronald Johnson\n69212 Brandy Bypass Apt. 353\nParkerview, OK 35760 US\nTel:+(011)832-0481\nEmail:jessica22@example.net\nSite:https://www.cain.com/",
+      "DATE": "Invoice Date: 13-Mar-2014",
+      "DUE_DATE": "Due Date : 06-Dec-1997",
+      "NUMBER": "Invoice number 6Y3M5d-346",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 229.75  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 226.05 $",
+      "GST(9%)": "GST(9%) : 20.68"
+    }
+  },
+  {
+    "image": "Template7_Instance194.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Benton\n084 Brandon Parks\nMarilynville, OH 18330 US\nTel:+(993)672-1016\nEmail:smithelizabeth@example.com\nSite:http://www.reyes.com/",
+      "DATE": "Invoice Date: 13-Sep-2010",
+      "DUE_DATE": "Due Date : 06-Aug-2003",
+      "NUMBER": "INVOICE # INV/54-89/632",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 276.27  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 273.40 USD",
+      "GST(9%)": "GST(9%) : 24.86"
+    }
+  },
+  {
+    "image": "Template7_Instance14.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Carla Richardson\n3847 Young Islands\nHeatherburgh, OH 63271 US\nTel:+(998)145-3570\nEmail:jasonpierce@example.org\nSite:https://www.edwards.com/",
+      "DATE": "Invoice Date: 16-Jun-2004",
+      "DUE_DATE": "Due Date : 21-May-1999",
+      "NUMBER": "INVOICE # 8225-873",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 270.24  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 279.05 $",
+      "GST(9%)": "GST(9%) : 24.32"
+    }
+  },
+  {
+    "image": "Template7_Instance191.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Young\n00725 Rowe Creek Suite 782\nReginaldport, ND 42086 US\nTel:+(495)500-6444\nEmail:rebeccavelazquez@example.net\nSite:https://mitchell-mendoza.com/",
+      "DATE": "Invoice Date: 05-Aug-1999",
+      "DUE_DATE": "Due Date : 01-Sep-1994",
+      "NUMBER": "Invoice number INV22623892",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 375.66  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 387.72 EUR",
+      "GST(9%)": "GST(9%) : 33.81"
+    }
+  },
+  {
+    "image": "Template7_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Moore\n36490 Quinn Drive\nWest John, MN 83211 US\nTel:+(038)777-4969\nEmail:hickskaren@example.org\nSite:https://wiley.com/",
+      "DATE": "Invoice Date: 21-Oct-2004",
+      "DUE_DATE": "Due Date : 22-Feb-2011",
+      "NUMBER": "INVOICE # 9Y4M9d-373",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 867.47  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 869.74 USD",
+      "GST(9%)": "GST(9%) : 78.07"
+    }
+  },
+  {
+    "image": "Template7_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brenda Smith\n56307 Fuller Club Suite 540\nNew Spencer, PR 78345 US\nTel:+(710)426-6069\nEmail:aguirreelizabeth@example.org\nSite:https://rivera.net/",
+      "DATE": "Invoice Date: 13-Nov-2005",
+      "DUE_DATE": "Due Date : 13-Feb-2022",
+      "NUMBER": "INVOICE # 7Y7M3d-614",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 943.34  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 970.95 USD",
+      "GST(9%)": "GST(9%) : 84.90"
+    }
+  },
+  {
+    "image": "Template7_Instance97.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Heather Thomas\n892 Jessica Falls\nWest Angelamouth, GU 10336 US\nTel:+(986)256-8942\nEmail:olivia49@example.org\nSite:https://mcmillan.com/",
+      "DATE": "Date: 13-Sep-1994",
+      "DUE_DATE": "Due Date : 02-Sep-2018",
+      "NUMBER": "Invoice number INV/61-95/347",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 836.70  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 835.85 EUR",
+      "GST(9%)": "GST(9%) : 75.30"
+    }
+  },
+  {
+    "image": "Template7_Instance85.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Hayes\n90163 Ellis Place\nChelseashire, PR 97830 US\nTel:+(984)411-5458\nEmail:baileypeter@example.com\nSite:https://maldonado.com/",
+      "DATE": "Date: 10-Jul-2010",
+      "DUE_DATE": "Due Date : 04-May-1995",
+      "NUMBER": "Invoice number 4Y4M5d-247",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 770.05  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 791.35 $",
+      "GST(9%)": "GST(9%) : 69.30"
+    }
+  },
+  {
+    "image": "Template7_Instance100.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dr. Sarah Waters\n877 Campbell Forge\nSarahshire, GU 95653 US\nTel:+(911)986-3447\nEmail:frenchchristian@example.com\nSite:https://www.smith-robinson.biz/",
+      "DATE": "Invoice Date: 26-Oct-1998",
+      "DUE_DATE": "Due Date : 04-Oct-2015",
+      "NUMBER": "INVOICE ID INV07502768",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 365.87  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 382.78 USD",
+      "GST(9%)": "GST(9%) : 32.93"
+    }
+  },
+  {
+    "image": "Template7_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Adam Cannon\n2374 Nathaniel Loop\nTommybury, MP 55714 US\nTel:+(492)769-5906\nEmail:ashley38@example.com\nSite:https://www.jones.com/",
+      "DATE": "Date: 26-Aug-2020",
+      "DUE_DATE": "Due Date : 19-Jun-2016",
+      "NUMBER": "Invoice number 3448-655",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 438.49  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 444.21 EUR",
+      "GST(9%)": "GST(9%) : 39.46"
+    }
+  },
+  {
+    "image": "Template7_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jenna Thomas\n276 Gerald Unions Apt. 738\nKellytown, MA 28375 US\nTel:+(765)247-2202\nEmail:tony88@example.org\nSite:https://www.hammond-barker.biz/",
+      "DATE": "Invoice Date: 24-Apr-2002",
+      "DUE_DATE": "Due Date : 05-Feb-2001",
+      "NUMBER": "Invoice number INV75787999",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1234.68  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1280.78 $",
+      "GST(9%)": "GST(9%) : 111.12"
+    }
+  },
+  {
+    "image": "Template7_Instance63.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kiara Decker\n8496 Laura Shores\nBaileychester, VT 96521 US\nTel:+(665)639-5330\nEmail:jacobscourtney@example.net\nSite:http://www.davis-martin.net/",
+      "DATE": "Invoice Date: 06-Feb-2018",
+      "DUE_DATE": "Due Date : 28-Jun-1996",
+      "NUMBER": "Invoice number 0471-293",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 930.44  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 944.41 $",
+      "GST(9%)": "GST(9%) : 83.74"
+    }
+  },
+  {
+    "image": "Template7_Instance48.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Carlos Gardner\n28594 Eric Port Suite 149\nChristinaview, AZ 37530 US\nTel:+(711)953-2535\nEmail:philipbell@example.com\nSite:https://www.jackson.org/",
+      "DATE": "Date: 15-Jun-2011",
+      "DUE_DATE": "Due Date : 26-Jun-2001",
+      "NUMBER": "INVOICE # INV06178133",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 303.58  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 310.34 EUR",
+      "GST(9%)": "GST(9%) : 27.32"
+    }
+  },
+  {
+    "image": "Template7_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erica Clark\n2011 Austin Drive Suite 539\nCandacebury, WV 30788 US\nTel:+(001)205-2876\nEmail:julie02@example.net\nSite:http://www.douglas-mendoza.com/",
+      "DATE": "Date: 18-Apr-1998",
+      "DUE_DATE": "Due Date : 25-Nov-1997",
+      "NUMBER": "Invoice number 4019-299",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 415.80  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 420.97 USD",
+      "GST(9%)": "GST(9%) : 37.42"
+    }
+  },
+  {
+    "image": "Template7_Instance152.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Martin Duran\n0391 Diane Loop Suite 992\nEast Juliebury, NE 34081 US\nTel:+(174)324-4510\nEmail:chad27@example.com\nSite:http://fernandez.com/",
+      "DATE": "Invoice Date: 30-Aug-1994",
+      "DUE_DATE": "Due Date : 26-Sep-2005",
+      "NUMBER": "INVOICE # 2Y8M1d-541",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1031.74  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1073.56 USD",
+      "GST(9%)": "GST(9%) : 92.86"
+    }
+  },
+  {
+    "image": "Template7_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Hernandez\n43326 Gary Loaf\nBrownbury, MA 32564 US\nTel:+(971)725-1320\nEmail:derrickjohnston@example.net\nSite:https://crane.net/",
+      "DATE": "Invoice Date: 10-Jun-2001",
+      "DUE_DATE": "Due Date : 16-Oct-2004",
+      "NUMBER": "INVOICE ID INV18139144",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 469.56  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 491.89 EUR",
+      "GST(9%)": "GST(9%) : 42.26"
+    }
+  },
+  {
+    "image": "Template7_Instance86.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jordan Mcmillan\n15039 Cynthia Greens Suite 330\nNorth Nicholashaven, MS 56732 US\nTel:+(626)990-3010\nEmail:qbowman@example.com\nSite:http://www.ford.biz/",
+      "DATE": "Date: 10-Mar-2012",
+      "DUE_DATE": "Due Date : 07-Jul-2006",
+      "NUMBER": "INVOICE # 4533-869",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 434.22  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 441.39 $",
+      "GST(9%)": "GST(9%) : 39.08"
+    }
+  },
+  {
+    "image": "Template7_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Catherine Beck\n4118 Kathryn Radial\nSouth Sherryville, WA 21604 US\nTel:+(446)710-5274\nEmail:theresariggs@example.org\nSite:http://www.white.com/",
+      "DATE": "Invoice Date: 02-Sep-2009",
+      "DUE_DATE": "Due Date : 24-Feb-2007",
+      "NUMBER": "INVOICE # INV/84-87/073",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 806.02  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 826.18 $",
+      "GST(9%)": "GST(9%) : 72.54"
+    }
+  },
+  {
+    "image": "Template7_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Velasquez\n59587 Farmer Throughway\nWest Melissaland, OH 47554 US\nTel:+(606)376-3279\nEmail:fitzgeraldamanda@example.net\nSite:https://martinez.com/",
+      "DATE": "Invoice Date: 31-Mar-2008",
+      "DUE_DATE": "Due Date : 12-Aug-1995",
+      "NUMBER": "INVOICE ID INV09827040",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1208.44  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1213.12 $",
+      "GST(9%)": "GST(9%) : 108.76"
+    }
+  },
+  {
+    "image": "Template7_Instance27.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sandra Salazar\n9478 Tyler Tunnel Suite 193\nHogantown, ND 84740 US\nTel:+(576)708-5186\nEmail:martha82@example.com\nSite:https://bass-buchanan.com/",
+      "DATE": "Date: 01-Sep-2005",
+      "DUE_DATE": "Due Date : 30-Nov-1995",
+      "NUMBER": "INVOICE # 3Y4M7d-788",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 634.31  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 636.13 EUR",
+      "GST(9%)": "GST(9%) : 57.09"
+    }
+  },
+  {
+    "image": "Template7_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Luis Riley\n401 Steven Road Suite 926\nWaltersborough, VT 75107 US\nTel:+(611)969-7339\nEmail:jorgejones@example.org\nSite:http://pena.biz/",
+      "DATE": "Date: 28-May-2021",
+      "DUE_DATE": "Due Date : 19-Feb-2016",
+      "NUMBER": "INVOICE ID 8333-924",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1201.80  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1238.12 EUR",
+      "GST(9%)": "GST(9%) : 108.16"
+    }
+  },
+  {
+    "image": "Template7_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sharon Dudley\n81998 Anderson Trail Suite 834\nEast James, VA 08749 US\nTel:+(413)413-1126\nEmail:twise@example.org\nSite:http://www.rivera-jenkins.com/",
+      "DATE": "Date: 31-Mar-2011",
+      "DUE_DATE": "Due Date : 22-Mar-2005",
+      "NUMBER": "INVOICE ID 2214-647",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 330.15  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 336.19 EUR",
+      "GST(9%)": "GST(9%) : 29.71"
+    }
+  },
+  {
+    "image": "Template7_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Brown\n973 Jackson Brooks Apt. 631\nFrazierview, MP 91275 US\nTel:+(113)292-0188\nEmail:roseronald@example.net\nSite:http://www.gordon-rivera.biz/",
+      "DATE": "Invoice Date: 25-Jun-2002",
+      "DUE_DATE": "Due Date : 21-Feb-2020",
+      "NUMBER": "INVOICE # 9Y6M5d-743",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 779.78  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 780.91 EUR",
+      "GST(9%)": "GST(9%) : 70.18"
+    }
+  },
+  {
+    "image": "Template7_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffery Hicks\n709 James Row\nEast Melanietown, UT 96969 US\nTel:+(649)674-0657\nEmail:jennifergray@example.com\nSite:https://www.middleton.com/",
+      "DATE": "Date: 05-Jul-2018",
+      "DUE_DATE": "Due Date : 04-Mar-2006",
+      "NUMBER": "INVOICE # 2Y1M6d-241",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 656.32  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 666.55 USD",
+      "GST(9%)": "GST(9%) : 59.07"
+    }
+  },
+  {
+    "image": "Template7_Instance73.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Larry Benitez\n119 Moore Ways Suite 947\nVictoriafurt, WA 30018 US\nTel:+(586)065-3810\nEmail:grayryan@example.com\nSite:https://www.wilson-martinez.biz/",
+      "DATE": "Date: 22-Nov-1993",
+      "DUE_DATE": "Due Date : 17-Mar-1999",
+      "NUMBER": "INVOICE # INV47349559",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 631.04  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 646.77 USD",
+      "GST(9%)": "GST(9%) : 56.79"
+    }
+  },
+  {
+    "image": "Template7_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Logan Berg\n578 Tony Lodge Apt. 093\nPort Briana, PA 37003 US\nTel:+(678)250-7022\nEmail:penadenise@example.org\nSite:https://www.hernandez.com/",
+      "DATE": "Invoice Date: 01-Oct-2000",
+      "DUE_DATE": "Due Date : 28-Aug-2018",
+      "NUMBER": "INVOICE # INV/02-49/462",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 704.22  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 728.56 EUR",
+      "GST(9%)": "GST(9%) : 63.38"
+    }
+  },
+  {
+    "image": "Template7_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kimberly Kent\n9509 Johnson Causeway\nLake Ryantown, MA 24638 US\nTel:+(573)780-2423\nEmail:cpetersen@example.com\nSite:https://www.patterson.com/",
+      "DATE": "Date: 19-Sep-2020",
+      "DUE_DATE": "Due Date : 26-Mar-2012",
+      "NUMBER": "INVOICE # 3Y5M9d-848",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 1076.98  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1115.31 USD",
+      "GST(9%)": "GST(9%) : 96.93"
+    }
+  },
+  {
+    "image": "Template7_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tonya Banks\n10569 Young Creek\nSouth Sandra, AS 66309 US\nTel:+(508)961-2195\nEmail:tannerday@example.com\nSite:https://www.ramirez-herman.com/",
+      "DATE": "Invoice Date: 23-Oct-2018",
+      "DUE_DATE": "Due Date : 23-Jun-2014",
+      "NUMBER": "INVOICE ID 6Y5M2d-975",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 793.50  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 797.13 EUR",
+      "GST(9%)": "GST(9%) : 71.42"
+    }
+  },
+  {
+    "image": "Template7_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brandon Soto\n65678 Hall Pass\nKingburgh, WA 44148 US\nTel:+(922)754-9870\nEmail:fisheradam@example.net\nSite:https://www.lamb.info/",
+      "DATE": "Invoice Date: 08-Feb-2000",
+      "DUE_DATE": "Due Date : 07-Jan-2008",
+      "NUMBER": "INVOICE ID 8245-804",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 376.27  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 392.64 $",
+      "GST(9%)": "GST(9%) : 33.86"
+    }
+  },
+  {
+    "image": "Template7_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Danielle Lewis\n33604 Samantha Creek Suite 393\nCrystalfort, NV 01211 US\nTel:+(634)873-6795\nEmail:wdavis@example.com\nSite:http://dennis.com/",
+      "DATE": "Date: 09-Dec-2018",
+      "DUE_DATE": "Due Date : 11-May-2019",
+      "NUMBER": "Invoice number 5Y8M6d-186",
+      "SELLER_EMAIL": "Email:cpetersen@example.com",
+      "SELLER_NAME": "White and Sons",
+      "SELLER_SITE": "www.WhiteandSons.org",
+      "SUB_TOTAL": "SUB_TOTAL : 388.94  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 399.40 EUR",
+      "GST(9%)": "GST(9%) : 35.00"
+    }
+  }
+]

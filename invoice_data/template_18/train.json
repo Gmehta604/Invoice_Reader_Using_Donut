@@ -1,0 +1,2721 @@
+[
+  {
+    "image": "Template18_Instance17.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Apr-2007",
+      "DISCOUNT": "DISCOUNT(2.48%): (-)  5.83",
+      "DUE_DATE": "Due Date : 28-Jul-2006",
+      "NUMBER": "INVOICE # INV/14-11/180",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 235.26  $",
+      "TAX": "TAX:VAT (3.47%):  8.17 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 237.83 $",
+      "SEND_TO": "SHIP_TO:\nRobin Reynolds\n22660 Alvarado Way\nLawrenceland, AR 72180 US\nTel:+(266)409-7229\nEmail:jonesdaniel@example.com\nSite:http://www.ellison.org/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 237.83 $"
+    }
+  },
+  {
+    "image": "Template18_Instance34.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Sep-2000",
+      "DISCOUNT": "DISCOUNT(4.7%): (-)  7.05",
+      "DUE_DATE": "Due Date : 28-Aug-2020",
+      "NUMBER": "INVOICE ID 3367-822",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 150.04  USD",
+      "TAX": "TAX:VAT (6.95%):  10.42 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 157.68 USD",
+      "SEND_TO": "SHIP_TO:\nNicholas Barnes\n2095 Cervantes Track\nSouth Michaelville, GA 88114 US\nTel:+(372)125-9763\nEmail:nicholaschan@example.net\nSite:http://www.fletcher.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 157.68 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance134.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Dec-2001",
+      "DISCOUNT": "DISCOUNT(3.22%): (-)  15.91",
+      "DUE_DATE": "Due Date : 14-Jul-2010",
+      "NUMBER": "Invoice number INV/34-42/654",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 494.04  USD",
+      "TAX": "TAX:VAT (3.73%):  18.44 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 498.80 USD",
+      "SEND_TO": "SHIP_TO:\nCameron Smith\n708 Alexa Lock\nLake Elizabeth, AR 09441 US\nTel:+(514)961-2828\nEmail:hansenlori@example.com\nSite:https://smith-smith.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 498.80 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance110.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Jan-1997",
+      "DISCOUNT": "DISCOUNT(3.91%): (-)  7.76",
+      "DUE_DATE": "Due Date : 19-Feb-1993",
+      "NUMBER": "INVOICE ID 9Y6M7d-814",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 198.59  EUR",
+      "TAX": "TAX:VAT (6.84%):  13.58 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 202.34 EUR",
+      "SEND_TO": "SHIP_TO:\nDanielle Cook\n5540 Horton Summit Apt. 790\nCindyton, DE 76610 US\nTel:+(660)962-4347\nEmail:sharon11@example.com\nSite:http://carrillo-reed.net/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 202.34 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance102.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Nov-2010",
+      "DISCOUNT": "DISCOUNT(2.97%): (-)  16.46",
+      "DUE_DATE": "Due Date : 20-Apr-1995",
+      "NUMBER": "Invoice number 8Y6M2d-262",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 554.05  $",
+      "TAX": "TAX:VAT (5.10%):  28.25 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 564.13 $",
+      "SEND_TO": "SHIP_TO:\nMikayla Solis\n8784 Miller Lake\nLake Mary, ME 79025 US\nTel:+(310)006-6378\nEmail:laurenbright@example.net\nSite:http://www.gonzalez-cole.info/",
+      "AMOUNT_DUE": "BALANCE_DUE : 564.13 $"
+    }
+  },
+  {
+    "image": "Template18_Instance177.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Mar-2010",
+      "DISCOUNT": "DISCOUNT(1.08%): (-)  9.24",
+      "DUE_DATE": "Due Date : 18-Jun-2009",
+      "NUMBER": "INVOICE ID INV33954751",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 855.51  USD",
+      "TAX": "TAX:VAT (5.56%):  47.59 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 894.54 USD",
+      "SEND_TO": "SHIP_TO:\nMichelle Chaney\n896 Robert Run Suite 701\nNorth Lisa, ND 51765 US\nTel:+(125)549-5926\nEmail:kylephillips@example.net\nSite:http://long-thornton.biz/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 894.54 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance132.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Dec-2021",
+      "DISCOUNT": "DISCOUNT(4.32%): (-)  10.87",
+      "DUE_DATE": "Due Date : 03-Dec-2006",
+      "NUMBER": "Invoice number 4Y5M3d-294",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 251.64  USD",
+      "TAX": "TAX:VAT (3.18%):  8.01 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 253.48 USD",
+      "SEND_TO": "SHIP_TO:\nCharles Jensen\n020 Kerr Port\nAlexton, PW 76221 US\nTel:+(510)600-4439\nEmail:jill82@example.com\nSite:https://www.powers.org/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 253.48 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance148.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Aug-2009",
+      "DISCOUNT": "DISCOUNT(1.28%): (-)  7.09",
+      "DUE_DATE": "Due Date : 18-Oct-2001",
+      "NUMBER": "INVOICE # INV62175226",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 553.72  $",
+      "TAX": "TAX:VAT (4.37%):  24.22 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 556.90 $",
+      "SEND_TO": "SHIP_TO:\nMichael Bailey\n20360 Gallagher Tunnel Suite 617\nSouth Jennifermouth, OH 37768 US\nTel:+(013)709-9708\nEmail:rebeccadavenport@example.com\nSite:https://www.rivera.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 556.90 $"
+    }
+  },
+  {
+    "image": "Template18_Instance28.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Feb-1994",
+      "DISCOUNT": "DISCOUNT(1.19%): (-)  11.26",
+      "DUE_DATE": "Due Date : 20-May-2003",
+      "NUMBER": "INVOICE ID INV96176029",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 946.17  $",
+      "TAX": "TAX:VAT (5.82%):  55.06 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 963.86 $",
+      "SEND_TO": "SHIP_TO:\nKimberly Jones\n466 Wilson Loaf Suite 808\nTimothyshire, CO 19133 US\nTel:+(836)254-2667\nEmail:wacosta@example.net\nSite:https://www.thomas.biz/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 963.86 $"
+    }
+  },
+  {
+    "image": "Template18_Instance185.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Jul-2003",
+      "DISCOUNT": "DISCOUNT(2.8%): (-)  25.79",
+      "DUE_DATE": "Due Date : 27-Jul-2009",
+      "NUMBER": "Invoice number INV47819662",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 921.11  $",
+      "TAX": "TAX:VAT (4.81%):  44.30 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 950.03 $",
+      "SEND_TO": "SHIP_TO:\nRachael Vasquez\n462 Brenda Rapids\nLake Daniel, ND 72290 US\nTel:+(952)470-2790\nEmail:brett18@example.org\nSite:http://mcmahon.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 950.03 $"
+    }
+  },
+  {
+    "image": "Template18_Instance150.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Sep-1995",
+      "DISCOUNT": "DISCOUNT(4.6%): (-)  50.61",
+      "DUE_DATE": "Due Date : 02-Aug-2011",
+      "NUMBER": "Invoice number INV/76-09/151",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1100.20  $",
+      "TAX": "TAX:VAT (4.46%):  49.11 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1127.75 $",
+      "SEND_TO": "SHIP_TO:\nDr. Amanda Murillo\n5894 Kimberly Forge Suite 570\nPort James, CA 10290 US\nTel:+(110)468-8862\nEmail:progers@example.com\nSite:http://www.martinez-brown.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1127.75 $"
+    }
+  },
+  {
+    "image": "Template18_Instance60.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Dec-2022",
+      "DISCOUNT": "DISCOUNT(3.94%): (-)  19.46",
+      "DUE_DATE": "Due Date : 07-Oct-2003",
+      "NUMBER": "Invoice number INV68508044",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 493.88  EUR",
+      "TAX": "TAX:VAT (5.41%):  26.71 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 500.44 EUR",
+      "SEND_TO": "SHIP_TO:\nJeffrey Jones\n76727 Abigail Plaza Suite 680\nTonyhaven, KY 97604 US\nTel:+(262)337-7196\nEmail:frodgers@example.net\nSite:https://scott-moss.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 500.44 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance75.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Apr-2018",
+      "DISCOUNT": "DISCOUNT(1.06%): (-)  10.64",
+      "DUE_DATE": "Due Date : 31-Jul-2009",
+      "NUMBER": "Invoice number 1Y9M2d-975",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1003.98  $",
+      "TAX": "TAX:VAT (6.83%):  68.60 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1047.78 $",
+      "SEND_TO": "SHIP_TO:\nJoe Smith\n479 Whitaker Pass Suite 260\nHartfurt, SC 77642 US\nTel:+(772)577-4742\nEmail:kgoodman@example.net\nSite:http://www.jones.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1047.78 $"
+    }
+  },
+  {
+    "image": "Template18_Instance18.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Jan-2020",
+      "DISCOUNT": "DISCOUNT(1.97%): (-)  7.08",
+      "DUE_DATE": "Due Date : 29-Oct-2004",
+      "NUMBER": "Invoice number 9786-578",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 359.23  $",
+      "TAX": "TAX:VAT (5.86%):  21.04 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 365.54 $",
+      "SEND_TO": "SHIP_TO:\nJason Parker\n0031 Collier Meadow\nGrayfort, MP 76762 US\nTel:+(846)879-1795\nEmail:burtonjose@example.org\nSite:http://www.arias.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 365.54 $"
+    }
+  },
+  {
+    "image": "Template18_Instance52.jpg",
+    "ground_truth": {
+      "DATE": "Date: 29-Dec-2008",
+      "DISCOUNT": "DISCOUNT(4.81%): (-)  16.81",
+      "DUE_DATE": "Due Date : 04-Jan-2016",
+      "NUMBER": "INVOICE ID 1Y4M9d-468",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 349.39  EUR",
+      "TAX": "TAX:VAT (6.38%):  22.29 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 360.92 EUR",
+      "SEND_TO": "SHIP_TO:\nChristopher Lawson\n179 Stephens Throughway Suite 513\nJamiefort, UT 03325 US\nTel:+(488)450-5007\nEmail:weeksrhonda@example.com\nSite:http://montgomery.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 360.92 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance85.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Oct-2009",
+      "DISCOUNT": "DISCOUNT(3.58%): (-)  15.85",
+      "DUE_DATE": "Due Date : 18-Apr-2021",
+      "NUMBER": "INVOICE ID INV31178409",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 442.73  USD",
+      "TAX": "TAX:VAT (3.50%):  15.49 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 439.67 USD",
+      "SEND_TO": "SHIP_TO:\nMartin Riley\n1751 Debbie Station\nLake Dawn, PA 19188 US\nTel:+(399)660-9092\nEmail:cochrandavid@example.net\nSite:https://pacheco-raymond.net/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 439.67 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance171.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Apr-1995",
+      "DISCOUNT": "DISCOUNT(1.94%): (-)  5.77",
+      "DUE_DATE": "Due Date : 10-Nov-2021",
+      "NUMBER": "INVOICE ID INV39959984",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 297.46  $",
+      "TAX": "TAX:VAT (5.92%):  17.61 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 310.04 $",
+      "SEND_TO": "SHIP_TO:\nAlexander Brennan\n54279 Foster Shoal\nNorth Bruce, MI 42117 US\nTel:+(228)652-9126\nEmail:millerstephen@example.com\nSite:https://www.briggs.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 310.04 $"
+    }
+  },
+  {
+    "image": "Template18_Instance39.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Aug-2019",
+      "DISCOUNT": "DISCOUNT(2.81%): (-)  23.23",
+      "DUE_DATE": "Due Date : 11-Sep-2022",
+      "NUMBER": "Invoice number INV/38-75/620",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 826.61  EUR",
+      "TAX": "TAX:VAT (6.49%):  53.67 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 867.22 EUR",
+      "SEND_TO": "SHIP_TO:\nRoberto Johnson\n959 Gary Circle\nRyanshire, CO 59600 US\nTel:+(223)138-4361\nEmail:tranthomas@example.net\nSite:https://andersen.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 867.22 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance151.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Nov-2005",
+      "DISCOUNT": "DISCOUNT(3.54%): (-)  33.05",
+      "DUE_DATE": "Due Date : 07-Jun-2020",
+      "NUMBER": "INVOICE ID 8528-292",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 933.58  $",
+      "TAX": "TAX:VAT (4.33%):  40.45 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 949.29 $",
+      "SEND_TO": "SHIP_TO:\nSonya Moss\n181 Rice Spur\nLambertside, IA 22628 US\nTel:+(280)911-9911\nEmail:iwilliams@example.net\nSite:http://martin.biz/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 949.29 $"
+    }
+  },
+  {
+    "image": "Template18_Instance195.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 27-Nov-2000",
+      "DISCOUNT": "DISCOUNT(4.19%): (-)  24.53",
+      "DUE_DATE": "Due Date : 30-Jan-2021",
+      "NUMBER": "INVOICE ID 7Y5M1d-271",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 585.43  USD",
+      "TAX": "TAX:VAT (3.31%):  19.39 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 595.57 USD",
+      "SEND_TO": "SHIP_TO:\nStephen Jensen\n4355 Carly Villages Suite 871\nMiastad, SD 97940 US\nTel:+(078)906-9490\nEmail:jamespowers@example.com\nSite:http://www.young.biz/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 595.57 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance14.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Apr-2020",
+      "DISCOUNT": "DISCOUNT(4.59%): (-)  14.58",
+      "DUE_DATE": "Due Date : 05-Sep-2008",
+      "NUMBER": "INVOICE # 5Y9M3d-660",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 317.66  EUR",
+      "TAX": "TAX:VAT (4.87%):  15.46 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 321.68 EUR",
+      "SEND_TO": "SHIP_TO:\nJames Johnson\n4934 Dominic Port Apt. 474\nLake Jamesstad, MD 90956 US\nTel:+(968)222-9292\nEmail:mrobinson@example.com\nSite:http://www.murray-cobb.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 321.68 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance179.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Mar-2009",
+      "DISCOUNT": "DISCOUNT(1.11%): (-)  12.44",
+      "DUE_DATE": "Due Date : 11-Nov-2006",
+      "NUMBER": "Invoice number INV09465751",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1121.04  $",
+      "TAX": "TAX:VAT (5.26%):  58.94 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1168.66 $",
+      "SEND_TO": "SHIP_TO:\nLinda Vasquez\n49613 Brown Terrace Apt. 406\nPort Jerry, LA 06480 US\nTel:+(160)932-4501\nEmail:martha30@example.net\nSite:http://johnson.org/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1168.66 $"
+    }
+  },
+  {
+    "image": "Template18_Instance121.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-May-2018",
+      "DISCOUNT": "DISCOUNT(1.89%): (-)  8.22",
+      "DUE_DATE": "Due Date : 01-Oct-2001",
+      "NUMBER": "INVOICE ID INV/20-50/131",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 434.86  USD",
+      "TAX": "TAX:VAT (4.61%):  20.06 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 442.14 USD",
+      "SEND_TO": "SHIP_TO:\nAdriana Rivera\n19603 Ray Terrace\nPort Amanda, MH 01689 US\nTel:+(700)763-2637\nEmail:davidlynch@example.net\nSite:http://www.carrillo.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 442.14 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance159.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Oct-2021",
+      "DISCOUNT": "DISCOUNT(2.4%): (-)  20.56",
+      "DUE_DATE": "Due Date : 14-Mar-1999",
+      "NUMBER": "Invoice number INV52694159",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 856.77  EUR",
+      "TAX": "TAX:VAT (5.68%):  48.70 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 873.68 EUR",
+      "SEND_TO": "SHIP_TO:\nCameron Meyer\n564 Johnson Turnpike Apt. 012\nPetermouth, WA 37165 US\nTel:+(793)094-3797\nEmail:millerbonnie@example.net\nSite:https://www.coleman.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 873.68 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance79.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-May-2008",
+      "DISCOUNT": "DISCOUNT(4.52%): (-)  23.36",
+      "DUE_DATE": "Due Date : 25-Jul-1995",
+      "NUMBER": "Invoice number INV88266728",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 516.81  EUR",
+      "TAX": "TAX:VAT (6.40%):  33.05 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 537.40 EUR",
+      "SEND_TO": "SHIP_TO:\nTaylor Weiss\n789 Andrew Valleys\nPort Brianville, WY 38737 US\nTel:+(750)251-3655\nEmail:amanda27@example.com\nSite:http://www.howard.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 537.40 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance20.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Oct-2002",
+      "DISCOUNT": "DISCOUNT(1.62%): (-)  22.85",
+      "DUE_DATE": "Due Date : 10-Oct-2017",
+      "NUMBER": "Invoice number INV32300257",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1410.59  EUR",
+      "TAX": "TAX:VAT (6.53%):  92.13 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1467.03 EUR",
+      "SEND_TO": "SHIP_TO:\nStephen Williams\n5315 Delgado Viaduct Apt. 450\nPort James, NV 17485 US\nTel:+(686)565-8740\nEmail:vincent26@example.net\nSite:http://schultz.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1467.03 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance12.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Sep-2005",
+      "DISCOUNT": "DISCOUNT(1.73%): (-)  9.98",
+      "DUE_DATE": "Due Date : 11-Jun-2009",
+      "NUMBER": "INVOICE ID INV/82-02/557",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 576.68  $",
+      "TAX": "TAX:VAT (3.95%):  22.78 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 578.76 $",
+      "SEND_TO": "SHIP_TO:\nRyan Pope\n432 Smith Street Suite 933\nRodriguezborough, DC 78425 US\nTel:+(337)914-5415\nEmail:tina91@example.org\nSite:http://www.page-brown.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 578.76 $"
+    }
+  },
+  {
+    "image": "Template18_Instance149.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Jan-2005",
+      "DISCOUNT": "DISCOUNT(2.2%): (-)  5.37",
+      "DUE_DATE": "Due Date : 02-Dec-1997",
+      "NUMBER": "INVOICE ID 8140-054",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 244.21  USD",
+      "TAX": "TAX:VAT (3.06%):  7.46 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 246.25 USD",
+      "SEND_TO": "SHIP_TO:\nChristian White\n479 Reginald Way\nMasonville, MT 54985 US\nTel:+(000)712-1605\nEmail:samanthavargas@example.net\nSite:https://www.mitchell.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 246.25 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance192.jpg",
+    "ground_truth": {
+      "DATE": "Date: 23-Apr-2010",
+      "DISCOUNT": "DISCOUNT(3.43%): (-)  17.21",
+      "DUE_DATE": "Due Date : 10-Jan-1994",
+      "NUMBER": "INVOICE ID 6767-671",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 501.79  EUR",
+      "TAX": "TAX:VAT (4.52%):  22.68 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 517.39 EUR",
+      "SEND_TO": "SHIP_TO:\nDean Zamora\n51077 Guerrero Ferry\nWest Vincent, GU 89243 US\nTel:+(069)597-1209\nEmail:mevans@example.org\nSite:https://www.pierce-hale.biz/",
+      "AMOUNT_DUE": "BALANCE_DUE : 517.39 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance77.jpg",
+    "ground_truth": {
+      "DATE": "Date: 05-Aug-2002",
+      "DISCOUNT": "DISCOUNT(1.7%): (-)  2.12",
+      "DUE_DATE": "Due Date : 29-Jul-2018",
+      "NUMBER": "Invoice number INV68824849",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 124.69  EUR",
+      "TAX": "TAX:VAT (5.87%):  7.31 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 130.65 EUR",
+      "SEND_TO": "SHIP_TO:\nJulia Jones\n24918 Kylie Estates\nEast Juanport, CO 72080 US\nTel:+(842)557-8064\nEmail:kelly99@example.net\nSite:https://www.richardson.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 130.65 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance189.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Nov-2013",
+      "DISCOUNT": "DISCOUNT(3.77%): (-)  26.36",
+      "DUE_DATE": "Due Date : 29-Dec-2021",
+      "NUMBER": "Invoice number 0287-920",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 699.18  USD",
+      "TAX": "TAX:VAT (6.70%):  46.87 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 718.43 USD",
+      "SEND_TO": "SHIP_TO:\nMelissa Thompson\n715 Amy Ridges Apt. 107\nDonaldside, SC 80080 US\nTel:+(661)902-4797\nEmail:williamstone@example.org\nSite:http://www.aguilar-daniels.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 718.43 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance170.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jan-1996",
+      "DISCOUNT": "DISCOUNT(1.36%): (-)  6.98",
+      "DUE_DATE": "Due Date : 15-Dec-2018",
+      "NUMBER": "INVOICE ID INV/10-09/003",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 513.40  $",
+      "TAX": "TAX:VAT (4.27%):  21.94 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 519.99 $",
+      "SEND_TO": "SHIP_TO:\nAaron Cruz\n41260 Webb Mountain\nNew Lisa, MS 91567 US\nTel:+(503)686-1971\nEmail:fisherjonathon@example.net\nSite:http://www.gonzalez.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 519.99 $"
+    }
+  },
+  {
+    "image": "Template18_Instance141.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Mar-2007",
+      "DISCOUNT": "DISCOUNT(2.99%): (-)  12.7",
+      "DUE_DATE": "Due Date : 12-Apr-2002",
+      "NUMBER": "INVOICE ID 1724-024",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 424.64  USD",
+      "TAX": "TAX:VAT (3.10%):  13.15 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 429.51 USD",
+      "SEND_TO": "SHIP_TO:\nChristopher Conley\n38188 Matthew Manors Apt. 170\nNorth Dana, NC 27014 US\nTel:+(453)828-1877\nEmail:alexander01@example.net\nSite:https://moore.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 429.51 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance180.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Jan-1994",
+      "DISCOUNT": "DISCOUNT(1.82%): (-)  25.29",
+      "DUE_DATE": "Due Date : 06-Aug-1994",
+      "NUMBER": "Invoice number 2Y2M7d-727",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1389.82  $",
+      "TAX": "TAX:VAT (4.31%):  59.84 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1402.68 $",
+      "SEND_TO": "SHIP_TO:\nJordan Mccarthy\n44042 Crystal Estate Suite 338\nBateshaven, SD 26070 US\nTel:+(445)418-9456\nEmail:luke32@example.org\nSite:http://www.brown.info/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1402.68 $"
+    }
+  },
+  {
+    "image": "Template18_Instance40.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Jan-1994",
+      "DISCOUNT": "DISCOUNT(4.88%): (-)  42.99",
+      "DUE_DATE": "Due Date : 22-Nov-1996",
+      "NUMBER": "Invoice number INV/85-49/066",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 880.85  EUR",
+      "TAX": "TAX:VAT (6.25%):  55.05 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 921.28 EUR",
+      "SEND_TO": "SHIP_TO:\nTaylor Klein\n1797 Kevin Mall\nWest Heather, KY 07816 US\nTel:+(982)629-0052\nEmail:logan54@example.org\nSite:http://www.franco.biz/",
+      "AMOUNT_DUE": "BALANCE_DUE : 921.28 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance49.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-Dec-2014",
+      "DISCOUNT": "DISCOUNT(3.51%): (-)  24.31",
+      "DUE_DATE": "Due Date : 06-Dec-2016",
+      "NUMBER": "INVOICE ID INV89862381",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 692.72  USD",
+      "TAX": "TAX:VAT (6.52%):  45.17 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 712.74 USD",
+      "SEND_TO": "SHIP_TO:\nKimberly Hoffman\n3091 Thornton Plain Suite 823\nRobertmouth, CO 17030 US\nTel:+(575)247-0364\nEmail:freese@example.org\nSite:https://www.hopkins.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 712.74 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance147.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Jul-1998",
+      "DISCOUNT": "DISCOUNT(3.28%): (-)  19.35",
+      "DUE_DATE": "Due Date : 21-Aug-2004",
+      "NUMBER": "Invoice number INV/25-13/615",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 590.00  USD",
+      "TAX": "TAX:VAT (3.67%):  21.63 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 594.81 USD",
+      "SEND_TO": "SHIP_TO:\nRaymond Joseph\n57819 Brandon Terrace Apt. 665\nAlanchester, RI 53483 US\nTel:+(612)904-1097\nEmail:blakejensen@example.com\nSite:https://stewart-williams.org/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 594.81 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance6.jpg",
+    "ground_truth": {
+      "DATE": "Date: 29-May-2010",
+      "DISCOUNT": "DISCOUNT(3.25%): (-)  17.6",
+      "DUE_DATE": "Due Date : 22-May-2007",
+      "NUMBER": "INVOICE ID 6Y3M8d-763",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 541.67  EUR",
+      "TAX": "TAX:VAT (4.56%):  24.68 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 546.90 EUR",
+      "SEND_TO": "SHIP_TO:\nKaren Fleming\n7780 Harry Circles Apt. 207\nValdezfort, IA 56761 US\nTel:+(019)938-0066\nEmail:brownkevin@example.com\nSite:http://www.bradley.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 546.90 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance101.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Jun-2014",
+      "DISCOUNT": "DISCOUNT(2.65%): (-)  24.75",
+      "DUE_DATE": "Due Date : 24-Aug-2013",
+      "NUMBER": "INVOICE # INV/09-89/998",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 934.04  $",
+      "TAX": "TAX:VAT (4.01%):  37.46 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 936.47 $",
+      "SEND_TO": "SHIP_TO:\nJackie Martinez\n879 Kristin Parkway\nBoylefurt, OK 27454 US\nTel:+(467)331-4656\nEmail:morganmahoney@example.net\nSite:https://thomas.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 936.47 $"
+    }
+  },
+  {
+    "image": "Template18_Instance7.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Jan-2003",
+      "DISCOUNT": "DISCOUNT(2.84%): (-)  7.95",
+      "DUE_DATE": "Due Date : 28-May-2012",
+      "NUMBER": "INVOICE ID INV71845878",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 279.98  $",
+      "TAX": "TAX:VAT (4.77%):  13.36 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 284.27 $",
+      "SEND_TO": "SHIP_TO:\nKristy Johnston\n3752 Bruce Glen Suite 231\nEast Michaeltown, VI 28667 US\nTel:+(790)420-4279\nEmail:smithmariah@example.org\nSite:http://www.miller-wiggins.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 284.27 $"
+    }
+  },
+  {
+    "image": "Template18_Instance53.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Jan-2009",
+      "DISCOUNT": "DISCOUNT(4.46%): (-)  33.66",
+      "DUE_DATE": "Due Date : 03-Sep-2001",
+      "NUMBER": "INVOICE ID INV/59-33/491",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 754.79  USD",
+      "TAX": "TAX:VAT (4.89%):  36.90 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 782.86 USD",
+      "SEND_TO": "SHIP_TO:\nSteven Jones\n54134 Eileen Extensions Apt. 270\nBradleyside, GU 60480 US\nTel:+(129)019-5196\nEmail:annettesanchez@example.org\nSite:https://www.hall.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 782.86 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance22.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Apr-2013",
+      "DISCOUNT": "DISCOUNT(2.84%): (-)  11.95",
+      "DUE_DATE": "Due Date : 19-Sep-2008",
+      "NUMBER": "INVOICE ID 4567-577",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 420.89  USD",
+      "TAX": "TAX:VAT (3.81%):  16.05 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 423.60 USD",
+      "SEND_TO": "SHIP_TO:\nCasey Simmons\n11405 Stephen Shores Apt. 698\nSmithberg, GU 07994 US\nTel:+(116)197-1180\nEmail:cooperbryan@example.org\nSite:http://www.wallace.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 423.60 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance154.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Jan-1999",
+      "DISCOUNT": "DISCOUNT(1.25%): (-)  14.95",
+      "DUE_DATE": "Due Date : 28-May-2003",
+      "NUMBER": "INVOICE # 9329-870",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1195.79  $",
+      "TAX": "TAX:VAT (6.64%):  79.38 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1223.51 $",
+      "SEND_TO": "SHIP_TO:\nRobert Sawyer\n93404 Pratt Key Suite 795\nCruzburgh, PW 99114 US\nTel:+(968)224-8615\nEmail:arellanosuzanne@example.org\nSite:https://villanueva.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1223.51 $"
+    }
+  },
+  {
+    "image": "Template18_Instance163.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Jul-1997",
+      "DISCOUNT": "DISCOUNT(3.82%): (-)  36.27",
+      "DUE_DATE": "Due Date : 03-Sep-2003",
+      "NUMBER": "INVOICE # INV/91-32/467",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 949.57  $",
+      "TAX": "TAX:VAT (5.09%):  48.29 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 977.44 $",
+      "SEND_TO": "SHIP_TO:\nSandra Crane\n20144 Melissa Square\nSouth Nicoletown, PR 25316 US\nTel:+(232)262-4743\nEmail:thorntonzachary@example.org\nSite:http://www.foley.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 977.44 $"
+    }
+  },
+  {
+    "image": "Template18_Instance71.jpg",
+    "ground_truth": {
+      "DATE": "Date: 26-Aug-2002",
+      "DISCOUNT": "DISCOUNT(4.26%): (-)  15.15",
+      "DUE_DATE": "Due Date : 09-Dec-2014",
+      "NUMBER": "INVOICE # 7722-894",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 355.74  $",
+      "TAX": "TAX:VAT (4.38%):  15.57 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 357.58 $",
+      "SEND_TO": "SHIP_TO:\nJerry Lopez\n895 Leach Island\nLake Lori, WA 15406 US\nTel:+(556)310-8295\nEmail:jared01@example.org\nSite:http://www.lloyd.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 357.58 $"
+    }
+  },
+  {
+    "image": "Template18_Instance64.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Dec-2017",
+      "DISCOUNT": "DISCOUNT(2.04%): (-)  21.25",
+      "DUE_DATE": "Due Date : 08-Dec-2008",
+      "NUMBER": "INVOICE ID 6Y5M2d-915",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1041.50  $",
+      "TAX": "TAX:VAT (5.86%):  61.04 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1091.08 $",
+      "SEND_TO": "SHIP_TO:\nHarry Burgess\n701 Tyler Ferry\nGonzalezview, NM 89703 US\nTel:+(070)540-7002\nEmail:williamseric@example.org\nSite:https://www.hines.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1091.08 $"
+    }
+  },
+  {
+    "image": "Template18_Instance56.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Jun-2004",
+      "DISCOUNT": "DISCOUNT(3.14%): (-)  27.86",
+      "DUE_DATE": "Due Date : 24-Dec-2020",
+      "NUMBER": "Invoice number 9Y2M5d-931",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 887.25  EUR",
+      "TAX": "TAX:VAT (3.73%):  33.06 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 904.69 EUR",
+      "SEND_TO": "SHIP_TO:\nJade Solis\n94618 Farrell Parkway Suite 982\nMichaelberg, OH 98064 US\nTel:+(091)382-4072\nEmail:cindyglass@example.net\nSite:https://perez-rodriguez.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 904.69 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance145.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Feb-2015",
+      "DISCOUNT": "DISCOUNT(3.86%): (-)  21.21",
+      "DUE_DATE": "Due Date : 27-Nov-2013",
+      "NUMBER": "Invoice number 2Y6M2d-935",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 549.45  EUR",
+      "TAX": "TAX:VAT (5.67%):  31.17 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 563.86 EUR",
+      "SEND_TO": "SHIP_TO:\nKevin Ward\n805 Rebecca Highway Apt. 654\nReynoldsside, MH 06805 US\nTel:+(280)866-9422\nEmail:tanderson@example.org\nSite:https://www.mcbride.org/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 563.86 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance124.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Oct-2014",
+      "DISCOUNT": "DISCOUNT(3.6%): (-)  35.35",
+      "DUE_DATE": "Due Date : 26-Jun-2000",
+      "NUMBER": "INVOICE # INV35646688",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 982.00  EUR",
+      "TAX": "TAX:VAT (5.89%):  57.83 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 998.00 EUR",
+      "SEND_TO": "SHIP_TO:\nNicholas Scott\n5267 Castillo Drive Suite 410\nWest Frank, DE 25378 US\nTel:+(715)176-5612\nEmail:gcollier@example.org\nSite:https://www.salas.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 998.00 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance59.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Apr-1995",
+      "DISCOUNT": "DISCOUNT(4.59%): (-)  36.53",
+      "DUE_DATE": "Due Date : 08-Jan-2019",
+      "NUMBER": "INVOICE ID 1908-465",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 795.78  EUR",
+      "TAX": "TAX:VAT (6.51%):  51.79 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 829.59 EUR",
+      "SEND_TO": "SHIP_TO:\nJoel Smith\n6857 Brown Rapids\nDianaburgh, DE 92689 US\nTel:+(594)630-2227\nEmail:tammygeorge@example.com\nSite:https://powers.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 829.59 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance182.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Apr-1993",
+      "DISCOUNT": "DISCOUNT(4.45%): (-)  21.69",
+      "DUE_DATE": "Due Date : 01-May-1997",
+      "NUMBER": "INVOICE # 8057-585",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 487.41  $",
+      "TAX": "TAX:VAT (6.44%):  31.41 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 513.02 $",
+      "SEND_TO": "SHIP_TO:\nSheryl Carrillo\n022 Wood Drives Suite 951\nPort Georgefort, NC 56237 US\nTel:+(550)820-2302\nEmail:emilysilva@example.com\nSite:http://www.franklin.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 513.02 $"
+    }
+  },
+  {
+    "image": "Template18_Instance38.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 18-Dec-2015",
+      "DISCOUNT": "DISCOUNT(3.71%): (-)  23.43",
+      "DUE_DATE": "Due Date : 30-Nov-2008",
+      "NUMBER": "INVOICE # 2207-517",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 631.65  USD",
+      "TAX": "TAX:VAT (3.40%):  21.49 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 626.23 USD",
+      "SEND_TO": "SHIP_TO:\nDaniel Hall\n2225 Allen Landing\nEast Steven, TN 36652 US\nTel:+(574)816-6255\nEmail:gonzalesdaniel@example.org\nSite:https://www.mitchell.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 626.23 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance19.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Oct-2007",
+      "DISCOUNT": "DISCOUNT(4.3%): (-)  21.94",
+      "DUE_DATE": "Due Date : 04-Aug-2022",
+      "NUMBER": "INVOICE # INV09864256",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 510.12  USD",
+      "TAX": "TAX:VAT (5.61%):  28.63 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 519.88 USD",
+      "SEND_TO": "SHIP_TO:\nMargaret Gibson\n42615 Christine Rapid\nSouth Rhondamouth, KS 76574 US\nTel:+(005)455-8340\nEmail:anita74@example.net\nSite:https://www.williams.info/",
+      "AMOUNT_DUE": "BALANCE_DUE : 519.88 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance90.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-May-2015",
+      "DISCOUNT": "DISCOUNT(1.46%): (-)  9.22",
+      "DUE_DATE": "Due Date : 06-Jul-2004",
+      "NUMBER": "Invoice number 7131-434",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 631.54  EUR",
+      "TAX": "TAX:VAT (6.58%):  41.55 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 665.89 EUR",
+      "SEND_TO": "SHIP_TO:\nSheila Bass\n118 Scott Road Suite 134\nLake Phillip, AS 38586 US\nTel:+(114)441-0005\nEmail:katieramirez@example.org\nSite:http://jefferson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 665.89 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance172.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Nov-2002",
+      "DISCOUNT": "DISCOUNT(3.7%): (-)  24.7",
+      "DUE_DATE": "Due Date : 08-Apr-1993",
+      "NUMBER": "INVOICE ID 5742-518",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 667.47  $",
+      "TAX": "TAX:VAT (3.42%):  22.85 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 667.69 $",
+      "SEND_TO": "SHIP_TO:\nRobert Mitchell\n5855 Erica Ford Apt. 492\nEast Susan, NH 36573 US\nTel:+(163)751-2424\nEmail:atkinsonjoseph@example.com\nSite:https://thompson-houston.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 667.69 $"
+    }
+  },
+  {
+    "image": "Template18_Instance92.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Feb-1999",
+      "DISCOUNT": "DISCOUNT(2.55%): (-)  19.18",
+      "DUE_DATE": "Due Date : 11-Jan-2022",
+      "NUMBER": "Invoice number 4268-892",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 752.03  $",
+      "TAX": "TAX:VAT (3.52%):  26.51 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 768.46 $",
+      "SEND_TO": "SHIP_TO:\nKathy Grant\n150 Perez Mount Apt. 136\nFitzpatrickburgh, MD 09463 US\nTel:+(107)976-0236\nEmail:mtaylor@example.org\nSite:http://mcdaniel.biz/",
+      "AMOUNT_DUE": "BALANCE_DUE : 768.46 $"
+    }
+  },
+  {
+    "image": "Template18_Instance168.jpg",
+    "ground_truth": {
+      "DATE": "Date: 11-Aug-2019",
+      "DISCOUNT": "DISCOUNT(4.51%): (-)  45.48",
+      "DUE_DATE": "Due Date : 22-Dec-2022",
+      "NUMBER": "INVOICE # INV/16-40/298",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1008.50  USD",
+      "TAX": "TAX:VAT (3.87%):  39.07 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1024.48 USD",
+      "SEND_TO": "SHIP_TO:\nLaura Li\n144 Jessica Hill Apt. 593\nTravisfort, PW 25618 US\nTel:+(658)137-7121\nEmail:dana12@example.net\nSite:http://phillips.biz/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1024.48 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance93.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Dec-2003",
+      "DISCOUNT": "DISCOUNT(4.93%): (-)  26.63",
+      "DUE_DATE": "Due Date : 19-Nov-2019",
+      "NUMBER": "INVOICE ID 7105-637",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 540.13  EUR",
+      "TAX": "TAX:VAT (3.16%):  17.05 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 544.97 EUR",
+      "SEND_TO": "SHIP_TO:\nStacey Vasquez\n629 Miranda Court\nSouth Alexandershire, AK 55558 US\nTel:+(087)535-7352\nEmail:tylercole@example.org\nSite:https://www.campbell.org/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 544.97 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance152.jpg",
+    "ground_truth": {
+      "DATE": "Date: 20-Apr-2017",
+      "DISCOUNT": "DISCOUNT(1.31%): (-)  10.59",
+      "DUE_DATE": "Due Date : 30-Jun-2003",
+      "NUMBER": "INVOICE ID 6Y8M3d-197",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 808.54  USD",
+      "TAX": "TAX:VAT (4.01%):  32.43 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 816.79 USD",
+      "SEND_TO": "SHIP_TO:\nJessica Harrison\n9138 Robert Bridge Apt. 620\nTurnerville, OH 78453 US\nTel:+(447)992-7094\nEmail:qcharles@example.net\nSite:http://www.rios-joseph.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 816.79 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance74.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Nov-2014",
+      "DISCOUNT": "DISCOUNT(2.64%): (-)  17.57",
+      "DUE_DATE": "Due Date : 22-Sep-2010",
+      "NUMBER": "INVOICE # INV90972599",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 665.61  $",
+      "TAX": "TAX:VAT (4.24%):  28.21 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 674.92 $",
+      "SEND_TO": "SHIP_TO:\nRichard Gross\n573 Wheeler Roads Apt. 258\nEthanfurt, KS 52001 US\nTel:+(241)110-4615\nEmail:smithdeborah@example.org\nSite:https://collins-lawson.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 674.92 $"
+    }
+  },
+  {
+    "image": "Template18_Instance51.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Feb-1995",
+      "DISCOUNT": "DISCOUNT(2.8%): (-)  7.05",
+      "DUE_DATE": "Due Date : 01-Jan-1997",
+      "NUMBER": "Invoice number 4095-537",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 251.62  EUR",
+      "TAX": "TAX:VAT (3.68%):  9.26 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 249.15 EUR",
+      "SEND_TO": "SHIP_TO:\nHerbert Blackwell\n63965 Brian Ford\nNew Leslie, ID 58514 US\nTel:+(103)221-3020\nEmail:john07@example.org\nSite:http://anderson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 249.15 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance5.jpg",
+    "ground_truth": {
+      "DATE": "Date: 14-Jul-2017",
+      "DISCOUNT": "DISCOUNT(2.62%): (-)  9.47",
+      "DUE_DATE": "Due Date : 14-Jan-1994",
+      "NUMBER": "Invoice number INV/49-92/951",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 361.42  USD",
+      "TAX": "TAX:VAT (5.98%):  21.61 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 370.85 USD",
+      "SEND_TO": "SHIP_TO:\nJeremy Gonzalez\n808 Barnes Loop\nNew David, FL 98665 US\nTel:+(458)313-6890\nEmail:dustinfrey@example.com\nSite:http://www.moore-jackson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 370.85 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance125.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Oct-2004",
+      "DISCOUNT": "DISCOUNT(2.77%): (-)  21.55",
+      "DUE_DATE": "Due Date : 07-Dec-2012",
+      "NUMBER": "Invoice number INV/46-07/488",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 777.99  USD",
+      "TAX": "TAX:VAT (4.99%):  38.80 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 789.72 USD",
+      "SEND_TO": "SHIP_TO:\nJulie Campbell\n452 Coffey Harbors Suite 331\nPort Debramouth, TN 16566 US\nTel:+(602)000-1400\nEmail:leachalex@example.com\nSite:https://www.hernandez-holmes.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 789.72 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance167.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Jun-2000",
+      "DISCOUNT": "DISCOUNT(4.51%): (-)  27.87",
+      "DUE_DATE": "Due Date : 23-Jun-2003",
+      "NUMBER": "Invoice number INV86467828",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 617.94  USD",
+      "TAX": "TAX:VAT (5.02%):  31.03 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 641.93 USD",
+      "SEND_TO": "SHIP_TO:\nElizabeth Hebert\n76399 Wade Forest Apt. 561\nWest Matthewville, KY 36078 US\nTel:+(471)540-5330\nEmail:frederick02@example.net\nSite:http://harrell-oconnell.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 641.93 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance69.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Jun-2001",
+      "DISCOUNT": "DISCOUNT(3.7%): (-)  42.31",
+      "DUE_DATE": "Due Date : 12-Oct-2008",
+      "NUMBER": "INVOICE # 3247-847",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1143.54  EUR",
+      "TAX": "TAX:VAT (4.09%):  46.75 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1157.70 EUR",
+      "SEND_TO": "SHIP_TO:\nBrandon Barnes\n329 Dunn Island Suite 507\nPhillipsstad, IA 61557 US\nTel:+(153)632-3023\nEmail:walkeremma@example.net\nSite:http://elliott.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1157.70 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance129.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Jun-2022",
+      "DISCOUNT": "DISCOUNT(2.54%): (-)  15.73",
+      "DUE_DATE": "Due Date : 01-Nov-2001",
+      "NUMBER": "Invoice number 8835-083",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 619.46  USD",
+      "TAX": "TAX:VAT (5.04%):  31.23 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 630.12 USD",
+      "SEND_TO": "SHIP_TO:\nCory Rice\n411 Christopher Fall\nWagnerfort, WA 02697 US\nTel:+(024)979-0142\nEmail:kevin96@example.org\nSite:https://houston-morris.net/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 630.12 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance23.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Aug-2005",
+      "DISCOUNT": "DISCOUNT(1.68%): (-)  9.0",
+      "DUE_DATE": "Due Date : 21-Dec-2008",
+      "NUMBER": "INVOICE # INV22359862",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 535.68  USD",
+      "TAX": "TAX:VAT (6.67%):  35.73 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 562.79 USD",
+      "SEND_TO": "SHIP_TO:\nBeth Smith\n433 Herring Prairie\nNew Christopher, NY 62708 US\nTel:+(346)415-2144\nEmail:zmalone@example.org\nSite:https://allen-wilson.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 562.79 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance198.jpg",
+    "ground_truth": {
+      "DATE": "Date: 29-Jan-2017",
+      "DISCOUNT": "DISCOUNT(3.26%): (-)  21.43",
+      "DUE_DATE": "Due Date : 26-Dec-2006",
+      "NUMBER": "INVOICE # 3Y3M6d-949",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 657.21  EUR",
+      "TAX": "TAX:VAT (6.94%):  45.63 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 674.38 EUR",
+      "SEND_TO": "SHIP_TO:\nBreanna Willis\n08957 Mitchell Rest Suite 862\nVazquezview, AS 99876 US\nTel:+(848)230-8913\nEmail:flynnkevin@example.org\nSite:http://davis.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 674.38 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance35.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Feb-2014",
+      "DISCOUNT": "DISCOUNT(1.82%): (-)  8.2",
+      "DUE_DATE": "Due Date : 18-Apr-1996",
+      "NUMBER": "Invoice number INV/02-47/299",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 450.60  USD",
+      "TAX": "TAX:VAT (4.59%):  20.67 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 458.70 USD",
+      "SEND_TO": "SHIP_TO:\nPatricia Jackson\n7152 Grant Trail\nAmyfurt, NJ 63648 US\nTel:+(234)436-7792\nEmail:james10@example.net\nSite:http://wood.biz/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 458.70 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance183.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 04-Sep-2020",
+      "DISCOUNT": "DISCOUNT(1.58%): (-)  10.33",
+      "DUE_DATE": "Due Date : 10-Dec-2003",
+      "NUMBER": "INVOICE # INV/87-38/731",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 653.67  $",
+      "TAX": "TAX:VAT (4.73%):  30.94 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 657.61 $",
+      "SEND_TO": "SHIP_TO:\nSteve Robinson\n950 Campbell Parks\nLake Jillianburgh, WV 87764 US\nTel:+(514)568-6722\nEmail:hmyers@example.net\nSite:https://www.allen-eaton.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 657.61 $"
+    }
+  },
+  {
+    "image": "Template18_Instance176.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Aug-1994",
+      "DISCOUNT": "DISCOUNT(2.5%): (-)  13.83",
+      "DUE_DATE": "Due Date : 31-Aug-2016",
+      "NUMBER": "Invoice number 5Y5M1d-162",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 553.10  EUR",
+      "TAX": "TAX:VAT (6.19%):  34.22 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 567.96 EUR",
+      "SEND_TO": "SHIP_TO:\nJoseph Thornton MD\n5292 Burns Unions\nPort Gabrieltown, KY 19452 US\nTel:+(255)424-3540\nEmail:stephanie09@example.com\nSite:https://www.king.biz/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 567.96 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance80.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Mar-2011",
+      "DISCOUNT": "DISCOUNT(2.08%): (-)  2.14",
+      "DUE_DATE": "Due Date : 08-Jun-2012",
+      "NUMBER": "Invoice number 0985-218",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 103.07  EUR",
+      "TAX": "TAX:VAT (3.24%):  3.34 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 102.69 EUR",
+      "SEND_TO": "SHIP_TO:\nJohn Donaldson\n71954 Richard Prairie\nNew Aaron, PA 66103 US\nTel:+(626)521-5760\nEmail:sanchezandrew@example.org\nSite:https://www.mason-gibson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 102.69 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance95.jpg",
+    "ground_truth": {
+      "DATE": "Date: 07-May-2014",
+      "DISCOUNT": "DISCOUNT(2.43%): (-)  7.54",
+      "DUE_DATE": "Due Date : 06-Jan-1997",
+      "NUMBER": "Invoice number 5970-338",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 310.29  $",
+      "TAX": "TAX:VAT (3.40%):  10.55 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 306.66 $",
+      "SEND_TO": "SHIP_TO:\nSteven Garza\n08935 Allen Grove\nMeredithborough, KY 65697 US\nTel:+(185)207-1009\nEmail:jared04@example.org\nSite:http://www.gomez.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 306.66 $"
+    }
+  },
+  {
+    "image": "Template18_Instance197.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Dec-2004",
+      "DISCOUNT": "DISCOUNT(2.8%): (-)  23.62",
+      "DUE_DATE": "Due Date : 05-Dec-1995",
+      "NUMBER": "Invoice number 3Y8M2d-846",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 843.59  USD",
+      "TAX": "TAX:VAT (6.68%):  56.34 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 861.80 USD",
+      "SEND_TO": "SHIP_TO:\nTammy Dean\n18980 Megan Port Apt. 908\nWest Allisonmouth, UT 28043 US\nTel:+(427)247-8022\nEmail:hansenelizabeth@example.com\nSite:https://proctor-black.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 861.80 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance97.jpg",
+    "ground_truth": {
+      "DATE": "Date: 10-Aug-2011",
+      "DISCOUNT": "DISCOUNT(4.82%): (-)  15.3",
+      "DUE_DATE": "Due Date : 15-Sep-1997",
+      "NUMBER": "INVOICE ID 5Y6M6d-342",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 317.47  $",
+      "TAX": "TAX:VAT (4.32%):  13.72 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 320.84 $",
+      "SEND_TO": "SHIP_TO:\nCharles Davila\n35458 Marcus Rue Apt. 615\nEast Heather, ND 91133 US\nTel:+(783)121-5001\nEmail:davisamy@example.net\nSite:https://jones-burch.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 320.84 $"
+    }
+  },
+  {
+    "image": "Template18_Instance114.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Jul-2010",
+      "DISCOUNT": "DISCOUNT(2.46%): (-)  16.97",
+      "DUE_DATE": "Due Date : 14-Oct-2008",
+      "NUMBER": "Invoice number INV17424336",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 690.04  USD",
+      "TAX": "TAX:VAT (6.42%):  44.33 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 718.98 USD",
+      "SEND_TO": "SHIP_TO:\nSherry Watson\n13900 Cooke Road\nWest Andrea, ID 44405 US\nTel:+(365)469-5439\nEmail:pthomas@example.com\nSite:https://pacheco.net/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 718.98 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance173.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-May-1995",
+      "DISCOUNT": "DISCOUNT(2.3%): (-)  2.88",
+      "DUE_DATE": "Due Date : 21-Sep-2012",
+      "NUMBER": "INVOICE ID 1Y9M6d-435",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 125.13  $",
+      "TAX": "TAX:VAT (5.86%):  7.33 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 130.20 $",
+      "SEND_TO": "SHIP_TO:\nJerry Rogers\n533 Alexis Island Apt. 930\nWest Austin, GA 85700 US\nTel:+(472)972-2134\nEmail:newtonkyle@example.com\nSite:https://www.gutierrez-jones.net/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 130.20 $"
+    }
+  },
+  {
+    "image": "Template18_Instance57.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Jun-2009",
+      "DISCOUNT": "DISCOUNT(4.41%): (-)  11.08",
+      "DUE_DATE": "Due Date : 10-Nov-2021",
+      "NUMBER": "Invoice number 8Y4M1d-169",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 251.18  USD",
+      "TAX": "TAX:VAT (6.42%):  16.13 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 259.02 USD",
+      "SEND_TO": "SHIP_TO:\nIsabella Robinson\n052 Gina Ports Suite 839\nWilliamstown, AL 94198 US\nTel:+(127)320-2529\nEmail:seanreynolds@example.com\nSite:http://www.bailey-anderson.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 259.02 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance88.jpg",
+    "ground_truth": {
+      "DATE": "Date: 28-Feb-1999",
+      "DISCOUNT": "DISCOUNT(4.62%): (-)  39.86",
+      "DUE_DATE": "Due Date : 25-Nov-2003",
+      "NUMBER": "Invoice number INV/35-07/488",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 862.75  EUR",
+      "TAX": "TAX:VAT (6.79%):  58.55 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 881.18 EUR",
+      "SEND_TO": "SHIP_TO:\nSara Miller\n795 Wyatt Hills\nSwansonburgh, NJ 85133 US\nTel:+(209)550-6149\nEmail:thomashudson@example.org\nSite:http://www.stanton.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 881.18 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance160.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Dec-1996",
+      "DISCOUNT": "DISCOUNT(2.69%): (-)  21.44",
+      "DUE_DATE": "Due Date : 05-Jun-2021",
+      "NUMBER": "INVOICE # INV90173015",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 796.99  EUR",
+      "TAX": "TAX:VAT (4.87%):  38.78 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 821.11 EUR",
+      "SEND_TO": "SHIP_TO:\nBradley Taylor\n868 Peterson Village\nWest Jessicachester, AZ 18435 US\nTel:+(613)779-0942\nEmail:michaelsandoval@example.com\nSite:http://www.bentley-gardner.net/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 821.11 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance67.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Oct-2015",
+      "DISCOUNT": "DISCOUNT(3.64%): (-)  31.12",
+      "DUE_DATE": "Due Date : 26-Dec-2000",
+      "NUMBER": "INVOICE # INV/72-04/634",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 855.02  USD",
+      "TAX": "TAX:VAT (6.90%):  59.01 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 890.00 USD",
+      "SEND_TO": "SHIP_TO:\nVictoria Rubio\n83793 Ortiz Pine\nLake Lisaborough, MP 17669 US\nTel:+(608)988-8816\nEmail:kellylowe@example.net\nSite:http://jones.info/",
+      "AMOUNT_DUE": "BALANCE_DUE : 890.00 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance112.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Mar-2012",
+      "DISCOUNT": "DISCOUNT(1.74%): (-)  6.39",
+      "DUE_DATE": "Due Date : 09-Apr-2015",
+      "NUMBER": "INVOICE ID INV65726678",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 367.19  USD",
+      "TAX": "TAX:VAT (5.83%):  21.40 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 383.08 USD",
+      "SEND_TO": "SHIP_TO:\nGary Rogers\n231 Suzanne Underpass\nSouth Lisachester, NV 40477 US\nTel:+(386)935-9222\nEmail:hopkinsdebra@example.org\nSite:https://www.jordan-russell.org/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 383.08 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance161.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Dec-1994",
+      "DISCOUNT": "DISCOUNT(3.2%): (-)  41.37",
+      "DUE_DATE": "Due Date : 04-Sep-2003",
+      "NUMBER": "Invoice number 5Y8M5d-369",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1292.78  USD",
+      "TAX": "TAX:VAT (3.29%):  42.50 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1318.09 USD",
+      "SEND_TO": "SHIP_TO:\nDustin Beard\n049 Brown Haven\nEast Monica, DC 78644 US\nTel:+(822)134-8485\nEmail:bakervictoria@example.net\nSite:https://www.ward-howell.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1318.09 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance73.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Dec-2007",
+      "DISCOUNT": "DISCOUNT(1.39%): (-)  5.43",
+      "DUE_DATE": "Due Date : 07-Nov-1996",
+      "NUMBER": "Invoice number INV92636803",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 390.34  USD",
+      "TAX": "TAX:VAT (3.15%):  12.28 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 390.01 USD",
+      "SEND_TO": "SHIP_TO:\nMonica Wang\n596 Heather Ranch\nLake Amanda, ME 89083 US\nTel:+(402)607-5678\nEmail:ryan18@example.com\nSite:https://harrison.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 390.01 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance87.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Jun-2018",
+      "DISCOUNT": "DISCOUNT(4.48%): (-)  67.39",
+      "DUE_DATE": "Due Date : 12-May-2001",
+      "NUMBER": "Invoice number 6181-380",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1504.24  $",
+      "TAX": "TAX:VAT (3.58%):  53.88 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1499.30 $",
+      "SEND_TO": "SHIP_TO:\nChristopher Lee II\n7458 Taylor Creek Suite 591\nClarktown, GA 81140 US\nTel:+(196)522-5825\nEmail:nathansanchez@example.com\nSite:http://www.miller.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1499.30 $"
+    }
+  },
+  {
+    "image": "Template18_Instance31.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 24-Jul-2006",
+      "DISCOUNT": "DISCOUNT(3.61%): (-)  15.04",
+      "DUE_DATE": "Due Date : 28-Sep-1995",
+      "NUMBER": "INVOICE ID INV/63-19/369",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 416.59  USD",
+      "TAX": "TAX:VAT (3.53%):  14.72 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 415.69 USD",
+      "SEND_TO": "SHIP_TO:\nJerome Cervantes\n31331 Bobby Crest\nEast Sharon, NM 32553 US\nTel:+(221)783-6331\nEmail:tylermoore@example.org\nSite:https://pena.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 415.69 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance58.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 28-Oct-2011",
+      "DISCOUNT": "DISCOUNT(3.71%): (-)  34.44",
+      "DUE_DATE": "Due Date : 23-Jan-2019",
+      "NUMBER": "Invoice number 7Y6M4d-635",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 928.40  EUR",
+      "TAX": "TAX:VAT (4.10%):  38.05 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 939.80 EUR",
+      "SEND_TO": "SHIP_TO:\nElizabeth Morales\n76303 Allen Neck Apt. 040\nNicholsport, UT 79401 US\nTel:+(712)354-8047\nEmail:suttonandrew@example.net\nSite:http://www.higgins.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 939.80 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance146.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 22-May-2012",
+      "DISCOUNT": "DISCOUNT(3.15%): (-)  40.87",
+      "DUE_DATE": "Due Date : 23-Jun-1995",
+      "NUMBER": "INVOICE # INV/93-64/740",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1297.32  $",
+      "TAX": "TAX:VAT (5.96%):  77.29 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1319.73 $",
+      "SEND_TO": "SHIP_TO:\nJacob Davis\n63976 Roy Meadows Suite 313\nNew David, KY 78636 US\nTel:+(052)393-4812\nEmail:shaun17@example.com\nSite:https://collins.org/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1319.73 $"
+    }
+  },
+  {
+    "image": "Template18_Instance137.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 10-Jul-2022",
+      "DISCOUNT": "DISCOUNT(4.61%): (-)  6.5",
+      "DUE_DATE": "Due Date : 10-Nov-2018",
+      "NUMBER": "INVOICE ID INV17232836",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 140.95  EUR",
+      "TAX": "TAX:VAT (5.04%):  7.11 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 146.26 EUR",
+      "SEND_TO": "SHIP_TO:\nMonica Williams\n678 Tran Manor Suite 642\nQuinnmouth, MP 63327 US\nTel:+(736)259-6616\nEmail:hdavies@example.net\nSite:https://www.green.info/",
+      "AMOUNT_DUE": "BALANCE_DUE : 146.26 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance143.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 09-Jun-2014",
+      "DISCOUNT": "DISCOUNT(4.79%): (-)  35.92",
+      "DUE_DATE": "Due Date : 10-Feb-2017",
+      "NUMBER": "Invoice number INV/67-14/776",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 749.87  $",
+      "TAX": "TAX:VAT (5.73%):  42.98 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 774.70 $",
+      "SEND_TO": "SHIP_TO:\nShelby Johnson\n306 Crystal Extensions\nEast Michelle, FM 83035 US\nTel:+(655)236-1888\nEmail:robinyates@example.com\nSite:http://fuller-thomas.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 774.70 $"
+    }
+  },
+  {
+    "image": "Template18_Instance32.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Oct-1997",
+      "DISCOUNT": "DISCOUNT(4.47%): (-)  37.86",
+      "DUE_DATE": "Due Date : 07-Mar-1995",
+      "NUMBER": "INVOICE ID INV/77-47/119",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 847.02  $",
+      "TAX": "TAX:VAT (5.80%):  49.13 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 860.91 $",
+      "SEND_TO": "SHIP_TO:\nMitchell Lee\n933 Dana Ridges\nKimberlyburgh, ND 64814 US\nTel:+(951)467-9879\nEmail:anthonydudley@example.com\nSite:http://braun-reynolds.info/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 860.91 $"
+    }
+  },
+  {
+    "image": "Template18_Instance140.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Jun-2022",
+      "DISCOUNT": "DISCOUNT(1.95%): (-)  45.37",
+      "DUE_DATE": "Due Date : 21-Feb-2013",
+      "NUMBER": "Invoice number INV/73-61/500",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 2326.52  USD",
+      "TAX": "TAX:VAT (5.37%):  125.00 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 2354.27 USD",
+      "SEND_TO": "SHIP_TO:\nLisa White\n6308 Erin Mill Suite 885\nWest Stephen, SD 04471 US\nTel:+(913)173-2993\nEmail:vgreen@example.org\nSite:https://www.wilkinson.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 2354.27 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance55.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 27-Sep-2014",
+      "DISCOUNT": "DISCOUNT(1.4%): (-)  6.64",
+      "DUE_DATE": "Due Date : 30-Dec-2006",
+      "NUMBER": "Invoice number INV14075785",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 473.94  EUR",
+      "TAX": "TAX:VAT (4.98%):  23.62 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 480.07 EUR",
+      "SEND_TO": "SHIP_TO:\nWayne Ayers\n19959 James Forge Suite 091\nNew Anthonyport, AL 15345 US\nTel:+(147)015-9960\nEmail:stucker@example.org\nSite:https://www.wood.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 480.07 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance1.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Jan-1997",
+      "DISCOUNT": "DISCOUNT(2.98%): (-)  8.37",
+      "DUE_DATE": "Due Date : 27-Apr-2005",
+      "NUMBER": "INVOICE # 3Y4M5d-468",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 280.77  USD",
+      "TAX": "TAX:VAT (5.81%):  16.32 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 285.52 USD",
+      "SEND_TO": "SHIP_TO:\nPaul Mathis\n468 Santos Radial Apt. 708\nWest Timothy, AR 87574 US\nTel:+(083)986-8063\nEmail:joanna90@example.net\nSite:https://young.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 285.52 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance13.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Jun-1997",
+      "DISCOUNT": "DISCOUNT(2.99%): (-)  23.56",
+      "DUE_DATE": "Due Date : 16-Aug-2014",
+      "NUMBER": "INVOICE ID INV/01-42/192",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 787.81  EUR",
+      "TAX": "TAX:VAT (4.76%):  37.53 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 802.97 EUR",
+      "SEND_TO": "SHIP_TO:\nLucas Ortiz\n248 Gonzalez Lights Suite 960\nWilsonshire, NE 08366 US\nTel:+(138)682-5763\nEmail:sonia13@example.org\nSite:https://www.clark-williams.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 802.97 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance25.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Dec-1998",
+      "DISCOUNT": "DISCOUNT(4.0%): (-)  14.35",
+      "DUE_DATE": "Due Date : 12-Feb-1996",
+      "NUMBER": "INVOICE # INV/99-32/378",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 358.66  EUR",
+      "TAX": "TAX:VAT (5.44%):  19.50 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 361.09 EUR",
+      "SEND_TO": "SHIP_TO:\nTracy Rivera\n1576 Martin Keys Apt. 568\nWest Paula, MO 45455 US\nTel:+(324)297-0666\nEmail:roger72@example.net\nSite:http://beck.org/",
+      "AMOUNT_DUE": "BALANCE_DUE : 361.09 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance190.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Jan-2020",
+      "DISCOUNT": "DISCOUNT(1.22%): (-)  9.51",
+      "DUE_DATE": "Due Date : 25-Jun-2001",
+      "NUMBER": "INVOICE ID 9Y7M7d-792",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 779.36  USD",
+      "TAX": "TAX:VAT (4.45%):  34.71 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 798.02 USD",
+      "SEND_TO": "SHIP_TO:\nDavid Ford\n0854 Adam Junction Suite 607\nNew Susan, AL 45056 US\nTel:+(516)822-8807\nEmail:jonathanstewart@example.org\nSite:https://rodriguez-perry.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 798.02 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance142.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Nov-2003",
+      "DISCOUNT": "DISCOUNT(3.61%): (-)  9.38",
+      "DUE_DATE": "Due Date : 07-Jul-2020",
+      "NUMBER": "Invoice number 8Y2M5d-107",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 259.84  $",
+      "TAX": "TAX:VAT (5.02%):  13.04 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 265.21 $",
+      "SEND_TO": "SHIP_TO:\nMelissa Lee\n037 Robert Islands Suite 705\nNorth Gregorystad, IN 13354 US\nTel:+(321)307-2848\nEmail:alanpruitt@example.org\nSite:https://www.santiago.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 265.21 $"
+    }
+  },
+  {
+    "image": "Template18_Instance107.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Jul-2008",
+      "DISCOUNT": "DISCOUNT(1.62%): (-)  6.68",
+      "DUE_DATE": "Due Date : 01-Apr-2022",
+      "NUMBER": "INVOICE # 1Y1M6d-572",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 412.35  $",
+      "TAX": "TAX:VAT (5.74%):  23.65 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 423.46 $",
+      "SEND_TO": "SHIP_TO:\nJames Alvarez\n2340 Ayers Corner Apt. 858\nZamoraville, CO 86196 US\nTel:+(425)649-0326\nEmail:jacksonwilliam@example.org\nSite:http://kent.net/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 423.46 $"
+    }
+  },
+  {
+    "image": "Template18_Instance115.jpg",
+    "ground_truth": {
+      "DATE": "Date: 01-Mar-1996",
+      "DISCOUNT": "DISCOUNT(2.34%): (-)  22.05",
+      "DUE_DATE": "Due Date : 11-Aug-2019",
+      "NUMBER": "Invoice number 6Y6M7d-731",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 942.26  EUR",
+      "TAX": "TAX:VAT (5.04%):  47.49 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 967.70 EUR",
+      "SEND_TO": "SHIP_TO:\nJuan Anderson\n8321 Tyler Isle Suite 090\nWest Michaeltown, NE 41528 US\nTel:+(987)160-8054\nEmail:leroysweeney@example.net\nSite:https://edwards.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 967.70 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance105.jpg",
+    "ground_truth": {
+      "DATE": "Date: 06-Nov-2018",
+      "DISCOUNT": "DISCOUNT(4.63%): (-)  32.41",
+      "DUE_DATE": "Due Date : 20-Dec-2022",
+      "NUMBER": "INVOICE # INV84508408",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 700.00  EUR",
+      "TAX": "TAX:VAT (3.20%):  22.42 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 688.75 EUR",
+      "SEND_TO": "SHIP_TO:\nAnthony Campbell\n884 Ronnie Coves Apt. 009\nHarryville, IA 15550 US\nTel:+(809)583-8495\nEmail:hunterbest@example.net\nSite:http://www.garcia.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 688.75 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance11.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 06-Jan-2012",
+      "DISCOUNT": "DISCOUNT(4.77%): (-)  22.51",
+      "DUE_DATE": "Due Date : 25-Apr-1995",
+      "NUMBER": "INVOICE # 5Y8M1d-461",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 471.81  $",
+      "TAX": "TAX:VAT (5.46%):  25.74 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 482.12 $",
+      "SEND_TO": "SHIP_TO:\nMelissa Moore\n88043 Lisa Mountain\nNew Darrell, OH 01237 US\nTel:+(425)725-7046\nEmail:robert19@example.net\nSite:https://reyes.info/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 482.12 $"
+    }
+  },
+  {
+    "image": "Template18_Instance9.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Jun-2009",
+      "DISCOUNT": "DISCOUNT(3.37%): (-)  25.99",
+      "DUE_DATE": "Due Date : 17-Nov-2005",
+      "NUMBER": "Invoice number INV57894836",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 771.10  $",
+      "TAX": "TAX:VAT (4.58%):  35.34 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 789.17 $",
+      "SEND_TO": "SHIP_TO:\nEmily Zimmerman\n92954 Meyer Estate\nJordanmouth, HI 75638 US\nTel:+(231)111-0086\nEmail:ashleydavis@example.com\nSite:https://bell-perez.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 789.17 $"
+    }
+  },
+  {
+    "image": "Template18_Instance196.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 14-Apr-2012",
+      "DISCOUNT": "DISCOUNT(4.11%): (-)  9.64",
+      "DUE_DATE": "Due Date : 04-Jun-2017",
+      "NUMBER": "Invoice number INV/25-92/468",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 234.60  $",
+      "TAX": "TAX:VAT (3.64%):  8.55 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 231.65 $",
+      "SEND_TO": "SHIP_TO:\nDavid Higgins\n946 Berg Haven Suite 994\nEast Curtishaven, VA 31371 US\nTel:+(214)167-6705\nEmail:gabrielle66@example.net\nSite:http://romero.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 231.65 $"
+    }
+  },
+  {
+    "image": "Template18_Instance78.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 12-Oct-1993",
+      "DISCOUNT": "DISCOUNT(4.78%): (-)  26.76",
+      "DUE_DATE": "Due Date : 05-Dec-2013",
+      "NUMBER": "Invoice number INV/26-41/284",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 559.92  USD",
+      "TAX": "TAX:VAT (6.27%):  35.10 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 573.24 USD",
+      "SEND_TO": "SHIP_TO:\nChad Simmons\n79301 Porter Lakes\nSouth Joshuastad, AZ 28965 US\nTel:+(797)570-1055\nEmail:johnsontodd@example.net\nSite:http://www.mason.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 573.24 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance155.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Mar-1994",
+      "DISCOUNT": "DISCOUNT(1.06%): (-)  7.36",
+      "DUE_DATE": "Due Date : 28-Jun-2011",
+      "NUMBER": "INVOICE # INV26031290",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 694.40  USD",
+      "TAX": "TAX:VAT (6.49%):  45.07 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 731.35 USD",
+      "SEND_TO": "SHIP_TO:\nRichard Nunez\n62228 Robert Prairie Suite 696\nPort Stephen, NJ 99508 US\nTel:+(673)664-7355\nEmail:campbelljessica@example.org\nSite:https://www.cook.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 731.35 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance72.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Aug-2002",
+      "DISCOUNT": "DISCOUNT(1.2%): (-)  4.24",
+      "DUE_DATE": "Due Date : 30-Sep-2017",
+      "NUMBER": "INVOICE ID 1Y1M6d-132",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 353.21  $",
+      "TAX": "TAX:VAT (6.89%):  24.34 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 371.12 $",
+      "SEND_TO": "SHIP_TO:\nBrittany Taylor\n864 Christopher Vista\nNorth Cheryl, MS 07810 US\nTel:+(166)224-0042\nEmail:michaeldecker@example.org\nSite:http://www.cole.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 371.12 $"
+    }
+  },
+  {
+    "image": "Template18_Instance100.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Jul-2018",
+      "DISCOUNT": "DISCOUNT(4.95%): (-)  18.33",
+      "DUE_DATE": "Due Date : 13-Dec-1993",
+      "NUMBER": "INVOICE # INV/24-45/758",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 370.21  USD",
+      "TAX": "TAX:VAT (3.01%):  11.15 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 373.62 USD",
+      "SEND_TO": "SHIP_TO:\nBarbara Harrison\n83849 Wilson Causeway Suite 822\nNorth Feliciaside, WY 89458 US\nTel:+(889)274-0572\nEmail:kempmichael@example.com\nSite:http://oneal.org/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 373.62 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance113.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-May-2022",
+      "DISCOUNT": "DISCOUNT(3.69%): (-)  3.32",
+      "DUE_DATE": "Due Date : 19-Feb-2010",
+      "NUMBER": "INVOICE ID 4Y8M7d-059",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 89.98  USD",
+      "TAX": "TAX:VAT (6.66%):  5.99 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 91.73 USD",
+      "SEND_TO": "SHIP_TO:\nErica Trujillo\n356 Daniel Mission Suite 021\nSouth Brandonside, VI 59460 US\nTel:+(306)788-8846\nEmail:jodi51@example.org\nSite:http://rhodes-pacheco.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 91.73 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance186.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 31-Dec-1996",
+      "DISCOUNT": "DISCOUNT(3.61%): (-)  12.61",
+      "DUE_DATE": "Due Date : 23-Nov-2019",
+      "NUMBER": "INVOICE # INV/94-07/781",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 349.28  EUR",
+      "TAX": "TAX:VAT (3.35%):  11.69 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 345.46 EUR",
+      "SEND_TO": "SHIP_TO:\nAmy Perry\n383 White Heights\nSosaburgh, TN 54047 US\nTel:+(163)092-7466\nEmail:fernandezgary@example.com\nSite:http://navarro.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 345.46 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance104.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Dec-2011",
+      "DISCOUNT": "DISCOUNT(1.21%): (-)  4.97",
+      "DUE_DATE": "Due Date : 21-Apr-2013",
+      "NUMBER": "INVOICE ID INV58109076",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 410.90  $",
+      "TAX": "TAX:VAT (5.33%):  21.90 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 421.21 $",
+      "SEND_TO": "SHIP_TO:\nBradley Shepherd\n017 Peter Lodge Apt. 822\nEugeneview, AK 40651 US\nTel:+(337)571-6008\nEmail:kristenwhite@example.net\nSite:http://richardson-strickland.biz/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 421.21 $"
+    }
+  },
+  {
+    "image": "Template18_Instance117.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-May-2010",
+      "DISCOUNT": "DISCOUNT(2.9%): (-)  20.65",
+      "DUE_DATE": "Due Date : 26-Jul-2000",
+      "NUMBER": "Invoice number 3Y7M8d-166",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 711.97  EUR",
+      "TAX": "TAX:VAT (3.98%):  28.36 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 725.02 EUR",
+      "SEND_TO": "SHIP_TO:\nMike Greene\n2075 Sandra Valley\nDavidhaven, LA 41028 US\nTel:+(306)173-0964\nEmail:dgoodman@example.org\nSite:http://hammond-bryan.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 725.02 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance94.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 23-Oct-1997",
+      "DISCOUNT": "DISCOUNT(3.69%): (-)  40.95",
+      "DUE_DATE": "Due Date : 19-Jul-2003",
+      "NUMBER": "INVOICE # INV03028131",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1109.80  $",
+      "TAX": "TAX:VAT (6.14%):  68.12 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1148.51 $",
+      "SEND_TO": "SHIP_TO:\nSonya Brown\n88667 Branch Port Suite 395\nWashingtonborough, SC 60399 US\nTel:+(562)013-1642\nEmail:christophermorgan@example.net\nSite:https://www.herrera-williams.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1148.51 $"
+    }
+  },
+  {
+    "image": "Template18_Instance47.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Jan-2012",
+      "DISCOUNT": "DISCOUNT(1.07%): (-)  14.82",
+      "DUE_DATE": "Due Date : 06-Dec-1998",
+      "NUMBER": "INVOICE ID INV/61-36/875",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1384.67  EUR",
+      "TAX": "TAX:VAT (5.13%):  71.03 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1401.42 EUR",
+      "SEND_TO": "SHIP_TO:\nBarbara Daugherty\n3231 Jason Plaza\nBallardburgh, AS 90564 US\nTel:+(574)649-7956\nEmail:njackson@example.net\nSite:https://www.maddox-craig.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 1401.42 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance119.jpg",
+    "ground_truth": {
+      "DATE": "Date: 10-Jun-1998",
+      "DISCOUNT": "DISCOUNT(3.49%): (-)  29.86",
+      "DUE_DATE": "Due Date : 23-Jun-2016",
+      "NUMBER": "INVOICE ID 6231-737",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 855.67  $",
+      "TAX": "TAX:VAT (6.83%):  58.43 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 873.97 $",
+      "SEND_TO": "SHIP_TO:\nSteven Valenzuela\n1325 James Curve\nWest Steveborough, PA 21734 US\nTel:+(248)894-6679\nEmail:mcasey@example.net\nSite:https://norris-rios.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 873.97 $"
+    }
+  },
+  {
+    "image": "Template18_Instance2.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Oct-2022",
+      "DISCOUNT": "DISCOUNT(4.0%): (-)  9.37",
+      "DUE_DATE": "Due Date : 13-Sep-2018",
+      "NUMBER": "INVOICE # 2Y4M3d-617",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 234.27  $",
+      "TAX": "TAX:VAT (5.92%):  13.87 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 237.29 $",
+      "SEND_TO": "SHIP_TO:\nNicholas Garcia\n552 Kathryn Turnpike Suite 389\nPort Derekfurt, MH 52105 US\nTel:+(532)108-7649\nEmail:kramerbrent@example.net\nSite:https://www.washington-simpson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 237.29 $"
+    }
+  },
+  {
+    "image": "Template18_Instance164.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Jul-2022",
+      "DISCOUNT": "DISCOUNT(3.77%): (-)  23.97",
+      "DUE_DATE": "Due Date : 22-Feb-2013",
+      "NUMBER": "Invoice number 1617-260",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 635.69  USD",
+      "TAX": "TAX:VAT (5.67%):  36.05 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 642.94 USD",
+      "SEND_TO": "SHIP_TO:\nJason Alexander\n32075 Cannon Manor Apt. 365\nWest Brian, TX 82353 US\nTel:+(101)587-0304\nEmail:michael06@example.com\nSite:http://wu.biz/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 642.94 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance16.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Dec-2002",
+      "DISCOUNT": "DISCOUNT(3.57%): (-)  20.16",
+      "DUE_DATE": "Due Date : 10-Dec-2019",
+      "NUMBER": "INVOICE ID INV/10-17/267",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 564.79  $",
+      "TAX": "TAX:VAT (6.41%):  36.19 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 591.04 $",
+      "SEND_TO": "SHIP_TO:\nMarcus Woods\n083 Clay Port\nWhitetown, DE 15552 US\nTel:+(083)789-2604\nEmail:patrick25@example.com\nSite:https://leach-wilson.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 591.04 $"
+    }
+  },
+  {
+    "image": "Template18_Instance158.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Jun-2000",
+      "DISCOUNT": "DISCOUNT(1.08%): (-)  7.18",
+      "DUE_DATE": "Due Date : 10-Nov-2006",
+      "NUMBER": "INVOICE ID INV82129953",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 665.10  USD",
+      "TAX": "TAX:VAT (5.72%):  38.02 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 694.61 USD",
+      "SEND_TO": "SHIP_TO:\nChristy Collins\n22990 Shaffer Parkway Apt. 501\nNorth Nicoleland, AS 65647 US\nTel:+(880)799-9374\nEmail:michael02@example.net\nSite:http://anderson.info/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 694.61 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance165.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 01-Jan-2013",
+      "DISCOUNT": "DISCOUNT(1.89%): (-)  16.92",
+      "DUE_DATE": "Due Date : 09-Feb-2011",
+      "NUMBER": "INVOICE # INV78878411",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 895.40  EUR",
+      "TAX": "TAX:VAT (3.18%):  28.43 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 911.03 EUR",
+      "SEND_TO": "SHIP_TO:\nVincent Phillips\n758 Randy Loaf\nNew Johnport, SD 61370 US\nTel:+(436)385-3108\nEmail:brianna93@example.org\nSite:http://www.miller.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 911.03 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance98.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-Mar-2003",
+      "DISCOUNT": "DISCOUNT(4.16%): (-)  30.71",
+      "DUE_DATE": "Due Date : 31-Dec-2021",
+      "NUMBER": "INVOICE ID INV/11-54/122",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 738.21  $",
+      "TAX": "TAX:VAT (3.67%):  27.13 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 742.31 $",
+      "SEND_TO": "SHIP_TO:\nJohn Mejia\n29869 Michael Junctions Suite 856\nMatthewbury, OK 77453 US\nTel:+(293)404-6264\nEmail:luis80@example.com\nSite:https://banks-collins.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 742.31 $"
+    }
+  },
+  {
+    "image": "Template18_Instance96.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-May-2013",
+      "DISCOUNT": "DISCOUNT(1.52%): (-)  11.81",
+      "DUE_DATE": "Due Date : 13-May-2004",
+      "NUMBER": "INVOICE # 3Y8M4d-813",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 776.80  $",
+      "TAX": "TAX:VAT (4.65%):  36.11 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 792.40 $",
+      "SEND_TO": "SHIP_TO:\nDavid Ortiz\n562 Williams Burg\nJohnberg, MI 67821 US\nTel:+(402)734-1987\nEmail:russelljustin@example.net\nSite:https://www.zimmerman.biz/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 792.40 $"
+    }
+  },
+  {
+    "image": "Template18_Instance133.jpg",
+    "ground_truth": {
+      "DATE": "Date: 27-Sep-2009",
+      "DISCOUNT": "DISCOUNT(4.55%): (-)  32.69",
+      "DUE_DATE": "Due Date : 04-Nov-1997",
+      "NUMBER": "INVOICE # INV/12-27/222",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 718.56  USD",
+      "TAX": "TAX:VAT (3.84%):  27.58 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 730.76 USD",
+      "SEND_TO": "SHIP_TO:\nJamie Johnson\n590 Donna Springs\nAnthonymouth, MA 72372 US\nTel:+(501)705-0087\nEmail:jay04@example.com\nSite:https://holt.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 730.76 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance139.jpg",
+    "ground_truth": {
+      "DATE": "Date: 17-Feb-1999",
+      "DISCOUNT": "DISCOUNT(1.5%): (-)  6.29",
+      "DUE_DATE": "Due Date : 30-Jun-1999",
+      "NUMBER": "INVOICE # INV/01-30/872",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 419.02  USD",
+      "TAX": "TAX:VAT (5.49%):  23.02 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 437.35 USD",
+      "SEND_TO": "SHIP_TO:\nThomas Cox\n003 Lee Road\nLake Sara, MS 64262 US\nTel:+(559)029-5182\nEmail:pgallagher@example.org\nSite:https://wall-camacho.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 437.35 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance91.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 31-Jan-2016",
+      "DISCOUNT": "DISCOUNT(1.2%): (-)  10.12",
+      "DUE_DATE": "Due Date : 13-Apr-2002",
+      "NUMBER": "Invoice number INV67229985",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 843.71  $",
+      "TAX": "TAX:VAT (5.87%):  49.54 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 883.04 $",
+      "SEND_TO": "SHIP_TO:\nThomas Harvey\n354 Blake Manors Suite 178\nStephaniemouth, SC 49948 US\nTel:+(594)422-4145\nEmail:crystalgriffith@example.com\nSite:http://ramirez.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 883.04 $"
+    }
+  },
+  {
+    "image": "Template18_Instance175.jpg",
+    "ground_truth": {
+      "DATE": "Date: 19-Aug-2016",
+      "DISCOUNT": "DISCOUNT(1.14%): (-)  3.15",
+      "DUE_DATE": "Due Date : 02-May-1995",
+      "NUMBER": "INVOICE # 5Y1M5d-363",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 275.95  EUR",
+      "TAX": "TAX:VAT (3.56%):  9.81 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 272.87 EUR",
+      "SEND_TO": "SHIP_TO:\nCurtis Taylor\n8049 Wendy Squares Suite 344\nDanielside, MO 67800 US\nTel:+(743)475-5013\nEmail:alicia79@example.com\nSite:http://www.gilbert.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 272.87 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance10.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 20-Apr-2014",
+      "DISCOUNT": "DISCOUNT(2.38%): (-)  13.0",
+      "DUE_DATE": "Due Date : 13-May-2017",
+      "NUMBER": "Invoice number 7548-665",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 546.18  USD",
+      "TAX": "TAX:VAT (5.47%):  29.87 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 569.88 USD",
+      "SEND_TO": "SHIP_TO:\nTiffany Erickson\n167 Stephanie Lodge\nLake Lawrenceport, MI 74603 US\nTel:+(071)657-5217\nEmail:sextonjordan@example.com\nSite:https://www.mata-cruz.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 569.88 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance63.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 13-Mar-1996",
+      "DISCOUNT": "DISCOUNT(3.5%): (-)  14.45",
+      "DUE_DATE": "Due Date : 25-Oct-2002",
+      "NUMBER": "INVOICE # INV94470259",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 412.86  USD",
+      "TAX": "TAX:VAT (4.96%):  20.49 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 424.85 USD",
+      "SEND_TO": "SHIP_TO:\nJeffrey Phillips\n0024 Price Circle Apt. 396\nPerezberg, VA 88966 US\nTel:+(254)361-8102\nEmail:hperry@example.com\nSite:http://salazar.org/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 424.85 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance36.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Feb-2010",
+      "DISCOUNT": "DISCOUNT(1.3%): (-)  9.05",
+      "DUE_DATE": "Due Date : 12-Apr-1994",
+      "NUMBER": "INVOICE ID INV/16-56/622",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 696.11  USD",
+      "TAX": "TAX:VAT (6.93%):  48.26 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 732.40 USD",
+      "SEND_TO": "SHIP_TO:\nMatthew Jones\n74510 Debra Manor\nJessicamouth, FM 21766 US\nTel:+(083)914-7602\nEmail:samanthasellers@example.com\nSite:http://tucker-russell.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 732.40 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance181.jpg",
+    "ground_truth": {
+      "DATE": "Date: 08-Oct-2011",
+      "DISCOUNT": "DISCOUNT(3.16%): (-)  15.0",
+      "DUE_DATE": "Due Date : 05-Nov-1995",
+      "NUMBER": "INVOICE ID INV/28-63/340",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 474.64  EUR",
+      "TAX": "TAX:VAT (6.98%):  33.15 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 496.49 EUR",
+      "SEND_TO": "SHIP_TO:\nBenjamin Gomez\n149 King Park Suite 149\nNew Juanfort, OR 08089 US\nTel:+(636)313-1128\nEmail:hilljames@example.net\nSite:http://www.dunn-ward.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 496.49 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance86.jpg",
+    "ground_truth": {
+      "DATE": "Date: 15-Oct-2009",
+      "DISCOUNT": "DISCOUNT(1.51%): (-)  9.19",
+      "DUE_DATE": "Due Date : 06-Jan-2013",
+      "NUMBER": "INVOICE ID INV38358410",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 608.50  $",
+      "TAX": "TAX:VAT (3.02%):  18.41 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 606.34 $",
+      "SEND_TO": "SHIP_TO:\nJohn Aguirre PhD\n39448 Oneal Springs Apt. 949\nNorth Stephanie, OH 66967 US\nTel:+(237)885-4300\nEmail:mayergarrett@example.net\nSite:https://www.ramos.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 606.34 $"
+    }
+  },
+  {
+    "image": "Template18_Instance24.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Oct-2008",
+      "DISCOUNT": "DISCOUNT(1.86%): (-)  11.38",
+      "DUE_DATE": "Due Date : 01-Sep-1997",
+      "NUMBER": "Invoice number 5Y7M9d-503",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 611.61  $",
+      "TAX": "TAX:VAT (5.54%):  33.91 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 615.73 $",
+      "SEND_TO": "SHIP_TO:\nMegan Ramirez\n73365 Johnson Spring Apt. 996\nTuckershire, NC 18833 US\nTel:+(706)647-6286\nEmail:jcarroll@example.org\nSite:https://chang.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 615.73 $"
+    }
+  },
+  {
+    "image": "Template18_Instance103.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Apr-2022",
+      "DISCOUNT": "DISCOUNT(3.32%): (-)  27.05",
+      "DUE_DATE": "Due Date : 31-Jan-2021",
+      "NUMBER": "INVOICE # INV/65-27/406",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 814.66  USD",
+      "TAX": "TAX:VAT (4.81%):  39.20 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 840.26 USD",
+      "SEND_TO": "SHIP_TO:\nJason Serrano\n41211 Laura Mountain Suite 517\nNorth Reneeberg, FL 80161 US\nTel:+(879)225-0997\nEmail:gpeterson@example.net\nSite:https://www.cohen-morse.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 840.26 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance135.jpg",
+    "ground_truth": {
+      "DATE": "Date: 30-Dec-2018",
+      "DISCOUNT": "DISCOUNT(4.6%): (-)  47.55",
+      "DUE_DATE": "Due Date : 18-Dec-2012",
+      "NUMBER": "INVOICE # 3820-284",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1033.73  EUR",
+      "TAX": "TAX:VAT (6.29%):  65.07 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1054.04 EUR",
+      "SEND_TO": "SHIP_TO:\nAmy Martin\n49406 Brenda Lake Apt. 671\nLake Richard, FL 80961 US\nTel:+(467)199-1450\nEmail:joyce40@example.net\nSite:https://cole.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 1054.04 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance138.jpg",
+    "ground_truth": {
+      "DATE": "Date: 04-Oct-2008",
+      "DISCOUNT": "DISCOUNT(4.19%): (-)  7.97",
+      "DUE_DATE": "Due Date : 30-Aug-2007",
+      "NUMBER": "INVOICE # 5Y3M1d-684",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 190.32  $",
+      "TAX": "TAX:VAT (5.75%):  10.94 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 197.07 $",
+      "SEND_TO": "SHIP_TO:\nAngela Davis\n089 Ashley Spurs\nNorth Lisastad, GU 58549 US\nTel:+(619)799-4872\nEmail:qjackson@example.net\nSite:http://carter-hurst.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 197.07 $"
+    }
+  },
+  {
+    "image": "Template18_Instance174.jpg",
+    "ground_truth": {
+      "DATE": "Date: 18-Jan-2009",
+      "DISCOUNT": "DISCOUNT(3.48%): (-)  36.14",
+      "DUE_DATE": "Due Date : 12-Aug-1995",
+      "NUMBER": "Invoice number 4179-727",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1038.49  EUR",
+      "TAX": "TAX:VAT (3.44%):  35.75 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1034.88 EUR",
+      "SEND_TO": "SHIP_TO:\nMargaret Blankenship\n52491 Andrew Estates Apt. 549\nGlennview, DE 15102 US\nTel:+(893)693-8308\nEmail:danielashley@example.org\nSite:http://ward.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1034.88 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance4.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 02-Jan-1997",
+      "DISCOUNT": "DISCOUNT(4.87%): (-)  11.35",
+      "DUE_DATE": "Due Date : 08-Jun-1994",
+      "NUMBER": "INVOICE ID INV/62-47/484",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 233.03  $",
+      "TAX": "TAX:VAT (4.65%):  10.85 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "DUE_AMOUNT : 240.38 $",
+      "SEND_TO": "SHIP_TO:\nDonna Le\n30142 David Mountains\nEast Stephanie, NY 05523 US\nTel:+(087)397-4724\nEmail:shicks@example.org\nSite:http://martin.net/"
+    }
+  },
+  {
+    "image": "Template18_Instance48.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Dec-2018",
+      "DISCOUNT": "DISCOUNT(1.68%): (-)  14.57",
+      "DUE_DATE": "Due Date : 23-Jul-2017",
+      "NUMBER": "Invoice number 9Y1M2d-893",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 867.51  USD",
+      "TAX": "TAX:VAT (3.25%):  28.18 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 865.24 USD",
+      "SEND_TO": "SHIP_TO:\nDonald Mendoza\n7936 Corey Summit\nWest Lance, WI 67738 US\nTel:+(363)427-6261\nEmail:sandramorrow@example.org\nSite:http://www.lynn.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 865.24 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance108.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 11-Jun-2011",
+      "DISCOUNT": "DISCOUNT(2.78%): (-)  25.34",
+      "DUE_DATE": "Due Date : 12-Jan-2016",
+      "NUMBER": "INVOICE # INV94746101",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 911.36  USD",
+      "TAX": "TAX:VAT (4.62%):  42.15 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 921.25 USD",
+      "SEND_TO": "SHIP_TO:\nAngelica Padilla\n096 Miller Squares\nJessicaton, FL 67553 US\nTel:+(581)820-2661\nEmail:david56@example.com\nSite:http://heath.info/",
+      "AMOUNT_DUE": "BALANCE_DUE : 921.25 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance111.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 25-Nov-2017",
+      "DISCOUNT": "DISCOUNT(1.24%): (-)  2.82",
+      "DUE_DATE": "Due Date : 23-Oct-2005",
+      "NUMBER": "Invoice number INV22949712",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 227.14  USD",
+      "TAX": "TAX:VAT (3.60%):  8.17 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 230.15 USD",
+      "SEND_TO": "SHIP_TO:\nKaren Holder\n770 Steele Roads\nEast Angela, IA 39635 US\nTel:+(411)915-3898\nEmail:kimberlyhumphrey@example.org\nSite:https://www.stark-moore.info/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 230.15 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance136.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 15-Aug-1996",
+      "DISCOUNT": "DISCOUNT(4.59%): (-)  7.45",
+      "DUE_DATE": "Due Date : 02-Jul-2018",
+      "NUMBER": "INVOICE ID 4042-867",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 162.33  $",
+      "TAX": "TAX:VAT (6.58%):  10.69 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 166.71 $",
+      "SEND_TO": "SHIP_TO:\nDr. James Glover MD\n69350 Randy Pike\nLaurieside, ME 53175 US\nTel:+(281)141-0615\nEmail:christopher59@example.net\nSite:http://king-jacobs.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 166.71 $"
+    }
+  },
+  {
+    "image": "Template18_Instance153.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 19-May-2007",
+      "DISCOUNT": "DISCOUNT(1.98%): (-)  6.47",
+      "DUE_DATE": "Due Date : 30-May-2016",
+      "NUMBER": "INVOICE # 5Y4M5d-099",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 326.65  $",
+      "TAX": "TAX:VAT (4.76%):  15.54 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 333.70 $",
+      "SEND_TO": "SHIP_TO:\nSusan Ward\n376 Edward Mountain Suite 358\nEnglishland, ND 96288 US\nTel:+(341)410-2967\nEmail:stephen12@example.net\nSite:https://www.holmes-perez.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 333.70 $"
+    }
+  },
+  {
+    "image": "Template18_Instance191.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Jul-2000",
+      "DISCOUNT": "DISCOUNT(3.27%): (-)  9.02",
+      "DUE_DATE": "Due Date : 09-Apr-2021",
+      "NUMBER": "INVOICE # INV73537140",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 275.95  $",
+      "TAX": "TAX:VAT (5.22%):  14.39 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 284.13 $",
+      "SEND_TO": "SHIP_TO:\nJesse Smith\n85705 David Islands\nEast Cherylville, LA 38480 US\nTel:+(012)668-7494\nEmail:christywoodward@example.org\nSite:http://www.chavez-ramirez.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 284.13 $"
+    }
+  },
+  {
+    "image": "Template18_Instance0.jpg",
+    "ground_truth": {
+      "DATE": "Date: 12-Oct-1995",
+      "DISCOUNT": "DISCOUNT(2.47%): (-)  11.95",
+      "DUE_DATE": "Due Date : 28-Apr-1997",
+      "NUMBER": "INVOICE ID 9203-553",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 483.62  $",
+      "TAX": "TAX:VAT (3.00%):  14.52 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 481.84 $",
+      "SEND_TO": "SHIP_TO:\nBrandi Sosa\n1426 Jennifer Freeway\nDavenportfurt, NH 21762 US\nTel:+(510)904-4602\nEmail:jcolon@example.com\nSite:https://www.buckley.org/",
+      "AMOUNT_DUE": "BALANCE_DUE : 481.84 $"
+    }
+  },
+  {
+    "image": "Template18_Instance54.jpg",
+    "ground_truth": {
+      "DATE": "Date: 02-May-2002",
+      "DISCOUNT": "DISCOUNT(4.56%): (-)  12.42",
+      "DUE_DATE": "Due Date : 19-Dec-1995",
+      "NUMBER": "Invoice number 4Y6M2d-201",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 272.28  $",
+      "TAX": "TAX:VAT (4.87%):  13.25 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 273.11 $",
+      "SEND_TO": "SHIP_TO:\nJacqueline Camacho\n59692 Natalie Wall Apt. 982\nPort Kristina, WV 11223 US\nTel:+(330)638-0778\nEmail:wrightkimberly@example.org\nSite:http://moreno.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 273.11 $"
+    }
+  },
+  {
+    "image": "Template18_Instance156.jpg",
+    "ground_truth": {
+      "DATE": "Date: 22-Aug-2019",
+      "DISCOUNT": "DISCOUNT(1.76%): (-)  10.01",
+      "DUE_DATE": "Due Date : 25-Dec-1996",
+      "NUMBER": "INVOICE ID INV87560127",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 568.71  USD",
+      "TAX": "TAX:VAT (4.20%):  23.90 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 566.28 USD",
+      "SEND_TO": "SHIP_TO:\nJonathan Stone\n20511 Timothy Lodge Suite 917\nPort Samanthafort, AK 45940 US\nTel:+(751)293-7991\nEmail:ronaldparker@example.net\nSite:http://www.powell.net/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 566.28 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance128.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 30-Apr-2007",
+      "DISCOUNT": "DISCOUNT(1.46%): (-)  4.33",
+      "DUE_DATE": "Due Date : 15-Apr-2010",
+      "NUMBER": "INVOICE ID INV/02-98/143",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 296.52  USD",
+      "TAX": "TAX:VAT (6.43%):  19.08 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 309.40 USD",
+      "SEND_TO": "SHIP_TO:\nKimberly White\n404 Dustin Forge\nMcbrideview, NJ 41066 US\nTel:+(817)333-2692\nEmail:troy24@example.org\nSite:https://watson.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 309.40 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance123.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Oct-1993",
+      "DISCOUNT": "DISCOUNT(1.89%): (-)  10.36",
+      "DUE_DATE": "Due Date : 16-Dec-1996",
+      "NUMBER": "INVOICE ID INV73985720",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 548.21  USD",
+      "TAX": "TAX:VAT (5.46%):  29.95 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 563.36 USD",
+      "SEND_TO": "SHIP_TO:\nDouglas Brown\n5458 Lee Pines\nEast Meghan, PA 09658 US\nTel:+(676)784-7930\nEmail:hudsonlinda@example.net\nSite:https://www.perez.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 563.36 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance120.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 16-May-2017",
+      "DISCOUNT": "DISCOUNT(3.28%): (-)  20.28",
+      "DUE_DATE": "Due Date : 06-Mar-2008",
+      "NUMBER": "INVOICE ID 3069-723",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 618.30  USD",
+      "TAX": "TAX:VAT (4.73%):  29.26 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 632.72 USD",
+      "SEND_TO": "SHIP_TO:\nAlyssa Krause\n776 Terry Knolls Apt. 522\nHallville, MD 69378 US\nTel:+(685)664-6306\nEmail:joshuapierce@example.org\nSite:https://www.parks.info/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 632.72 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance184.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 07-Jan-2016",
+      "DISCOUNT": "DISCOUNT(1.85%): (-)  4.63",
+      "DUE_DATE": "Due Date : 10-Dec-2009",
+      "NUMBER": "Invoice number INV/65-97/061",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 250.04  $",
+      "TAX": "TAX:VAT (4.88%):  12.19 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 253.73 $",
+      "SEND_TO": "SHIP_TO:\nLindsay Brooks\n4755 Anderson Estate Suite 199\nDianaside, GU 04962 US\nTel:+(987)166-7797\nEmail:angelasmith@example.net\nSite:https://wheeler.com/",
+      "AMOUNT_DUE": "AMOUNT_DUE : 253.73 $"
+    }
+  },
+  {
+    "image": "Template18_Instance116.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Nov-2021",
+      "DISCOUNT": "DISCOUNT(1.66%): (-)  6.25",
+      "DUE_DATE": "Due Date : 11-Nov-2005",
+      "NUMBER": "INVOICE ID INV/57-70/892",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 376.64  $",
+      "TAX": "TAX:VAT (6.76%):  25.46 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 398.03 $",
+      "SEND_TO": "SHIP_TO:\nSharon Hall\n80262 Freeman Junctions\nKevinburgh, NM 45141 US\nTel:+(194)454-1618\nEmail:tracy26@example.com\nSite:https://www.johnson.org/",
+      "AMOUNT_DUE": "BALANCE_DUE : 398.03 $"
+    }
+  },
+  {
+    "image": "Template18_Instance166.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 21-Oct-2022",
+      "DISCOUNT": "DISCOUNT(3.92%): (-)  21.52",
+      "DUE_DATE": "Due Date : 23-Jun-2002",
+      "NUMBER": "INVOICE ID INV03544607",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 549.05  USD",
+      "TAX": "TAX:VAT (5.91%):  32.44 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 570.78 USD",
+      "SEND_TO": "SHIP_TO:\nTimothy Bell\n248 Cheryl Creek Suite 761\nWoodsside, VT 95183 US\nTel:+(963)194-3162\nEmail:cperez@example.org\nSite:https://www.dodson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 570.78 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance106.jpg",
+    "ground_truth": {
+      "DATE": "Date: 03-Dec-2002",
+      "DISCOUNT": "DISCOUNT(4.97%): (-)  27.23",
+      "DUE_DATE": "Due Date : 28-Feb-2015",
+      "NUMBER": "INVOICE ID INV/25-40/510",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 547.86  USD",
+      "TAX": "TAX:VAT (6.23%):  34.16 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 555.83 USD",
+      "SEND_TO": "SHIP_TO:\nCheryl Shaw\n5129 James Unions\nSpearsmouth, UT 98540 US\nTel:+(128)996-9117\nEmail:veronica82@example.com\nSite:https://www.crawford-kelly.biz/",
+      "AMOUNT_DUE": "BALANCE_DUE : 555.83 USD"
+    }
+  },
+  {
+    "image": "Template18_Instance199.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 05-Jun-2001",
+      "DISCOUNT": "DISCOUNT(4.39%): (-)  14.63",
+      "DUE_DATE": "Due Date : 23-Nov-2000",
+      "NUMBER": "INVOICE # INV/70-15/475",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 333.21  $",
+      "TAX": "TAX:VAT (5.25%):  17.48 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 344.89 $",
+      "SEND_TO": "SHIP_TO:\nJulian Miller\n666 Conley Expressway\nWest Ashley, VI 87849 US\nTel:+(916)616-1626\nEmail:fpierce@example.net\nSite:http://brown.net/",
+      "AMOUNT_DUE": "BALANCE_DUE : 344.89 $"
+    }
+  },
+  {
+    "image": "Template18_Instance50.jpg",
+    "ground_truth": {
+      "DATE": "Invoice Date: 17-Dec-1995",
+      "DISCOUNT": "DISCOUNT(4.43%): (-)  25.13",
+      "DUE_DATE": "Due Date : 31-Aug-2012",
+      "NUMBER": "INVOICE ID INV/98-99/815",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 567.20  $",
+      "TAX": "TAX:VAT (4.96%):  28.12 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 571.38 $",
+      "SEND_TO": "SHIP_TO:\nAmy Meyer\n3827 Phillips Lodge Suite 027\nTammieville, AZ 97641 US\nTel:+(634)837-7372\nEmail:huntscott@example.net\nSite:http://www.lee.net/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 571.38 $"
+    }
+  },
+  {
+    "image": "Template18_Instance118.jpg",
+    "ground_truth": {
+      "DATE": "Date: 21-Feb-2017",
+      "DISCOUNT": "DISCOUNT(4.81%): (-)  46.18",
+      "DUE_DATE": "Due Date : 16-Feb-1999",
+      "NUMBER": "INVOICE # 3Y4M4d-251",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 960.10  EUR",
+      "TAX": "TAX:VAT (3.46%):  33.25 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 975.78 EUR",
+      "SEND_TO": "SHIP_TO:\nTina Roberts\n88278 Joseph Mountain\nHannahstad, MI 76019 US\nTel:+(472)799-9154\nEmail:jacobpowell@example.org\nSite:http://www.jones.com/",
+      "AMOUNT_DUE": "BALANCE_DUE : 975.78 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance61.jpg",
+    "ground_truth": {
+      "DATE": "Date: 09-Jul-2005",
+      "DISCOUNT": "DISCOUNT(2.07%): (-)  23.04",
+      "DUE_DATE": "Due Date : 27-Jan-1993",
+      "NUMBER": "INVOICE # INV/26-77/594",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 1113.04  $",
+      "TAX": "TAX:VAT (6.66%):  74.09 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1162.20 $",
+      "SEND_TO": "SHIP_TO:\nGreg Gray\n80273 Cook Ports Suite 206\nTimothychester, MA 89928 US\nTel:+(524)393-1736\nEmail:kurt74@example.net\nSite:http://rogers.org/",
+      "AMOUNT_DUE": "BALANCE_DUE : 1162.20 $"
+    }
+  },
+  {
+    "image": "Template18_Instance178.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Jul-2007",
+      "DISCOUNT": "DISCOUNT(4.23%): (-)  32.05",
+      "DUE_DATE": "Due Date : 13-Mar-2006",
+      "NUMBER": "Invoice number INV52069996",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 757.65  EUR",
+      "TAX": "TAX:VAT (6.95%):  52.66 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 799.55 EUR",
+      "SEND_TO": "SHIP_TO:\nMs. Claudia Mcmahon DDS\n899 Henry Mountains\nMeyershire, MT 36513 US\nTel:+(429)637-4456\nEmail:thomasjohnson@example.org\nSite:http://www.hughes-morris.biz/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 799.55 EUR"
+    }
+  },
+  {
+    "image": "Template18_Instance29.jpg",
+    "ground_truth": {
+      "DATE": "Date: 16-Jun-2003",
+      "DISCOUNT": "DISCOUNT(2.58%): (-)  18.05",
+      "DUE_DATE": "Due Date : 13-Feb-1999",
+      "NUMBER": "INVOICE # 2Y7M8d-299",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 699.59  $",
+      "TAX": "TAX:VAT (3.69%):  25.82 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 703.93 $",
+      "SEND_TO": "SHIP_TO:\nJasmine Washington\n041 Patrick Key Apt. 376\nWest Amandachester, DC 06327 US\nTel:+(986)256-0482\nEmail:kimberly82@example.com\nSite:http://www.anderson.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 703.93 $"
+    }
+  },
+  {
+    "image": "Template18_Instance194.jpg",
+    "ground_truth": {
+      "DATE": "Date: 13-Dec-2014",
+      "DISCOUNT": "DISCOUNT(4.1%): (-)  27.25",
+      "DUE_DATE": "Due Date : 01-Jan-2008",
+      "NUMBER": "INVOICE # INV62001842",
+      "SELLER_ADDRESS": "Address:840 Anderson Locks\nMariatown, AL 01838 US",
+      "SELLER_NAME": "Montgomery, Harrison and Vaughan",
+      "SUB_TOTAL": "SUB_TOTAL : 664.55  EUR",
+      "TAX": "TAX:VAT (3.46%):  23.00 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 677.05 EUR",
+      "SEND_TO": "SHIP_TO:\nAngela Peterson\n18328 Gallagher Square Apt. 090\nLewisside, WI 22588 US\nTel:+(125)296-6989\nEmail:stephanie34@example.org\nSite:http://richardson-malone.com/",
+      "AMOUNT_DUE": "DUE_AMOUNT : 677.05 EUR"
+    }
+  }
+]

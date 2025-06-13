@@ -1,0 +1,682 @@
+[
+  {
+    "image": "Template5_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Brian Cain\n53566 Bryan Underpass\nSouth Javier, MO 97378 US\nTel:+(340)845-7977\nEmail:maymichael@example.net\nSite:http://www.howell.info/",
+      "DATE": "Invoice Date: 20-Nov-2000",
+      "NUMBER": "Invoice number INV/56-61/529",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :34",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 702.70  USD",
+      "TAX": "TAX:VAT (5.81%):  40.86 USD",
+      "TOTAL": "BALANCE DUE : 728.73 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and twenty-\n-eight point seven three"
+    }
+  },
+  {
+    "image": "Template5_Instance44.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jessica Hudson\n64852 Stephanie Village Suite 514\nEast Amy, VA 79469 US\nTel:+(905)579-5378\nEmail:steven63@example.net\nSite:http://www.conley.com/",
+      "DATE": "Invoice Date: 05-Nov-2017",
+      "NUMBER": "INVOICE # INV/56-60/971",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :65",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 693.70  USD",
+      "TAX": "TAX:VAT (5.67%):  39.31 USD",
+      "TOTAL": "BALANCE DUE : 720.32 USD",
+      "TOTAL_WORDS": "Total in words:  seven hundred and tw-\nenty point three two"
+    }
+  },
+  {
+    "image": "Template5_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Bethany Ochoa\n8120 Jack Knolls\nPort Elijah, MI 36765 US\nTel:+(264)902-5126\nEmail:priscilla07@example.net\nSite:https://www.bender.com/",
+      "DATE": "Date: 12-Feb-1993",
+      "NUMBER": "Invoice number 4Y2M8d-531",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :61",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 595.68  $",
+      "TAX": "TAX:VAT (4.59%):  27.32 $",
+      "TOTAL": "BALANCE DUE : 602.75 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and tw-\no point seven five"
+    }
+  },
+  {
+    "image": "Template5_Instance120.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Scott\n703 Eddie Inlet\nSmithshire, VI 24208 US\nTel:+(872)422-4203\nEmail:mglenn@example.net\nSite:https://www.howard-watkins.com/",
+      "DATE": "Date: 22-Oct-1998",
+      "NUMBER": "INVOICE ID 3Y3M3d-205",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :34",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 692.89  $",
+      "TAX": "TAX:VAT (4.44%):  30.76 $",
+      "TOTAL": "BALANCE DUE : 698.01 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and ninet-\ny-eight point zero one"
+    }
+  },
+  {
+    "image": "Template5_Instance13.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Rebecca Williams\n154 William Land Apt. 035\nRobinsonland, HI 40760 US\nTel:+(701)336-4258\nEmail:kelseybailey@example.net\nSite:https://www.brown-hogan.com/",
+      "DATE": "Invoice Date: 25-Oct-2016",
+      "NUMBER": "INVOICE # 6Y3M5d-522",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :93",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 1057.83  USD",
+      "TAX": "TAX:VAT (5.12%):  54.13 USD",
+      "TOTAL": "BALANCE DUE : 1097.04 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand and ninet-\ny-seven point zero four"
+    }
+  },
+  {
+    "image": "Template5_Instance186.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Erika Hall\n6579 Johnny Mountain Apt. 014\nEast Dawn, LA 52342 US\nTel:+(555)664-8293\nEmail:bellsamuel@example.com\nSite:http://mathis.org/",
+      "DATE": "Invoice Date: 19-Apr-2005",
+      "NUMBER": "INVOICE # 0769-828",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :36",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 495.75  $",
+      "TAX": "TAX:VAT (4.15%):  20.55 $",
+      "TOTAL": "BALANCE DUE : 491.71 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and nine-\nty-one point seven one"
+    }
+  },
+  {
+    "image": "Template5_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Evelyn Norris\n32279 Salazar Lakes Apt. 201\nHubbardton, AK 23269 US\nTel:+(159)169-8072\nEmail:jfoster@example.net\nSite:http://www.salinas.com/",
+      "DATE": "Invoice Date: 26-Nov-1994",
+      "NUMBER": "Invoice number INV29672678",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :43",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 348.42  $",
+      "TAX": "TAX:VAT (5.75%):  20.03 $",
+      "TOTAL": "BALANCE DUE : 359.63 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fift-\ny-nine point six three"
+    }
+  },
+  {
+    "image": "Template5_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Savage\n1303 Nicole Track\nLake Timtown, WA 53432 US\nTel:+(311)428-2935\nEmail:zacharylewis@example.org\nSite:http://crawford.biz/",
+      "DATE": "Date: 13-May-1993",
+      "NUMBER": "INVOICE # 8698-237",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :53",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 688.60  USD",
+      "TAX": "TAX:VAT (4.42%):  30.45 USD",
+      "TOTAL": "BALANCE DUE : 689.23 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and eight-\ny-nine point two three"
+    }
+  },
+  {
+    "image": "Template5_Instance125.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Stephanie Mullen\n277 Ayers Terrace\nWest Kelly, GU 01514 US\nTel:+(663)566-4420\nEmail:dmitchell@example.com\nSite:https://www.pena.biz/",
+      "DATE": "Invoice Date: 30-Dec-2001",
+      "NUMBER": "INVOICE # 0261-996",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :23",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 228.90  EUR",
+      "TAX": "TAX:VAT (5.69%):  13.02 EUR",
+      "TOTAL": "BALANCE DUE : 232.24 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and thir-\nty-two point two four"
+    }
+  },
+  {
+    "image": "Template5_Instance116.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Klein\n0557 Norman Alley Suite 225\nLake Rachel, PR 13216 US\nTel:+(203)196-4600\nEmail:yjohnson@example.org\nSite:http://www.guerrero.com/",
+      "DATE": "Date: 23-Oct-1997",
+      "NUMBER": "INVOICE # 5Y8M5d-143",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :16",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 155.90  EUR",
+      "TAX": "TAX:VAT (3.75%):  5.85 EUR",
+      "TOTAL": "BALANCE DUE : 159.01 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and fift-\ny-nine point zero one"
+    }
+  },
+  {
+    "image": "Template5_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Nicole Smith\n273 Kyle Manor\nLewisport, AZ 84916 US\nTel:+(207)653-3187\nEmail:louis28@example.net\nSite:http://anderson.net/",
+      "DATE": "Invoice Date: 30-Jul-2016",
+      "NUMBER": "INVOICE # INV/83-99/129",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :36",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 874.60  USD",
+      "TAX": "TAX:VAT (5.52%):  48.31 USD",
+      "TOTAL": "BALANCE DUE : 905.33 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and fi-\nve point three three"
+    }
+  },
+  {
+    "image": "Template5_Instance177.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Rodriguez\n0111 Stanley Mountain\nNew Jeanne, MI 57219 US\nTel:+(625)649-8777\nEmail:canderson@example.com\nSite:https://www.watson.biz/",
+      "DATE": "Date: 16-Jun-1996",
+      "NUMBER": "INVOICE # INV85996808",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :17",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 829.53  $",
+      "TAX": "TAX:VAT (3.11%):  25.82 $",
+      "TOTAL": "BALANCE DUE : 834.36 $",
+      "TOTAL_WORDS": "Total in words:  eight hundred and thir-\nty-four point three six"
+    }
+  },
+  {
+    "image": "Template5_Instance149.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Danielle Bradley\n88360 Casey Brook Suite 449\nJordanborough, MT 01670 US\nTel:+(199)547-9531\nEmail:riverajanice@example.org\nSite:https://www.harris.com/",
+      "DATE": "Date: 02-Apr-2012",
+      "NUMBER": "INVOICE ID 3Y5M3d-707",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :93",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 569.48  USD",
+      "TAX": "TAX:VAT (4.35%):  24.79 USD",
+      "TOTAL": "BALANCE DUE : 584.25 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and eigh-\nty-four point two five"
+    }
+  },
+  {
+    "image": "Template5_Instance185.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michelle Rivera\n2265 Taylor Burgs Apt. 715\nSouth Ronaldville, MA 39390 US\nTel:+(572)065-8468\nEmail:gomezrobin@example.com\nSite:https://smith-rogers.com/",
+      "DATE": "Date: 18-Mar-2003",
+      "NUMBER": "Invoice number INV/19-90/000",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :80",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 194.60  USD",
+      "TAX": "TAX:VAT (5.38%):  10.47 USD",
+      "TOTAL": "BALANCE DUE : 196.45 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and ninet-\ny-six point four five"
+    }
+  },
+  {
+    "image": "Template5_Instance99.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Kevin Roy\n965 Barker Islands Apt. 971\nAshleyburgh, MP 63364 US\nTel:+(279)520-5947\nEmail:jeffrey84@example.net\nSite:https://www.sanders-fletcher.com/",
+      "DATE": "Date: 05-Mar-2012",
+      "NUMBER": "Invoice number INV/20-33/146",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :75",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 227.74  EUR",
+      "TAX": "TAX:VAT (5.11%):  11.63 EUR",
+      "TOTAL": "BALANCE DUE : 231.13 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and thirt-\ny-one point one three"
+    }
+  },
+  {
+    "image": "Template5_Instance189.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Ms. Jessica Velez DDS\n6806 Garcia Cliffs\nEast Andrea, ND 88462 US\nTel:+(250)231-6554\nEmail:xlara@example.org\nSite:https://www.davidson-lozano.com/",
+      "DATE": "Invoice Date: 23-Sep-2018",
+      "NUMBER": "Invoice number INV/24-23/230",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :74",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 545.17  $",
+      "TAX": "TAX:VAT (3.46%):  18.87 $",
+      "TOTAL": "BALANCE DUE : 544.96 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and fort-\ny-four point nine six"
+    }
+  },
+  {
+    "image": "Template5_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Gray\n194 Kirsten Glen Suite 881\nNorth Kellymouth, MT 96350 US\nTel:+(722)168-6447\nEmail:andrew31@example.org\nSite:http://wade.biz/",
+      "DATE": "Invoice Date: 26-Aug-2021",
+      "NUMBER": "INVOICE ID INV/06-00/537",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :89",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 411.94  EUR",
+      "TAX": "TAX:VAT (4.09%):  16.83 EUR",
+      "TOTAL": "BALANCE DUE : 409.86 EUR",
+      "TOTAL_WORDS": "Total in words:  four hundred and n-\nine point eight six"
+    }
+  },
+  {
+    "image": "Template5_Instance37.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Wright\n106 Billy Divide Suite 994\nWest Valerie, CA 11277 US\nTel:+(204)143-4145\nEmail:ecooper@example.com\nSite:https://www.martinez.com/",
+      "DATE": "Date: 07-Mar-2002",
+      "NUMBER": "INVOICE ID 7821-407",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :10",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 755.45  EUR",
+      "TAX": "TAX:VAT (5.16%):  38.98 EUR",
+      "TOTAL": "BALANCE DUE : 780.38 EUR",
+      "TOTAL_WORDS": "Total in words:  seven hundred and eig-\nhty point three eight"
+    }
+  },
+  {
+    "image": "Template5_Instance192.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Wendy Jackson\n958 Esparza Plain Apt. 793\nMichelleborough, FL 21409 US\nTel:+(411)944-3227\nEmail:stacie92@example.com\nSite:http://www.myers-perez.biz/",
+      "DATE": "Date: 06-Oct-2018",
+      "NUMBER": "INVOICE ID INV/38-79/123",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :36",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 851.90  USD",
+      "TAX": "TAX:VAT (6.21%):  52.88 USD",
+      "TOTAL": "BALANCE DUE : 870.62 USD",
+      "TOTAL_WORDS": "Total in words:  eight hundred and s-\neventy point six two"
+    }
+  },
+  {
+    "image": "Template5_Instance140.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Sanchez\n5736 Charles Road\nWest Timothy, ME 33970 US\nTel:+(333)131-6382\nEmail:smithrobert@example.org\nSite:http://www.phillips-fleming.com/",
+      "DATE": "Date: 02-Jul-2002",
+      "NUMBER": "INVOICE ID INV/52-40/477",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :06",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 200.66  EUR",
+      "TAX": "TAX:VAT (4.26%):  8.56 EUR",
+      "TOTAL": "BALANCE DUE : 200.59 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred p-\noint five nine"
+    }
+  },
+  {
+    "image": "Template5_Instance55.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jared Henderson\n184 Lee Lodge Apt. 767\nPatriciahaven, IN 86998 US\nTel:+(809)655-4974\nEmail:morenomanuel@example.com\nSite:http://www.brown.com/",
+      "DATE": "Invoice Date: 07-Aug-2010",
+      "NUMBER": "INVOICE ID 8Y2M5d-937",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :74",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 575.51  USD",
+      "TAX": "TAX:VAT (4.96%):  28.52 USD",
+      "TOTAL": "BALANCE DUE : 577.79 USD",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-seven point seven nine"
+    }
+  },
+  {
+    "image": "Template5_Instance190.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Harris\n85772 Williams Coves\nHillberg, UT 17487 US\nTel:+(111)562-1238\nEmail:christinagallagher@example.org\nSite:https://smith.info/",
+      "DATE": "Date: 17-May-2019",
+      "NUMBER": "INVOICE ID 7Y2M9d-356",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :52",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 1135.52  USD",
+      "TAX": "TAX:VAT (5.61%):  63.68 USD",
+      "TOTAL": "BALANCE DUE : 1147.99 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, one hundred an-\nd forty-seven point nine nine"
+    }
+  },
+  {
+    "image": "Template5_Instance153.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Costa\n508 Schmidt Ramp\nRoseview, WI 79683 US\nTel:+(018)580-0375\nEmail:stephanieanderson@example.com\nSite:https://singh.com/",
+      "DATE": "Invoice Date: 19-Jun-2012",
+      "NUMBER": "INVOICE ID INV/03-16/685",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :35",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 784.29  EUR",
+      "TAX": "TAX:VAT (5.85%):  45.88 EUR",
+      "TOTAL": "BALANCE DUE : 812.13 EUR",
+      "TOTAL_WORDS": "Total in words:  eight hundred and tw-\nelve point one three"
+    }
+  },
+  {
+    "image": "Template5_Instance62.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Michael Taylor\n51500 Brian Crescent Apt. 053\nEast Jonathan, NC 86656 US\nTel:+(245)645-4056\nEmail:wstephens@example.com\nSite:https://watson.org/",
+      "DATE": "Invoice Date: 01-Mar-2005",
+      "NUMBER": "Invoice number 9739-899",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :86",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 974.99  USD",
+      "TAX": "TAX:VAT (6.39%):  62.25 USD",
+      "TOTAL": "BALANCE DUE : 988.78 USD",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eighty-\n-eight point seven eight"
+    }
+  },
+  {
+    "image": "Template5_Instance169.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Martha Cruz\n287 Booth Island\nSherylfurt, CO 75672 US\nTel:+(971)595-7878\nEmail:debraperkins@example.net\nSite:https://martinez.com/",
+      "DATE": "Date: 30-Sep-2011",
+      "NUMBER": "INVOICE ID INV/25-98/228",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 337.81  USD",
+      "TAX": "TAX:VAT (6.42%):  21.69 USD",
+      "TOTAL": "BALANCE DUE : 346.46 USD",
+      "TOTAL_WORDS": "Total in words:  three hundred and for-\nty-six point four six"
+    }
+  },
+  {
+    "image": "Template5_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Paul Brown\n17969 Pratt Bypass Apt. 628\nMarkmouth, OR 78073 US\nTel:+(113)594-1668\nEmail:morankarla@example.com\nSite:http://harvey-fuller.org/",
+      "DATE": "Invoice Date: 13-Apr-2008",
+      "NUMBER": "INVOICE ID 6553-163",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :96",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 615.84  $",
+      "TAX": "TAX:VAT (4.15%):  25.54 $",
+      "TOTAL": "BALANCE DUE : 630.17 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and thi-\nrty point one seven"
+    }
+  },
+  {
+    "image": "Template5_Instance92.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Crystal Hall\n210 Jimenez Squares\nCarrilloburgh, IA 18416 US\nTel:+(720)215-4330\nEmail:walkerjeffery@example.net\nSite:http://vaughan-rich.com/",
+      "DATE": "Date: 30-Jan-2015",
+      "NUMBER": "Invoice number 3030-095",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :20",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 1476.87  USD",
+      "TAX": "TAX:VAT (3.42%):  50.48 USD",
+      "TOTAL": "BALANCE DUE : 1473.15 USD",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred an-\nd seventy-three point one five"
+    }
+  },
+  {
+    "image": "Template5_Instance23.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Calvin Wilson\n469 Taylor Fords Apt. 121\nEast Angela, IL 70365 US\nTel:+(255)509-2335\nEmail:shane99@example.com\nSite:https://www.saunders.com/",
+      "DATE": "Invoice Date: 04-Aug-1998",
+      "NUMBER": "INVOICE # INV54974189",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :42",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 530.59  $",
+      "TAX": "TAX:VAT (5.68%):  30.12 $",
+      "TOTAL": "BALANCE DUE : 545.06 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and fort-\ny-five point zero six"
+    }
+  },
+  {
+    "image": "Template5_Instance67.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Erin Moody\n720 Kevin Isle\nNew Tammyview, CO 03291 US\nTel:+(477)606-2987\nEmail:stevenspatty@example.org\nSite:https://richmond.com/",
+      "DATE": "Date: 30-Jun-2013",
+      "NUMBER": "INVOICE # INV/44-37/195",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :85",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 1456.41  EUR",
+      "TAX": "TAX:VAT (5.09%):  74.09 EUR",
+      "TOTAL": "BALANCE DUE : 1496.57 EUR",
+      "TOTAL_WORDS": "Total in words:  one thousand, four hundred an-\nd ninety-six point five seven"
+    }
+  },
+  {
+    "image": "Template5_Instance91.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joel Johnson\n88341 Derek Fort Apt. 066\nAlisonmouth, GA 04268 US\nTel:+(001)568-5131\nEmail:knightpatrick@example.org\nSite:http://choi.com/",
+      "DATE": "Date: 12-Mar-2002",
+      "NUMBER": "INVOICE # 3450-340",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :04",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 266.48  EUR",
+      "TAX": "TAX:VAT (4.33%):  11.55 EUR",
+      "TOTAL": "BALANCE DUE : 266.54 EUR",
+      "TOTAL_WORDS": "Total in words:  two hundred and sixt-\ny-six point five four"
+    }
+  },
+  {
+    "image": "Template5_Instance32.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Morgan\n6709 Scott Mill\nWebbstad, OR 52424 US\nTel:+(444)781-4487\nEmail:vazquezsarah@example.org\nSite:http://galloway.biz/",
+      "DATE": "Invoice Date: 12-Feb-2012",
+      "NUMBER": "Invoice number INV/42-69/782",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :01",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 342.14  $",
+      "TAX": "TAX:VAT (3.08%):  10.53 $",
+      "TOTAL": "BALANCE DUE : 344.70 $",
+      "TOTAL_WORDS": "Total in words:  three hundred and fo-\nrty-four point seven"
+    }
+  },
+  {
+    "image": "Template5_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Natalie Hernandez\n490 Day Valleys\nBookerfurt, LA 72411 US\nTel:+(073)769-6397\nEmail:pwilliams@example.org\nSite:https://www.moore.com/",
+      "DATE": "Date: 24-Feb-2012",
+      "NUMBER": "Invoice number INV/29-25/654",
+      "NOTE": "Thank you for choosing us!",
+      "PO_NUMBER": "PO Number :61",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 452.97  USD",
+      "TAX": "TAX:VAT (4.28%):  19.41 USD",
+      "TOTAL": "BALANCE DUE : 466.54 USD",
+      "TOTAL_WORDS": "Total in words:  four hundred and sixt-\ny-six point five four"
+    }
+  },
+  {
+    "image": "Template5_Instance101.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Sean Nichols\n35450 Brooke Freeway Suite 786\nJacksonchester, FM 62786 US\nTel:+(821)255-7277\nEmail:christopherlamb@example.org\nSite:http://proctor.info/",
+      "DATE": "Invoice Date: 27-Jan-2009",
+      "NUMBER": "Invoice number 5Y2M7d-545",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :62",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 143.83  USD",
+      "TAX": "TAX:VAT (6.63%):  9.53 USD",
+      "TOTAL": "BALANCE DUE : 151.09 USD",
+      "TOTAL_WORDS": "Total in words:  one hundred and fift-\ny-one point zero nine"
+    }
+  },
+  {
+    "image": "Template5_Instance147.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :David Hogan\n5270 Lauren Islands Suite 667\nPort Kevinside, KY 20127 US\nTel:+(931)028-8202\nEmail:nancy84@example.com\nSite:http://www.anderson-campos.biz/",
+      "DATE": "Invoice Date: 06-Jul-1993",
+      "NUMBER": "INVOICE # INV31854676",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :21",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 649.83  $",
+      "TAX": "TAX:VAT (6.43%):  41.78 $",
+      "TOTAL": "BALANCE DUE : 670.88 $",
+      "TOTAL_WORDS": "Total in words:  six hundred and seve-\nnty point eight eight"
+    }
+  },
+  {
+    "image": "Template5_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeffery Anderson\n051 Tamara Brook\nEast Anthony, MS 58814 US\nTel:+(107)519-9068\nEmail:pharris@example.net\nSite:http://www.rojas.com/",
+      "DATE": "Date: 19-Apr-2008",
+      "NUMBER": "Invoice number INV23687207",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :48",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 564.89  $",
+      "TAX": "TAX:VAT (6.44%):  36.41 $",
+      "TOTAL": "BALANCE DUE : 575.43 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and sevent-\ny-five point four three"
+    }
+  },
+  {
+    "image": "Template5_Instance0.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robyn Johnson\n233 Foster Gardens\nJohnburgh, ID 41900 US\nTel:+(108)863-6905\nEmail:paul73@example.com\nSite:http://www.jones.biz/",
+      "DATE": "Date: 18-Jan-1999",
+      "NUMBER": "INVOICE ID 5Y3M7d-590",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :84",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 677.45  USD",
+      "TAX": "TAX:VAT (3.49%):  23.66 USD",
+      "TOTAL": "BALANCE DUE : 677.33 USD",
+      "TOTAL_WORDS": "Total in words:  six hundred and seventy-\n-seven point three three"
+    }
+  },
+  {
+    "image": "Template5_Instance66.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christian Chang\n29059 Melissa Trail Suite 831\nNew Lauraport, GA 17851 US\nTel:+(525)426-1527\nEmail:william05@example.net\nSite:https://www.garcia.biz/",
+      "DATE": "Date: 02-Nov-2019",
+      "NUMBER": "INVOICE # INV/38-30/289",
+      "NOTE": "Thank you for your business!",
+      "PO_NUMBER": "PO Number :95",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 989.24  EUR",
+      "TAX": "TAX:VAT (4.65%):  46.01 EUR",
+      "TOTAL": "BALANCE DUE : 989.65 EUR",
+      "TOTAL_WORDS": "Total in words:  nine hundred and eigh-\nty-nine point six five"
+    }
+  },
+  {
+    "image": "Template5_Instance195.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :John Cruz\n6694 Michael Fort\nSalazarberg, NM 74303 US\nTel:+(338)152-8383\nEmail:johnsondenise@example.org\nSite:http://rodriguez-mejia.info/",
+      "DATE": "Date: 18-May-2002",
+      "NUMBER": "INVOICE ID INV33930017",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PO_NUMBER": "PO Number :72",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 398.58  $",
+      "TAX": "TAX:VAT (4.59%):  18.30 $",
+      "TOTAL": "BALANCE DUE : 402.97 $",
+      "TOTAL_WORDS": "Total in words:  four hundred and t-\nwo point nine seven"
+    }
+  },
+  {
+    "image": "Template5_Instance162.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Raymond Webb\n587 Alexandra Port\nKristenbury, AK 74320 US\nTel:+(056)540-2647\nEmail:lopezheather@example.net\nSite:http://juarez.com/",
+      "DATE": "Date: 11-Sep-2013",
+      "NUMBER": "INVOICE ID 5Y3M5d-858",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PO_NUMBER": "PO Number :38",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 137.04  EUR",
+      "TAX": "TAX:VAT (3.49%):  4.79 EUR",
+      "TOTAL": "BALANCE DUE : 138.64 EUR",
+      "TOTAL_WORDS": "Total in words:  one hundred and thirt-\ny-eight point six four"
+    }
+  },
+  {
+    "image": "Template5_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Denise James\n19058 Todd Summit\nBradfordside, CA 75873 US\nTel:+(990)205-5522\nEmail:erika29@example.com\nSite:https://www.hudson.net/",
+      "DATE": "Date: 16-Mar-1993",
+      "NUMBER": "INVOICE # INV/69-48/655",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PO_NUMBER": "PO Number :09",
+      "SELLER_ADDRESS": "Address:233 Foster Gardens\nJohnburgh, ID 41900 US",
+      "SELLER_EMAIL": "Email:paul73@example.com",
+      "SELLER_NAME": "Bailey Group",
+      "SUB_TOTAL": "SUB_TOTAL : 494.90  $",
+      "TAX": "TAX:VAT (5.49%):  27.17 $",
+      "TOTAL": "BALANCE DUE : 501.58 $",
+      "TOTAL_WORDS": "Total in words:  five hundred and o-\nne point five eight"
+    }
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "image": "Template46_Instance18.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Mendez\n64223 Barron Tunnel Suite 763\nWandatown, SC 42918 US\nTel:+(582)458-6448\nEmail:wjimenez@example.org\nSite:https://hoffman.biz/",
+      "DATE": "Invoice Date: 16-Nov-1997",
+      "DUE_DATE": "Due Date : 17-Nov-2015",
+      "NUMBER": "INVOICE # INV/35-65/152",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 508.99  EUR",
+      "TAX": "TAX:VAT (6.50%):  33.10 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 531.30 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance17.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJoshua Norris\n9025 Andrew Roads\nAdamfurt, MA 88737 US\nTel:+(792)092-1436\nEmail:middletonnicholas@example.com\nSite:http://www.rollins-barnes.com/",
+      "DATE": "Invoice Date: 29-Jun-2022",
+      "DUE_DATE": "Due Date : 13-Aug-2005",
+      "NUMBER": "INVOICE # INV/42-12/085",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 568.83  $",
+      "TAX": "TAX:VAT (3.98%):  22.65 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 577.54 $"
+    }
+  },
+  {
+    "image": "Template46_Instance66.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSusan Walters\n067 Willis Mountain Suite 432\nConleyshire, MO 95311 US\nTel:+(845)622-6204\nEmail:xcolon@example.net\nSite:http://www.cummings-cook.com/",
+      "DATE": "Date: 07-Apr-2009",
+      "DUE_DATE": "Due Date : 04-May-2009",
+      "NUMBER": "INVOICE # INV/79-53/940",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 562.00  EUR",
+      "TAX": "TAX:VAT (3.45%):  19.37 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 563.72 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance112.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMr. David Miranda\n9726 Martha Trace\nLake Edward, GA 55622 US\nTel:+(989)558-8335\nEmail:qhughes@example.org\nSite:http://brown.info/",
+      "DATE": "Date: 16-Jun-2015",
+      "DUE_DATE": "Due Date : 21-Dec-2008",
+      "NUMBER": "INVOICE ID 0115-819",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 542.39  $",
+      "TAX": "TAX:VAT (3.93%):  21.31 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 546.13 $"
+    }
+  },
+  {
+    "image": "Template46_Instance199.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMeghan Baird\n558 Sherman Squares Suite 525\nNew Eric, VA 93475 US\nTel:+(351)630-4540\nEmail:victor06@example.org\nSite:https://www.delgado.com/",
+      "DATE": "Date: 19-Feb-2016",
+      "DUE_DATE": "Due Date : 25-Aug-2018",
+      "NUMBER": "INVOICE ID INV/00-34/393",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 542.69  USD",
+      "TAX": "TAX:VAT (6.52%):  35.41 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 556.23 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance124.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nLisa Peterson\n6871 Christopher Freeway Apt. 045\nTylermouth, NV 83129 US\nTel:+(571)038-4629\nEmail:tstafford@example.net\nSite:https://www.mitchell.biz/",
+      "DATE": "Invoice Date: 02-Apr-1999",
+      "DUE_DATE": "Due Date : 08-Mar-2015",
+      "NUMBER": "INVOICE # 0495-832",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 876.42  USD",
+      "TAX": "TAX:VAT (4.43%):  38.80 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 881.92 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance53.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nThomas Roberts\n028 Susan Dam\nWest Ashleyberg, MT 52029 US\nTel:+(212)590-3944\nEmail:mckinneywhitney@example.net\nSite:http://www.reid.com/",
+      "DATE": "Date: 27-Feb-2013",
+      "DUE_DATE": "Due Date : 09-Oct-2019",
+      "NUMBER": "INVOICE # INV/10-98/562",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 319.14  EUR",
+      "TAX": "TAX:VAT (6.42%):  20.48 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 329.69 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance77.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJeanette Cruz\n38705 Erica Station Apt. 917\nLake Dana, MA 54839 US\nTel:+(269)856-8762\nEmail:barrettmargaret@example.org\nSite:https://www.casey.net/",
+      "DATE": "Date: 24-Apr-2010",
+      "DUE_DATE": "Due Date : 16-Dec-2013",
+      "NUMBER": "INVOICE # INV96565769",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 801.43  USD",
+      "TAX": "TAX:VAT (6.74%):  53.98 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 843.71 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance33.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVictoria Wheeler\n454 Colton Falls\nDarrenhaven, IN 88273 US\nTel:+(690)438-4886\nEmail:howardmaria@example.org\nSite:https://landry.com/",
+      "DATE": "Invoice Date: 19-Mar-2004",
+      "DUE_DATE": "Due Date : 27-Apr-2020",
+      "NUMBER": "INVOICE ID 9719-973",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 372.87  EUR",
+      "TAX": "TAX:VAT (6.74%):  25.12 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 385.16 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance24.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBarbara Boyd\n666 Victor Spur Suite 282\nCraigborough, WA 55922 US\nTel:+(919)729-3471\nEmail:lthomas@example.org\nSite:https://williams.com/",
+      "DATE": "Date: 20-Jul-2019",
+      "DUE_DATE": "Due Date : 08-Jan-2003",
+      "NUMBER": "INVOICE # INV/17-60/960",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 102.29  $",
+      "TAX": "TAX:VAT (6.37%):  6.51 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 104.55 $"
+    }
+  },
+  {
+    "image": "Template46_Instance25.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRichard Gomez\n0319 Keith Creek\nSouth Nathan, MS 63929 US\nTel:+(716)467-2245\nEmail:parkerscott@example.net\nSite:https://johnson.com/",
+      "DATE": "Invoice Date: 09-Oct-1996",
+      "DUE_DATE": "Due Date : 10-Sep-2006",
+      "NUMBER": "INVOICE ID 2033-601",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 814.36  EUR",
+      "TAX": "TAX:VAT (5.09%):  41.48 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 818.05 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance140.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJames Reed\n47717 Murray Lane Suite 005\nNew Josefort, NV 60213 US\nTel:+(000)684-0732\nEmail:monica39@example.net\nSite:http://www.smith.com/",
+      "DATE": "Date: 27-Aug-1996",
+      "DUE_DATE": "Due Date : 24-Mar-2021",
+      "NUMBER": "INVOICE # INV70159215",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 309.17  EUR",
+      "TAX": "TAX:VAT (4.62%):  14.29 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 312.58 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance183.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichael James\n9193 Carla Mall Apt. 810\nPeckview, MS 77844 US\nTel:+(512)812-6323\nEmail:amy56@example.org\nSite:https://wang.com/",
+      "DATE": "Date: 01-Oct-2008",
+      "DUE_DATE": "Due Date : 12-Sep-2003",
+      "NUMBER": "Invoice number INV/85-88/984",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 880.54  $",
+      "TAX": "TAX:VAT (3.73%):  32.87 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 880.48 $"
+    }
+  },
+  {
+    "image": "Template46_Instance103.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nVanessa Garrison\n502 Baker Trail Suite 780\nClaireland, VT 24314 US\nTel:+(116)273-2108\nEmail:legrace@example.org\nSite:http://www.lawrence.com/",
+      "DATE": "Invoice Date: 05-Apr-2013",
+      "DUE_DATE": "Due Date : 26-Aug-2001",
+      "NUMBER": "INVOICE ID 5408-599",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 1051.57  USD",
+      "TAX": "TAX:VAT (4.47%):  47.04 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1085.57 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance128.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nChristopher Long\n367 Hart Springs Suite 428\nKimstad, ID 84452 US\nTel:+(197)531-3488\nEmail:mitchelldalton@example.com\nSite:https://martinez.biz/",
+      "DATE": "Invoice Date: 08-Dec-1998",
+      "DUE_DATE": "Due Date : 14-Jul-2000",
+      "NUMBER": "INVOICE ID 2900-870",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 115.97  $",
+      "TAX": "TAX:VAT (6.22%):  7.21 $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 119.30 $"
+    }
+  },
+  {
+    "image": "Template46_Instance26.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAmy Woodard\n29936 Jose Divide\nSouth Bruce, NH 24010 US\nTel:+(465)422-7957\nEmail:thorntonveronica@example.net\nSite:http://www.powell.com/",
+      "DATE": "Date: 07-Feb-2011",
+      "DUE_DATE": "Due Date : 13-Sep-2022",
+      "NUMBER": "Invoice number 5350-321",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 786.37  EUR",
+      "TAX": "TAX:VAT (6.67%):  52.42 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 829.12 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance170.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJacqueline Jensen\n76883 Adams Extensions\nSouth Tracymouth, OH 09860 US\nTel:+(441)047-5842\nEmail:davisstephen@example.com\nSite:http://www.green.com/",
+      "DATE": "Date: 07-Dec-2019",
+      "DUE_DATE": "Due Date : 12-Jul-2021",
+      "NUMBER": "Invoice number INV53611328",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 751.86  EUR",
+      "TAX": "TAX:VAT (3.60%):  27.06 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 770.95 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance88.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nErin Mckenzie\n44697 Joseph Fort Apt. 557\nGregoryport, MT 44118 US\nTel:+(925)012-5121\nEmail:stevencooley@example.org\nSite:http://www.jackson.com/",
+      "DATE": "Invoice Date: 19-Oct-1993",
+      "DUE_DATE": "Due Date : 03-Jul-2019",
+      "NUMBER": "INVOICE ID 9Y9M7d-881",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 566.59  EUR",
+      "TAX": "TAX:VAT (5.39%):  30.53 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 575.36 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance22.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMegan Richard\n9903 Victoria Bridge Apt. 840\nBradyland, MH 02451 US\nTel:+(187)359-9741\nEmail:curtisholly@example.com\nSite:https://gardner.com/",
+      "DATE": "Date: 29-Mar-1999",
+      "DUE_DATE": "Due Date : 05-Mar-2014",
+      "NUMBER": "INVOICE ID 4Y8M9d-689",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 515.66  EUR",
+      "TAX": "TAX:VAT (4.95%):  25.51 EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 523.17 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance163.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEvan Rodriguez\n324 Denise Crossroad\nShepherdmouth, AR 37115 US\nTel:+(903)722-7104\nEmail:iburton@example.net\nSite:http://www.lowe-rodriguez.com/",
+      "DATE": "Invoice Date: 20-Jul-2016",
+      "DUE_DATE": "Due Date : 16-May-1996",
+      "NUMBER": "INVOICE # INV/30-90/486",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 909.43  USD",
+      "TAX": "TAX:VAT (4.47%):  40.64 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 923.70 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance168.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJessica Stevenson\n4639 Ryan Turnpike\nPeggystad, VT 14139 US\nTel:+(358)736-2186\nEmail:xyoung@example.org\nSite:http://williams-howard.com/",
+      "DATE": "Date: 22-Nov-2019",
+      "DUE_DATE": "Due Date : 03-Apr-2021",
+      "NUMBER": "Invoice number INV/27-17/024",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 1074.08  $",
+      "TAX": "TAX:VAT (5.34%):  57.32 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1111.85 $"
+    }
+  },
+  {
+    "image": "Template46_Instance10.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nShannon Juarez\n43250 Smith Center Suite 675\nMorrisland, FL 20716 US\nTel:+(657)969-4441\nEmail:mark12@example.net\nSite:http://brewer.com/",
+      "DATE": "Date: 30-Oct-2022",
+      "DUE_DATE": "Due Date : 15-May-2022",
+      "NUMBER": "INVOICE ID INV/50-40/879",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 210.02  $",
+      "TAX": "TAX:VAT (4.49%):  9.43 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 216.55 $"
+    }
+  },
+  {
+    "image": "Template46_Instance126.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMichelle Hill\n33743 Joseph Valleys\nElizabethview, NM 07562 US\nTel:+(451)107-3434\nEmail:tuckerbrandy@example.net\nSite:http://www.rodriguez.com/",
+      "DATE": "Date: 08-Oct-2022",
+      "DUE_DATE": "Due Date : 19-Mar-1996",
+      "NUMBER": "INVOICE ID INV49432960",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 656.11  USD",
+      "TAX": "TAX:VAT (6.26%):  41.07 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 679.27 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance40.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDiane Roy\n053 Hall Orchard Suite 946\nEast Benjamin, IN 22475 US\nTel:+(690)021-2710\nEmail:mooremark@example.net\nSite:http://noble-roberts.com/",
+      "DATE": "Date: 13-Jun-2006",
+      "DUE_DATE": "Due Date : 04-Mar-2004",
+      "NUMBER": "INVOICE # 3519-066",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 1404.80  USD",
+      "TAX": "TAX:VAT (3.39%):  47.62 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1438.09 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance119.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nRaymond Green\n9164 Julie Harbor\nTateville, IN 05033 US\nTel:+(560)638-6560\nEmail:clarkchristine@example.com\nSite:http://www.dominguez.com/",
+      "DATE": "Invoice Date: 12-Feb-2017",
+      "DUE_DATE": "Due Date : 25-Dec-2020",
+      "NUMBER": "INVOICE ID INV80270927",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 1057.73  $",
+      "TAX": "TAX:VAT (6.85%):  72.49 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1099.55 $"
+    }
+  },
+  {
+    "image": "Template46_Instance159.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDavid Johnson\n8984 Kristen Manors Apt. 652\nHicksview, MI 23904 US\nTel:+(326)874-2463\nEmail:pattymoreno@example.net\nSite:https://www.bennett.com/",
+      "DATE": "Date: 15-Apr-2020",
+      "DUE_DATE": "Due Date : 14-Jan-1997",
+      "NUMBER": "Invoice number INV/59-71/941",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 375.00  EUR",
+      "TAX": "TAX:VAT (3.13%):  11.74 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 373.02 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance94.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nWilliam Aguilar\n3389 Woodard Hill\nFosterchester, FL 29916 US\nTel:+(396)183-4016\nEmail:qcampos@example.org\nSite:http://www.washington.com/",
+      "DATE": "Invoice Date: 07-Jul-1997",
+      "DUE_DATE": "Due Date : 13-Feb-2002",
+      "NUMBER": "Invoice number INV/06-73/602",
+      "NOTE": "Thank you for your business!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 656.82  EUR",
+      "TAX": "TAX:VAT (6.35%):  41.73 EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 681.80 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance81.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMary White\n40516 Stout Meadow\nLake Matthew, AL 98034 US\nTel:+(198)314-4690\nEmail:anthony82@example.net\nSite:https://adams.net/",
+      "DATE": "Invoice Date: 13-Nov-2014",
+      "DUE_DATE": "Due Date : 08-Jul-1999",
+      "NUMBER": "INVOICE ID INV/55-61/851",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 1173.85  USD",
+      "TAX": "TAX:VAT (4.75%):  55.71 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1181.78 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance161.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nSara Waller\n646 Nathan Estates\nSouth Brianhaven, VI 64300 US\nTel:+(645)843-0942\nEmail:angelamccann@example.com\nSite:https://ayala.com/",
+      "DATE": "Invoice Date: 15-Aug-2007",
+      "DUE_DATE": "Due Date : 06-Aug-2014",
+      "NUMBER": "Invoice number INV65378775",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 696.26  EUR",
+      "TAX": "TAX:VAT (4.75%):  33.05 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 704.18 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance137.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nKirk Moore\n451 Lynch Creek Suite 476\nWest Peterfurt, IN 41485 US\nTel:+(031)405-3520\nEmail:robertthomas@example.com\nSite:http://porter.net/",
+      "DATE": "Invoice Date: 12-Apr-2015",
+      "DUE_DATE": "Due Date : 19-Sep-2002",
+      "NUMBER": "INVOICE ID INV87002423",
+      "NOTE": "Thank you for choosing us!",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 742.97  $",
+      "TAX": "TAX:VAT (5.59%):  41.53 $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 764.51 $"
+    }
+  },
+  {
+    "image": "Template46_Instance179.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nAllen Pittman MD\n485 West Greens Apt. 530\nCarlport, GA 85380 US\nTel:+(087)189-8356\nEmail:larsonalexander@example.com\nSite:https://www.blair.com/",
+      "DATE": "Date: 01-Mar-2016",
+      "DUE_DATE": "Due Date : 15-Jan-2002",
+      "NUMBER": "Invoice number 4846-910",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 323.71  USD",
+      "TAX": "TAX:VAT (5.06%):  16.38 USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 328.66 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance47.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nEmily Willis\n47778 Thompson Parks\nThomasview, MI 61666 US\nTel:+(289)456-5540\nEmail:torressusan@example.com\nSite:https://mcdonald-wilson.biz/",
+      "DATE": "Invoice Date: 19-Dec-1995",
+      "DUE_DATE": "Due Date : 20-Apr-2017",
+      "NUMBER": "INVOICE ID 8980-436",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 487.60  USD",
+      "TAX": "TAX:VAT (5.05%):  24.62 USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 500.81 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance194.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nDonna Martinez\n171 Donaldson Cape Suite 728\nLake Jacqueline, VA 15016 US\nTel:+(329)232-2611\nEmail:kholmes@example.net\nSite:http://www.fernandez.com/",
+      "DATE": "Date: 02-Sep-2019",
+      "DUE_DATE": "Due Date : 12-Jan-2004",
+      "NUMBER": "Invoice number 8Y1M3d-346",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 680.36  EUR",
+      "TAX": "TAX:VAT (3.50%):  23.80 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 674.97 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance54.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nTony Medina\n296 Mckenzie Fort\nEast Christophershire, NE 70344 US\nTel:+(452)044-0781\nEmail:yallen@example.com\nSite:https://www.chambers.com/",
+      "DATE": "Invoice Date: 01-Jun-2019",
+      "DUE_DATE": "Due Date : 16-May-2009",
+      "NUMBER": "Invoice number INV/71-92/954",
+      "NOTE": "Note: All payments to be made in cash.\nContact us for queries on these quotations.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 937.75  EUR",
+      "TAX": "TAX:VAT (4.99%):  46.79 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 940.65 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance86.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nBrittany Weiss\n997 Warner Springs\nBrownville, GU 12839 US\nTel:+(435)439-8289\nEmail:ysmith@example.com\nSite:http://www.parks.info/",
+      "DATE": "Invoice Date: 18-May-1994",
+      "DUE_DATE": "Due Date : 27-Nov-1997",
+      "NUMBER": "INVOICE # INV/33-79/088",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 709.29  $",
+      "TAX": "TAX:VAT (5.31%):  37.64 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 732.32 $"
+    }
+  },
+  {
+    "image": "Template46_Instance114.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nHeather Golden\n060 White Place Apt. 130\nLeefurt, ND 77278 US\nTel:+(500)130-7478\nEmail:katelynflynn@example.org\nSite:https://salazar.com/",
+      "DATE": "Date: 11-Jul-1994",
+      "DUE_DATE": "Due Date : 30-Jul-2003",
+      "NUMBER": "INVOICE # 9962-955",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 854.49  USD",
+      "TAX": "TAX:VAT (3.48%):  29.73 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 844.91 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance116.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nMonica Chase\n2167 Logan Courts\nSouth Deborahmouth, SC 23524 US\nTel:+(907)118-5614\nEmail:tsmith@example.net\nSite:https://hampton.biz/",
+      "DATE": "Invoice Date: 25-Feb-2022",
+      "DUE_DATE": "Due Date : 21-Jan-2009",
+      "NUMBER": "Invoice number 2Y5M3d-360",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 573.89  USD",
+      "TAX": "TAX:VAT (4.02%):  23.05 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 580.81 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance175.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJodi Howard\n87319 Mccarthy Neck\nPort Darlenestad, WV 44981 US\nTel:+(563)125-1753\nEmail:clarkdamon@example.com\nSite:http://www.moran-simpson.com/",
+      "DATE": "Date: 18-Nov-2009",
+      "DUE_DATE": "Due Date : 17-Sep-2006",
+      "NUMBER": "Invoice number 8558-618",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 666.64  EUR",
+      "TAX": "TAX:VAT (3.85%):  25.68 EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 678.92 EUR"
+    }
+  },
+  {
+    "image": "Template46_Instance48.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nJeffrey Curtis\n269 Margaret Walks\nCaldwellfort, TX 58206 US\nTel:+(086)263-8361\nEmail:clarksteven@example.org\nSite:http://gonzalez.info/",
+      "DATE": "Invoice Date: 26-Feb-2018",
+      "DUE_DATE": "Due Date : 11-Feb-1995",
+      "NUMBER": "INVOICE # INV29859192",
+      "NOTE": "Note:\nThis order is shipped through blue dart courier",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 983.19  USD",
+      "TAX": "TAX:VAT (3.69%):  36.26 USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 992.22 USD"
+    }
+  },
+  {
+    "image": "Template46_Instance131.jpg",
+    "ground_truth": {
+      "BILL_TO": "BILL_TO:\nScott Rodriguez\n208 Laura Trail\nLake Howard, NM 34210 US\nTel:+(103)253-2471\nEmail:juarezsuzanne@example.com\nSite:http://www.hudson-douglas.net/",
+      "DATE": "Date: 21-Apr-2004",
+      "DUE_DATE": "Due Date : 17-Jan-2010",
+      "NUMBER": "INVOICE # INV/37-70/678",
+      "NOTE": "Note:Total payment due in 14 days.",
+      "PAYMENT_DETAILS": "Bank Name            State Bank of India\nBranch Name          Raf CAMP\nBank Account Number  20000004512\nBank Swift Code      SBININBB250",
+      "SELLER_ADDRESS": "Address:98324 Espinoza View\nNorth Olivia, NY 66612 US",
+      "SELLER_NAME": "Morton-Leach",
+      "SUB_TOTAL": "SUB_TOTAL : 914.31  $",
+      "TAX": "TAX:VAT (4.07%):  37.21 $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 918.60 $"
+    }
+  }
+]

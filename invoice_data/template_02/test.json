@@ -1,0 +1,602 @@
+[
+  {
+    "image": "Template2_Instance25.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Jennifer Hart\n348 Chapman Knolls\nSamanthahaven, IA 50221 US\nTel:+(298)908-8792\nEmail:znguyen@example.org\nSite:https://www.lee.com/",
+      "DATE": "Date: 17-Feb-2010",
+      "NUMBER": "INVOICE # 6292-098",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 214.18  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 216.88 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 14.99"
+    }
+  },
+  {
+    "image": "Template2_Instance72.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Karen Thompson\n637 Chris Field\nLucasview, PR 28623 US\nTel:+(616)595-4800\nEmail:chenerica@example.org\nSite:http://www.lamb-wallace.info/",
+      "DATE": "Invoice Date: 13-Oct-2019",
+      "NUMBER": "INVOICE # INV37491974",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 239.90  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 244.25 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 16.79"
+    }
+  },
+  {
+    "image": "Template2_Instance154.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Nicholas Cisneros\n46260 Mendez Loaf\nCheyenneberg, TX 93596 US\nTel:+(908)929-1069\nEmail:ryandavies@example.com\nSite:https://hicks.biz/",
+      "DATE": "Invoice Date: 24-Feb-2021",
+      "NUMBER": "INVOICE ID 3596-042",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 985.80  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1009.21 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 69.01"
+    }
+  },
+  {
+    "image": "Template2_Instance49.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Tiffany Bowen\n68480 Charles Ports\nNew Jessica, MI 35729 US\nTel:+(109)101-4556\nEmail:jocelyn85@example.net\nSite:http://porter.com/",
+      "DATE": "Invoice Date: 14-Jan-2012",
+      "NUMBER": "Invoice number 1Y3M1d-837",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 749.86  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 770.39 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 52.49"
+    }
+  },
+  {
+    "image": "Template2_Instance34.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Timothy Moyer\n628 Brandy Bypass\nEast Georgeshire, SC 17615 US\nTel:+(767)636-2605\nEmail:kevin52@example.net\nSite:http://brown.com/",
+      "DATE": "Date: 30-Jul-1994",
+      "NUMBER": "INVOICE # INV/92-08/174",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 624.20  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 648.55 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 43.69"
+    }
+  },
+  {
+    "image": "Template2_Instance105.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diana Frey\n819 Paul Prairie\nJonesborough, MP 38972 US\nTel:+(769)153-1879\nEmail:brownmaria@example.org\nSite:http://parks.com/",
+      "DATE": "Date: 25-Jun-1995",
+      "NUMBER": "Invoice number 7Y5M7d-024",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1560.93  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1604.79 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 109.27"
+    }
+  },
+  {
+    "image": "Template2_Instance93.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jennifer Barry\n7143 Finley Grove Apt. 849\nWest Claire, MI 83096 US\nTel:+(150)564-9215\nEmail:paul22@example.net\nSite:https://hayes.com/",
+      "DATE": "Date: 02-Jul-1998",
+      "NUMBER": "INVOICE ID INV/75-20/309",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1364.32  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1372.28 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 95.50"
+    }
+  },
+  {
+    "image": "Template2_Instance74.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Karen Manning\n679 Brown Haven Suite 854\nJacksonside, WI 62137 US\nTel:+(544)736-3380\nEmail:murraychelsea@example.net\nSite:http://www.williams.com/",
+      "DATE": "Date: 17-Jun-2014",
+      "NUMBER": "INVOICE # 7Y9M4d-818",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 881.76  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 931.61 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 61.72"
+    }
+  },
+  {
+    "image": "Template2_Instance96.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Charles Howell\n8579 Powell Point Apt. 093\nDonaldsontown, CA 79139 US\nTel:+(521)095-1532\nEmail:casey90@example.net\nSite:https://www.hatfield.com/",
+      "DATE": "Invoice Date: 28-Sep-1999",
+      "NUMBER": "INVOICE # 7242-672",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1701.21  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 1732.31 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 119.08"
+    }
+  },
+  {
+    "image": "Template2_Instance118.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Douglas Anderson\n7606 John Mills\nNew Gregory, DE 60383 US\nTel:+(640)284-4456\nEmail:jonathanreyes@example.org\nSite:http://coleman.com/",
+      "DATE": "Date: 26-Dec-2022",
+      "NUMBER": "Invoice number INV/73-01/424",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1258.69  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 1266.64 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 88.11"
+    }
+  },
+  {
+    "image": "Template2_Instance1.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Anthony Brown\n184 Christopher Ridge\nMitchellchester, MN 32776 US\nTel:+(298)995-0812\nEmail:ericmontgomery@example.org\nSite:http://www.pierce.biz/",
+      "DATE": "Date: 27-Mar-2008",
+      "NUMBER": "Invoice number 2Y9M4d-800",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 729.65  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 739.31 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 51.08"
+    }
+  },
+  {
+    "image": "Template2_Instance22.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Ryan Williams\n7546 Eugene Cliff Suite 821\nPort Alfred, WI 17186 US\nTel:+(504)678-4970\nEmail:seanmiller@example.net\nSite:https://www.smith.com/",
+      "DATE": "Date: 06-Nov-2011",
+      "NUMBER": "INVOICE # 3Y1M7d-944",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 624.45  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 638.03 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 43.71"
+    }
+  },
+  {
+    "image": "Template2_Instance52.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Tyler Palmer\n397 Wolfe Meadow Apt. 464\nSmithville, SC 90910 US\nTel:+(625)486-4965\nEmail:hobrien@example.com\nSite:http://www.hernandez.com/",
+      "DATE": "Date: 02-May-2018",
+      "NUMBER": "INVOICE ID 8868-605",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 503.38  EUR",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 521.54 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 35.24"
+    }
+  },
+  {
+    "image": "Template2_Instance197.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Sandra Rios\n71907 Thompson Spurs Apt. 682\nEllenmouth, VT 96283 US\nTel:+(318)632-6532\nEmail:davidgarcia@example.net\nSite:http://love-martinez.com/",
+      "DATE": "Invoice Date: 13-Feb-2016",
+      "NUMBER": "INVOICE # INV/18-06/005",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 849.54  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 899.48 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 59.47"
+    }
+  },
+  {
+    "image": "Template2_Instance122.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jason Brown\n160 Christine Plains\nSouth Pamela, WA 59544 US\nTel:+(189)721-1007\nEmail:jcopeland@example.com\nSite:https://fischer.com/",
+      "DATE": "Invoice Date: 25-Feb-2012",
+      "NUMBER": "INVOICE ID 1038-269",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 542.04  EUR",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 548.50 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 37.94"
+    }
+  },
+  {
+    "image": "Template2_Instance158.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Diane Myers\n582 Christopher Mews\nReyesfort, SD 35089 US\nTel:+(780)914-0369\nEmail:udavis@example.com\nSite:http://grant-barnes.com/",
+      "DATE": "Date: 09-Feb-2015",
+      "NUMBER": "INVOICE ID 3Y7M2d-885",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 595.40  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 603.95 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 41.68"
+    }
+  },
+  {
+    "image": "Template2_Instance109.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Shaun Marshall\n835 Arthur Common Apt. 382\nNew Sabrinafort, PA 82120 US\nTel:+(197)671-9955\nEmail:stonerichard@example.com\nSite:https://www.banks-velez.com/",
+      "DATE": "Date: 25-Dec-2018",
+      "NUMBER": "Invoice number INV16849390",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1162.55  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1204.13 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 81.38"
+    }
+  },
+  {
+    "image": "Template2_Instance87.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Lisa Nelson\n17713 Jose Common Suite 677\nBrendaville, ID 67017 US\nTel:+(173)523-1856\nEmail:jasmineconner@example.com\nSite:https://martinez-rogers.com/",
+      "DATE": "Date: 22-Mar-1994",
+      "NUMBER": "INVOICE # 8229-008",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 238.91  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 241.96 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 16.72"
+    }
+  },
+  {
+    "image": "Template2_Instance30.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Olivia Odom\n4656 Brown Point Apt. 181\nKington, PR 82003 US\nTel:+(626)513-8785\nEmail:rossaustin@example.org\nSite:https://patterson-poole.com/",
+      "DATE": "Date: 14-Aug-1996",
+      "NUMBER": "Invoice number 5Y2M7d-616",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 371.36  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 379.16 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 26.00"
+    }
+  },
+  {
+    "image": "Template2_Instance21.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Alexander Chavez\n66061 Willie Corner Apt. 771\nElizabethland, MO 22156 US\nTel:+(530)232-7935\nEmail:mdavis@example.net\nSite:http://www.rodriguez.com/",
+      "DATE": "Invoice Date: 01-May-2002",
+      "NUMBER": "INVOICE ID INV41883780",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 84.72  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 83.61 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 5.93"
+    }
+  },
+  {
+    "image": "Template2_Instance184.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Kevin Roberts\n030 Danielle Run Suite 539\nRobinsonstad, FM 15379 US\nTel:+(424)253-1050\nEmail:sandracollins@example.net\nSite:http://www.stevenson-kennedy.net/",
+      "DATE": "Invoice Date: 03-Mar-2014",
+      "NUMBER": "INVOICE # 7374-816",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 385.49  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 396.07 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 26.98"
+    }
+  },
+  {
+    "image": "Template2_Instance57.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Misty Rogers\n31260 Martinez Drives Suite 644\nPort Timothyton, WY 96691 US\nTel:+(154)301-3959\nEmail:richardsjeffrey@example.org\nSite:http://hill-daugherty.info/",
+      "DATE": "Invoice Date: 11-Apr-2015",
+      "NUMBER": "INVOICE # 0869-542",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 316.78  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 330.45 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 22.17"
+    }
+  },
+  {
+    "image": "Template2_Instance77.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Dylan Skinner\n2534 Jacobs Mountains\nLake Michael, DE 41383 US\nTel:+(675)945-9628\nEmail:yolandasteele@example.com\nSite:http://king.org/",
+      "DATE": "Invoice Date: 26-Feb-2005",
+      "NUMBER": "INVOICE # INV/12-51/592",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 691.77  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 722.52 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 48.42"
+    }
+  },
+  {
+    "image": "Template2_Instance150.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Christopher Tucker\n1584 Ashley Drive\nMitchellbury, ND 30442 US\nTel:+(055)801-2432\nEmail:greg36@example.com\nSite:https://rogers.org/",
+      "DATE": "Date: 14-Aug-2022",
+      "NUMBER": "INVOICE ID 3Y7M8d-222",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 853.18  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 863.56 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 59.72"
+    }
+  },
+  {
+    "image": "Template2_Instance155.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mrs. Hannah Pugh\n92012 Jason Springs Apt. 284\nSamuelshire, GU 67388 US\nTel:+(096)302-0826\nEmail:xray@example.net\nSite:https://www.ellis-reese.biz/",
+      "DATE": "Date: 21-Mar-2000",
+      "NUMBER": "INVOICE # 3561-069",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 814.08  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 847.21 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 56.99"
+    }
+  },
+  {
+    "image": "Template2_Instance134.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Jeff Jones\n8065 Linda Roads Suite 747\nWest Ryanview, AZ 32683 US\nTel:+(008)405-6318\nEmail:nfloyd@example.net\nSite:https://snyder.com/",
+      "DATE": "Invoice Date: 24-Jul-1997",
+      "NUMBER": "Invoice number 3545-805",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 732.68  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 766.13 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 51.29"
+    }
+  },
+  {
+    "image": "Template2_Instance138.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Michael Carroll\n80316 Rojas Island Apt. 883\nMillermouth, DC 25415 US\nTel:+(734)039-9926\nEmail:nmorris@example.org\nSite:https://www.campbell.info/",
+      "DATE": "Date: 01-May-1993",
+      "NUMBER": "INVOICE # INV/70-63/831",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 260.94  $",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 266.96 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 18.27"
+    }
+  },
+  {
+    "image": "Template2_Instance69.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Emily Johnson\n8486 Mercer Neck\nMartinhaven, TN 42560 US\nTel:+(188)985-9868\nEmail:jennifer97@example.com\nSite:https://ballard.com/",
+      "DATE": "Invoice Date: 07-May-1993",
+      "NUMBER": "INVOICE ID INV07032376",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 370.56  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 373.59 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 25.94"
+    }
+  },
+  {
+    "image": "Template2_Instance133.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Cameron Ward\n8524 Williams Parkways\nNorth Shellyside, WY 36538 US\nTel:+(162)566-7661\nEmail:stephaniehorton@example.org\nSite:http://cole.com/",
+      "DATE": "Invoice Date: 13-Jan-2002",
+      "NUMBER": "INVOICE # 3Y2M2d-834",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 651.95  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 663.64 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 45.64"
+    }
+  },
+  {
+    "image": "Template2_Instance39.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Joseph Nelson\n8016 Chung Corner\nRowlandmouth, MT 40103 US\nTel:+(201)680-5955\nEmail:roberto70@example.com\nSite:https://www.hamilton.info/",
+      "DATE": "Invoice Date: 13-May-2007",
+      "NUMBER": "Invoice number INV/21-84/928",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 820.28  USD",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 822.61 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 57.42"
+    }
+  },
+  {
+    "image": "Template2_Instance193.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Laura Pham\n507 Chandler Ports Apt. 006\nPort Terri, WA 20486 US\nTel:+(947)492-3005\nEmail:charris@example.com\nSite:http://www.james.com/",
+      "DATE": "Invoice Date: 01-Dec-2007",
+      "NUMBER": "INVOICE ID 4253-390",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 1361.86  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 1375.16 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 95.33"
+    }
+  },
+  {
+    "image": "Template2_Instance113.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Scott Griffin\n87847 Ponce Street\nPort Andreafort, VT 19910 US\nTel:+(079)419-2613\nEmail:michaelbryant@example.com\nSite:https://www.wilson.com/",
+      "DATE": "Invoice Date: 25-Jul-2007",
+      "NUMBER": "INVOICE ID 4Y2M5d-430",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 792.38  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 810.41 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 55.47"
+    }
+  },
+  {
+    "image": "Template2_Instance20.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Hannah Horn\n8820 Odom Course Suite 604\nJustinhaven, CA 10797 US\nTel:+(838)127-0972\nEmail:jessica01@example.com\nSite:http://taylor.com/",
+      "DATE": "Date: 30-Dec-1999",
+      "NUMBER": "INVOICE ID INV/20-11/338",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 658.75  $",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 666.12 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 46.11"
+    }
+  },
+  {
+    "image": "Template2_Instance187.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Danielle Carson\n1037 Robin Underpass\nEast Cheryl, NH 94074 US\nTel:+(839)193-8018\nEmail:rodney88@example.org\nSite:https://www.schultz-frye.com/",
+      "DATE": "Date: 09-Sep-2010",
+      "NUMBER": "INVOICE # INV07888228",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 388.20  USD",
+      "TITLE": "COMMERCIAL INVOICE",
+      "TOTAL": "TOTAL : 395.84 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 27.17"
+    }
+  },
+  {
+    "image": "Template2_Instance126.jpg",
+    "ground_truth": {
+      "BUYER": "Buyer :Wayne Crawford\n278 Erika Roads\nSouth Diana, AL 07041 US\nTel:+(917)281-6893\nEmail:jeff30@example.net\nSite:https://ray.com/",
+      "DATE": "Date: 22-Sep-2011",
+      "NUMBER": "INVOICE ID INV/82-93/559",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 672.70  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 689.27 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 47.09"
+    }
+  },
+  {
+    "image": "Template2_Instance70.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Yesenia Brown\n18748 Doyle Glens\nKimfurt, TN 90373 US\nTel:+(569)316-9288\nEmail:taramitchell@example.com\nSite:https://www.elliott-wilson.com/",
+      "DATE": "Date: 18-May-2001",
+      "NUMBER": "INVOICE ID INV/44-29/041",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 583.57  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 591.52 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 40.85"
+    }
+  },
+  {
+    "image": "Template2_Instance164.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Mark Day\n6060 Juan Port\nAshleyland, HI 34751 US\nTel:+(312)546-3369\nEmail:maxwelldavid@example.org\nSite:https://www.moore.net/",
+      "DATE": "Date: 05-Jan-2000",
+      "NUMBER": "INVOICE ID INV79999859",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 432.52  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 442.15 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 30.28"
+    }
+  },
+  {
+    "image": "Template2_Instance123.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:William Wheeler\n09511 Justin View Apt. 797\nLeonardfort, CO 81659 US\nTel:+(516)206-3796\nEmail:ladkins@example.com\nSite:https://www.mueller.com/",
+      "DATE": "Invoice Date: 12-Dec-2018",
+      "NUMBER": "Invoice number INV/65-59/648",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 493.46  $",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 509.13 $",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 34.54"
+    }
+  },
+  {
+    "image": "Template2_Instance117.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Brian Sullivan\n201 Luna Lodge\nGailside, MP 26309 US\nTel:+(579)583-0781\nEmail:christianjordan@example.com\nSite:http://www.thompson.com/",
+      "DATE": "Invoice Date: 23-May-2012",
+      "NUMBER": "INVOICE # 3406-660",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 910.79  EUR",
+      "TITLE": "INVOICE",
+      "TOTAL": "TOTAL : 921.29 EUR",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 63.76"
+    }
+  },
+  {
+    "image": "Template2_Instance15.jpg",
+    "ground_truth": {
+      "BUYER": "Bill to:Robert Wood\n8431 Huerta Loop Suite 914\nFritzborough, WY 15156 US\nTel:+(310)903-5304\nEmail:taylordrake@example.org\nSite:https://berry.com/",
+      "DATE": "Invoice Date: 18-Nov-2008",
+      "NUMBER": "INVOICE ID INV10894599",
+      "SELLER_ADDRESS": "Address:13868 Michael Wall\nNorth Cindytown, CT 45483 US",
+      "SELLER_NAME": "Barnes, Garcia and Martin",
+      "SUB_TOTAL": "SUB_TOTAL : 499.77  USD",
+      "TITLE": "TAX INVOICE",
+      "TOTAL": "TOTAL : 510.58 USD",
+      "GSTIN": "GSTIN: 33123456789102Z1",
+      "GST(7%)": "GST(7%) : 34.98"
+    }
+  }
+]
