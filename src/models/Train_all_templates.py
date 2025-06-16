@@ -1,96 +1,137 @@
 import os
 import json
 from pathlib import Path
-from transformers import DonutProcessor, VisionEncoderDecoderModel
-from torch.utils.data import DataLoader
-from tqdm import tqdm
-from datasets import Dataset
+from PIL import Image
+from functools import partial
+
 import torch
-torch.cuda.empty_cache()
+from torch.utils.data import DataLoader
+from transformers import DonutProcessor, VisionEncoderDecoderModel
 from pytorch_lightning import Trainer
 from pytorch_lightning.callbacks import ModelCheckpoint
-from train_donut import DonutPLModule  # make sure this is importable
-from evaluate_donut import evaluate_donut  # reuse BLEU/ROUGE script
 
+from train_donut import DonutPLModule
+from evaluate_donut import evaluate_donut
+
+# === CONFIG ===
 DATA_ROOT = Path("invoice_data")
 IMAGE_DIR = Path("data/raw/images")
 PRETRAINED_CKPT = "naver-clova-ix/donut-base"
 MAX_EPOCHS = 5
+BATCH_SIZE = 2
+NUM_WORKERS = 4
 
-for tid in range(1, 51):
-    template_id = f"template_{tid:02d}"
-    train_json_path = DATA_ROOT / template_id / "train.json"
-    test_json_path = DATA_ROOT / template_id / "test.json"
-    ckpt_dir = Path("checkpoints") / template_id
-    ckpt_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"\n📦 Training on {template_id}...")
+def collate_fn(batch, processor):
+    pixel_values, labels = [], []
+    for sample in batch:
+        image = processor.image_processor(
+            Image.open(sample["image_path"]).convert("RGB"),
+            return_tensors="pt"
+        ).pixel_values.squeeze(0)
 
-    # === Load Processor & Model ===
-    processor = DonutProcessor.from_pretrained(PRETRAINED_CKPT)
-    model = VisionEncoderDecoderModel.from_pretrained(PRETRAINED_CKPT)
-    pl_model = DonutPLModule(processor, model)
-    
-    # === Prepare Datasets ===
-    def load_dataset(json_path):
-        with open(json_path) as f:
-            samples = json.load(f)
+        text = json.dumps(sample["ground_truth"], ensure_ascii=False)
+        input_ids = processor.tokenizer(
+            text,
+            return_tensors="pt",
+            padding="max_length",
+            truncation=True,
+            max_length=512  # 👈 Set a max_length here
+        ).input_ids.squeeze(0)
 
-        for s in samples:
-            s["image_path"] = str(IMAGE_DIR / s["image"])
+        pixel_values.append(image)
+        labels.append(input_ids)
 
-        return Dataset.from_list(samples)
+    return {
+        "pixel_values": torch.stack(pixel_values),
+        "labels": torch.stack(labels),
+    }
 
-    train_dataset = load_dataset(train_json_path)
-    val_dataset = load_dataset(test_json_path)
 
-    def collate_fn(batch):
-        pixel_values, labels = [], []
-        for sample in batch:
-            image = processor.image_processor(image.open(sample["image_path"]).convert("RGB"), return_tensors="pt").pixel_values.squeeze(0)
-            text = processor.tokenizer.tokenize(json.dumps(sample["ground_truth"], ensure_ascii=False))
-            labels.append(processor.tokenizer(text, return_tensors="pt", padding="max_length", truncation=True).input_ids.squeeze(0))
-            pixel_values.append(image)
+def main():
+    for tid in range(1, 51):
+        template_id = f"template_{tid:02d}"
+        train_json_path = DATA_ROOT / template_id / "train.json"
+        test_json_path = DATA_ROOT / template_id / "test.json"
+        ckpt_dir = Path("checkpoints") / template_id
+        ckpt_dir.mkdir(parents=True, exist_ok=True)
 
-        return {
-            "pixel_values": torch.stack(pixel_values),
-            "labels": torch.stack(labels),
-        }
+        if not train_json_path.exists() or not test_json_path.exists():
+            print(f"⚠️ Skipping {template_id} due to missing train/test files")
+            continue
 
-    train_loader = DataLoader(train_dataset, batch_size=1, shuffle=True, collate_fn=collate_fn)
-    val_loader = DataLoader(val_dataset, batch_size=1, collate_fn=collate_fn)
+        print(f"\n📦 Training on {template_id}...")
 
-    
+        # === Load Processor & Model ===
+        processor = DonutProcessor.from_pretrained(PRETRAINED_CKPT)
+        model = VisionEncoderDecoderModel.from_pretrained(PRETRAINED_CKPT)
 
-    # === Setup Trainer ===
-    checkpoint_callback = ModelCheckpoint(
-        dirpath=ckpt_dir,
-        filename="best",
-        save_top_k=1,
-        monitor="val_loss",
-        mode="min"
-    )
+        # ✅ Set config values (critical!)
+        model.config.decoder_start_token_id = processor.tokenizer.cls_token_id
+        model.config.pad_token_id = processor.tokenizer.pad_token_id
 
-    trainer = Trainer(
-        max_epochs=MAX_EPOCHS,
-        precision="16-mixed",
-        default_root_dir=ckpt_dir,
-        callbacks=[checkpoint_callback],
-        accelerator="gpu",
-        devices=1
-    )
+        pl_model = DonutPLModule(model)
 
-    trainer.fit(pl_model, train_loader, val_loader)
+        # === Load Datasets ===
+        def load_dataset(json_path):
+            with open(json_path) as f:
+                samples = json.load(f)
+            for s in samples:
+                s["image_path"] = str(IMAGE_DIR / s["image"])
+            return samples
 
-    # === Evaluate
-    ckpt_path = str(ckpt_dir / "best.ckpt")
-    print(f"🧪 Evaluating {template_id}...")
-    results = evaluate_donut(
-        ckpt_path=ckpt_path,
-        processor=processor,
-        test_json=str(test_json_path),
-        image_dir=str(IMAGE_DIR),
-        output_path=str(ckpt_dir / "eval_metrics.json")
-    )
+        train_samples = load_dataset(train_json_path)
+        val_samples = load_dataset(test_json_path)
 
-    print(f"✅ {template_id} - Exact Match: {results['exact_match']:.2%}, BLEU: {results['bleu']:.4f}")
+        train_loader = DataLoader(
+            train_samples,
+            batch_size=BATCH_SIZE,
+            shuffle=True,
+            collate_fn=partial(collate_fn, processor=processor),
+            num_workers=NUM_WORKERS
+        )
+
+        val_loader = DataLoader(
+            val_samples,
+            batch_size=BATCH_SIZE,
+            shuffle=False,
+            collate_fn=partial(collate_fn, processor=processor),
+            num_workers=NUM_WORKERS
+        )
+
+        # === Setup Trainer ===
+        checkpoint_callback = ModelCheckpoint(
+            dirpath=ckpt_dir,
+            filename="best",
+            save_top_k=1,
+            monitor="val_loss",
+            mode="min"
+        )
+
+        trainer = Trainer(
+            max_epochs=MAX_EPOCHS,
+            precision="16-mixed",
+            default_root_dir=ckpt_dir,
+            callbacks=[checkpoint_callback],
+            accelerator="gpu",
+            devices=1
+        )
+
+        trainer.fit(pl_model, train_loader, val_loader)
+
+        # === Evaluate ===
+        ckpt_path = str(ckpt_dir / "best.ckpt")
+        print(f"🧪 Evaluating {template_id}...")
+        results = evaluate_donut(
+            ckpt_path=ckpt_path,
+            processor=processor,
+            test_json=str(test_json_path),
+            image_dir=str(IMAGE_DIR),
+            output_path=str(ckpt_dir / "eval_metrics.json")
+        )
+
+        print(f"✅ {template_id} - Exact Match: {results['exact_match']:.2%}, BLEU: {results['bleu']:.4f}")
+
+
+if __name__ == "__main__":
+    main()
