@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 def evaluate_donut(ckpt_path, processor, test_json, image_dir, output_path):
     # Load fine-tuned model
-    model = VisionEncoderDecoderModel.from_pretrained(ckpt_path).to("cuda")
+    model = model = VisionEncoderDecoderModel.from_pretrained(Path(ckpt_path)).to("cuda")
     model.eval()
 
     # Load test samples
