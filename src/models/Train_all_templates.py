@@ -51,9 +51,10 @@ def collate_fn(batch, processor):
 
 def main():
     trained_templates = []
-
+    
     # === PHASE 1: TRAIN ALL TEMPLATES ===
-    for tid in range(1, 51):
+
+    for tid in range(1, 5):
         template_id = f"template_{tid:02d}"
         train_json_path = DATA_ROOT / template_id / "train.json"
         test_json_path = DATA_ROOT / template_id / "test.json"
@@ -71,6 +72,7 @@ def main():
         model = VisionEncoderDecoderModel.from_pretrained(PRETRAINED_CKPT)
         model.config.decoder_start_token_id = processor.tokenizer.cls_token_id
         model.config.pad_token_id = processor.tokenizer.pad_token_id
+
         pl_model = DonutPLModule(model)
 
         # Load Datasets
@@ -113,10 +115,14 @@ def main():
             default_root_dir=ckpt_dir,
             callbacks=[checkpoint_callback],
             accelerator="gpu",
-            devices=1
+            devices=1,
+            accumulate_grad_batches=2
         )
 
         trainer.fit(pl_model, train_loader, val_loader)
+
+        pl_model.model.save_pretrained(ckpt_dir / "finetuned_model")
+        processor.save_pretrained(ckpt_dir / "finetuned_model")
         trained_templates.append(template_id)
 
     # === PHASE 2: EVALUATE ALL TRAINED TEMPLATES ===

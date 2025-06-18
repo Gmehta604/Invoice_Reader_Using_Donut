@@ -9,7 +9,10 @@ from tqdm import tqdm
 
 def evaluate_donut(ckpt_path, processor, test_json, image_dir, output_path):
     # Load fine-tuned model
-    model = model = VisionEncoderDecoderModel.from_pretrained(Path(ckpt_path)).to("cuda")
+    model = VisionEncoderDecoderModel.from_pretrained("naver-clova-ix/donut-base")
+    ckpt = torch.load(ckpt_path, map_location="cuda")
+    model.load_state_dict(ckpt["state_dict"], strict=False)
+    model.to("cuda")
     model.eval()
 
     # Load test samples
@@ -54,9 +57,9 @@ def evaluate_donut(ckpt_path, processor, test_json, image_dir, output_path):
         "exact_match": exact_match_score,
         "bleu": bleu_score,
         "rouge": {
-            "rouge1": rouge_score["rouge1"].mid.fmeasure,
-            "rouge2": rouge_score["rouge2"].mid.fmeasure,
-            "rougeL": rouge_score["rougeL"].mid.fmeasure,
+            "rouge1": rouge_score["rouge1"],
+            "rouge2": rouge_score["rouge2"],
+            "rougeL": rouge_score["rougeL"],
         }
     }
 
